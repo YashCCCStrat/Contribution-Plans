@@ -1,6 +1,6 @@
 # Reference portal breakdown (Parsel DCP portal)
 
-Reference: `https://portal.parsel.online/ad5e6b57-8a76-48c4-aa73-f83bb860ecfa`
+Reference: `https://portal.parsel.online/ad5e6b57-8a76-48c4-aa73-f83bb860ecfa` (built for Bass Coast Shire Council)
 Observed: 30 Oct 2026, headless Chromium, public (no login).
 
 > **Scope of this note.** This records the portal's *functional* structure so we can
@@ -138,9 +138,43 @@ Treemap of the selected parcels' land budget by category: Developable Area –
 Residential, Developable Area – Employment (Industrial), New Services, open space,
 roads, etc.
 
+### Information and Exceptions layer
+Clicking an exception area shows a popup, e.g. *"Summerfields Estate — See
+associated Section 173."* Land covered by a s173 agreement is flagged as an
+exception rather than levied through the standard calculation.
+
+### Projects table (Summary)
+Columns: Project ID, Description, … (further columns off-screen). Grouped by
+category with counts, e.g. Community Facilities (3): `CI-01` community facility
+within village hub, `CI-02` land for community facility…, `CI-02c` construction of
+community facility…; Bridges / Culverts (11): `CU-01` Bass Highway (west), `CU-02`
+Bass Highway (east), … Land and construction components of one project have
+separate IDs (`CI-02` land / `CI-02c` construction).
+
+### Levy Estimator tool (populated)
+1. **Financial year selector** (e.g. FY 26/27) — rates are indexed per FY.
+2. **Property Details** — selected properties, *Total NDA (Demand Units)*, and a
+   property table (ID, Development Type, Total Area, NDA, …).
+3. **Development Infrastructure Levy (DIL) Liability** — grouped by property:
+   Property, Development Type / charge area (e.g. *Residential (ha) – Charge
+   Area 1*), Charge Rate ($343,391), … presumably NDA × rate = liability.
+4. **Works In Kind (WIK) Opportunity** — projects the landowner could deliver for
+   a credit (collapsed in screenshot).
+5. **Estimate Summary** — Total Liability, Total WIK Credit, **Balance**
+   (example: $4,171,021 / $0 / $4,171,021, for a different selection than the
+   2.00 ha parcel shown above — not reconcilable from screenshots).
+6. **Community Infrastructure Levy (CIL) Liability** — user enters number of
+   residential homes × fixed rate per dwelling (example: 2 × $1,460 = $2,920).
+
+So the DCP model has **two levies**: DIL charged per hectare of NDA by charge area,
+and CIL charged per dwelling.
+
+### Save and Share
+Export to PDF, Generate link, QR code (as in §3).
+
 ### Still needed
-Hover tooltip with values, Projects table columns, Estimate tool after selecting a
-financial year, PDF export sample.
+Hover tooltip with values, remaining Projects table columns, WIK section
+expanded, PDF export sample.
 
 ## 5. What this means for a Casey platform
 
