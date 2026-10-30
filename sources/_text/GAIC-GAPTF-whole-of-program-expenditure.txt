@@ -1,0 +1,386 @@
+Ref
+Project
+Growth Area
+Funding round
+Approved amount $(m)
+Actual expenditure $(m)
+Status
+GAPTF-01
+Craigieburn Railway Station - Park and Ride expansion
+Hume
+2014-15
+                  4,000,000 
+                        3,670,108 
+ Complete 
+GAPTF-02
+Craigieburn Railway Station
+Hume
+2014-15
+                     200,000 
+                           197,794 
+ Complete 
+GAPTF-03
+Wallan Railway Station
+Mitchell
+2014-15
+                     100,000 
+                             87,355 
+ Complete 
+GAPTF-04
+South Morang Railway Station
+Whittlesea
+2014-15
+                  3,000,000 
+                                     -   
+ Cancelled 
+GAPTF-05
+Mernda Rail Extension Project
+Whittlesea
+2016-17
+                  7,400,000 
+                        7,400,000 
+ Complete 
+GAPTF-06
+Cranbourne Railway Station
+Casey
+2016-17
+                  2,000,000 
+                           992,292 
+ Complete 
+GAPTF-07
+Merinda Park Railway Station
+Casey
+2016-17
+                  9,000,000 
+                        9,000,000 
+ Active 
+GAPTF-08
+Caroline Springs Station Bus Access
+Melton
+2016-17
+                  2,000,000 
+                        1,450,133 
+ Complete 
+GAPTF-09
+Toolern Railway Station - early works
+Melton
+2016-17
+                  6,800,000 
+                        6,788,358 
+ Complete 
+GAPTF-10
+Donnybrook railway station
+Whittlesea
+2016-17
+                  4,000,000 
+                        4,000,000 
+ Complete 
+GAPTF-11
+Toolern Railway Station - Station (Cobblebank)
+Melton
+2017-18
+                26,900,000 
+                      26,900,000 
+ Complete 
+GAPTF-12
+Pakenham Bus Interchange
+Cardinia
+2017-18
+                  1,000,000 
+                           120,000 
+ Complete 
+GAPTF-13
+Cranbourne East Railway Station
+Casey
+2017-18
+                  3,000,000 
+                        3,000,000 
+ Active 
+GAPTF-14
+Wollert Rail Corridor
+Whittlesea
+2017-18
+                  3,800,000 
+                        3,800,000 
+ Active 
+GAPTF-15
+Metro Bus Service Improvements  at Cranbourne - Casey
+Casey
+2018-19 Budget
+                  2,100,000 
+                        2,100,000 
+ Complete 
+GAPTF-16
+Metro Bus Service Improvements  at Narre Warren North - Casey
+Casey
+2018-19 Budget
+                  1,200,000 
+                                     -   
+ Cancelled 
+GAPTF-17
+Parking and amenity improvements - Craigieburn Station
+Hume
+2018-19 Budget
+                11,000,000 
+                      11,000,000 
+ Complete 
+GAPTF-18
+Parking and amenity improvements - Sunbury Station
+Hume
+2018-19 Budget
+                  3,000,000 
+                        3,000,000 
+ Active 
+GAPTF-19
+Parking and amenity improvements - Epping Station
+Whittlesea
+2018-19 Budget
+                  1,900,000 
+                        1,900,000 
+ Complete 
+GAPTF-20
+Metro Bus Service Improvements  at Werribee - Wyndham
+Wyndham
+2018-19 Budget
+                     800,000 
+                           800,000 
+ Complete 
+GAPTF-21
+Cranbourne station car parking and pedestrian amenity upgrade  
+Casey
+2018-19
+                  4,800,000 
+                        4,800,000 
+ Complete 
+GAPTF-22
+Parking and amenity improvements - Sunbury Station
+Hume
+2018-19
+                  7,000,000 
+                        7,000,000 
+ Active 
+GAPTF-23
+Route 889 Clyde North - Berwick bus route
+Casey
+2018-19
+                  4,300,000 
+                        4,300,000 
+ Complete 
+GAPTF-24
+Route 888 Clyde - Berwick bus route
+Casey
+2018-19
+                  3,700,000 
+                        3,700,000 
+ Complete 
+GAPTF-25
+Route 525 Donnybrook - Craigieburn bus route
+Hume
+2018-19
+                  8,920,000 
+                        8,920,000 
+ Complete 
+GAPTF-26
+Route 454 Cobblebank (Toolern) Station - Melton Station bus route
+Melton
+2018-19
+                  3,500,000 
+                        3,500,000 
+ Complete 
+GAPTF-27
+Route 444 Rockbank - Aintree bus route
+Melton
+2018-19
+                  2,700,000 
+                        2,700,000 
+ Complete 
+GAPTF-28
+Route  182 Werribee Station - Tarneit Station bus route
+Wyndham
+2018-19
+                10,200,000 
+                      10,200,000 
+ Complete 
+GAPTF-29
+Route 152 Tarneit Station - Williams Landing Station bus route
+Wyndham
+2018-19
+                  7,200,000 
+                        7,200,000 
+ Complete 
+GAPTF-30
+Cranbourne - 100 new spaces car parks
+Casey
+2019-20 Budget
+                  1,694,000 
+                        1,694,000 
+ Complete 
+GAPTF-31
+Melton Station - 100 new and upgrade car parks
+Melton
+2019-20 Budget
+                  1,976,000 
+                        1,976,000 
+ Complete 
+GAPTF-32
+Cranbourne Rail Corridor Duplication Shared User Path
+Casey
+2019-20
+                15,000,000 
+                      15,000,000 
+ Active 
+GAPTF-33
+Extension of 881 Merinda Park to Clyde North bus route
+Casey
+2019-20
+                10,455,000 
+                      10,455,000 
+ Active 
+GAPTF-34
+Extension of Craigieburn Central Shopping Centre to Craigieburn 528 bus route & Craigieburn North to Craigieburn 529 bus route
+Hume
+2019-20
+                  8,362,000 
+                        8,362,000 
+ Active 
+GAPTF-35
+452 Melton to Weir Views bus route (Demand responsive Transport Service)
+Melton
+2019-20
+                  6,572,000 
+                        6,572,000 
+ Active 
+GAPTF-36
+Bus and Cycle Access to Tarneit Station
+Wyndham
+2019-20
+                18,847,000 
+                      18,847,000 
+ Complete 
+GAPTF-37
+Donnybrook Station Car park
+Whittlesea
+2019-20
+                  7,790,000 
+                        3,845,560 
+ Complete 
+GAPTF-38
+Cobblebank Station Future Proofing
+Melton
+2019-20
+                  8,500,000 
+                      12,444,440 
+ Active 
+GAPTF-39
+Berwick Station Bus Interchange
+Casey
+2019-20
+                20,817,000 
+                      20,817,000 
+ Active 
+GAPTF-40
+WIK Supplementary Payment Wollert Rail Corridor 
+Whittlesea
+2021-22 WIK
+                  4,103,085 
+                        4,103,085 
+ Complete 
+GAPTF-41
+New/Upgraded Services - Cardinia - Routes 925
+Cardinia
+2023-24
+                22,619,000 
+                      22,619,000 
+ Active 
+GAPTF-42
+Extended Bus Services - Casey Bells Road -Route 831 and 928
+Casey
+2023-24
+                23,670,000 
+                      23,670,000 
+ Active 
+GAPTF-43
+Bus Service Extension - Route 798 extension to Clyde North via Hardys Road - Casey
+Casey
+2023-24
+                16,227,000 
+                      16,227,000 
+ Active 
+GAPTF-44
+Sunbury Station - Northern Car Park and access paths upgrade - Sunbury
+Hume
+2023-24
+                  1,867,000 
+                        1,867,000 
+ Active 
+GAPTF-45
+Roxburgh Park Station - Train Station Upgrade
+Hume
+2023-24
+                     331,347 
+                           331,347 
+ Active 
+GAPTF-46
+Bus Service Extension - Route 543 to Craigieburn Central
+Hume
+2023-24
+                13,145,597 
+                      13,145,597 
+ Active 
+GAPTF-47
+ New Bus Service - Kalkallo to Olivine via Donnybrook Station - Route 524
+Hume
+2023-24
+                16,406,739 
+                      16,406,739 
+ Active 
+GAPTF-48
+Williams Landing Station Upgrade
+Wyndham
+2023-24
+                  4,552,596 
+                        4,552,596 
+ Active 
+GAPTF-49
+New Bus Service - Harpley & Cornerstone Estates to Wyndham Vale Station - Route 194?
+Wyndham
+2023-24
+                21,473,000 
+                      21,473,000 
+ Active 
+GAPTF-50
+New/Upgraded Bus Service - Tarneit - Laverton -Route 154
+Wyndham
+2023-24
+                39,732,000 
+                      39,732,000 
+ Active 
+SRO
+State Revenue Office Admin Costs
+SRO
+Ongoing 
+                  7,306,855 
+                        7,306,855 
+ SRO 
+New
+Bus Package 1
+Hume/Wyndham/Whittlesea 
+2025-26
+18,763,941
+-
+New
+New
+Bus Package 2 
+Hume/Wyndham/Melton/Mitchell
+2025-26
+143,203,000
+-
+New
+Total
+ 
+ 
+ 
+              572,278,185 
+                    409,973,260 
+
+

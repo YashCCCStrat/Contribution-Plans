@@ -1,0 +1,587 @@
+Chapter 8: Agreements
+Understanding section 173 agreements, when to use them, and how to
+record, amend, review and enforce them.
+
+
+  On this page:
+  8.1. What is a section 173 agreement?
+  8.2 Parties to an agreement
+  8.3 When should an agreement be used?
+  8.4 Procedure for making and amending an agreement
+  8.5 Form of an agreement
+  8.6 Procedure for recording an agreement
+  8.7 Amending or ending an agreement
+  8.8 Reviews and enforcement of agreements
+  8.9 Affordable housing agreements
+  8.10 Other agreements
+
+
+8.1. What is a section 173 agreement?
+PEA s 173
+The responsible authority can negotiate an agreement with an owner of land to set out
+conditions or restrictions on the use or development of the land, or to achieve other
+planning objectives in relation to the land.
+These agreements are commonly known as ‘section 173 agreements’. The power to enter
+into the agreement arises under section 173 of the Planning and Environment Act 1987 (PE
+Act).
+Like other agreements, a section 173 agreement is a legal contract. However, the benefit of a
+section 173 agreement is that it is recorded on the title to the land so that the owner’s
+obligations under the agreement bind future owners and occupiers of the land. A further
+benefit of being recorded on the title is that it gives prospective owners notice of the
+agreement.
+PEA ss 114, 126
+A section 173 agreement is enforced in the same way as a permit condition or planning
+scheme. It is an offence to use or develop land in contravention of a section 173 agreement.
+The purpose of an agreement is to make it easier to achieve specific planning objectives for
+an area or particular parcel of land than is possible with other statutory mechanisms.
+
+8.2 Parties to an agreement
+PEA ss 3, 173
+The PE Act provides that a section 173 agreement can be entered into between a
+responsible authority and an owner of land (normally the registered proprietor) or a
+purchaser of land in anticipation of that person becoming the owner.
+Where the agreement is entered into with a prospective owner, it does not bind the existing
+owner unless the existing owner agrees. Normally, an agreement with the prospective owner
+will specify that the agreement does not commence operation until that person becomes
+the owner of the land. Once the prospective owner becomes the owner of the land, the
+obligations under the agreement will then commence and bind the owner and any future
+owners and occupiers.
+Provided the responsible authority and owner (or prospective owner) are parties to a
+section 173 agreement, other persons or bodies may be additional parties to the agreement
+and become bound by the terms of the agreement. This may include, for example:
+     a planning authority or referral authority where it is useful for that body to coordinate
+     its powers or functions in relation to the land
+     a developer or occupier with an interest in the development or use of the land.
+It is not possible for a section 173 agreement to be entered into with a developer or occupier
+of land without the owner or prospective owner also being a party. This is because the
+owner must agree to the obligations under the agreement being recorded on the title to the
+land.
+PEA s 182A
+After an agreement has been entered into, parts of the land that are subject to the
+agreement may pass into separate ownership through subdivision or by sale of separate
+lots.
+If such land is transferred to another person, the new owner becomes an additional party to
+that agreement unless the agreement includes a provision to the contrary. This means that
+obligations under an agreement are assigned to subsequent owners of separate holdings.
+8.3 When should an agreement be used?
+Before deciding to use a section 173 agreement, a responsible authority should carefully
+consider other mechanisms available to achieve its desired planning objective.
+Section 173 agreements can be complex and costly to administer and are difficult to amend
+or end, particularly after the affected land is subdivided.
+
+8.3.1 Advantages of agreements
+The advantages of a section 173 agreement include:
+     It can be recorded on the title to land and become binding upon future owners as well
+     as giving notice of the obligations under the agreement to prospective owners.
+     Unlike a planning scheme provision or permit condition, which allows something to be
+     done, a section 173 agreement can expressly require something to be done. This is
+     particularly useful where a responsible authority wants to guarantee certain outcomes
+     prior to, or as part of, the granting of a planning permit for a specific use or
+     development.
+     An agreement can set out a level of detail or site-specific information which is difficult
+     to include in a permit condition or other form of planning provision.
+     Unlike restrictive covenants, a section 173 agreement can include positive covenants
+     and thus include performance criteria or more innovative arrangements for the use or
+     development of land.
+     An agreement can create positive obligations on a responsible authority or other
+     parties and thus achieve broader planning objectives than a permit.
+     An agreement can continue to operate and impose restrictions on land even if the
+     need for a permit ceases and the need to operate under that permit no longer exists.
+
+8.3.2 When not to use an agreement
+PEA s 180
+An agreement cannot and should not be used as a basis for trying to extend an authority’s
+powers under the PE Act. A section 173 agreement cannot authorise any use or development
+contrary to the planning scheme or a permit. This means that an agreement cannot
+provide for less restrictive provisions than those in a planning scheme or permit, such as
+allowing a use or development that is otherwise prohibited. However, an agreement could
+provide for more restrictive provisions than those in the planning scheme or a permit, such
+as prohibiting or placing greater restrictions on a use or development that is otherwise
+allowed.
+An agreement is not a substitute for planning provisions and should not be used if an
+objective can be met and enforced through a permit condition. Before requiring a section
+173 agreement, the responsible authority must ensure that the issue involved really requires
+the powers and complexity of an agreement rather than a clearly worded permit condition.
+For example, an agreement should not simply provide for certain works to be done to the
+satisfaction of the responsible authority, when a similar condition could just as easily have
+been included in a permit or restrict a particular use or development that would in any
+event require an amendment to the permit.
+An agreement is a contract and should not be entered into without first obtaining legal
+advice. If an agreement is not carefully drafted, there may be difficulties in enforcing or
+amending it.
+Importantly, an agreement can only be entered into voluntarily.
+
+8.3.3 What can an agreement cover?
+PEA s 174
+The PE Act allows the section 173 agreement to provide for:
+     the prohibition, restriction or regulation of the use or development of land
+     conditions subject to which the land may be used or developed for specified purposes
+     any matter intended to achieve or advance the objectives of planning in Victoria
+     under the planning scheme or an amendment.
+This provides a wide scope for agreements. However, there should generally be a
+connection between the agreement and the specific planning outcomes sought to be
+achieved for the land over which the agreement will be recorded.
+Section 173 agreements have been used in a wide variety of matters. Some examples are:
+     coordination of development with adjoining landowners or other regulatory
+     authorities
+     to provide for staged developments
+     rehabilitation of property, repair of the environment, heritage protection or vegetation
+     protection
+     provision of community infrastructure or specific development infrastructure – such
+     as open space or facilities on the land or nearby land under a contributions plan
+     securing developer contributions under a contributions plan
+     restrictions on change of use, or abandoning existing use rights
+     limits on future development, including neighbourhood agreements to protect
+     neighbourhood character
+     planning ‘trade-offs’, such as a planning concession on one property based on a
+     commitment to do something on another property
+     the development or provision of land for affordable housing.
+8.4 Procedure for making and amending an
+agreement
+8.4.1 Negotiating an agreement
+Negotiating agreements can be involved and time-consuming, therefore the objectives
+must be clear and must relate to the planning approval process. The most successful
+agreement is one in which both parties actively consider and negotiate conditions, without
+viewing it as a technique for restricting development by the responsible authority. The focus
+of all parties should be joint problem-solving and achieving a performance-oriented
+planning outcome for the land.
+While agreements are generally negotiated, a section 173 agreement can sometimes be
+required by a planning scheme or a permit condition prior to the commencement of a
+specific use or development. To avoid any perception that the responsible authority has an
+undue negotiating ‘advantage’, an authority should be careful not to act unreasonably in
+seeking planning concessions or other covenants in the agreement beyond those necessary
+to achieve its proper planning objectives for the land.
+PEA s 188
+To avoid delays in negotiations, it is useful for the responsible authority to delegate
+negotiating powers to officers who can liaise with the relevant parties and report to the
+authority as required.
+
+8.4.2 Content of an agreement
+PEA s 174
+The PE Act details the matters an agreement can address. An agreement can be more
+positive and specific than a permit condition. In this way it can be used as an effective
+means of ensuring performance of obligations and, if there is a need, attaching the
+obligations in the agreement to the land.
+PEA s 174(1)
+An agreement must bind the owner of the land to the covenants specified in the agreement.
+This means that the primary purpose of the agreement is to set out the owner’s obligations
+so that they can be clearly enforced against the owner or future owners of the land.
+Care must be taken by a responsible authority when defining its own obligations (if any)
+under an agreement. The responsible authority has no power to enter into an agreement
+that obliges it to exercise a statutory discretion in a particular manner in the future. For
+example, if an owner is prepared to enter into an agreement that is conditional upon the
+approval of a planning scheme amendment, then the agreement should specify that it does
+not commence until the amendment is approved. If the amendment is not approved, the
+owner will not be bound by the agreement. The agreement should not attempt to bind the
+responsible authority to the future approval of the amendment or the grant of a permit, as
+this would fetter the future exercise of its statutory discretion and be beyond its power, and
+therefore be subject to legal challenge.
+PEA s 180
+An agreement must not require or allow anything to be done that would breach a planning
+scheme or a permit. An agreement can become unnecessarily complicated by including an
+array of matters between the responsible authority and the owner, or between the owner
+and other parties to the agreement, with different or unspecified end times. Any obligation
+set out in a section 173 agreement should only be put in place with the intention that it
+would run with the land as a covenant and be enforced under the PE Act.
+PEA s 175
+Bonds and guarantees may form part of an agreement, with provision for forfeiture of
+money if the owner fails to carry out the agreement to the satisfaction of the responsible
+authority. This does not apply if the responsible authority is entering into an agreement
+with a Minister. An agreement must not require a Minister to provide a bond or guarantee to
+the responsible authority.
+PEA ss 176, 177, 184
+An agreement will usually begin immediately after it is executed (by way of signature of all
+parties to it in the presence of at least one adult witness who is not a party to the
+agreement). An agreement will not usually be binding on subsequent owners until it is
+recorded on the title to the land. However, the PE Act allows a date to be specified or for the
+commencement to be tied to a specified event, including a planning scheme amendment
+coming into operation or a permit being granted. This can be useful if the obligations under
+the agreement are tied to a specific use or development. The same triggers can be used for
+the ending of an agreement. An agreement can also be ended by agreement between the
+responsible authority and all persons bound by any covenant in the agreement.
+
+8.4.3 Availability of agreement
+PEA ss 179, 197A
+The responsible authority must keep a current copy of each agreement at its office and
+make it available in accordance with the public availability requirements.
+If an agreement is recorded on the title to the land, the copy lodged for record is available
+for inspection as part of a search of the certificate of title.
+PEA s 17(2)
+If an agreement coming into effect is conditional on a planning scheme amendment being
+approved, and the agreement is executed prior to exhibition of the amendment, a copy of
+the agreement must be forwarded to all parties who receive a copy of the amendment.
+
+8.5 Form of an agreement
+An agreement must clearly and precisely set out the obligations and rights of the parties.
+Vagueness and ambiguity must be avoided.
+PEA s 174(1)
+Corporations Act 2001 s 127
+The agreement must be in writing, made under seal and signed by all parties in the
+presence of at least one adult witness who is not a party to the agreement. For the
+responsible authority or any party that is a company, the common seal of the authority or
+company will need to be affixed in accordance with its legal requirements. Where there is a
+clear written delegation, an officer of the responsible authority may be able to seal the
+agreement on the authority’s behalf.
+Ensure that sufficient original copies of the agreement are signed and sealed to satisfy the
+requirements of the Land Registry Services for recording in accordance with section 181 of
+the PE Act. Copies are also needed for each party and the responsible authority.
+The basic elements of an agreement are listed below to give some insight into the sorts of
+things that need to be considered before seeking legal assistance in drafting the document.
+This information is not necessarily exhaustive.
+
+8.5.1 Date and parties to agreement
+The heading of the agreement should contain the date of the agreement and identify the
+parties, for example, the responsible authority and the individual or company who owns the
+subject land. The name of the owner of the land should be consistent with what appears on
+the title. A title search should be undertaken to confirm the owner of the land.
+Addresses should be included for all parties. Companies should include an Australian
+Company Number (ACN). In some cases, there will be additional parties to the agreement,
+such as another government agency, a developer or an occupier. Similar information should
+be included for these parties.
+
+8.5.2 Recitals
+This section gives the background to the agreement so that the operative provisions can be
+readily understood. It should clearly identify:
+     the land to be encumbered, by reference to the certificate(s) of title on which the
+     covenants will be recorded and also by reference to a plan if appropriate (the street
+     address of the land should also be inserted)
+     the owner (or prospective owner) of the land
+     why the agreement is being entered into
+     the municipal jurisdiction and the responsible authority for the administration and
+     enforcement of the related planning scheme – for example, ‘the land is within the
+     Gumnut Planning Scheme for which the Gumnut City Council is the responsible
+     authority’ (also add zoning information if this is relevant)
+     other parties, if any, and the basis on which they are necessary parties.
+The responsible authority should conduct a title search to ensure that all the relevant land
+is referred to in the agreement; otherwise there may be problems with registration or
+enforcement. This section should also indicate whether a planning permit or an
+amendment to the planning scheme affects the land and the basis of the agreement.
+
+8.5.3 The agreement
+This section details what each party to the agreement is agreeing to do. Depending on the
+detail of the agreement it may include the following:
+     Definitions and interpretation: Important terms should be defined. This helps to
+     prevent potential legal problems. It should be clearly stated that the agreement is
+     made in accordance with section 173 of the PE Act.
+     Effect of agreement: This requires the parties to indicate their intention to be bound
+     by the agreement and should indicate that the agreement will run with the land and
+     bind future owners.
+     Requirement to record the agreement on title: It is common practice to include a term
+     requiring the owner to do all things necessary to enable the responsible authority to
+     submit the agreement to the Land Registry Services so that it can be recorded on title
+     in accordance with section 181 of the PE Act.
+     Procedural terms: The linking of the agreement to any planning permit or planning
+     scheme amendment should be set out if necessary.
+     Commencement or completion times of the agreement: These should be clearly set
+     out, including whether commencement or completion is tied to a specific event.
+     Points of agreement: The points of agreement detail what each party is undertaking
+     to do and may include a bond or guarantee by the owner. The covenants should be
+     clearly identified for example, ‘the owner of the subject land covenants that…’. The
+     covenants should be specific and provide sufficient detail of the obligations to enable
+     the covenants to be clearly understood and enforceable.
+There are legal difficulties in incorporating personal obligations in a section 173 agreement,
+intended for a specific person. However, if for some reason personal obligations are being
+included in an agreement (such as a condition that is relevant only to the initial developer
+of the land), these must be clearly separated and identified to avoid confusion with any
+covenants that will run with the land and bind future owners or other parties.
+The responsible authority should try to foresee how the agreement will operate in the future
+to ensure that the need for any amendments to the agreement are minimised. In particular,
+if land affected by an agreement is subsequently subdivided, the agreement will ordinarily
+affect all the new titles unless the agreement specifies otherwise. This may not be what was
+intended by the parties and may lead to difficulties in amending the agreement or
+releasing individual allotments. Where possible, the agreement should set out the effect of
+the agreement in relation to the original parcel of land and on any subsequently subdivided
+allotments.
+     Dispute resolution: If an agreement relies heavily on performance criteria, it may be
+     advisable to include a dispute resolution clause. The Victorian Civil and Administrative
+     Tribunal (VCAT) has only limited jurisdiction to resolve disputes where matters require
+     the consent or satisfaction of the responsible authority.
+     Service of notices: A party to an agreement may be required to advise other parties of
+     certain information (such as when certain works have been completed). In these cases,
+     the agreement should describe the manner in which this notice is to be given (for
+     example, in writing, within a specified time period and to a specified address).
+PEA s 177
+     Lapse or termination: Many agreements will also include a time clause (that is, the
+     agreement lapses after a certain period of time or if planning provisions are
+     amended). Agreements can also require subsidiary agreements at a later date and
+     can make provisions conditional upon approval from another authority (for example,
+     the Head, Transport for Victoria).
+     Cost apportionment: Many agreements list which of the parties are to be responsible
+     for any associated costs. This is a matter for negotiation between the parties,
+     although it is common for a responsible authority to require that an owner meet the
+     authority’s costs in the preparation of an agreement where the agreement is for the
+     primary benefit of the owner.
+
+8.6 Procedure for recording an agreement
+PEA ss 181, 182; PE Regs reg 59, Form 21
+The purpose of recording an agreement on title is to ensure that the obligations in the
+agreement run with the land and therefore bind all future owners of the land.
+An application to record an agreement must be made without delay. The responsible
+authority should lodge a copy of the agreement with the Land Registry Services using the
+prescribed Form 21 - Schedule 1 of the Planning and Environment Regulations 2015 (PE
+Regs). A fee is payable. Relevant fees are specified on the ‘Fees’ page of the department’s
+website.
+The Land Registry Services cannot record an agreement over Crown land or common
+property.
+PEA ss 221(4)–(5)
+Agreements entered into before 28 October 2013 are not required to be recorded on title.
+The discretion to record these earlier agreements rests with the responsible authority.
+A responsible authority must, however, apply to record an agreement entered into before
+28 October 2013, without delay, if it is amended after that date.
+PEA ss 179, 197A
+The responsible authority must keep a copy of each agreement available, indicating any
+amendment made to it, in accordance with the public availability requirements.
+
+8.6.1 Mortgagee’s consent
+The duplicate certificate of title does not need to be provided to Land Use Victoria to record
+an agreement. The record is only noted on the original title held at Land Use Victoria in the
+same way as caveats and other covenants. This may mean that the custodian of the
+duplicate title, if not the owner (such as a bank or mortgagee), may be unaware of the
+making of the agreement and/or the effect of the agreement on its security.
+When this may be an issue, the responsible authority will generally require the owner to
+either notify the mortgagee or obtain the mortgagee’s consent before the agreement is
+entered into, particularly in situations where the owner’s obligations under the agreement
+could materially affect the mortgagee’s interests. It is best to involve the mortgagee early
+on in the process, as a request for their consent too late in the process could cause
+considerable delay if the mortgagee then requires changes to the agreement.
+
+8.6.2 Cancelling or altering the record of an agreement
+PEA s 183; PE Regs reg 60, Forms 22, 23, 24
+If an agreement is cancelled or amended, the responsible authority must, using the
+prescribed form, notify Land Registry Services to cancel or amend the record of the
+agreement.
+It is particularly important to monitor agreements that have a termination date or event
+included as part of the agreement and to ensure that the Registrar is immediately notified
+of the ending of that agreement. This will avoid unnecessary complications, for example, if
+land is subsequently subdivided and a covenant inadvertently placed on each individual lot
+because the Registrar was not advised of the ending of the obsolete agreement.
+8.7 Amending or ending an agreement
+PEA s 177
+An agreement may provide that the agreement ends wholly or in part or as it applies to any
+part of the land on or after:
+     the happening of a specified event
+     a specified time
+     the ending of the use or the development of the land for a specified purpose.
+If the agreement does not specify when it ends, it can be ended by agreement between the
+responsible authority and all persons who are bound by any covenant in the agreement. An
+agreement can also be amended in the same way.
+PEA ss 178, 178A–H; PE Regs reg 55
+However, obtaining the consent of all persons bound by the agreement to amend or end the
+agreement can take considerable time and may be impossible to achieve if there is
+opposition to the proposal or a large number of parties are involved.
+Where the consent of all parties to amend or end an agreement cannot be obtained, a
+landowner (or a prospective landowner who has entered into an agreement) can apply to
+the responsible authority to have the proposal assessed.
+The proposal can be to amend or end the agreement wholly or in part, or to end it in
+relation to a defined part of the land.
+The process is similar to the process for making an application for a planning permit and
+can be broken down into the following key steps:
+  1. Responsible authority’s in-principle support
+  2. Notice of the proposal – ‘advertising’
+  3. Responsible authority’s decision
+  4. Notice of decision
+  5. The decision takes effect.
+A responsible authority may require the applicant to pay the cost of preparing the
+amended agreement.
+The responsible authority may, on its own initiative, also propose to amend or end an
+agreement.
+
+8.7.1 Step 1 – Responsible authority’s in principle support
+PEA ss 178A, 178B, PE Regs reg 55, PE (Fees) Regs reg. 16
+An application to amend or end an agreement must be made in writing to the responsible
+authority. It must include the information set out in regulation 55 of the PE Regs and it must
+be accompanied by the prescribed fee. Currently a fee is prescribed in the Planning and
+Environment (Fees) Regulations 2016.
+Section 178B of the PE Act sets out a number of matters that the responsible authority must
+consider when forming a view about a proposal. The matters required to be considered
+include the purpose of the agreement and the reasons why the responsible authority
+entered into the agreement in the first place.
+After considering the matters set out at section 178B, the responsible authority must notify
+the applicant and owner (if a different person to the applicant) as to whether it agrees ‘in
+principle’ to the proposal. If the responsible authority does not agree in principle, that is the
+end of the matter. The applicant cannot apply to VCAT for a review of the responsible
+authority’s decision.
+
+8.7.2 Step 2 – Notice of the proposal – ‘advertising’
+PEA ss 178C, 178D, 178H, 184A(2)(a); PE Regs regs 56, 62, Form 18
+If the responsible authority agrees in principle to a proposal (or proposes to end or amend
+an agreement on its own initiative) it must give notice (also known as ‘advertising’) of the
+proposal to:
+     all parties to the agreement
+     any other persons, if the responsible authority considers that the decision to amend or
+     end the agreement may cause material detriment to them.
+The notice must include the prescribed information set out Form 18 in Schedule 1 of the PE
+Regs. The responsible authority may require the applicant to pay the costs of giving the
+notices.
+Any person who is given (or ought to have been given) notice of a proposal may object to
+the proposal or make any other submission in relation to the proposal.
+If the responsible authority does not give notice of the proposal within 21 days of notifying
+the applicant that it agrees in principle to the proposal, the applicant may apply to VCAT
+for a review of the failure of the responsible authority to make a decision on the matter. This
+is discussed further in Chapter 8.8.
+
+8.7.3 Step 3 – Responsible authority’s decision
+PEA s 178E
+The responsible authority must not make a decision on a proposal until at least 14 days
+after the giving of the last notice.
+Before making a decision on the proposal, the responsible authority must consider any
+objections and submissions together with matters under section 178B that it considered in
+forming its original view on the proposal.
+The responsible authority may then decide to:
+     amend or end the agreement in accordance with the proposal
+     amend or end the agreement in a manner that is not substantially different to the
+     proposal
+     refuse to end or amend the agreement.
+If there are objections or other submissions, the responsible authority may also propose to
+amend or end the agreement in a manner that is substantially different to the proposal. If
+the responsible authority does decide to do this, it must give notice of the revised proposal
+as if it were a new proposal.
+
+8.7.4 Step 4 – Notice of decision
+PEA ss 178F, 184A; PE Regs regs 57, 58, Forms 19 and 20
+If an objection or submission is lodged, the responsible authority must give notice of its
+decision to both the applicant and each person that made an objection or a submission.
+Where no objections or submissions are lodged, notice is given to the applicant.
+A notice of a decision to amend or end an agreement must include the information set out
+in Form 19 in Schedule 1 to the PE Regs.
+A notice of a decision to refuse to amend or end an agreement must include the
+information set out in Form 20 in Schedule 1 to the PE Regs.
+Where a notice of refusal is issued, it must set out the grounds of the refusal.
+The PE Act enables the applicant, a party to the agreement, an objector and any affected
+person to apply to VCAT for a review of the responsible authority’s decision. This is
+discussed further in Chapter 8.8.
+A responsible authority must not proceed to amend or end an agreement until at least 21
+days after the giving of notice of the decision, or if an application for review to VCAT is
+made, until the application is determined by VCAT or the application is withdrawn.
+
+8.7.5 Step 5 – Implementing the decision
+PEA ss 178G, 178I, 183; PE Regs. reg. 60, Forms 22, 23 and 24
+If the responsible authority decides to amend or end an agreement, it must not proceed to
+do so:
+     until at least 21 days after the giving of any required notice of its decision
+     where an application for review is made within the 21-day period, until the matter is
+     determined by VCAT or withdrawn.
+If the responsible authority amends the agreement, then it must without delay:
+     sign the amended agreement
+     give a copy of the signed amended agreement to each other party to the agreement.
+It is not necessary for the amended agreement to be signed or otherwise agreed to by any
+other party to the agreement. A party to an agreement is bound by the agreement as
+amended, even though the party did not sign the amended agreement.
+The responsible authority must without delay notify the Land Registry Services of any
+amendment to an agreement or an ending of an agreement. This must be done in the
+manner prescribed under the PE Regs.
+An amendment or ending of an agreement comes into effect on the day on which the Land
+Registry Services:
+     cancels in whole or part the recording of the agreement in the Register under section
+     183(2)
+     makes a recording in the Register of the matters notified under section 183(1).
+
+8.8 Reviews and enforcement of agreements
+8.8.1 Application to VCAT for an amendment to a proposed
+agreement
+PEA s 184; PE Regs reg. 61
+A landowner can apply to VCAT for an amendment to a proposed agreement where a
+planning scheme or a permit makes the use or development of land for specified purposes
+conditional upon an agreement being entered into and the owner objects to any provision
+of the agreement.
+The application for review must be made within 60 days of the applicant being given a copy
+of the proposed agreement.
+VCAT may approve the proposed agreement with or without amendments.
+
+8.8.2 Reviews in relation to ending or amending of
+agreements
+PEA s 178
+If the responsible authority decides that it does not agree in principle to a proposal to
+amend or end an agreement, the matter does not proceed and the agreement remains in
+place unchanged. The applicant cannot apply to VCAT for a review of this initial decision.
+Reviews of the responsible authority’s failure to make a decision
+PEA ss 184A, 184F; PE Regs reg. 62
+If the responsible authority agrees in principle to a proposal to amend or end an
+agreement, the applicant may apply to VCAT for a review of the responsible authority’s
+failure to make a decision on the application if the responsible authority fails to:
+     give notice of the proposal within 21 days of giving notice to the applicant that it
+     agrees in principle
+     decide on the application within 60 days of giving notice to the applicant that it
+     agrees in principle.
+The responsible authority may decide to amend or end the agreement at any time after the
+application for review is made and must inform VCAT’s principal Registrar if it does make a
+decision. However, the responsible authority must not proceed to amend or end the
+agreement or give notice of the decision except in accordance with the advice of the
+Registrar.
+Reviews of the responsible authority’s decision
+The applicant may apply to VCAT for a review of a decision by the responsible authority to:
+     amend or end the agreement in a manner that is different from the proposal (if the
+     applicant received a notice of the responsible authority’s decision, the application for
+     review must be made within 21 days after the responsible authority gave the notice)
+     refuse to amend or end the agreement (the application for review must be made
+     within 60 days after the responsible authority gave notice of its decision).
+PEA ss 184B–E; PE Regs regs. 63, 64
+In addition to the applicant, the following people can apply to VCAT for a review of the
+responsible authority’s decision to amend or end an agreement:
+     a party to the agreement
+     an objector
+     any person who was entitled to object to a proposal to amend or end an agreement
+     but did not object because the person was not given notice.
+An application for review by a party to the agreement or an objector must be made within
+21 days of the responsible authority giving notice of their decision.
+An objector is entitled to notice of an applicant’s application to VCAT for review of the
+responsible authority’s decision or failure to make a decision.
+VCAT decision on reviews
+PEA s 184G
+VCAT may direct the responsible authority to amend or end the agreement, or it may
+determine that the agreement should not end or be amended. The responsible authority
+must comply with the direction without delay.
+
+8.8.3 Application to VCAT for an interpretation of an
+agreement
+PEA ss 148, 149A(1A)
+A specified person or a party to an agreement may apply to VCAT for a determination of a
+matter relating to the interpretation of a section 173 agreement.
+
+8.9 Affordable housing agreements
+PEA s 173(1A)
+Section 173(1A) enables a responsible authority to enter into an agreement with an owner of
+land for the development or provision of land in relation to affordable housing.
+An example of an affordable housing agreement has been prepared by the department to
+assist councils in entering into a voluntary affordable housing agreement under the PE Act
+and is available on the department’s website on the housing strategy page under the
+section titled, ‘Using a section 173 agreement to deliver affordable housing’.
+
+8.10 Other agreements
+There are other forms of statutory agreements that affect the use and development of land.
+Some operate in a similar way to section 173 agreements and can be recorded on a title.
+Examples of other statutory agreements include agreements:
+     for the preservation of heritage places under sections 134 and 135 of the Heritage Act
+     2017.
+     to secure the completion of works or compliance with statutory requirements under
+     section 17 of the Subdivision Act 1988. (These agreements can be less formal than a
+     section 173 agreement but, if executed under seal, can be recorded as if they were
+     section 173 agreements)
+     relating to exemptions from Building Regulations under the Building Act 1993.
+   Disclaimer
+   This publication may be of assistance to you but the State of Victoria and its
+   employees do not guarantee that the publication is without flaw of any kind or is
+   wholly appropriate for your particular purposes and therefore disclaims all liability
+   for any error, loss or other consequence which may arise from you relying on any
+   information in this publication.
+
+
+
+
+Page last updated: 25/11/25
+
+
+
+Previous
+Chapter 7: Enforcement
+
+
+Next
+Glossary
+
+
+
+   Related links
+   Planning practice notes                     Practitioner's guide to Victoria's planning
+                                               schemes
+
