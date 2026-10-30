@@ -1,0 +1,3043 @@
+                                                                    Development Contributions Guidelines
+
+
+
+Preparing a full cost apportionment DCP
+Introduction
+This section provides information and examples on how to prepare a full cost apportionment
+development contributions plan (FCA DCP).
+
+An FCA DCP is a DCP prepared using the full cost apportionment method of calculating levies.
+
+The outcome of this process is an FCA DCP that is ready to be incorporated into the planning scheme
+through a planning scheme amendment.
+
+The section describes:
+• The [key concepts for calculating infrastructure levies]
+• The [5 phases of preparing an FCA DCP]
+• [Overview of the 16 stages for preparing an FCA DCP]
+• [Links to the 16 stages of preparing an FCA DCP]
+
+
+
+Key concepts for calculating infrastructure levies
+Before you begin you will need to be familiar with some key concepts associated with the calculation
+process:
+• [the DCP area]
+• [the DCP timeframe]
+• [analysis areas]
+• [quantifying development]
+• [demand units]
+• [equivalence ratios]
+• [main catchment area]
+• [external usage and future usage]
+• [basic calculation of infrastructure levy per demand unit]
+• [simple formula for calculating infrastructure levies]
+• [charge areas]
+
+
+The DCP area
+This is the area where the DCP will apply. A DCP may cover all or part of a municipality, or multiple
+municipalities.
+
+
+The DCP timeframe
+You will need to select a timeframe for the DCP, such as 5, 10, 15 or 20 years.
+
+A DCP has a start and an end date. The start date is the day when the amendment incorporating the
+DCP into the planning scheme is gazetted. The end date will be 5, 10, 15 or 20 years after the date of
+gazettal, depending on the timeframe specified in the DCP.
+
+
+
+
+V5.9                                            March 2007                                 Page 26 of 123
+                                                                      Development Contributions Guidelines
+
+
+The DCP timeframe is required for:
+• making estimates about the amount of development likely to occur
+• calculating infrastructure levies
+• collecting levies
+• managing funds, and
+• determining the delivery of infrastructure.
+
+
+In setting the timeframe, it is important to consider the:
+• time horizon for strategic planning, infrastructure provision and funding
+• expected rate of new development, and
+• degree of certainty in projecting growth.
+
+
+Analysis areas
+To calculate infrastructure levies, the DCP Area should be divided into analysis areas.
+
+An analysis area is a small geographic unit that is used as the basis for collecting and quantifying
+information about existing and future development.
+
+The number of analysis areas will depend on the size of the DCP area, the size and types of
+infrastructure projects likely to be included and their catchments, and the availability of detailed
+information about existing and new development.
+
+                             Division of the DCP area into analysis areas
+
+
+
+
+Quantifying development
+For each analysis area, it will be necessary to quantify the amount of development that exists and the
+amount of future development expected to occur over the timeframe of the DCP. These projections
+should reflect the strategic planning directions set for the DCP area in the planning scheme.
+
+The amount of existing and future development should be quantified for all land uses that are likely to
+use the infrastructure projects included in the DCP. These might include residential, retail, office,
+industrial, institutional and other uses.
+
+In quantifying the amount of development, different units of measurement will be used depending on
+the land use (for example number of residential dwellings, square metres of retail floor space,
+hectares of industrial site area).
+
+
+
+
+V5.9                                            March 2007                                     Page 27 of 123
+                                                                     Development Contributions Guidelines
+
+
+This information can be provided on:
+• a year by year basis
+• a 5 yearly basis, or
+• as a projection over the DCP timeframe.
+
+
+Quantification of existing and projected development in each analysis area
+
+                                                             New        New        New
+  Analysis                                     Existing      dev’t      dev’t      dev’t
+   area                  Land uses              (2002)       2003       2004       2005
+       1        Dwellings (#)                     306         10         10         15
+                Retail (sq. m floor space)       1200          0          0        2,000
+                Office (sq. m floor space)         0           0          0         500
+                Industry (sq. m floor space)       0           0          0          0
+       2        Dwellings (#)                     123         25         25         25
+                Retail (sq. m floor space)      12,000         0        2,000        0
+                Office (sq. m floor space)        500          0         300         0
+                Industry (sq. m floor space)      200          0          0         300
+       3        Etc.
+
+
+Demand units
+A demand unit is an individual unit that provides the basis on which infrastructure levies are calculated
+and charged. A demand unit could be a dwelling, a lot, a hectare, or 1 square metre of impervious site
+coverage.
+
+In order to calculate infrastructure levies, it is necessary to convert the units used for quantifying the
+development into common demand units, so that they can be added up to determine the total demand
+for an infrastructure project generated by all land uses over the timeframe of the DCP.
+
+
+Equivalence ratios
+Equivalence ratios are used to convert the amount of existing and projected development for each
+particular land use into the proportional number of common demand units.
+
+Equivalence ratios take into account differing levels of demand or usage generated by different land
+uses on certain types of infrastructure. They are expressed as a quantum of land use that is
+equivalent to one demand unit. For example, 1 dwelling = 1 demand unit, 19 m2 of retail floor space =
+1 demand unit.
+
+Appropriate equivalence ratios can be determined by the council or the [standard equivalence ratios]
+provided in the guidelines can be used.
+
+
+
+
+V5.9                                            March 2007                                   Page 28 of 123
+                                                                     Development Contributions Guidelines
+
+
+  Conversion of development within each analysis area into demand units using equivalence
+                                          ratios
+
+
+
+
+Main catchment area
+Each infrastructure project included in a DCP will have an area from which it will draw all or most of its
+usage. This is the main catchment area (MCA).
+The MCA of infrastructure projects can be approximated by assembling a number of analysis areas
+(AA). Therefore, the MCA can be mapped and can also be described in analysis areas. For example,
+the MCA of Infrastructure Project A can be described as AA1, AA2, AA3, AA7, AA8, and AA9. This
+means that all demand units within these analysis areas will use infrastructure project A.
+
+            Identification of the main catchment areas for each infrastructure project
+
+
+
+
+External usage and future usage
+In determining the MCA of an infrastructure project, estimates should be made of the:
+• external usage, and
+• future usage.
+
+
+External usage is the proportion of usage drawn from outside the MCA.
+
+
+
+
+V5.9                                            March 2007                                   Page 29 of 123
+                                                                      Development Contributions Guidelines
+
+
+Future usage is the proportion of usage generated by future development expected beyond the
+timeframe of the DCP, either from within or outside the MCA.
+
+Both are expressed in terms of a percentage. For example, an estimate of external usage would be
+presented as 15% of the usage of Infrastructure Project A. This means that 15% of the usage is
+drawn from outside the MCA.
+
+
+Basic calculation of infrastructure levy per demand unit
+For each infrastructure project, calculate the infrastructure levy for each demand unit within the MCA,
+by:
+• adding up the total number of common demand units for all analysis areas within the MCA, and
+• subtracting the percentage of external/future usage from the cost of the infrastructure project, then
+• dividing the resulting cost of the infrastructure project by the total number of demand units in the
+  MCA.
+                Simple formula for calculating for calculating infrastructure levies
+(Project cost – % external/future usage) divided by total number of demand units for analysis areas
+within the MCA = Infrastructure levy per demand unit
+
+The calculation of the total number of common demand units will include demand units for
+development for all land uses that are likely to use the infrastructure project, including those which will
+use the infrastructure but are exempted from paying levies.
+
+
+Charge areas
+A charge area is an area where the same infrastructure levies apply to all demand units. Charge areas
+are created by aggregating analysis areas with common levies for common infrastructure projects.
+The purpose of creating charge areas is to simplify how infrastructure levies are applied within the
+planning scheme. Defining charge areas relates directly to the requirements of the Development
+Contributions Plan Overlay in the Victoria Planning Provisions.
+
+  Aggregation of analysis areas with the same levies for the same projects into charge areas
+
+
+
+
+V5.9                                            March 2007                                    Page 30 of 123
+                                                                  Development Contributions Guidelines
+
+
+
+Five phases of preparing an FCA DCP
+The process of preparing an FCA DCP can be broken down into five phases. It is an iterative process,
+rather than a sequential process. This means that it will be necessary to review the outcomes from
+previous stages as you progress through the process.
+
+The following table and diagram depict the five phases and their corresponding stages.
+
+       Phase                                   Name                               Contains stages
+         1          Calculate the infrastructure levies                                    1-10
+         2          Analyse budget implications                                          11 and 12
+         3          Obtain council support                                                  13
+         4          Compile draft DCP and review                                         14 and 15
+         5          Decide to prepare planning scheme amendment for DCP                     16
+
+
+
+
+V5.9                                           March 2007                                  Page 31 of 123
+                                                                  Development Contributions Guidelines
+
+
+
+
+Overview of the 16 stages of preparing an FCA DCP
+The 16 stage FCA method is not a mandatory process for preparing a DCP, but it is one that applies
+the key principles outlined in [Understanding DCPs]. In overview, the 16 stages of preparing an FCA
+DCP are as follows:
+
+
+
+
+V5.9                                         March 2007                                  Page 32 of 123
+                                                                    Development Contributions Guidelines
+
+
+
+
+Phase 1: Calculate the infrastructure levies
+Number                 Stage                                    Description
+   1      Document the strategic             Review and summarise the relevant strategic
+          context for the DCP                planning information, and identify potential
+                                             infrastructure projects that will be required to
+                                             service the future community within the strategic
+                                             planning and DCP timeframe.
+   2      Divide the DCP area into           Decide the appropriate analysis areas to be used
+          analysis areas                     as the basis for collecting and quantifying
+                                             information about existing and future
+                                             development. Divide the DCP area into analysis
+                                             areas and map them.
+   3      Quantify the development in        Quantify and create tables showing the existing
+          each analysis area                 and projected future development for each of the
+                                             analysis areas over the timeframe of the DCP.
+   4      Convert the development            Identify the appropriate demand unit to use in the
+          projections into common            calculation and charging of infrastructure levies.
+          demand units to quantify the       Convert the estimates of existing and future
+          total demand for infrastructure    development for each land use into common
+                                             demand units using equivalence ratios, and
+                                             calculate the total demand for infrastructure
+                                             expected in each analysis area.
+   5      List the infrastructure projects   Confirm the infrastructure projects to be included
+          and costs included in the DCP      in the DCP, by assessing each project against
+                                             the criteria set out in the guidelines. Classify
+                                             each project as either community or development
+                                             infrastructure and document the costs for each
+                                             project.
+   6      Identify the main catchment        Identify and map the analysis areas that
+          area for each infrastructure       comprise the main catchment area (MCA) for
+          project                            each infrastructure project, and make an
+                                             estimate of external and/or future usage.
+   7      Calculate the infrastructure       For each project, calculate the infrastructure levy
+          levy payable for each              payable per demand unit by:
+          infrastructure project             • calculating the total number of demand units
+                                                within the MCA, and
+                                             • dividing the cost of the project by the total
+                                               number of demand units in the MCA.
+   8      Calculate the total                Add up the infrastructure levies applicable in
+          infrastructure levies in each      each analysis area for community infrastructure
+          analysis area                      projects and development infrastructure projects.
+   9      Establish charge areas that        Aggregate analysis areas with common
+          have common infrastructure         infrastructure levies for common infrastructure
+          levies                             projects into charge areas. Provide a map of the
+                                             charge areas and a table of development and/or
+                                             community infrastructure levies that apply in each
+                                             area.
+
+
+
+
+V5.9                                           March 2007                                      Page 33 of 123
+                                                                 Development Contributions Guidelines
+
+
+
+   10    Describe how infrastructure     For each charge area, assess whether the set
+         levies will be collected        procedures for collecting development and
+                                         community infrastructure levies capture all the
+                                         types of development that should be charged. If
+                                         necessary, decide on and document the method
+                                         for collecting development infrastructure levies
+                                         from development that does not require a
+                                         planning permit.
+Phase 2: Analyse the budget implications
+Number                Stage                                  Description
+   11    Estimate the amount the         Calculate the amount that the council can expect
+         council will need to fund for   to collect through the DCP for each infrastructure
+         each infrastructure project     project, and estimate the amount the council will
+         (optional)                      need to fund to make up the shortfall associated
+                                         with existing development and exempted uses or
+                                         land.
+   12    Prepare a cash flow analysis    Prepare a cash flow analysis table for each
+         (optional)                      infrastructure project documenting the expected
+                                         timing for collection of levies and expenditure.
+                                         Assess the budget implications of each
+                                         infrastructure project.
+Phase 3: Obtain council support
+Number               Stage                                  Description
+   13    Obtain council support          Obtain council agreement on key issues such as
+                                         the amount of levies, infrastructure costs,
+                                         timeframes for delivery of projects and the list of
+                                         projects that will be included in the DCP, given
+                                         the budget implications.
+Phase 4: Compile draft DCP and review
+Number               Stage                                  Description
+   14    Compile the draft DCP           Compile information prepared in previous stages
+                                         into a draft DCP.
+   15    Review draft DCP and finalise   Seek comments on the draft DCP from
+                                         stakeholders within the organisation and external
+                                         stakeholders such as developers, State
+                                         Government agencies and adjoining
+                                         municipalities. Consider all comments and
+                                         change the draft DCP, if required. Prepare final
+                                         version of DCP for exhibition.
+Phase 5: Decide to prepare planning scheme amendment for DCP
+Number               Stage                                  Description
+   16    Decide to prepare an            Obtain council decision to prepare an amendment
+         amendment to the planning       to incorporate the DCP into the planning scheme.
+         scheme to incorporate the
+         DCP
+
+
+
+
+V5.9                                       March 2007                                    Page 34 of 123
+                                                                      Development Contributions Guidelines
+
+
+
+Links to the 16 stages of preparing an FCA DCP
+The following diagram is of the 16 stages of preparing an FCA DCP. You can view details of each
+stage in the diagram by:
+• clicking on a stage to display details, or
+• tabbing to the required stage the pressing <Enter> to display details.
+
+
+
+
+V5.9                                            March 2007                                   Page 35 of 123
+                                                                    Development Contributions Guidelines
+
+
+
+Stage 1–Document the strategic context for the DCP
+Before you begin
+Before you begin this process, complete the [Deciding to Prepare a DCP] process.
+
+
+Outcome
+The outcome of this stage is a summary of the strategic context and basis for the DCP.
+
+
+Process
+Complete the following tasks.
+
+ Task    Description
+   1     Identify the broad strategic framework for the DCP by referring to all relevant
+         supporting documentation including:
+         • the State and Local Planning Policy Frameworks in the planning scheme
+         • regional strategies
+         • the capital works programs
+         • infrastructure plans
+         • the corporate plan
+         • needs analysis documents
+         • zoning maps
+         • amendment requests, and
+         • relevant strategic studies.
+   2     Document a summary of the:
+         • existing development
+         • new development expected as a result of the strategic planning framework over the
+           timeframe of the DCP
+         • type and characteristics of the development projected to occur over the timeframe
+           of the DCP, for example:
+           − profile of the expected population, such as number and age groups over time
+           − estimates of the anticipated growth for residential areas, and
+           − estimates for growth of commercial, retail and industrial floor space for non-
+              residential areas.
+         • existing infrastructure including:
+           − capacity and economic life
+           − probable use by development, and
+           − any upgrading or replacement required.
+         • proposed new infrastructure that is required to service the whole community in the
+           future, including type and capacity.
+         Note: In determining the new infrastructure needed, take into account the demand
+         generated by both existing and projected development.
+   3     Prepare a list of possible infrastructure projects to be included in the DCP.
+
+
+
+
+V5.9                                          March 2007                                   Page 36 of 123
+                                                                      Development Contributions Guidelines
+
+
+
+Stage 2–Divide the DCP area into analysis areas
+An analysis area is a small geographic unit that is used as the basis for collecting and quantifying
+information about existing and future development.
+
+
+Outcome
+The outcome of this stage is a map of the DCP area showing the analysis areas.
+
+
+Process
+Complete the following tasks.
+
+ Task     Description
+   1      Divide the DCP area into individual analysis areas.
+          For more information about defining analysis areas, go to:
+          • [How to define analysis areas], and
+          • [Sources of information for defining analysis areas].
+   2      Document the analysis areas on a map of the DCP area.
+          For an example, go to [Example of map of analysis areas].
+
+
+How to define analysis areas
+• Use the smallest practical unit that you have data for or have used for other planning tasks.
+• Ensure that the analysis areas are:
+  − small enough to avoid cross-subsidies (this is when a development will pay for infrastructure it
+     will not use), and
+  − can be aggregated to accurately depict the main catchment area for each infrastructure project.
+• Census collectors districts (CCDs) are usually suitable to use for developments in established
+  urban areas.
+• CCDs are not appropriate for greenfield, industrial and rural areas because they are based on
+  population statistics. These areas need to be divided into smaller areas to avoid cross-subsidies
+  that are likely to occur due to future development.
+• The size of analysis areas should reflect the relative size of the infrastructure projects that are to be
+  included in the DCP. For example, if the smallest project in the DCP is a local park with a small
+  neighbourhood catchment you would use small analysis areas. If the smallest project is an aquatic
+  centre used by a whole municipality, you would use larger analysis areas.
+• Wherever possible, use existing, easily recognisable boundaries such as roads, watercourses or
+  property lines to define analysis areas. This will ensure that the analysis areas are relatively
+  intuitive to the wider community.
+• Individual analysis areas should cover areas likely to be developed at approximately the same
+  time. This makes the process of estimating when development is likely to occur in each analysis
+  area easier.
+• Council zoning maps can provide a guide for defining analysis areas. Zoning maps identify areas
+  of different land use types, and as a result, may reflect an existing and intuitive method of dividing
+  up the DCP study area so that the analysis areas correlate with ‘what is on the ground’. Like
+  CCDs, some zones will need to be subdivided while some may be amalgamated depending on the
+  characteristics of the DCP area.
+
+
+
+
+V5.9                                            March 2007                                    Page 37 of 123
+                                                                   Development Contributions Guidelines
+
+
+
+Sources of information for defining analysis areas
+• The Australian Bureau of Statistics census collector districts (CCDs) can be used as the basis for
+  defining analysis areas. They are the smallest geographical area for which statistics such as
+  dwelling numbers are available (most CCDs consist of around 200-300 dwellings).
+• Councils usually have their own system of dividing their municipality into suburbs, communities of
+  interest or neighbourhoods, which could form the basis of analysis areas.
+
+
+Example of map of analysis areas
+
+
+
+
+V5.9                                          March 2007                                  Page 38 of 123
+                                                                    Development Contributions Guidelines
+
+
+
+Stage 3–Quantify the development in each analysis area
+The total development in each analysis area is determined by considering any development that
+generates the demand for infrastructure, including:
+• existing development, and
+• projected future development.
+
+
+Outcome
+The outcome of this stage is a series of tables that display the existing and projected development for
+each analysis area over the timeframe of the DCP.
+
+
+Process
+Complete the following tasks.
+
+ Task     Description
+   1      For each individual analysis area, quantify the amount of existing and projected
+          development in relation to the following types of land uses over the timeframe of the
+          DCP:
+          • residential
+          • retail
+          • commercial
+          • industrial
+          • institutional, and
+          • any other non-standard land uses.
+          For more information, go to:
+          • [Guidelines for sources of information about existing and projected development],
+             and
+          • [Guidelines for documenting development information].
+   2      Document the information from Step 1. Create a separate table for each analysis
+          area.
+          For an example, go to [Example of tables showing existing and projected
+          development].
+   3      Document the assumptions made relating to projected development.
+
+
+Guidelines for sources of information about existing and projected
+development
+• The Australian Bureau of Statistics (ABS).
+• The Department of Infrastructure (DOI) for information about population projections.
+• Council’s strategic planning framework for information about projected development.
+• Available data such as building approvals and land use surveys.
+
+
+Guidelines for documenting development information
+Use local knowledge and professional judgement to adjust growth projections for each of the analysis
+areas.
+
+
+
+
+V5.9                                           March 2007                                  Page 39 of 123
+                                                                     Development Contributions Guidelines
+
+
+The existing and projected development information may be expressed as:
+• number of dwellings
+• amount of floor space
+• amount of site area
+• number of hospital beds, or
+• number of students.
+Essentially, decisions about how to quantify existing and projected development should be informed
+by the format of existing information (for example ABS/DOI statistics) and the demand generating
+characteristics of each type of development.
+
+For example, if the DCP will include items of road infrastructure, it will be necessary to prepare
+development projections that enable you to estimate the level of demand for these items – the floor
+area of different types of land uses is a commonly accepted indicator of demand for road
+infrastructure, as are the number of hospital beds or students.
+
+By contrast, demand for drainage infrastructure is usually a function of the site coverage of different
+forms of development. It will therefore be necessary to prepare estimates of existing and projected
+site area if drainage items are to be included in the DCP.
+
+If a DCP is to include several different types of infrastructure, it may necessary to prepare
+development projections for each land use in multiple formats. For example, floor area and site area
+projections for each land use will need to be prepared if the DCP is to include both drainage and road
+infrastructure.
+Example of tables showing existing and projected development
+
+Analysis area 1
+        Land use                 Existing          Projected development in DCP                 Total
+                               development                   timeframe                     development
+                                   2002          2003        2004      2005       2006
+
+Residential
+                                    211            5          5          4          3           228
+no. of dwell.
+Retail
+                                   1,400           0         300        300         0          2,000
+fl. space m²
+Retail
+                                   3,256           0         698        698         0          4,652
+site area m²
+Office/service industry
+                                    600            0          0          0          0           600
+fl. space m²
+Office/service industry
+                                    938            0          0          0          0           938
+site area m²
+Industry (other than
+service industry)                    0             0          0          0          0             0
+fl. space m²
+Industry (other than
+service industry)                    0             0          0          0          0             0
+site area m²
+Primary school
+                                     0             0          0          0          0             0
+no. of students
+Primary school
+                                     0             0          0          0          0             0
+fl. space m²
+
+
+
+
+V5.9                                            March 2007                                   Page 40 of 123
+                                                             Development Contributions Guidelines
+
+
+
+Analysis area 2
+       Land use             Existing       Projected development in DCP               Total
+                          development                timeframe                    development
+                             2002        2003        2004      2005      2006
+
+Residential                   198          7          8          5         5           223
+no. of dwell.
+Retail                         0           0          0          0         0             0
+fl. space m²
+Retail                         0           0          0          0         0             0
+site area m²
+Office/service industry        0           0          0          0         0             0
+fl. space m²
+Office/service industry        0           0          0          0         0             0
+site area m²
+Industry (other than           0           0          0          0         0             0
+service industry)
+fl. space m²
+Industry (other than           0           0          0          0         0             0
+service industry)
+site area m²
+Primary school                 0           0          0          0         0             0
+no. of students
+Primary school                 0           0          0          0         0             0
+fl. space m²
+
+Analysis area 3
+        Land use            Existing       Projected development in DCP               Total
+                          development                timeframe                    development
+                             2002        2003        2004      2005      2006
+
+Residential                   14           0          0          0         0            14
+no. of dwell.
+Retail                       2,400       1,600        0          0         0          4,000
+fl. space m²
+Retail                       5,581       3,271        0          0         0          9,302
+site area m²
+Office/service industry      1,000         0          0          0        500         1,500
+fl. space m²
+Office/service industry      1,562         0          0          0        781         2,343
+site area m²
+Industry (other than         1,000         0         500      1,200      2,000         4700
+service industry)
+fl. space m²
+Industry (other than         2,326         0         1,163    2,791      4,651        10,931
+service industry)
+site area m²
+Primary school                100          10         10        20        20           160
+no. of students
+Primary school               3,400        500         0          0         0          3,900
+fl. space m²
+
+
+
+V5.9                                    March 2007                                  Page 41 of 123
+                                                            Development Contributions Guidelines
+
+
+Analysis area 4
+        Land use            Existing       Projected development in DCP             Total
+                          development                timeframe                   development
+                             2002        2003        2004     2005      2006
+
+Residential                   157          15         23       35        40           270
+no. of dwell.
+Retail                         0           0          0         0         0             0
+fl. space m²
+Retail                         0           0          0         0         0             0
+site area m²
+Office/service industry        0           0          0         0         0             0
+fl. space m²
+Office/service industry        0           0          0         0         0             0
+site area m²
+Industry (other than           0           0          0         0         0             0
+service industry)
+fl. space m²
+Industry (other than           0           0          0         0         0             0
+service industry)
+site area m²
+Primary school                 0           0          0         0         0             0
+no. of students
+Primary school                 0           0          0         0         0             0
+fl. space m²
+
+
+
+
+V5.9                                    March 2007                                 Page 42 of 123
+                                                                      Development Contributions Guidelines
+
+
+
+Stage 4–Convert the development projections into common
+demand units to quantify the total demand for
+infrastructure
+The development projections prepared in Stage 3 will usually be expressed in different units of
+measurement (for example, number of residential dwellings, square metres of retail floor space,
+hectares of industrial site area). Each of these land uses places differing levels of demand on the
+various types of infrastructure (such as roads, drainage, community facilities and parks).
+
+To make DCP calculations easier, it is necessary to convert the development projections into common
+demand units, for each infrastructure item. This process of conversion is undertaken using
+equivalence ratios, which allow you to calculate the:
+• total demand for any infrastructure project, and
+• appropriate infrastructure levy for development proposals to be calculated, once the DCP has been
+  incorporated into the planning scheme.
+
+Outcome
+The outcome of this stage is a series of tables that display the existing and projected demand for
+infrastructure in each analysis area converted into common demand units.
+Process
+Complete the following tasks.
+
+ Task     Description
+   1      Select a common demand unit type.
+          For more information, go to [Guidelines for selecting the appropriate common demand
+          unit].
+   2      Use equivalence ratios to convert the existing and projected development totals for
+          each analysis area into common demand units. Use the tables for each analysis area
+          created in Stage 3.
+          For more information, go to:
+          • [standard equivalence ratios], and
+          • [Formula to convert development projections into demand units].
+   3      Convert any non-standard land uses into common demand units:
+          • on a case-by-case basis, or
+          • by creating alternative equivalence ratios specific to that type of land use.
+          For more information, go to:
+          • [Guidelines for changing the standard equivalence ratios]
+          • [Calculating road infrastructure equivalence ratios for residential, retail, office and
+            industrial land uses]
+          • [Calculating road infrastructure equivalence ratios for educational land uses]
+          • [Calculating road infrastructure equivalence ratios for hospitals], and
+          • [Calculating drainage infrastructure equivalence ratios for all land uses].
+   4      If alternative equivalence ratios are used, document your assumptions.
+   5      Document the information from Tasks 2 and 3. Create a separate table for each
+          analysis area.
+          For an example, go to [Example of tables showing existing and projected development
+          converted to common demand units].
+
+
+
+
+V5.9                                            March 2007                                    Page 43 of 123
+                                                                      Development Contributions Guidelines
+
+
+Guidelines for selecting the appropriate common demand unit
+There are choices for selecting the appropriate common demand unit. In making the selection,
+consider the following:
+• the dominant type of land use in the study area
+• which land uses are expected to grow in the area and will therefore be charged
+• the format of your development projections
+• the types of infrastructure to be included in the DCP, and
+• on what basis you will calculate and charge levies.
+
+
+The decision about which demand unit is the most appropriate will usually require you to weigh up
+these considerations to determine which is the most significant to the DCP you are preparing.
+
+Basically, your choice of demand unit will be between:
+• an area based unit (for example floor area, site area, site coverage, or hectare of developable
+  land), and
+• a residential dwelling and its equivalents (i.e. equivalent dwellings).
+The appropriate unit of measurement will vary according to the development scenario.
+
+For example, area based demand units may be more suitable in greenfields situations and those
+DCPs that deal exclusively with drainage infrastructure.
+
+By contrast, equivalent dwellings are likely to be the most appropriate demand unit in established
+urban areas and for those DCPs that deal with many types of infrastructure. The following table
+provides some examples of appropriate demand units in various different scenarios.
+
+If the development is in…               then the common demand unit
+                                        might be a…
+an established urban area               dwelling or equivalent
+a large scale greenfield area           dwelling, lot or hectare of
+                                        developable land
+an industrial site                     hectare of developable land*
+                                   and/or
+If the DCP deals with…                  then the common demand unit
+                                        might be a…
+many types of infrastructure            dwelling or equivalent
+drainage infrastructure only            hectare of developable land* or per
+                                        m2 of site coverage
+
+
+* Developable land is land that can be converted to ‘urban purposes’. Urban purposes are those uses
+that are associated with the establishment of an urban community and will usually include all aspects
+of residential, commercial and public use. All developable land should be included in the calculation of
+levies even if not all of these uses will ultimately be levied.
+
+When using ‘hectares of developable land’ as a demand unit, it is necessary to recognise that some
+land cannot be converted to urban purposes (for example land subject to some form of development
+control such as an easement or a Environmental Significance Overlay). This land should not be
+treated as developable land and included in the calculation of levies as it does not generate demand
+for infrastructure.
+
+
+
+
+V5.9                                            March 2007                                   Page 44 of 123
+                                                                        Development Contributions Guidelines
+
+
+
+Formula to convert development projections into demand units
+Yearly development projections divided by equivalence ratio = demand units
+
+Example:
+ Projected retail                   300m2
+ development in
+ analysis area 1 (2004)
+ Equivalence ratio for              19m2
+ retail development
+ (road infrastructure)
+300 divided by 19 = 16
+
+i.e.. The 300m2 of retail floor area that is expected to be developed in analysis area 1 in 2004 will
+generate 16 demand units for road infrastructure.
+
+
+Standard equivalence ratios
+The following table provides standard equivalence ratios for converting existing and projected
+development into common demand units. For each class of infrastructure project, it shows the
+quantum of land use that is equivalent to one demand unit.
+
+                                              Infrastructure category
+Land use
+                         Road               Drainage              Parkland           Community
+                                                                                      facilities
+Residential         1 dwelling              1 dwelling           1 dwelling           1 dwelling
+                 = 1 demand unit      = 1 demand unit          = 1 demand unit     = 1 demand unit
+Retail           19 m2 fl. space      300 m2 site area          not applicable      not applicable
+premises         = 1 demand unit      = 1 demand unit
+Office/          121 m2 fl. space     360 m2 site area          not applicable      not applicable
+service          = 1 demand unit      = 1 demand unit
+industry
+
+Industry         67 m2 fl. space      540 m2 site area          not applicable      not applicable
+(other than      = 1 demand unit      = 1 demand unit
+service
+industry)
+Primary           3.42 students       540 m2 site area          not applicable      not applicable
+schools          = 1 demand unit      = 1 demand unit
+Secondary         3.48 students       540 m2 site area          not applicable      not applicable
+schools          = 1 demand unit      = 1 demand unit
+Tertiary          5.06 students       540 m2 site area          not applicable      not applicable
+institution      = 1 demand unit      = 1 demand unit
+Hospitals           0.67 beds         540 m2 site area          not applicable      not applicable.
+                 = 1 demand unit      = 1 demand unit
+
+
+
+
+V5.9                                              March 2007                                   Page 45 of 123
+                                                                      Development Contributions Guidelines
+
+
+
+Guidelines for changing the standard equivalence ratios
+It may be necessary to alter the standard equivalence ratios to suit local conditions. Factors that
+should be considered when deciding whether to change the standard equivalence ratios include:
+• Are the main development types in the study area residential, retail, office and industrial? Are
+    there any other types of land use included in the DCP? If so, there may be a need to develop
+    customised equivalence ratios for these land uses.
+• Do all the items of infrastructure to be included in the DCP comfortably fall into the categories of
+  roads, drainage, community facilities and parks and gardens? Are there other infrastructure
+  ‘portfolios’ for which customised equivalence ratios need to be prepared?
+• The standard equivalence ratios assume that non-residential land uses generate very little demand
+  for parks and gardens and community infrastructure and hence, do not list conversion factors for
+  these items. Councils can choose to charge non-residential development for parks and gardens
+  and community facilities, but will need to develop customised equivalence ratios for these land
+  uses.
+• Are there any local policies or engineering standards that show different land uses generating
+  varying levels of demand for infrastructure (for example local parking polices, drainage plans etc.)?
+  Should these policies or standards be used to modify the standard equivalence ratios?
+• Are there any existing studies of infrastructure demand in the area? Do these studies suggest the
+  area has unique characteristics that affect demand for infrastructure? For example, demographic
+  profiles of the study area may show car ownership is higher than average, which will in turn affect
+  the equivalence ratios for road infrastructure. Similarly, steep terrain is likely to result in higher
+  levels of stormwater run off and therefore, generates higher demand for drainage infrastructure.
+• Standard equivalence ratios are based on indices of traffic generation, stormwater run off etc.
+  These indices assume certain characteristics about different types of land use such as the average
+  number of car parks per dwelling, the number of trips generated per car parking space and the site
+  coverage of different land uses. While these assumptions are based on generally accepted
+  engineering standards, it may be that councils need to modify these underlying assumptions to
+  reflect local conditions and/or policy frameworks.
+• The assumptions behind the standard equivalence ratios are set out in the tables contained in the
+  following sections:
+   − [Calculating road infrastructure equivalence ratios for residential, retail, office and industrial land
+     uses]
+   − [Calculating road infrastructure equivalence ratios for educational land uses]
+   − [Calculating road infrastructure equivalence ratios for hospitals], and
+   − [Calculating drainage infrastructure equivalence ratios for all land uses].
+
+
+
+
+V5.9                                            March 2007                                     Page 46 of 123
+                                                                     Development Contributions Guidelines
+
+
+
+Calculating road infrastructure equivalence ratios for residential, retail, office
+and industrial land uses
+The table below provides the basis for calculating equivalence ratios for road infrastructure for
+residential, retail, office/service industry and industrial uses.
+
+         Land use               Residential          Retail            Office/          Industry
+                                (dwellings)        premises            service        (other than
+                                                                      industry           service
+                                                                                       industry)
+A      Floor space (m2) or
+                                 1 dwelling           100               100               100
+       equivalent
+B      No. of car spaces              2                 7                 3                 4
+C       Trip generation per
+                                        4                 6                2.2              3
+        car space
+D       Total trips per unit of
+                                        8                 42               6.6             12
+        development
+E       Floor space
+        equivalent equal to
+                                       n.a.               19              121              67
+        one dwelling re trip
+        generation
+F       Floor space as a
+        proportion of site             n.a.              0.43             0.64            0.87
+        area*
+G       Site area equivalent
+        to one dwelling re trip        n.a.               44              189              77
+        generation**
+* equals floor space/(floor space + parking area). For expansive industrial uses, this includes an
+allowance for landscaping equivalent to parking area
+** The equivalence ratio table for road infrastructure shown above also lists equivalence ratios by site
+area (row G) and calculates these through an assumed floor area to site area ratio for each land use
+(i.e. row G equals row E divided by row F)). These site area equivalence ratios may be easier to use
+in greenfield or subdivision scenarios, but may be problematic in built up areas where redevelopment
+will not necessarily affect the site area of an existing property even though the redevelopment will
+probably increase demand for road infrastructure.
+
+The process of converting these different land uses into common demand units begins by listing a
+base unit of measurement for each land use (row A). For each of these base units, an average
+number of car spaces is listed in row B, while the number of trips generated by each of these car
+spaces is listed in row C. Row B and row C are then multiplied to provide the total number of trips per
+unit of development as shown in row D.
+
+Once you have calculated the total number of trips per unit of development, you can then use these
+figures to generate the equivalence ratios for non-residential land uses (row E). To do this, you divide
+the total number of trips generated by residential development (8) by the total number of trips
+generated by the non-residential use and then multiply this figure by the base unit for that land use.
+
+For example, to calculate the equivalence ratio for commercial land uses, divide the total number of
+residential trips (8) by the total number of commercial trips (6.6) and then multiply the result by the
+number of base commercial units (100). The resulting figure (121) represents the amount of
+commercial floor space that generates approximately the same amount of demand for road
+infrastructure as 1 residential dwelling.
+
+
+
+
+V5.9                                            March 2007                                      Page 47 of 123
+                                                                      Development Contributions Guidelines
+
+
+
+Calculating road infrastructure equivalence ratios for educational land uses
+The table below provides the basis for calculating equivalence ratios for road infrastructure for
+educational land uses.
+
+                 Land use                                              Secondary           Tertiary
+                                                Primary school
+                                                                        school            institution
+  A      Number of students                           100                  100                100
+  B      Student/ staff ratio                         0.05                 0.05               0.07
+  C      Trip ends per day per staff
+                                                       2                    2                  2
+         member
+  D      Trip ends per student                       2.24*                2.2**             1.44***
+  E      Total trip ends                              234                  230                158
+  F      Total trips per dwelling                      8                    8                  8
+  G      Number of students equivalent to
+                                                    3.42                3.48                5.06
+         one dwelling re trip generation
+* Assumptions re primary school students: 80% travel to school by car, 1.5 students per car, 4 trip
+ends per student trip, 5% additional loading.
+** Assumptions re secondary school students: 50% travel to school by car, 1 student per car, 4 trip
+ends per student trip, 10% additional loading.
+*** Assumptions re tertiary students: 60% travel to school by car, 1 student per car, 2 trip ends per
+student trip, 20% additional loading.
+
+Row A of the table lists the base unit of demand generation for each type of educational institution,
+row B shows the average number of staff members per student and row C shows the daily number of
+car trips that each staff member is likely to undertake.
+
+Row D is the number of daily trip ends per student and is based on various assumptions that are
+unique to each type of educational institution. The assumptions relate to:
+• the proportion of students who travel to school by car
+• the average number of students in each car
+• the total number of trip ends generated by each journey of a student to or from the school (i.e.
+  parents may have to make two trips for every individual trip made by the child), and
+• an additional trip generation loading that is applicable to each type of institution.
+
+To calculate the relevant figure for row D, the proportion of students travelling by car is divided by the
+average number of students per car. The resulting figure is multiplied by the total number of trip ends
+per student journey and then the relevant loading is applied. So, to calculate the value of row D for
+secondary students, divide 0.5 (i.e. 50% travel to school by car) by 1 (1 student per car), then multiply
+by 4 (4 trip ends per student trip) and finally apply the relevant loading (10%) by multiplying by 1.1.
+
+Row E of the table represents the combined number of trips generated by 100 students and the
+associated number of staff that are required to teach these students. The number of student trips is
+calculated simply by multiplying row D by row A, while the number of staff trips is calculated by
+multiplying the number of students (row A) by the staff/student ratio (row B) by the number of trip ends
+per day per staff member (row C). For example, the row E value for universities is calculated by
+multiplying 1.44 by 100 and then adding the product of 100 multiplied by 0.07 multiplied by 2 (i.e. 144
++ 14 = 158).
+
+The standard equivalence ratio figures in row G are calculated by dividing the total number of
+residential trips by the relevant number of trip ends generated by each type of educational institution
+and then multiplying the result by row A. That is, to calculate the standard equivalence ratio for
+
+
+
+V5.9                                            March 2007                                    Page 48 of 123
+                                                                       Development Contributions Guidelines
+
+
+primary schools you divide 8 by 234 and then multiply by 100. The resulting figure (3.42) represents
+the number of primary school students that generate the equivalent demand for road infrastructure as
+one residential dwelling.
+
+
+Calculating road infrastructure equivalence ratios for hospitals
+The table below provides the basis for calculating equivalence ratios for road infrastructure for
+hospitals.
+
+                     Land use                                               Hospitals*
+   A       Number of beds                                                       100
+   B       Staff/ bed ratio                                                      5
+   C       Trip ends per day per staff member                                    2
+   D       Trip ends per bed                                                     2
+   E       Total trip ends                                                     1,200
+   F       Total trips per dwelling                                              8
+   G       Number of beds equivalent to one
+                                                                               0.67*
+           dwelling re trip generation
+*Note the figures for hospitals are based on number of beds.
+Row A shows the basic unit for this type of development (i.e. number of hospital beds), while row B
+provides the ratio of staff to beds. Row C shows the number of trip ends generated per day by each
+staff member, while row D provides the same figure for each bed.
+
+The total number of trip ends (row E) represents the total number of trips generated by 100 beds plus
+the number trips generated by the staff required to service those beds. It is calculated by multiplying
+the total number of trip ends per bed by 100 (i.e. row E multiplied by row A) plus the number of beds
+multiplied by the staff to bed ratio multiplied by the number of trip ends per staff member (i.e. row A
+multiplied by row B multiplied by row C). So, the total number of trip ends per 100 beds equals 100x2
+plus 100x5x2.
+
+The equivalence ratio for hospitals (row G) is calculated by dividing the residential total daily trips
+figure row F by the hospital figure (row E) and then multiplying the result by the base unit (row A).
+Based on this calculation, it is estimated that around 0.67 hospital beds generate the equivalent
+demand for road infrastructure as one dwelling.
+
+
+
+
+V5.9                                             March 2007                                    Page 49 of 123
+                                                                     Development Contributions Guidelines
+
+
+
+Calculating drainage infrastructure equivalence ratios for all land uses
+The calculations involved in generating the standard equivalence ratios for drainage infrastructure are
+detailed in the table below.
+
+           Land use                Residential          Retail          Office/          Industry
+                                                      premises          service        (other than
+                                                                       industry           service
+                                                                                        industry)
+A      Site area (m2)                  600
+B      Assumed drainage
+                                       0.45              0.75             0.9              0.5
+       runoff factor
+C      Drainage demand                 270
+D      Site area equivalent to
+       one dwelling (re                 n.a.             360             300              540
+       demand for drainage)
+Note: Institutional uses such as primary schools, secondary schools, universities and hospitals are
+deemed to have similar characteristics to industrial uses in terms of generating demand for drainage
+infrastructure (i.e. 540m2 of each of these uses is equivalent to 1 demand unit for drainage
+infrastructure).
+
+Row A shows the average site area for a residential lot, while row B lists drainage runoff factors for
+each type of land use (i.e. the ratio of impervious to pervious site area). These figures are then
+multiplied to calculate the demand for drainage infrastructure generated by residential development
+(i.e. row C = row A multiplied by row B). The resulting figure (270) represents the demand for
+drainage infrastructure generated by an average residential house lot. Therefore, to calculate the
+amount of non-residential site area that generates an equivalent amount of demand for drainage
+infrastructure (row D), the residential figure (270) is divided by each of the relevant drainage runoff
+factors.
+
+For example, the industrial equivalence ratio is calculated by dividing 270 by 0.5. This calculation
+shows that, based on the assumed drainage runoff factors, approximately 540m2 of industrial site area
+generates the same demand for drainage infrastructure as a 600m2 residential lot which yields the
+ratio of 540.
+
+
+
+
+V5.9                                             March 2007                                  Page 50 of 123
+                                                                         Development Contributions Guidelines
+
+
+
+        Example of tables showing existing and projected development converted to
+        common demand units
+        E.R. – Equivalence ratio
+        D.P. – Unconverted development projections from the tables prepared in Stage 3.
+        D.U. – Demand unit. These are calculated by dividing the development projection figures (D.P.) by
+        the relevant equivalence ratio (E.R.).
+        Note: totals may not add due to rounding
+
+     Conversion of development in analysis area 1 into common demand units for road
+     infrastructure
+                          Existing                  Projected development in DCP timeframe
+                        Development
+Land use           E.R.
+                           2002           2003          2004         2005         2006                       Total
+                             D.P.    D.U.    D.P.   D.U.   D.P.   D.U.    D.P.   D.U.   D.P.    D.U.    D.P.     D.U.
+Residential
+                       1     211     211      5      5       5      5      4      4       3      3      228      228
+(no. of dwellings)
+Retail premises
+                      19    1,400     74      0      0     300     16     300     16      0      0     2,000     105
+(fl. space m²)
+Office/service
+industry              121    600       5      0      0       0      0      0      0       0      0      600          5
+(fl. space m²)
+Industry other
+than service
+                      67       0       0      0      0       0      0      0      0       0      0       0           0
+industry
+(fl. space m²)
+Primary school
+                     3.42      0       0      0      0       0      0      0      0       0      0       0           0
+(no. students)
+Total                                290             5             21             20             3     2,828     338
+
+     Conversion of development in analysis area 1 into common demand units for drainage
+     infrastructure
+                          Existing                  Projected development in DCP timeframe
+                        Development
+Land use           E.R.
+                           2002           2003          2004         2005         2006                       Total
+                             D.P.    D.U.    D.P.   D.U. Actual D.U.      D.P.   D.U. Actual D.U.       D.P.     D.U.
+Residential
+                       1     211     211      5      5       5      5      4      4       3      3      228      228
+(no. of dwellings)
+Retail premises
+                      300   3,256     11      0      0     698      2     698     2       0      0     4,652     16
+(fl. space m²)
+Office/service
+industry              360    938       3      0      0       0      0      0      0       0      0      938          3
+(fl. space m²)
+Industry other
+than service
+                      540      0       0      0      0       0      0      0      0       0      0       0           0
+industry
+(fl. space m²)
+Primary school
+                      540      0       0      0      0       0      0      0      0       0      0       0           0
+(no. students)
+Total                                224             5              7             6              3     5,818     246
+
+
+
+
+        V5.9                                         March 2007                                 Page 51 of 123
+                                                              Development Contributions Guidelines
+
+
+
+Conversion of development in analysis area 2 into common demand units for road
+infrastructure
+
+                              Existing     Projected development in DCP timeframe
+                            Development
+Land use             E.R.
+                               2002       2003     2004       2005      2006      Total
+                               D.U.       D.U.         D.U.   D.U.      D.U.       D.U.
+Residential
+                      1         198        7            8      5          5        223
+(no. of dwellings)
+Retail premises
+                     19          0         0            0      0          0         0
+(fl. space m²)
+Office/service
+industry             121         0         0            0      0          0         0
+(fl. space m²)
+Industry other
+than service
+                     67          0         0            0      0          0         0
+industry
+(fl. space m²)
+Primary school
+                     3.42        0         0            0      0          0         0
+(no. students)
+Total                           198        7            8      5          5        223
+
+
+
+Conversion of development in analysis area 2 into common demand units for drainage
+infrastructure
+
+                              Existing     Projected development in DCP timeframe
+                            Development
+Land use             E.R.
+                               2002       2003     2004       2005      2006      Total
+                               D.U.       D.U.         D.U.   D.U.      D.U.       D.U.
+Residential
+                      1         198        7            8      5          5        223
+(no. of dwellings)
+Retail premises
+                     300         0         0            0      0          0         0
+(fl. space m²)
+Office/service
+industry             360         0         0            0      0          0         0
+(fl. space m²)
+Industry other
+than service
+                     540         0         0            0      0          0         0
+industry
+(fl. space m²)
+Primary school
+                     540         0         0            0      0          0         0
+(no. students)
+Total                           198        7            8      5          5        223
+
+
+
+
+V5.9                                      March 2007                                 Page 52 of 123
+                                                              Development Contributions Guidelines
+
+
+
+Conversion of development in analysis area 3 into common demand units for road
+infrastructure
+
+                              Existing     Projected development in DCP timeframe
+                            Development
+Land use             E.R.
+                               2002       2003     2004       2005      2006      Total
+                               D.U.       D.U.         D.U.   D.U.      D.U.       D.U.
+Residential
+                      1         14         0            0      0          0         14
+(no. of dwellings)
+Retail premises
+                     19         126        84           0      0          0        211
+(fl. space m²)
+Office/service
+industry             121         8         0            0      0          4         12
+(fl. space m²)
+Industry other
+than service
+                     67          1         0            1      2          3         7
+industry
+(fl. space m²)
+Primary school
+                     3.42       29         3            3      6          6         47
+(no. students)
+Total                           179        87           4      8         13        291
+
+Conversion of development in analysis area 3 into common demand units for drainage
+infrastructure
+
+                              Existing     Projected development in DCP timeframe
+                            Development
+Land use             E.R.
+                               2002       2003     2004       2005      2006      Total
+                               D.U.       D.U.         D.U.   D.U.      D.U.       D.U.
+Residential
+                      1         14         0            0      0          0         14
+(no. of dwellings)
+Retail premises
+                     300        19         12           0      0          0         31
+(fl. space m²)
+Office/service
+industry             360         4         0            0      0          2         7
+(fl. space m²)
+Industry other
+than service
+                     540         4         0            2      5          9         20
+industry
+(fl. space m²)
+Primary school
+                     540         6         1            0      0          0         7
+(no. students)
+Total                           48         13           2      5         11         79
+
+
+
+
+V5.9                                      March 2007                                 Page 53 of 123
+                                                              Development Contributions Guidelines
+
+
+
+Conversion of development in analysis area 4 into common demand units for road
+infrastructure
+
+                              Existing     Projected development in DCP timeframe
+                            Development
+Land use             E.R.
+                               2002       2003     2004       2005      2006      Total
+                               D.U.       D.U.         D.U.   D.U.      D.U.       D.U.
+Residential
+                      1         157        15          23      35        40        270
+(no. of dwellings)
+Retail premises
+                     19          0         0            0      0          0         0
+(fl. space m²)
+Office/service
+industry             121         0         0            0      0          0         0
+(fl. space m²)
+Industry other
+than service
+                     67          0         0            0      0          0         0
+industry
+(fl. space m²)
+Primary school
+                     3.42        0         0            0      0          0         0
+(no. students)
+Total                           157        15          23      35        40        270
+
+
+
+Conversion of development in analysis area 4 into common demand units for drainage
+infrastructure
+
+                              Existing     Projected development in DCP timeframe
+                            Development
+Land use             E.R.
+                               2002       2003     2004       2005      2006      Total
+                               D.U.       D.U.         D.U.   D.U.      D.U.       D.U.
+Residential
+                      1         157        15          23      35        40        270
+(no. of dwellings)
+Retail premises
+                     300         0         0            0      0          0         0
+(fl. space m²)
+Office/service
+industry             360         0         0            0      0          0         0
+(fl. space m²)
+Industry other
+than service
+                     540         0         0            0      0          0         0
+industry
+(fl. space m²)
+Primary school
+                     540         0         0            0      0          0         0
+(no. students)
+Total                           157        15          23      35        40        270
+
+
+
+
+V5.9                                      March 2007                                 Page 54 of 123
+                                                                     Development Contributions Guidelines
+
+
+
+Stage 5–List the infrastructure projects and the costs
+included in the DCP
+A DCP can include one or more infrastructure projects. The projects may be provided by local or
+State Government. The DCP must include the expected costs of providing the infrastructure projects.
+Outcome
+The outcome of this stage is a table that describes the infrastructure projects in the DCP.
+Process
+Complete the following tasks.
+
+ Task     Description
+   1      Refer to the development projections documented in Stage 3 to determine the need
+          for infrastructure and confirm the infrastructure projects to be included in the DCP and
+          the timing of their delivery.
+          For more information about including infrastructure projects in a DCP, go to:
+          • [Guidelines for types of infrastructure that can be included in a DCP]
+          • [Guidelines about including existing infrastructure]
+          • [Guidelines for including open space projects]
+          • [Guidelines for deciding the timing of delivery of infrastructure projects], and
+          • [Guidelines for the justification of projects].
+   2      Classify each infrastructure project as either:
+          • community infrastructure, or
+          • development infrastructure.
+          For more information, go to [Guidelines for classifying community and development
+          infrastructure].
+   3      Prepare a table itemising the costs for each infrastructure project.
+          For more information and an example, go to:
+          • [Guidelines for infrastructure costs that can be included in a DCP]
+          • [Guidelines for DCP-related costs that can be included]
+          • [Guidelines for estimating costs]
+          • [Example of table itemising the costs for an infrastructure project]
+   4      Document in a summary table the following for each infrastructure project:
+          • assigned project number
+          • project name
+          • infrastructure type
+          • full project description
+          • standard of provision (with reference to the basis of the standard selected)
+          • reference to strategic planning framework, go to [Stage 1–Document the strategic
+            context for the DCP]
+          • timing of provision
+          • total estimated cost.
+          For examples, go to:
+          • [Example of a summary table documenting the infrastructure projects included in
+             the DCP], and
+          • [Example of map showing infrastructure projects included in the DCP].
+
+
+
+
+V5.9                                             March 2007                                    Page 55 of 123
+                                                                      Development Contributions Guidelines
+
+
+
+Guidelines for types of infrastructure that can be included in a DCP
+A DCP may include infrastructure to be provided by a council or State Government agency. Basic
+utilities, such as water supply and sewerage, provided by servicing authorities under their own
+legislation cannot be included in a DCP.
+The types of projects in a DCP can include the following:
+• a new item of infrastructure
+• an upgrade in the standard of provision of an existing infrastructure item
+• an extension to an existing facility, or
+• the total replacement of an infrastructure item after it has reached the end of its economic life.
+A DCP cannot be used to fund the total replacement of an infrastructure item, if the replacement is
+necessary as a result of poor maintenance.
+
+
+Guidelines about including existing infrastructure
+A DCP cannot include existing infrastructure that was wholly funded through general taxes or rates.
+It is only possible to use a DCP to recover the costs of providing existing infrastructure or to charge for
+excess capacity in an existing infrastructure item if:
+• the infrastructure was already included in a previous DCP, and
+• full or partial recovery of costs was already planned when the infrastructure was originally provided.
+
+
+Guidelines for including open space projects
+Projects associated with the acquisition or development of open space can be included in a DCP.
+However, you must ensure that the project to be included in the DCP will not be funded by levies
+imposed under:
+• the Subdivision Act 1988, or
+• Clause 52.01 of the Victoria Planning Provisions.
+The council or State Government agency must avoid ‘double dipping’ or charging twice for the same
+open space infrastructure project through different mechanisms.
+
+
+Guidelines for deciding the timing of delivery of infrastructure projects
+Before including an infrastructure project in a DCP the council or State Government agency must be
+able to deliver the project within the DCP timeframe. There are three ways of nominating the timing of
+delivery. These are nominating:
+• a year or a range of years
+• an event, threshold or circumstance linked to the development of the area
+• delivery by the end date of the DCP.
+It is important that DCPs include a reasonable degree of flexibility in nominating the timing of delivery
+of projects to avoid the need for changes to the DCP and unnecessary amendments to the planning
+scheme.
+
+
+Guidelines for the justification of projects
+The selected infrastructure and the standard must be justified in the DCP, irrespective of whether the
+infrastructure is provided by a council or State Government agency.
+To qualify for inclusion in a DCP, all infrastructure projects:
+• must be expected to be used by a broad cross-section of the community, and
+• must serve a neighbourhood-sized catchment or larger area.
+
+
+
+
+V5.9                                            March 2007                                    Page 56 of 123
+                                                                       Development Contributions Guidelines
+
+
+This means that the infrastructure provided is likely to be used by a broad range of people, given the
+likely profile of the expected community (age, ethnicity, sex) which justifies the selection of the
+infrastructure.
+To justify the infrastructure projects to be included in a DCP, the type and standard of infrastructure
+must meet the criteria for level one or two, as described below.
+
+       Type and         Criteria                                  Examples
+       standard of
+       infrastructure
+       provision
+       Level one        Is basic to the health, safety or well    • Maternal and child health centre
+                        being of the community                    • Local open space, such as a
+                                                                    neighbourhood park
+                                                                  • Roads
+                                                                  • Drainage retarding basins
+                                                                  • Land for fixed rail public
+                                                                    transport
+       Level two        Is consistent with current community      • Road constructed to high
+                        expectations of what is required to         standard including bike lane,
+                        meet its health, safety or well being       transit lane and wide median for
+                                                                    boulevard planting
+                                                                  • Aquatic centre
+                                                                  • Streetscape works
+
+
+In meeting the level two criteria, additional justification will be required to demonstrate that the type or
+standard of infrastructure is supported by the general community. This will necessarily include
+community consultation in association with a strategic study that is given effect through the planning
+scheme. For example, an urban design framework or open space strategy reflected in the planning
+scheme may specify certain design standards for street treatments, landscaping, provision of facilities
+etc.
+It should be noted that community expectations of what is required for the health, safety and well-
+being of the community are likely to change over time.
+
+
+Guidelines for classifying community and development infrastructure
+The Planning and Environment Act 1987 requires infrastructure projects to be classified either as
+development infrastructure or community infrastructure. The distinction is important because:
+• there is a maximum development contribution levy that can be charged for community
+   infrastructure
+• the timing of the payment of each levy is different
+• the person who pays the levy may be different, and
+• the process for collection is different.
+
+
+
+
+V5.9                                              March 2007                                     Page 57 of 123
+                                                                      Development Contributions Guidelines
+
+
+The following table describes and provides examples of the two types of infrastructure.
+
+Infrastructure      Description                        Examples
+type
+Development         • acquisition of land              • acquisition of land for roads, public
+infrastructure        associated with all                transport corridors, drainage, public open
+                      infrastructure                     space, and community facilities including
+                    • construction of roads,             (but not limited to) those listed under the
+                      footpaths, bike paths, and         last dot point in this list
+                      traffic management and           • construction of roads, including the
+                      control devices                    construction of bicycle and foot paths,
+                    • construction of drainage           and traffic management and control
+                      works                              devices
+                    • provision of public              • construction of public transport
+                      transport infrastructure           infrastructure, including fixed rail
+                                                         infrastructure, railway stations, bus stops
+                    • land forming and                   and tram stops
+                      landscaping of public open
+                      space and drainage               • basic improvements to public open
+                      reserves                           space, including earthworks,
+                                                         landscaping, fencing, seating and
+                    • landscaping of roads,              playground equipment
+                      footpaths, and bike paths
+                                                       • drainage works
+                    • construction of or upgrade
+                      of maternal and child            • buildings and works for or associated
+                      health care centres, child         with the construction of maternal and
+                      care centres, and                  child health centers, child care centers,
+                      kindergartens                      kindergartens, or any center which
+                                                         provides these facilities in combination
+Community           • all other infrastructure of a    • community health centres
+infrastructure        community or social nature       • leisure and recreational facilities on
+                    • are projects that involve          public open spaces
+                      the construction or              • cultural and educational facilities such as
+                      upgrade of a building or           libraries
+                      facility, and does not
+                      include the acquisition of       • sporting facilities, such as tennis courts,
+                      the land for the facility          change rooms, pavilions, grandstands
+                                                         and goal posts
+                                                       • public facilities such as public toilets
+
+
+Guidelines for infrastructure costs that can be included in a DCP
+The following table shows what costs can and cannot be included in the calculation of levies:
+
+  What can be included in a DCP?                   What cannot be included in a DCP?
+  • the capital costs of providing the             • maintenance costs
+    infrastructure projects, including land        • operational costs
+    and construction costs
+                                                   • any other anticipated recurrent costs
+  • the cost of financing the infrastructure
+    projects, if provided early in the life of
+    the DCP
+  • the design costs associated with the
+    infrastructure projects
+
+
+The capital costs for an infrastructure project means expenditure incurred by:
+• constructing new infrastructure, and
+
+
+V5.9                                             March 2007                                    Page 58 of 123
+                                                                    Development Contributions Guidelines
+
+
+• extending the economic life of an existing asset, where the cost required would be equal to or
+  greater than the cost of providing the asset in the first instance.
+
+
+Guidelines for DCP-related costs that can be included
+The following table describes the costs that can and cannot be included in a DCP.
+
+  What can be included in a DCP                  What cannot be included in a DCP
+  • preparation costs of the DCP                 • general strategic planning costs
+    document, including the costs                • costs of undertaking infrastructure
+    associated with structure planning for         needs analysis studies
+    new urban development in a greenfield
+    location                                     • administration and set up costs for
+                                                   DCP accounting systems
+  • costs associated with processing the
+    amendment
+  • consultant fees incurred in preparing
+    the DCP document
+
+
+Guidelines for estimating costs
+The calculation of the levy is based on the estimated cost of the infrastructure. The DCP must provide
+clear documentation itemising the costs associated with projects. It is likely to be challenged and
+reviewed through the planning scheme amendment process.
+In itemising costs, it is necessary to:
+• separate land acquisition and construction costs, and
+• express the costs in present day dollars.
+It should be noted that land acquisition costs will escalate over time, however the estimated cost for
+land acquisition must be based on present day values. To counter the effects of increasing land
+acquisition costs, you can:
+• purchase the land early in the life of the approved DCP
+• index the development infrastructure levy for land using the Valuer-General’s Land Monitor Index.
+
+
+
+
+V5.9                                           March 2007                                   Page 59 of 123
+                                                                     Development Contributions Guidelines
+
+
+The following describes the information required to itemise the costs for infrastructure projects.
+
+          Cost Component                              Information Required
+Land acquisition for any type of          • area in hectares
+infrastructure project                    • estimate of the cost per hectare of land
+Building construction                     • cost per square metre of floor area
+                                          • amount of floor space/ size of building
+                                          OR
+                                          • short description of type of building
+                                          • cost for the building
+Landscaping construction                  • cost per hectare or square metre
+                                          • short description of type landscaping
+                                            proposed
+Road construction                         • standard of road
+                                          • length of road
+                                          • unit cost per km
+Construction of traffic management        • cost of providing traffic management
+works                                       treatment
+                                          • description of traffic management treatment
+                                            (for example deceleration lane, signalized
+                                            intersection, roundabout etc)
+Drain construction                        • standard of drain
+                                          • length of drain
+                                          • unit cost per km
+Construction of associated drainage       • cost of providing drainage works
+works                                     • description of drainage works (for example
+                                            on-site retention system, gross pollutant trap,
+                                            macrophyte plantings etc.)
+Earthworks                                • cost per cubic metre
+
+
+
+
+V5.9                                            March 2007                                    Page 60 of 123
+                                                                   Development Contributions Guidelines
+
+
+
+
+Example of table itemising the costs for an infrastructure project
+Infrastructure project D001 - Retarding Basin
+Land acquisition costs
+          Description                   Area                Cost per ha                 Cost
+20 ML retarding basin                   3 ha                 $120,000                 $360,000
+Construction costs
+          Description             Area/ volume of            Unit Cost                  Cost
+                                      works
+Earthworks:                      23,520 cubic metres        $10 per cubic             $235,200
+(1.2 m x 140 m x 140 m),                                       metres
+including clay lining and
+mounds
+Landscaping:                                                $100,000 per              $140,000
+• grass swales                      1.4 hectares              hectare
+•      wetland vegetation
+•    tree planting around
+    perimeter
+Building and equipment:                                                               $364,800
+• Inlet and outlet works                                     $214,800
+•      2 gross pollutant traps                                $50,000
+•    Brick shed for flow                                     $100,000
+    recording equipment
+Total cost of project                                                                $1,100,000
+
+
+
+
+V5.9                                           March 2007                                 Page 61 of 123
+                                                                       Development Contributions Guidelines
+
+
+
+
+        Example of a summary table documenting the infrastructure projects included
+        in the DCP
+Development infrastructure
+Proj.      Project         Type      Description       Standard of        Strategic      Timing of        Estimated
+ no.        name                                        provision       justification    provision        cost – land
+                                                                         references                         and/or
+                                                                                                         construction
+D001    Retarding    Drain        Construct            20 ML            Storm water      2004            $1,100,000
+        Basin                     retarding basin in   retarding        management
+                                  creek watercourse    basin            plan
+                                  to control           including
+                                  intermittent         excavation,
+                                  flooding             clay lining
+                                                       and inlet and
+                                                       outlet works
+R001    Roundabout   Road         Upgrade existing     Council          Municipal        2005            $210,000
+                                  intersection to      Engineering      traffic
+                                  cater for extra      Standard         management
+                                  traffic generated    2503             plan.
+                                  by projected                          Existing
+                                  residential                           traffic counts
+                                  development                           in local area.
+                                                                        (See Jones
+                                                                        Consulting,
+                                                                        2001)
+
+
+Community infrastructure
+Proj.      Project         Type      Description       Standard of        Strategic      Timing of        Estimated
+ no.        name                                        provision       justification    provision         cost of
+                                                                         references                      construction
+C001    Upgrade of   Community    Renovate and         Works as         As identified    2005            $150,000
+        branch       Facilities   extend of existing   detailed in      in Community
+        library                   facility.            Request for      Needs Study
+                                                       Tender           (2001).
+                                                       T3509            Surveys of
+                                                                        users of the
+                                                                        existing
+                                                                        facility
+P001    Pavilion     Parks &      Provision of a       1 timber         Municipal        2003            $30,000
+                     Gardens      pavilion with BBQs   pavilion with    Open space
+                                  and seating in       seating,         Strategy
+                                  existing park.       tables and 2
+                                                       coin-operated
+                                                       BBQs
+
+
+
+
+        V5.9                                     March 2007                                     Page 62 of 123
+                                                 Development Contributions Guidelines
+
+
+
+Example of map showing infrastructure projects included in the DCP
+
+
+
+
+V5.9                              March 2007                            Page 63 of 123
+                                                                      Development Contributions Guidelines
+
+
+
+Stage 6–Identify the main catchment area for each
+infrastructure project
+For infrastructure projects with closed catchments, for example drainage, the boundary for this
+catchment area can be precisely defined but for most infrastructure items, usage tends to drop with
+increasing distance, with no obvious boundary evident.
+
+
+Outcome
+The outcome of this stage is a:
+• map of the MCA, and
+• a table documenting key information about the MCA:
+   − analysis areas that make up the MCA
+   − estimate of external and/or future usage, and
+   − assumptions.
+
+
+Process
+Complete the following tasks.
+
+ Task     Description
+   1      Define and map the MCA for each infrastructure project.
+          For more information, go to:
+          • [Guidelines for defining the MCA], and
+          • [Sources of information that will help in defining the MCA].
+   2      Using the map of the analysis areas prepared in Stage 2, identify which analysis areas
+          fall within the MCA of each infrastructure project.
+   3      Document any assumptions used to determine the MCA.
+   4      Estimate the proportion of external usage i.e. usage drawn from outside the MCA.
+          For more information, go to [Guidelines for estimating external usage].
+   5      Estimate usage generated by future development expected beyond the timeframe of
+          the DCP.
+          For more information, go to [Guidelines for estimating future usage].
+   6      Determine which types of development within each analysis area will:
+          • use the infrastructure project
+          • not use the infrastructure project, or
+          • use the infrastructure, but will not be charged for it.
+          For more information, go to [Guidelines for defining non-chargeable development]
+   7      Document information from Tasks 2-6 for each infrastructure project.
+          For an example, go to [Example of tables and maps showing the MCA, usage and
+          assumptions for each infrastructure project in the DCP].
+
+Guidelines for defining the MCA
+• Individual properties can fall into several MCAs for different infrastructure projects.
+• Patterns of usage, particularly for roads and community infrastructure, can be very complex. As a
+  result, expert judgement is required to define the MCA.
+
+
+
+
+V5.9                                            March 2007                                   Page 64 of 123
+                                                                     Development Contributions Guidelines
+
+
+• It is recommended that MCAs are defined in a simplified way taking into account:
+  − communities of interest, and
+  − logical natural boundaries that might affect usage, for example large roads and creeks.
+• Care should be taken in defining the MCA, to demonstrate that substantial cross-subsidies have
+  not occurred.
+
+
+Sources of information that will help in defining the MCA
+Sources of information that will help define the MCA include:
+• expert assessment and professional advice
+• standards of provision for drainage, roads and community infrastructure
+• needs assessments and analyses
+• topographic maps showing drainage catchments
+• traffic counts and modeling for roads
+• strategic planning documents, and
+• public open space or recreation strategies.
+
+
+Guidelines for estimating external usage
+External usage represents the proportion of the infrastructure project costs that will not be charged
+through the DCP. This proportion may be quite significant, for example, in the case of a main road
+carrying a large amount of through traffic. This proportion of the cost must be funded by another
+source such as general rates, taxes or grants.
+If a project does not have a closed catchment you must make an allowance for the percentage of
+usage coming from outside the MCA.
+To estimate external usage, use:
+• expert assessment and professional advice relevant to the type of infrastructure, for example
+    consult a traffic engineer for road infrastructure, and
+• local knowledge of the development patterns in the area.
+
+
+Guidelines for estimating future usage
+Future usage is usage generated by future development expected beyond the timeframe of the DCP
+either within or external to the MCA.
+Like external usage, you need to estimate the proportion of the infrastructure project costs that will not
+be charged through the DCP, due to expected usage beyond the timeframe of the DCP. This
+proportion of the cost must be funded by another source such as general rates, taxes or grants.
+However, it is possible to include the infrastructure project within subsequent DCPs to recover this
+proportion at a later date, where the future usage is from within the MCA.
+To estimate future usage use:
+• expert assessment and professional advice relevant to the type of infrastructure, for example
+    consult a traffic engineer for road infrastructure, and
+• local knowledge of the development patterns in the area.
+
+
+
+
+V5.9                                            March 2007                                   Page 65 of 123
+                                                                   Development Contributions Guidelines
+
+
+
+Guidelines for defining non-chargeable development
+Non-chargeable development is any new development that will be exempted from the infrastructure
+levies. This includes:
+• new development on Commonwealth land, as it is not subject to the planning scheme
+• new development that is being undertaken by or on behalf of the Ministers for Conservation,
+  Forests and Lands, Health and Education or their current equivalents, which is exempted from the
+  planning scheme (refer to Page 266, Victoria Government Gazette, 10 February 1988). This
+  means that public schools and hospitals are exempt.
+A council also has discretion to exempt any new types of land use or development from the
+development contribution levies. For example, a council may decide to exempt private schools and
+hospitals, churches, or community facilities provided by non-profit organisations because these uses
+provide community services. Similarly, councils may decide to exempt particular developments in
+circumstances of hardship or for economic development purposes.
+
+
+
+
+V5.9                                          March 2007                                  Page 66 of 123
+                                                               Development Contributions Guidelines
+
+
+
+Example of tables and maps showing MCA, usage and assumptions for each
+infrastructure project in the DCP
+Project type: Drainage
+Project no.                             D001 – Retarding basin
+Analysis areas included in main         1, 2 and 3
+catchment area for this project
+Assumptions for MCA                     Based on topographic and hydrology
+                                        data for the study area areas.
+% of external usage                     30% - Hydrological analysis indicates
+                                        that approximately 30% of runoff into
+                                        the creek is generated upstream of
+                                        analysis areas 1 and 2.
+% of future usage beyond DCP            0%
+timeframe
+Types of development within MCA         Residential, retail and commercial
+that will use the project               offices
+(included in calculation and charged)
+Types of development within MCA         None
+that will not use the project
+(not included in calculation)
+Types of development within MCA         State primary school (statewide
+that will use the project but are       exemption)
+exempt from levies
+(included in calculation and not
+charged)
+
+Map of MCA for DOO1
+
+
+
+
+V5.9                                      March 2007                                  Page 67 of 123
+                                                              Development Contributions Guidelines
+
+
+
+
+Project type: Road
+Project no.                             R001 - Roundabout
+Analysis areas included in main         4
+catchment area for this project
+Assumptions for MCA                     Based on traffic modelling by Jones
+                                        Consulting (2001) roundabout is
+                                        primarily required to cater for
+                                        additional traffic generated by
+                                        residential development in AA4.
+% of external usage                     20% - Counts of existing traffic
+                                        movements suggest that around 20%
+                                        of users will travel through the
+                                        roundabout rather than entering AA4.
+% of future usage beyond DCP            0%
+timeframe
+Types of development within MCA         Residential
+that will use the project
+(included in calculation and charged)
+Types of development within MCA         None
+that will not use the project
+(not included in calculation)
+Types of development within MCA         None
+that will use the project but are
+exempt from levies
+(included in calculation and not
+charged)
+
+Map of MCA for R001
+
+
+
+
+V5.9                                        March 2007                               Page 68 of 123
+                                                                 Development Contributions Guidelines
+
+
+
+Project type: Community Facility
+Project no.                             C001 – Upgrade of branch library
+Analysis areas included in main         1,2,3 and 4
+catchment area for this project
+Assumptions for MCA                     Existing facility is used by residents of
+                                        the entire study area. Upgraded
+                                        facility is likely to service a similar
+                                        catchment.
+% of external usage                     10% - Around 10% of users of the
+                                        existing facility originate from outside
+                                        the MCA.
+% of future usage beyond DCP            10% - Facility has been designed to
+timeframe                               cater for growth beyond the
+                                        development thresholds that are
+                                        anticipated in the DCP.
+Types of development within MCA         Residential
+that will use the project
+(included in calculation and charged)
+Types of development within MCA         Retail, commercial and industrial
+that will not use the project
+(not included in calculation)
+Types of development within MCA         State primary school
+that will use the project but are
+exempt from levies
+(included in calculation and not
+charged)
+
+Map of MCA for C001
+
+
+
+
+V5.9                                      March 2007                                    Page 69 of 123
+                                                                 Development Contributions Guidelines
+
+
+
+Project type: Parks and gardens
+Project no.                             P001 - Pavilion
+Analysis areas included in main         3 and 4
+catchment area for this project
+Assumptions for MCA                     Facility will be located in an existing
+                                        park within analysis area 3. However,
+                                        the facility is close to the boundary
+                                        between AA 3 and 4 and is likely to
+                                        be used by future residents of the key
+                                        potential development areas in AA 4.
+                                        Most parts of AA 3 and 4 will be within
+                                        walking distance (500m) of the
+                                        proposed facility.
+% of external usage                     10%- A recent survey of users of a
+                                        similar facility in AA 2 indicated that
+                                        10% of users.
+% of future usage beyond DCP            10%
+timeframe
+Types of development within MCA         Residential
+that will use the project
+(included in calculation and charged)
+Types of development within MCA         Retail, commercial and industrial
+that will not use the project
+(not included in calculation)
+Types of development within MCA         None
+that will use the project but are
+exempt from levies
+(included in calculation and not
+charged)
+
+Map of MCA for P001
+
+
+
+
+V5.9                                      March 2007                                    Page 70 of 123
+                                                                    Development Contributions Guidelines
+
+
+
+Stage 7–Calculate the infrastructure levy payable for each
+infrastructure project
+Outcome
+The outcome of this stage is the determination of the infrastructure levy payable by each demand unit
+for each infrastructure project.
+
+
+Process
+Complete the following tasks.
+
+ Task    Description
+   1     Using the demand unit information documented in Stage 4, create a table for each
+         infrastructure project that shows:
+         • each of the analysis areas that make up the MCA
+         • the types of development that are expected to use the infrastructure project in each
+           analysis area
+         • for each type of development, the number of existing and projected demand units
+           expected over the timeframe of the DCP.
+         For an example, go to [Example of a table showing total project demand in the MCA].
+   2     Calculate the project cost that can be attributed to the MCA by applying the [Formula
+         to calculate infrastructure project cost for MCA].
+         To complete this task, you will need the:
+         • estimated infrastructure project costs from Stage 5, and
+         • estimate of external usage from Stage 6.
+   3     Calculate the infrastructure levy payable per demand unit by applying the [Formula to
+         calculate infrastructure levy per demand unit].
+         To complete this task, you will need:
+         • total number of demand units from Task 1, and
+         • project cost for MCA from Task 2.
+   4     Repeat tasks 1-3 for each infrastructure project in the DCP.
+         Note: There is an alternative method for calculating infrastructure levies.
+         For more information and examples, go to:
+         • [Guidelines on present value discounting (PVD)], and
+         • [Examples of the application of the PVD method].
+
+
+
+
+V5.9                                          March 2007                                   Page 71 of 123
+                                                                       Development Contributions Guidelines
+
+
+
+Example of a table showing total project demand in the MCA
+
+Infrastructure Project D001
+
+ Analysis      Type of land use     No. of existing     No. of projected demand units in              Total
+ areas in      that will use the      drainage                   DCP timeframe                     development
+  MCA           infrastructure      demand units        2003     2004       2005       2006
+                                          2002
+              Residential                 211             5        5          5             3            228
+              Retail premises              11             0        2          2             0            16
+       1      Office/ service
+                                            3             0        0          0             0             3
+              industry
+       2      Residential                 198             7        8          5             5            223
+              Residential                  14             0        0          0             0            14
+              Retail premises              19            12        0          0             0            31
+              Office/ service
+                                            4             1        0          0             2             7
+              industry
+       3
+              Industry other
+              than service                  4             0        2          5             9            20
+              industry
+              Primary school                6             1        0          0             0             7
+  Total*                                  470            25       17         16         19               547
+*Totals may not equal the sum of the individual years due to rounding
+
+
+Formula to calculate infrastructure project cost for MCA
+Project cost – (%external + %future usage) = Project cost for MCA
+
+Example:
+ Project cost for      $1,100,000
+ D001
+ (From Stage 5)
+ External usage             30%
+ (From Stage 6)
+
+$1,100,000 – 30%=$770,000
+i.e. the infrastructure project cost for D001 that is attributable to the MCA is $770,000
+
+
+
+
+V5.9                                             March 2007                                     Page 72 of 123
+                                                                      Development Contributions Guidelines
+
+
+
+Formula to calculate infrastructure levy per demand unit
+Project cost for MCA divided by total no of demand units for MCA = Infrastructure levy per demand
+unit
+
+Example:
+ D001 Project cost for         $770,000
+ MCA
+ (From Step 2, Stage 7)
+ Total no. of demand             547
+ units for MCA
+ (From Step 1, Stage 7)
+
+
+$770,000 divided by 547=$1,406.77
+The infrastructure levy per demand unit for the D001 infrastructure project is $1,406.77
+
+
+Guidelines for present value discounting (PVD)
+Present value discounting (PVD) is an alternative method of calculating the infrastructure levies
+payable for an infrastructure project, to the one presented in Stage 7. PVD ensures infrastructure
+levies will more closely meet the cost of infrastructure supply, including financial costs.
+To use this method, a precise year for the timing of delivery of the infrastructure project and yearly
+demand projections must be available. The PVD method relies on a precise date of delivery and
+cannot be applied if the DCP nominates a threshold to trigger the delivery of the infrastructure project.
+There are two circumstances where the application of the PVD method may be warranted:
+• PVD is of the greatest advantage when the infrastructure project is constructed in advance of
+    collecting the payments for it. In this situation, infrastructure levies are calculated to include the
+    anticipated interest on the money borrowed to deliver the infrastructure prior to the collection of
+    funds.
+• In the reverse situation, levies may also be reduced to take into account the anticipated interest
+  earned on the money that will be collected during the DCP period.
+
+
+Examples of the application of the PVD method
+A greenfield catchment is expected to develop over 10 years, with 100 dwellings coming on stream in
+each of these years. The attributable cost of a major road to serve this catchment area is $1,000,000.
+
+Using the simple method for calculating infrastructure levies, $1 million divided by (10 years x100
+dwellings per year) = $1,000 per dwelling.
+
+
+Example 1-Funding Shortfall
+The road must be built in Year 1. Because the infrastructure levies have not yet been collected the
+council will need to borrow the required funds. Based on 6% interest on the $1 million loan over the
+10 year period, the repayments will be $136,000 per year.
+However, the council will only collect $100,000 per year in levies (100 dwellings per year x $1,000 per
+dwelling). There will be a funding shortfall at the end of 10 years, because the council did not take into
+account the amount of interest needed to repay the loan.
+In this case, if the PVD method is used to calculate the infrastructure levies, the levies would be
+greater than $1,000 to cover the interest to be paid.
+
+
+
+
+V5.9                                            March 2007                                    Page 73 of 123
+                                                                     Development Contributions Guidelines
+
+
+Example 2-Funding Surplus
+The road does not need to be built until Year 10. The council earns 6% interest on the infrastructure
+levies collected over the 10 years. The council will accumulate funds of $1.3 million by the time it is
+required to pay for the road, which is $300,000 more than the council requires to build the road.
+In this case, if the PVD method is used to calculate the infrastructure levies, the levies would be lower
+than $1,000 to take account of the interest to be earned.
+
+
+
+
+V5.9                                           March 2007                                    Page 74 of 123
+                                                                       Development Contributions Guidelines
+
+
+
+Stage 8–Calculate the total infrastructure levies in each
+analysis area
+Most DCPs contain more than one infrastructure project. If the DCP contains a single infrastructure
+project it is not necessary to complete this stage.
+The purpose of this stage is to calculate the total infrastructure levies in each analysis area using
+information generated in previous stages.
+
+
+Outcome
+The outcome of this stage is a table showing the infrastructure levies payable per demand unit for all
+applicable infrastructure projects in each analysis area.
+
+
+Process
+Complete the following tasks.
+
+ Task     Description
+   1      List the analysis areas as identified in Stage 3.
+   2      Group the infrastructure projects into development infrastructure and community
+          infrastructure, as identified in Stage 5.
+   3      Use the MCAs as identified in Stage 6 to identify the infrastructure projects that each
+          analysis area should contribute to.
+   4      Document the relevant infrastructure levy per demand unit, as calculated in Stage 7,
+          where the analysis area forms part of the MCA for the infrastructure project.
+   5      Calculate the total infrastructure levies payable by residential and non-residential
+          development for each analysis area.
+   6      Create a table showing the above information.
+          For an example, go to [Example of table showing infrastructure levies payable in each
+          analysis area].
+
+
+Example of table showing infrastructure levies payable in each analysis area
+Analysis     Infrastructure levies         Infrastructure levies for           Total             Total
+ areas       for development                      community               infrastructure    infrastructure
+             infrastructure projects        infrastructure projects          levies for        levies for
+                                                                            residential          non-
+                                                                           development        residential
+                                                                                             development
+                 D001           R001          C001            P001
+   AA1        $1,406.77           -         $163.27             -           $1,570.04         $1,406.77
+   AA2        $1,406.77           -         $163.27             -           $1,570.04         $1,406.77
+   AA3        $1,406.77           -         $163.27           $73.94        $1,644.98         $1,406.77
+   AA4             -          $622.22       $163.27           $73.94         $859.43             $622.22
+Note: The example assumes that non-residential development will not use the community
+      infrastructure projects.
+
+
+
+
+V5.9                                            March 2007                                    Page 75 of 123
+                                                                     Development Contributions Guidelines
+
+
+
+Stage 9–Establish charge areas which have common
+infrastructure levies
+A charge area is an area where the same infrastructure levies apply to all demand units. Charge
+areas are created by aggregating analysis areas with common levies for common infrastructure
+projects.
+The purpose of creating charge areas is to simplify the application of infrastructure levies within the
+planning scheme. Each charge area created will become a schedule to the Development
+Contributions Plan Overlay (DCPO) as set out in the Victoria Planning Provisions.
+
+
+Outcome
+The outcomes of this process are:
+• a map of the DCP area showing the charge areas
+• a table showing charge areas, the infrastructure levies and projects, and
+• a list of the types of development that will be exempt from paying infrastructure levies.
+
+
+Process
+Complete the following tasks.
+
+ Task     Description
+   1      Analyse the table of infrastructure levies payable in each analysis area (developed in
+          Stage 8) and identify any groups of analysis areas which contribute to the same
+          infrastructure projects and have the same infrastructure levies. These groups become
+          the DCP charge areas.
+          For more information, go to [Guidelines for establishing charge areas].
+   2      Refer to the map of the analysis areas to ensure that the groups of analysis areas
+          relate to one another and form a logical geographical unit.
+   3      Map the charge areas.
+   4      Create a table that shows:
+          • the charge areas and the groups of analysis areas
+          • total infrastructure levies that relate to demand units in those charge areas
+          • the community and development infrastructure levies, and
+          • a list of projects that relate to the charge areas.
+          For examples, go to:
+          • [Example of a table showing details of charge areas in the DCP], and
+          • [Example of map showing charge areas].
+   5      Examine each charge area and list the developments that will be exempt from paying
+          infrastructure levies. Refer to the table developed in Stage 6 for each infrastructure
+          project showing the types of development that are exempt from the levies.
+
+
+Guidelines for establishing charge areas
+A charge area
+• may align with the boundaries of an MCA or a smaller area such as an individual analysis area,
+   and
+• should be free of major cross-subsidies.
+
+
+
+
+V5.9                                            March 2007                                    Page 76 of 123
+                                                               Development Contributions Guidelines
+
+
+
+Example of a table showing details of charge areas in the DCP
+
+Charge     Analysis    Infrastructure   Infrastructure        Total       Infrastructure    Development
+ area        areas       levies for        levies for    infrastructure      projects        not required
+         included in    development       community          levies                             to pay
+            charge     infrastructure   infrastructure                                      infrastructure
+             area                                                                               levies
+   1       1 and 2       $1,406.77         $163.27         $1,570.04           D001          State primary
+                                                                               C001             school
+                                                                                                   Retail
+                                                                                                premises,
+                                                                                             office, service
+                                                                                             industry, and
+                                                                                                industrial
+                                                                                             development
+                                                                                            exempted from
+                                                                                               community
+                                                                                             infrastructure
+                                                                                                  levies.
+   2         2           $1,406.77         $237.21         $1,644.98           D001          State primary
+                                                                               C001             school
+                                                                               P001                Retail
+                                                                                                premises,
+                                                                                             office, service
+                                                                                              industry and
+                                                                                                industrial
+                                                                                             development
+                                                                                            exempted from
+                                                                                               community
+                                                                                             infrastructure
+                                                                                                  levies.
+   3         4            $622.22          $237.21          $859.43            R001          Retail, office,
+                                                                               C001              service
+                                                                                              industry and
+                                                                               P001             industrial
+                                                                                             development
+                                                                                            exempted from
+                                                                                               community
+                                                                                             infrastructure
+                                                                                                  levies.
+
+
+
+
+V5.9                                       March 2007                                 Page 77 of 123
+                                             Development Contributions Guidelines
+
+
+
+Example of map showing charge areas
+
+
+
+
+V5.9                            March 2007                          Page 78 of 123
+                                                                     Development Contributions Guidelines
+
+
+
+Stage 10–Describe how infrastructure levies will be
+collected
+The final step in the calculations phase is deciding how to collect the levies from new development.
+You need to assess whether the procedures provided in the Planning and Environment Act 1987 for
+collecting development and community infrastructure levies capture all the types of development to be
+charged.
+For more information, go to [Guidelines for the collection of infrastructure levies].
+If the collection procedures in the Act do not capture all the types of development to be charged, the
+DCP must include procedures to collect development infrastructure levies where no planning permit is
+required.
+
+Outcomes
+The outcomes of this stage are:
+• a description of how infrastructure levies for both community and development infrastructure
+  projects will be collected, and
+• documentation of the method for collecting infrastructure levies from development types or areas
+  that do not require a planning permit.
+
+Process
+Complete the following tasks.
+
+Task     Description
+  1      For each charge area, list the infrastructure projects that were classified as
+         development infrastructure using the table created in Stage 9.
+  2      For the development infrastructure projects, list the types of new development that will
+         use the infrastructure and be charged. Use the table created in Stage 6 to identify the
+         types of development in this category.
+  3      Check the planning scheme to determine if the identified types of new development
+         require a planning permit.
+  4      For each development type not requiring a planning permit, identify and document an
+         alternative procedure to use to collect development infrastructure levies.
+         For information and an example, go to:
+         • [Guidelines for establishing an alternative collection procedure]
+         • [Example of an alternative collection procedure]
+
+Guidelines for the collection of infrastructure levies
+The Planning and Environment Act 1987 states that the requirement to pay a development
+infrastructure levy in accordance with a DCP must be specified in a condition on the planning permit.
+The planning permit condition may require the applicant to either:
+• pay by a certain date
+• pay prior to being issued a building permit under the Building Act 1993 or Statement of Compliance
+  under the Subdivision Act 1988, or
+• enter into an agreement regarding the timing and staging of payments, or provide works-in-kind to
+  meet requirements.
+The Planning and Environment Act 1987 requires the building permit applicant to pay the community
+infrastructure levy prior to the building permit being issued.
+Before issuing a building permit, the building surveyor must check whether the building permit
+applicant has:
+• paid the community infrastructure levy, or
+• entered into an agreement with the council to pay the levy at a later date.
+
+
+
+V5.9                                           March 2007                                   Page 79 of 123
+                                                                     Development Contributions Guidelines
+
+
+A developer may, by agreement with the council, either pay or provide works-in-lieu to meet the
+community infrastructure levy at the planning permit stage.
+
+
+Guidelines for establishing an alternative collection procedure
+If a planning permit is not required for particular types of development, the council must document an
+alternative procedure for collecting development infrastructure levies in the approved DCP.
+One alternative is to collect the development infrastructure levy through the building permit process.
+There may be other options. When selecting an option, ensure that there is a:
+• mechanism in the development process that triggers the requirement to pay the levy, and
+• specified point in time for payment of the levy.
+
+
+Example of an alternative collection procedure
+A council in an established urban area wants to charge a development infrastructure levy for drainage
+projects. This levy will apply to all new development resulting in increased site coverage, including
+extensions to houses. The charge is calculated according to square metres of new site coverage.
+In this municipality, planning permits are not required for extensions to houses on lots that are larger
+than 300 square metres.
+In order to charge this levy for extensions that do not require a planning permit, council must include a
+development infrastructure levy collection procedure in its DCP. In this case the DCP provides for the
+levy to be collected at the building permit stage.
+
+
+
+
+V5.9                                           March 2007                                    Page 80 of 123
+                                                                      Development Contributions Guidelines
+
+
+
+Stage 11–Estimate the amount the council will need to fund
+for each infrastructure project
+The estimates prepared in this stage take into account development that will not pay infrastructure
+levies, such as:
+• existing development
+• future usage within the MCA
+• external usage
+• development exempted from the requirements of the planning scheme, and
+• any other types of development that council has chosen to exempt, for example community service
+  providers, churches or private schools.
+
+
+This stage is optional.
+
+
+Outcome
+The outcome of this stage is an estimate for each project of the amount the council:
+• can expect to collect through the DCP, and
+• will need to fund to make up the shortfall.
+
+
+Process
+Complete the following tasks.
+
+ Task     Description
+   1      Calculate the percentage of the total demand units for the MCA that are chargeable
+          using the [Formula to determine percentage of MCA that is chargeable].
+   2      Calculate how much money the council can expect to collect in infrastructure levies
+          over the DCP timeframe using the [Formula to determine the amount that council will
+          collect from the DCP].
+   3      Calculate how much the council will have to contribute to deliver the infrastructure
+          project using the [Formula to calculate the council’s contribution to the infrastructure
+          project].
+
+
+Formula to determine percentage of MCA that is chargeable
+(No. of demand units of existing development in the MCA + the no. of demand units of new
+development in the MCA exempted from charges) divided by the total no. of demand units for the
+MCA x 100 = % of the MCA that is non-chargeable
+
+
+
+
+V5.9                                            March 2007                                    Page 81 of 123
+                                                                     Development Contributions Guidelines
+
+
+Example:
+ Total no. of demand units for MCA           547
+ for infrastructure project D001
+ (From Stage 7)
+ Total no. of demand units for               470
+ existing development for D001
+ (From Stage 7)
+ Total no. of demand units for new             1
+ development that is exempt from
+ paying levies for D001
+ (From Stage 6 and 7)
+
+
+(470+1) divided by 547x100 = 86.1% of MCA that is existing development or exempt from levies (non-
+chargeable)
+This means that 14.9% of the MCA can be charged.
+Note: Infrastructure levies can only be collected from new development.
+
+
+Formula to determine the amount that council will collect from the DCP
+% of the MCA that is chargeable x project cost for the MCA = Amount to be collected in levies over
+DCP timeframe
+
+Example:
+ Percentage of the MCA that is
+                                       14.9%
+ chargeable new development
+ Project cost for the MCA
+                                      $770,000
+ (From Stage 7)
+
+14.9% of $770,000 = $106,984
+The amount that the council will collect from the MCA is $106,984
+
+
+Formula to calculate the council’s contribution to the infrastructure project
+Total project cost – the amount that council will collect from the MCA = council’s contribution to the
+infrastructure project
+
+Example:
+ Estimated total project cost for
+ D001                                $1,100,000
+ (Stage 5)
+ Total amount collected from
+ chargeable new development in        $106,984
+ the MCA
+
+$1,100,000 - $106,984= $993,016
+The council must contribute $993,016 to the cost of the D001 infrastructure project.
+
+
+
+
+V5.9                                            March 2007                                   Page 82 of 123
+                                                                     Development Contributions Guidelines
+
+
+
+Stage 12–Prepare a cash flow analysis
+In this stage you will prepare information that will enable the council to consider and assess the
+budget implications of each infrastructure project. This information is not necessarily included in the
+final DCP. This stage is optional.
+
+
+Outcome
+The outcome of this stage is a cash flow analysis table documenting timing of collection and
+expenditure.
+
+
+Process
+Complete the following tasks.
+
+ Task     Description
+   1      Calculate the income for each project in each year of the DCP using the [Formula to
+          calculate yearly income for each project].
+          You will need the:
+          • total number of projected demand units per year from Stage 7, and
+          • infrastructure levy per demand unit from Stage 7.
+   2      Create a table showing the information from Task 1.
+          For an example, go to [Example of table showing the cash flow analysis for
+          infrastructure project].
+   3      Calculate the funding shortfall associated with the demand units that are exempted
+          from paying infrastructure levies using the [Formula to calculate the council funding
+          shortfall associated with exempted new development].
+          You will need the:
+          • total number of demand units associated with new development exempt from
+            paying levies, and
+          • infrastructure levy per demand unit.
+   4      Complete Tasks 1-3 for each project included in the DCP.
+
+
+Formula to calculate yearly income for each project
+No. of demand units in nominated year x infrastructure levy per demand unit = Income for nominated
+year
+
+Note: Do not include the totals for existing demand units in the calculation.
+
+Example:
+ No. of demand units in year
+ 2003 for infrastructure project
+ D001                                    25
+ (From Stage 7)
+ Infrastructure levy per demand
+ unit for infrastructure project
+ D001                                $1,406.77
+ (From Stage 7)
+
+
+
+
+V5.9                                           March 2007                                    Page 83 of 123
+                                                                   Development Contributions Guidelines
+
+
+25 x $1,406.77 = $35,169
+The year 2003 income for infrastructure project D001 is $35,169
+
+
+Example of table showing the cash flow analysis for infrastructure project
+                   Existing          2003           2004          2005           2006             Total
+                   develop.
+                     2002
+No. of
+demand units         470             25*             17            16             19               547
+in MCA
+Project
+annual
+income from           $0          $33,762.59*    $23,915.17   $22,508.40     $26,728.72       $106,914.88
+infrastructure
+levies
+Cumulative
+                       0          $33,762.59     $57,677.77   $80,186.16     $106,914.88            -
+income
+Total project
+                         0               0       $1,100,000                       0         $1,100,000
+expenditure
+*One of the demand units that is projected in 2003 is exempt from paying DCP charges and hence the
+cash flow for this year equals the total number of demand units (25) minus the number of exempt
+demand units (1) multiplied by the charge for D001 ($1,407.95)
+
+
+Formula to calculate the council funding shortfall associated with exempted
+new development
+Total no. of demand units associated with new development that is exempt from paying levies x
+infrastructure levy per demand unit = council funding shortfall associated with exempted new
+development
+
+Example:
+ Total no. of demand units for
+ new development that is
+ exempt from paying levies (i.e.
+ added State primary school site           1
+ area = 500 m2)
+ (Calculate from tables in Stages
+ 6 and 7)
+ Infrastructure levy per demand
+ unit                                $1,406.77
+ (Stage 7)
+
+1 x $1,4076.77 = $1,406.77
+The council funding shortfall from new development exempt from paying infrastructure levies is
+$1,406.77
+
+
+
+
+V5.9                                            March 2007                                 Page 84 of 123
+                                                                       Development Contributions Guidelines
+
+
+
+Stage 13–Obtain council support
+Based on the information collated in previous stages, this stage provides an opportunity to get council
+agreement on the main components of the DCP, such as levies, costs and timeframes and to confirm
+the list of projects that will be included. Decisions made at this stage may result in the reworking of
+calculations before you prepare the full DCP documentation.
+
+
+Outcome
+The outcomes of this stage are:
+• confirmation of the infrastructure levies
+• confirmation of the projects that will be included in the DCP, and
+• commitment to project funding and the infrastructure delivery schedule.
+
+
+Process
+Complete the following tasks.
+
+ Task     Description
+   1      Using the information collated in Steps 11 and 12 for each infrastructure project,
+          consider the following:
+          • Will the council have to borrow money in order to provide the infrastructure project
+             within the DCP timeframe?
+          • What are the options to fund the shortfall? Options might include special rates or
+            charges schemes, general rates revenue or government grants or a combination of
+            these options.
+          • Is it possible to delay the project until further levies are collected?
+          • Is the DCP a cost-effective funding mechanism for the project given the amount of
+            infrastructure levies collected through the DCP?
+          • On balance, does the DCP present a good option against other funding
+            mechanisms?
+   2      Prepare and submit a report to council. This report may include information and
+          recommendations about:
+          • infrastructure levies in each charge area
+          • commitment to delivery, including expected timing
+          • the amount council will need to fund
+          • cash flow analysis and budget implications, and
+          • methods and procedures for collecting levies for each project.
+
+   3      Submit the report to council and incorporate any changes that result.
+
+
+
+
+V5.9                                            March 2007                                    Page 85 of 123
+                                                                    Development Contributions Guidelines
+
+
+
+Stage 14–Compile the draft DCP
+This stage involves collating all the information prepared from previous stages into a draft DCP in a
+format suitable for incorporation into the planning scheme. You may choose to compile the
+documentation either:
+• progressively as you work through the stages, or
+• once council support has been obtained.
+The DCP document can be presented for review as a stand-alone document or as part of a related
+strategic planning document to be incorporated in the planning scheme, such as a structure plan,
+growth area plan or open space strategy. In this case, you should ensure that the DCP component of
+this documentation is clearly identifiable.
+
+
+Outcome
+The outcome of this process is a draft DCP ready for internal and external review.
+
+
+Process
+Complete the following task.
+
+ Task     Description
+   1      Assemble the full DCP documentation and prepare all maps as required.
+          For more information, go to:
+          • [Guidelines about the content of a DCP]
+          • [Guidelines about the level of detail required in a DCP], and
+          • [Guidelines about referencing other documents in a DCP].
+
+Guidelines about the content of a DCP
+It is important that the content of the DCP:
+• meets the requirements of section 46K of the Planning and Environment Act 1987, and
+• is capable of meeting the Strategic assessment guidelines for planning scheme amendments.
+A DCP should include the following information:
+• details of the geographical DCP area
+• strategic context
+• DCP timeframe
+• overview of infrastructure projects included in the DCP
+• detailed summary sheets for each individual infrastructure project
+• method of calculating infrastructure levies
+• details of the amount and application of the development infrastructure levies and community
+  infrastructure levies, and
+• procedures for collection and administration of levies.
+
+
+
+
+V5.9                                            March 2007                                  Page 86 of 123
+                                                                        Development Contributions Guidelines
+
+
+Use the following table as a checklist for compiling the DCP.
+
+        Type of Information                             Specific Content                                    Reference
+1      Details of geographical     • description of DCP area                                               [Stage 1]
+       DCP area                    • map of DCP area
+                                   • map showing the boundaries of the charge areas                        [Stage 9]
+2      Strategic context           • summary of strategic planning framework underpinning the              [Stage 1]
+                                     DCP and which the DCP seeks to implement
+                                   • summary of existing development and new development
+                                     projected within the DCP timeframe
+                                   • summary of existing infrastructure and new infrastructure
+                                     required to service the future community
+                                   • reference to the corporate plan, planning scheme or other
+                                     relevant documents
+3      DCP timeframe               • the DCP timeframe                                                     [Stage 1]
+                                   • basis for the selection of the timeframe in relation to the
+                                     strategic context
+4      Overview of the             • provide a summary table describing each infrastructure                [Stage 5]
+       infrastructure projects       project, including the following details:
+       included in the DCP           − assigned project number
+                                     − project name
+                                     − description
+                                     − standard of provision
+                                     − timing of delivery
+                                     − estimated cost
+                                   • differentiate between community and development
+                                     infrastructure projects
+5      Detailed summary            • information explaining the strategic basis for the project            [Stage 1]
+       sheets for each               and the rationale for its selection, location, timing and
+       individual infrastructure     standard
+       project                     • reference to relevant parts of the strategic planning
+                                     framework in the planning scheme
+                                   • justification of the standard of the infrastructure against the
+                                     two level test in Stage 5                                             [Stage 5]
+                                   • timing of provision
+                                   • breakdown of all project costs and any relevant
+                                     assumptions
+                                   • explain any assumptions made about usage and the                      [Stage 6]
+                                     definition of the MCA
+                                   • list the types of development that are expected to use the
+                                     infrastructure project
+                                   • map showing the location of the project and its MCA
+                                   • list of the analysis areas that make up the MCA
+                                   • estimates of external and future usage, and
+                                   • the proportion of the total cost of the project that will be          [Stage 11]
+                                     funded by levies.
+
+
+
+
+V5.9                                              March 2007                                        Page 87 of 123
+                                                                      Development Contributions Guidelines
+
+
+6      Method of calculating      • the principles underlying the calculations                       [Stage 7]
+       infrastructure levies      • map of all analysis areas in the DCP and the basis for their     [Stage 2]
+                                    selection
+                                  • tables showing the amount and type of development                [Stage 3]
+                                    (existing and projected) within each analysis area
+                                  • assumptions and method used to estimate the amount of
+                                    development in each analysis area
+                                  • the demand unit and the basis for its selection
+                                                                                                     [Stage 4]
+                                  • tables showing the amount of development in each
+                                    analysis area converted into demand units
+                                  • the details of developable land or equivalence ratios used
+                                    and the basis of any changes to the equivalence ratios
+                                  • the cost-apportionment formula for the calculation of the
+                                    infrastructure levies per demand unit                            [Stage 7]
+7      Details of the amount      • map of the charge areas                                          [Stage 9]
+       and application of         • the basis of the charge areas
+       development
+                                  • table of development infrastructure and community
+       infrastructure and
+                                    infrastructure levies for each charge area indicating which
+       community
+                                    infrastructure projects the charge area contributes to
+       infrastructure levies
+                                  • a list of the types of development that will be charged in
+                                    each charge area
+                                  • a list of the types of development that are exempted from
+                                    paying levies in each charge area, and any policy of rebate
+                                    or waiver that might apply
+8      Procedures for the         • collection procedures for development infrastructure levies      [Stage 10]
+       collection and               when a planning permit is not required
+       administration of levies   • administrative procedures to track and account for levies
+                                    collected and expended
+                                  • the options for payment of levies including works-in-kind,
+                                    payment upfront and reimbursement at a later date
+
+
+Guidelines about the level of detail required in a DCP
+The DCP documentation must:
+• be clearly and easily understood
+• be transparent, providing all relevant information, and
+• provide an easy audit trail that can be tracked throughout the DCP implementation period.
+It is important to provide a reasonable level of detail for the following reasons:
+• Land owners and other stakeholders will want to understand how figures have been calculated and
+     be clear about the rationale for including infrastructure projects. This information will be examined
+     during the planning scheme amendment process.
+• The level of information about the strategic basis and development projections has to be of
+  sufficient detail to enable the council to identify changes that may be necessary as part of the
+  regular review of the planning scheme and the DCP.
+• Over time, there may be changes to the DCP. Changes can only be made through an amendment
+  to the planning scheme. It is important that the review panel and stakeholders understand what is
+  being changed and why. They may need to trace information back to when the DCP was first
+  created.
+• As the levies are collected and the infrastructure is provided over many years, it will be important
+  for council to keep track of exactly what was included in the original DCP, the assumptions made in
+  the costings and the funds required to meet the timing needs and standards of construction.
+
+
+
+
+V5.9                                            March 2007                                   Page 88 of 123
+                                                                    Development Contributions Guidelines
+
+
+
+Guidelines about referencing other documents in a DCP
+The strategic justification for the DCP and the individual infrastructure projects may make reference to
+documents that form part of the planning scheme.
+It is important not to rely on referencing documents that do no have any statutory status. Documents
+that do not form part of the planning scheme may change over time and cannot be relied upon to form
+the strategic basis for the DCP.
+The [planning practice note] on incorporated and reference documents provides further guidance on
+document referencing.
+
+
+
+
+V5.9                                           March 2007                                   Page 89 of 123
+                                                                       Development Contributions Guidelines
+
+
+
+Stage 15–Review draft DCP and finalise
+Once the draft is completed it is good practice to seek comments on the DCP from:
+• stakeholders within council, and
+• other stakeholders such as developers and State Government agencies, who may have an
+  interest.
+The development industry is likely to be particularly interested in the following content of the DCP:
+• estimates of infrastructure project costs
+• selection of infrastructure projects and the standard of provision
+• the MCAs for infrastructure projects
+• estimates of external use
+• projections of new development, and
+• equivalence ratios used to define demand.
+The purpose of this review stage is to give stakeholders an opportunity to provide feedback and to
+identify:
+• whether the assumptions are reasonable
+• any mistakes which need to be corrected
+• areas of contention that may require further justification, and
+• areas within the DCP document that can be adjusted through negotiation.
+
+
+Outcome
+The outcome of this stage is the final version of the DCP ready for exhibition as part of a planning
+scheme amendment.
+
+
+Process
+Complete the following tasks.
+
+ Task     Description
+   1      Ask the following stakeholders to review the draft DCP:
+          • councillors
+          • relevant internal staff
+          • adjoining municipalities
+          • State Government agencies (if the DCP includes State infrastructure), and
+          • developers affected by the DCP.
+   2      Meet with stakeholders to discuss any issues that arise from their review.
+   3      Consider all comments and change the DCP, if required. This may involve adjusting
+          the calculations.
+   4      Prepare the final version of the DCP ready for exhibition.
+
+
+
+
+V5.9                                           March 2007                                     Page 90 of 123
+                                                                   Development Contributions Guidelines
+
+
+
+Stage 16–Decide to prepare an amendment to the planning
+scheme to incorporate the DCP
+Outcome
+The outcome of this stage is a decision of council to prepare an amendment to incorporate the DCP
+into the planning scheme.
+
+Process
+Complete the following tasks.
+
+ Task    Description
+   1     Prepare a report to council recommending a decision to prepare and exhibit an
+         amendment to incorporate the DCP into the planning scheme.
+         The report may include the:
+         • strategic context and the infrastructure projects included in the DCP
+         • levies for each charge area
+         • funds expected to be collected over the timeframe of the DCP
+         • budget implications resulting from a commitment to deliver the infrastructure
+           projects, and
+         • process involved in preparing the DCP, including stakeholder consultation.
+   2     Submit the report to council for consideration and decision.
+
+
+
+For more information, go to [Incorporating the DCP into the planning scheme].
+
+
+
+
+V5.9                                          March 2007                                   Page 91 of 123
+
