@@ -87,6 +87,61 @@ credit     = value of works-in-kind / land provided by the developer (from land 
 balance    = liability − credit
 ```
 
+## 4a. Observed with data loaded (user screenshots, 30 Oct 2026)
+
+**Plan:** *Wonthaggi North East DCP* — Bass Coast Shire, **not Casey**, and a
+**DCP, not an ICP**. Use it as a UX reference only; its calculation logic follows
+the DCP framework.
+
+### Layer panel (right, under the plan name)
+Toggleable layers: Properties ✎, Projects ✎ (pencil = selection mode), Charge Area,
+Information and Exceptions, Land Use, Plan Boundary, Parcels, LGA Boundaries,
+Urban Growth Boundaries.
+
+### Map
+- Parcels labelled with property IDs (e.g. `1`, `52`, `64-R`, `63-E` — suffixes
+  appear to denote variants such as road/existing; *to verify*).
+- Projects labelled with codes by category prefix: `CU-` culvert, `DR-` drainage,
+  `IN-` intersection, `SB-` wetland/basin, `CI-` community facility, `R` road.
+- Selecting a property row highlights the parcel in red on the map.
+- Bottom map controls: fit to plan, zoom to selection, measure distance, measure
+  area, zoom in/out, compass.
+
+### Key – Land Use
+New Active Open Space, New Passive Open Space, Commercial, Industrial, Mixed Use,
+Residential Standard Density, Public Road – Council, Public Road – State, New
+Community Centre, New Primary School, Excluded Areas, New Floodway, New Retarding
+Basin, New Intersection, Conservation.
+
+### Key – Infrastructure
+Culvert, Community Facility, Drainage, Intersection Project, Pipeline, Road Project,
+Sports and Recreation Facility, Wetland and Basins.
+
+### Summary tool (populated)
+1. **Link to document** – the gazetted DCP PDF.
+2. **Development Infrastructure Levy – FY 26/27 dollars**: Charge Area | Charge Rate
+   per Demand Unit
+   - Residential (ha) charge area — $343,391 / ha
+   - Employment (ha) charge area — $304,516 / ha
+3. **Development Infrastructure Costs Summary – FY 26/27 dollars**: grouped by
+   category, columns Total Project Land Cost, Total Project Construction Cost, …
+   - Drainage: Bridges/Culverts $0, Drainage $22,528,113, Wetland and Basins
+     $16,451,265, Pipeline $0 → subtotal $38,979,378
+   - Transport: Road $0, Intersection $1,892,587 → subtotal $1,892,587
+   - further category (Community, inferred) → grand total $44,120,011
+4. **Properties** table: Property ID, Development Type, Total Area (ha), Net
+   Developable Area (ha), … — total area 632.63 ha.
+5. **Projects** table (not yet captured).
+
+### Land Budget tool (populated)
+Treemap of the selected parcels' land budget by category: Developable Area –
+Residential, Developable Area – Employment (Industrial), New Services, open space,
+roads, etc.
+
+### Still needed
+Hover tooltip with values, Projects table columns, Estimate tool after selecting a
+financial year, PDF export sample.
+
 ## 5. What this means for a Casey platform
 
 Core capabilities to reproduce (in our own design):
