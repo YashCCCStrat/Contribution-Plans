@@ -1,0 +1,346 @@
+Infrastructure contributions
+Funding infrastructure for new and growing communities.
+
+
+Reference
+Resource type:
+ Guide
+  CURRENT
+Published: July 2022
+Last updated: 14 October 2026
+
+
+  On this page:
+  Infrastructure contributions summary
+  Development contributions plans
+  Infrastructure contributions plans
+  DCP and ICP reporting
+  Public open space contributions
+  Voluntary agreements
+
+
+All development creates increased demand on infrastructure like roads, footpaths,
+stormwater drains, public open spaces and schools to support local communities.
+Developers and government share responsibility for providing infrastructure. Developers
+may contribute to infrastructure by:
+     the payment of money
+     providing land
+     constructing infrastructure on behalf of public authorities (referred to as ‘works-in-
+     kind’).
+These are referred to as ‘infrastructure contributions’ and are delivered through a planning
+scheme amendment, a planning permit, or a building permit.
+Infrastructure contributions can be collected via:
+     Development contributions plans (DCP)
+     Infrastructure contributions plans (ICP)
+ Public open space contributions
+ Growth areas infrastructure contribution (GAIC)
+ Voluntary agreements under section 173 of the Planning and Environment Act 1987.
+
+Infrastructure contributions summary
+DCP
+Area: Victoria.
+Type of contribution: Money/land/works.
+Variable: Yes.
+Preparation: Usually council. Sometimes the Minister for Planning may lead
+the preparation in consultation with council.
+Collection: Usually council.
+Infrastructure funded: See the Ministerial Direction on the preparation and
+content of Development Contributions Plans.
+
+ICP
+Area: Metropolitan Greenfield Growth Areas, State-Led Infill Precincts, and the
+SRL East Planning Area.
+Type of contribution: Money/land/works.
+Variable: Yes.
+Preparation: The Minister for Planning or the Suburban Rail Loop Authority in
+consultation with council.
+Collection: Usually council.
+Infrastructure funded: See the Ministerial Direction on the preparation,
+content and administration of Infrastructure Contributions Plans.
+
+Public open space contribution
+Area: Victoria.
+Type of contribution: Money/land.
+Variable: Yes.
+Preparation: Required by section 18 of the Subdivision Act 1988. Councils may
+vary requirements through a planning scheme amendment.
+Collection: Usually council.
+Infrastructure funded: See section 20 of the Subdivision Act 1988.
+   GAIC
+   Area: Growth area land zoned for urban use and development – Casey,
+   Cardinia, Hume, Melton, Mitchell, Whittlesea and Wyndham.
+   Type of contribution: Money/landworks.
+   Variable: No.
+   Preparation: DTP.
+   Collection: State Revenue Office (money) or the VPA (land/works).
+   Infrastructure funded: Find out more about GAIC.
+
+
+Development contributions plans
+A development contributions plan (DCP) is incorporated into a planning scheme as a
+schedule to clause 45.06 – Development Contributions Plan Overlay.
+The DCP schedule can require:
+     a development infrastructure levy
+     a community infrastructure levy
+     both of the above.
+A DCP is prepared by a planning authority, usually a council or the Minister for Planning. A
+DCP may also be prepared by a public authority that has been authorised by the minister.
+The Planning and Environment Act and the Ministerial direction on the Preparation and
+content of Development Contributions Plans set out the requirements for the preparation
+and approval of a DCP.
+
+Types of DCP
+A DCP can require payment of a development infrastructure levy and/or a community
+infrastructure levy.
+Development infrastructure levy
+A levy which is calculated for the construction or acquisition of land for infrastructure items
+such as:
+     roads
+     public transport
+     basic improvements to public open space
+     drainage
+     maternal and child health centres
+     childcare centres
+     kindergartens.
+This levy is uncapped as it is calculated from the apportioned cost of the construction or
+acquisition of land for each infrastructure item based on the projected ‘share of usage’.
+Community infrastructure levy
+A levy for the construction of other community or social facilities such as:
+     libraries
+     community halls
+     neighbourhood houses
+     senior citizens’ centres
+     public toilets
+     aquatic centres
+     other sporting facilities.
+This levy was capped in 2019-20 at $1190 per dwelling and is now adjusted on 1 July each
+year.
+
+DCP levy amounts
+Development infrastructure levy and indexation
+Development infrastructure levy amounts are set by the planning authority based on the
+estimated cost of the infrastructure. The planning scheme amendment introducing the DCP
+must provide clear documentation detailing the costs associated with projects included.
+Development infrastructure levy amounts are indexed on 1 July each year in accordance
+with the method of adjustment specified in the relevant DCP incorporated document
+contained in the council’s planning scheme.
+Community infrastructure levy and indexation
+Section 46L (1)(a) and (1)(b) of the Planning and Environment Act sets a maximum levy for
+community infrastructure.
+The capped community infrastructure levy amounts are indexed on 1 July each year using
+the Australian Bureau of Statistics’ Producer Price Index for Non-Residential Building
+Construction in Victoria.
+Community infrastructure levies (maximum $ per dwelling)
+   2021-22            2022-23      2023-24            2024-25    2025-26         2026-27
+
+    $1225              $1253         $1346             $1450       $1530          $1590
+
+DCP guides
+     Understanding development contributions
+     PDF | 1.9 MB
+     Preparing a full cost apportionment DCP
+     PDF | 2.1 MB
+     Incorporating the DCP into the planning scheme
+     PDF | 124.8 KB
+
+
+Infrastructure contributions plans
+An infrastructure contributions plan (ICP) is incorporated into a planning scheme as a
+schedule to clause 45.11 – Infrastructure Contributions Overlay. The ICP schedule can
+require monetary and/or land contributions within a plan area, for example, to secure land
+for public open space within the plan area.
+An ICP must be prepared by a planning authority, usually a council or the Minister for
+Planning, or a public authority such as the Suburban Rail Loop Authority.
+The Planning and Environment Act and the Ministerial direction on the preparation, content
+and administration of Infrastructure Contributions Plans set out the requirements for the
+preparation and approval of an ICP.
+
+Components of ICPs
+Monetary component
+This is a monetary levy that may be used to fund the provision of works, services or
+facilities, plan preparation costs and plan administration costs.
+The monetary component can require the payment of a flat rate standard levy and/or a
+bespoke supplementary level.
+     Standard levy: a single levy.
+     Supplementary levy: a non-standard levy for infrastructure on the basis of
+     topographical, geographical, environmental or other physical constraints. The
+     supplementary levy is only used in Metropolitan Greenfield Growth Areas.
+Land component
+This is land that is required to be provided for public purposes, such as land for roads, parks
+and community facilities (known as 'inner public purpose land'). The land component may
+also consist of a 'land equalisation amount' which is a monetary amount used to fund land
+credit amounts and acquisition of land outside the ICP plan area (known as 'outer public
+purpose land'). The land component is only used in Metropolitan Greenfield Growth Areas.
+
+ICP development settings
+The ICP system may be used by planning authorities in 3 development settings:
+     Metropolitan Greenfield Growth Areas
+     State-Led Infill Precincts (including Train and Tram Zone Activity Centres)
+     SRL East Planning Area.
+Currently the ICP system can only collect infrastructure contributions in Metropolitan
+Greenfield Growth Areas in growth area land zoned for urban use and development in
+Casey, Cardinia, Hume, Melton, Mitchell, Whittlesea and Wyndham.
+In 2027 the ICP system will commence collecting infrastructure contributions in Train and
+Tram Zone Activity Centres and the SRL East Planning Area.
+
+Metropolitan Greenfield Growth Areas ICP levy amounts
+Standard levy and indexation
+The standard levy is a pre-determined monetary rate set by the minister through the
+Ministerial direction. It is designed to provide a fair and reasonable budget for funding the
+infrastructure that is basic and essential for new urban development.
+Standard levy rates are indexed on 1 July each year. All levies are $ per net developable
+hectare.
+Residential development standard levies
+
+                        2023-24         2024-25            2025-26            2026-27
+
+ Community
+ and recreation          $101,299           $109,088           $115,453            $119,682
+ construction
+
+ Transport               $141,107           $147,562           $150,295            $155,579
+ construction
+                        2023-24        2024-25                2025-26              2026-27
+
+ Total levy             $242,406            $256,650              $265,748           $ 275,261
+ amount
+
+Commercial and industrial development standard levies
+
+                      2022-23      2023-24        2024-25            2025-26         2026-27
+
+ Community
+ and recreation          $0            $0                $0               $0             $0
+ construction
+
+ Transport            $129,862       $141,107          $147,562         $150,295       $155,579
+ construction
+
+ Total levy           $129,862       $141,107          $147,562         $150,295       $155,579
+ amount
+
+Supplementary levy and indexation
+A supplementary levy amount is set by the planning authority based on the estimated cost
+of the ‘non-standard’ infrastructure or costs. The planning scheme amendment introducing
+the ICP must provide clear documentation detailing the ‘non-standard’ infrastructure or
+costs associated with projects included.
+Supplementary levy rates are indexed on 1 July each year in accordance with the method of
+adjustment specified in the relevant ICP schedule contained in the council’s planning
+scheme.
+ICP public land indexation
+The land component of an ICP relates to any public purpose land that forms part of a
+parcel of land in an ICP plan area (‘inner public purpose land’) and any ‘land equalisation
+amount’ that relates to the parcel. Land equalisation amounts are used to fund ‘land credit
+amounts’ and may also be used to fund the acquisition of public purpose land outside the
+ICP plan area (‘outer public purpose land’). The planning scheme amendment introducing
+the ICP must provide clear documentation detailing the land component.
+Land credit and land equalisation amounts are required to be indexed on 1 July each year
+in accordance with the method of adjustment specified in the relevant ICP schedule
+contained in the council’s planning scheme.
+Public land indexation factors by year
+
+ Municipality                         2022          2023          2024       2025    2026
+
+ Casey Cardinia                        1.240         1.020        1.070      1.000   1.030
+
+ Hume Melton Mitchell                  1.210         1.020        1.060      0.970   1.040
+ Whittlesea Wyndham
+
+Metropolitan Greenfield Growth Areas ICP guides
+    Infrastructure contributions plan guidelines
+    PDF | 7.4 MB
+    IPPL only - example PSP - Whole of Life (WOL) Land Calculation
+    XLSX | 642.3 KB
+    OPPL and IPPL - example PSP - Whole of Life (WOL) Land Calculation
+    XLSX | 822.1 KB
+
+
+DCP and ICP reporting
+Collecting and development agencies (usually the municipal council) are required to report
+annually to the Minister for Planning on DCP's and ICPs in accordance with the Planning
+and Environment Act and the Ministerial direction on the Preparation and content of DCPs
+and the Ministerial direction on the Preparation and content of ICPs.
+Reports must also be included in council annual reports prepared under the Local
+Government Act 2020.
+The minister submits a summary report to parliament at the end of each financial year on
+the levies collected by ICPs.
+    Infrastructure contributions - Minister's report to Parliament 2024-25
+    PDF | 206.6 KB
+    Infrastructure contributions - Minister's report to Parliament 2023-24
+    PDF | 136.5 KB
+    Infrastructure contributions – Minister's report to Parliament 2022-23
+    PDF | 154.5 KB
+    Infrastructure contributions – Minister's report to Parliament 2021-22
+    PDF | 140.4 KB
+    Infrastructure contributions – Minister's report to Parliament 2020-21
+    PDF | 3.9 MB
+    Infrastructure contributions – Minister's report to Parliament 2019-20
+    DOCX | 30.1 KB
+    Infrastructure contributions – Minister's report to Parliament 2018-19
+    DOCX | 26.9 KB
+    Infrastructure contributions – Minister's report to Parliament 2017-18
+    DOCX | 26.2 KB
+    Infrastructure contributions – Minister's report to Parliament 2016-17
+    DOCX | 24.2 KB
+    Development contributions - Minister's report to Parliament 2019-20
+    DOCX | 30.1 KB
+    Development contributions - Minister's report to Parliament 2018-19
+    DOCX | 26.9 KB
+    Development contributions - Minister's report to Parliament 2017-18
+    DOCX | 77.3 KB
+    Development contributions - Minister's report to Parliament 2016-17
+    DOCX | 70.2 KB
+
+
+Public open space contributions
+Under the Subdivision Act a person who applies to subdivide land may be required to:
+     set aside up to 5% of the land for public open space
+     pay up to 5% of the site value of the land
+     a combination of both.
+Municipal councils can specify a different contribution amount in their planning scheme
+through the schedule to clause 53.01 – Public Open Space Contribution and Subdivision.
+The Precinct Structure Planning guidelines recommend, and some planning schemes
+require, a 10% contribution.
+Public open space contributions are sought through planning permit conditions for most
+residential subdivisions of 3 or more lots.
+
+                                                                                Open all
+
+  Finding public open space contribution amounts in planning schemes
+
+  Step 1: Search for the relevant council area's planning scheme.
+  Step 2: Select the ’50 PARTICULAR PROVISIONS’ drop down menu at side of screen.
+Step 3: Select the ’53 GENERAL REQUIREMENTS AND PERFORMANCE STANDARDS’ drop
+down menu at side of screen, and then select ’53.01 PUBLIC OPEN SPACE CONTRIBUTION
+AND SUBDIVISION’.
+Step 4: Select ‘SCHEDULE TO CLAUSE 53.01 PUBLIC OPEN SPACE CONTRIBUTION AND
+SUBDIVISION’. The information will display on the screen.
+Voluntary agreements
+Voluntary agreements provide an alternative mechanism to DCPs and ICPs for obtaining
+infrastructure contributions.
+Section 173 of the Planning and Environment Act permits parties to enter voluntary
+agreements for the provision of infrastructure. Voluntary agreements are usually
+negotiated between landowners and council at the time a development proposal is
+considered.
+An agreement can be used to place an obligation on the parties to provide infrastructure,
+and/or pay for infrastructure.
+Information on the use of voluntary agreements for infrastructure contributions can be
+found in 'Understanding development contributions'.
+     Understanding development contributions
+     PDF | 1.9 MB
+
+
+
+
+Page last updated: 14/10/26
+
+   Related links
+   Ministerial directions                          Growth areas infrastructure contributions
+
+
+
+Contact us
+  Infrastructure Review and Monitoring
+  Department of Transport and Planning
+   infrastructure.contributions@transport.vic.gov.au
+

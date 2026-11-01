@@ -1,0 +1,849 @@
+Ref
+Project
+Growth Area
+Funding round
+Approved amount $(m)
+Actual expenditure $(m)
+Agency
+Status
+BNCF-01
+Berwick Railway Station
+Casey
+2012-13
+                   1,100,000 
+                  1,100,000 
+ Pubic Transport Victoria 
+ Complete 
+BNCF-02
+South Gippsland Highway / Craig Road intersection
+Casey
+2012-13
+                   1,500,000 
+                              -   
+ VicRoads 
+ Cancelled 
+BNCF-03
+Mickleham Road / Greenvale Gardens Boulevard / Dellamore Boulevard intersection
+Hume
+2012-13
+                   1,400,000 
+                  1,400,000 
+ Hume City Council 
+ Complete 
+BNCF-04
+Hume Regional Tennis and Community Centre
+Hume
+2012-13
+                   1,000,000 
+                  1,000,000 
+ Hume City Council 
+ Complete 
+BNCF-05
+Western Freeway / Ferris Road interchange
+Melton
+2012-13
+                   1,500,000 
+                     588,640 
+ VicRoads 
+ Complete 
+BNCF-06
+Wyndham Leisure and Events Centre
+Wyndham
+2012-13
+                      900,000 
+                     900,000 
+ Wyndham City Council 
+ Complete 
+BNCF-07
+Melton Ambulatory Care Centre
+Melton
+2014-15 Budget
+                   5,000,000 
+                  5,000,000 
+ Department of Health 
+ Complete 
+BNCF-08
+Pakenhham Ambulatory Care Centre
+Cardinia
+2015-16
+                   2,000,000 
+                  2,000,000 
+ Department of Health 
+ Complete 
+BNCF-09
+Greater Beveridge Community Centre 
+Mitchell
+2016-17
+                   1,600,000 
+                  1,600,000 
+ Mitchell Shire Council 
+ Complete 
+BNCF-10
+Truganina East P9 Primary and Middle School
+Wyndham
+2016-17
+                   4,200,000 
+                  4,200,000 
+ Department of Education and Training 
+ Complete 
+BNCF-11
+Aitken Hill Primary School
+Hume
+2016-17
+                   4,400,000 
+                  4,250,000 
+ Department of Education and Training 
+ Complete 
+BNCF-12
+Taylors Hill West Secondary College
+Melton
+2016-17
+                   6,400,000 
+                  6,400,000 
+ Department of Education and Training 
+ Complete 
+BNCF-13
+Craigieburn Ambulance Station
+Hume
+2016-17
+                   1,200,000 
+                  1,200,000 
+ Department of Health 
+ Complete 
+BNCF-14
+Pakenhham Ambulance Station
+Cardinia
+2016-17
+                   1,100,000 
+                  1,100,000 
+ Department of Health 
+ active 
+BNCF-15
+Werribee Ambulance Station( Wyndham Vale)
+Wyndham
+2016-17
+                   1,500,000 
+                  1,346,609 
+ Department of Health 
+ Complete 
+BNCF-16
+Melton Ambulance Station (Exford)
+Melton
+2016-17
+                   1,200,000 
+                  1,200,000 
+ Department of Health 
+ active 
+BNCF-17
+Mernda Ambulance Station
+Whittlesea
+2016-17
+                   1,500,000 
+                  1,200,000 
+ Department of Health 
+ complete 
+BNCF-18
+Hillside Ambulance Station
+Melton
+2016-17
+                   2,000,000 
+                  2,000,000 
+ Department of Health 
+ active 
+BNCF-19
+Merri Creek Marran Baba Parklands
+Whittlesea
+2017-18
+                   1,700,000 
+                  1,700,000 
+ Parks Vic 
+ Complete 
+BNCF-20
+Clyde North-East Proposed P6 School
+Casey
+2017-18 Budget
+                   3,062,500 
+                  3,062,500 
+ Department of Education and Training 
+ complete 
+BNCF-21
+Timbertop (Officer NW) P6 School
+Cardinia
+2017-18 Budget
+                   3,237,500 
+                  3,237,500 
+ Department of Education and Training 
+ complete 
+BNCF-22
+Greenvale North West P6
+Hume
+2017-18 Budget
+                   3,500,000 
+                  3,500,000 
+ Department of Education and Training 
+ complete 
+BNCF-23
+Edgars Creek Proposed P-12 (Pri)
+Whittlesea
+2017-18 Budget
+                   4,620,000 
+                  4,575,000 
+ Department of Education and Training 
+ complete 
+BNCF-24
+Craigieburn South Proposed 7-12
+Hume
+2017-18 Budget
+                   7,350,000 
+                  7,350,000 
+ Department of Education and Training 
+ complete 
+BNCF-25
+Botanic Ridge Proposed P6
+Casey
+2017-18 Budget
+                   3,062,500 
+                  3,062,500 
+ Department of Education and Training 
+ complete 
+BNCF-26
+Wyndham South (Riverwalk) P6
+Wyndham
+2017-18 Budget
+                   2,625,000 
+                  2,625,000 
+ Department of Education and Training 
+ complete 
+BNCF-27
+Beveridge West Proposed P6
+Mitchell
+2017-18 Budget
+                   2,362,500 
+                  2,362,500 
+ Department of Education and Training 
+ complete 
+BNCF-28
+Clyde North Ambulance Station
+Casey
+2017-18
+                   1,200,000 
+                  1,200,000 
+ Department of Health 
+ Complete 
+BNCF-29
+Clyde North Fire Station Land acquisition
+Casey
+2017-18
+                   3,000,000 
+                  2,525,000 
+ Country Fire Authority  
+ complete 
+BNCF-30
+Casey Active Transport Improvements
+Casey
+2017-18
+                   2,500,000 
+                  2,500,000 
+ VicRoads 
+ complete 
+BNCF-31
+Vineyard Road Shared Use Path (Construction)
+Hume
+2017-18
+                   1,100,000 
+                  1,011,407 
+ VicRoads 
+ Complete 
+BNCF-32
+Mickleham Ambulance Station
+Hume
+2017-18
+                   1,500,000 
+                  1,225,525 
+ Department of Health 
+ Complete 
+BNCF-33
+Melton South Ambulance Station
+Melton
+2017-18
+                   3,600,000 
+                  3,600,000 
+ Department of Health 
+ Complete 
+BNCF-34
+Tarneit Ambulance Station
+Wyndham
+2017-18
+                   1,500,000 
+                  1,500,000 
+ Department of Health 
+ Cancelled 
+BNCF-35 & 77
+Wyndham Vale Fire Station
+Wyndham
+2017-18
+                   3,750,000 
+                  3,750,000 
+Country Fire Authority  
+ active 
+BNCF-36 & 78
+New Truganina Fire Station
+Wyndham
+2017-18
+                   3,750,000 
+                  3,750,000 
+Country Fire Authority  
+ Complete 
+BNCF-37
+Wyndham Active Transport Improvements
+Wyndham
+2017-18
+                      900,000 
+                     691,539 
+ VicRoads 
+ complete 
+BNCF-38
+Hume Early Access Kindergartens
+Hume
+2017-18
+                   2,500,000 
+                  2,500,000 
+ Department of Education and Training 
+ complete 
+BNCF-39
+Wyndham Early Access Kindergartens
+Wyndham
+2017-18
+                   1,750,000 
+                  1,750,000 
+ Department of Education and Training 
+ complete 
+BNCF-40
+Clyde North East Proposed P6 construction
+Casey
+2018-19 Budget
+                 20,800,000 
+                20,800,000 
+ Department of Education and Training 
+ complete 
+BNCF-41
+Casey Fields (Five Ways) Proposed P6 construction
+Casey
+2018-19 Budget
+                 20,100,000 
+                20,100,000 
+ Department of Education and Training 
+ complete 
+BNCF-42
+Botanic Ridge Proposed P6 construction
+Casey
+2018-19 Budget
+                   3,000,000 
+                  3,000,000 
+ Department of Education and Training 
+ complete 
+BNCF-43
+Clyde North P6 land acquisition
+Casey
+2018-19 Budget
+                 15,700,000 
+       10,523,857 
+ Department of Education and Training 
+ complete 
+BNCF-44
+Clyde Primary School - Site Extension
+Casey
+2018-19 Budget
+                   4,700,000 
+                  4,700,000 
+ Department of Education and Training 
+ complete 
+BNCF-45
+Cranbourne West Proposed 7-12 & Special School land acquisition
+Casey
+2018-19 Budget
+                 32,100,000 
+       23,541,932 
+ Department of Education and Training 
+ complete 
+BNCF-46
+Thoroughbred P6 land acquisition
+Casey
+2018-19 Budget
+                 15,700,000 
+       11,578,249 
+ Department of Education and Training 
+ complete 
+BNCF-47
+Craigieburn South Proposed 7-12 construction
+Hume
+2018-19 Budget
+                 24,000,000 
+                24,000,000 
+ Department of Education and Training 
+ complete 
+BNCF-48
+Merrifield West P6 - Land acquisition
+Hume
+2018-19 Budget
+                 11,300,000 
+         9,602,067 
+ Department of Education and Training 
+ complete 
+BNCF-49
+Aintree 7-12 secondary school land acquisition 
+Melton
+2018-19 Budget
+                 16,200,000 
+                16,200,000 
+ Department of Education and Training 
+ complete 
+BNCF-50
+Grasslands P6 land acquisition
+Melton
+2018-19 Budget
+                 11,300,000 
+                  8,855,732 
+ Department of Education and Training 
+ complete 
+BNCF-51
+Wollahra P6 land acquisition
+Wyndham
+2018-19 Budget
+                   9,100,000 
+                  8,222,188 
+ Department of Education and Training 
+ Complete 
+BNCF-52
+Greening the Pipeline' Werribee early works and design
+Wyndham
+2018-19 Budget
+                   1,000,000 
+                  1,000,000 
+ Department of Environment, Land, Water and Planning 
+ Complete 
+BNCF-53
+Truganina South P6 school land WIK supplementary payment
+Wyndham
+2017-18 WIK
+                   2,500,000 
+                  1,936,930 
+ Department of Education and Training 
+ Complete 
+BNCF-54
+Berwick-Cranbourne Rd intersection 
+Casey
+2018-19
+                   3,800,000 
+                  3,800,000 
+ VicRoads 
+ active 
+BNCF-55
+Clyde North Fire Station construction
+Casey
+2018-19
+                   8,520,000 
+                  8,520,000 
+ Fire Rescue Victoria 
+ active 
+BNCF-56
+Casey Fields Regional Soccer Centre
+Casey
+2018-19
+                   5,000,000 
+                  5,000,000 
+ Casey City Council 
+ complete 
+BNCF-57
+Kalkallo P6 school
+Hume
+2018-19
+                   9,970,000 
+                  8,851,883 
+ Department of Education and Training 
+ complete 
+BNCF-58
+Merrifield South WIK supplementary payment
+Hume
+2018-19 WIK
+                   4,430,000 
+                  4,366,335 
+ Department of Education and Training 
+ complete 
+BNCF-59
+Clyde Primary School  (Improving existing schools)
+Casey
+2019-20 Budget
+                   2,280,000 
+                  2,280,000 
+ Department of Education and Training 
+ Complete 
+BNCF-60
+Cranbourne Secondary College
+Casey
+2019-20 Budget
+                      662,000 
+                     662,000 
+ Department of Education and Training 
+ Complete 
+BNCF-61
+Beveridge Primary Schoold - New Campus
+Mitchell
+2019-20 Budget
+                   2,800,000 
+                  2,800,000 
+ Department of Education and Training 
+ Complete 
+BNCF-62
+Edgars Creek Secondary School (Stage 2)
+Whittlesea
+2019-20 Budget
+                 22,800,000 
+                21,748,775 
+ Department of Education and Training 
+ Complete 
+BNCF-63
+Davis Creek Primary School
+Wyndham
+2019-20 Budget
+                   2,200,000 
+                  2,200,000 
+ Department of Education and Training 
+ Complete 
+BNCF-64
+Wyndham, South (River Walk) Primary School
+Wyndham
+2019-20 Budget
+                   3,000,000 
+                  3,000,000 
+ Department of Education and Training 
+ Complete 
+BNCF-65
+The Grange P-12 College
+Wyndham
+2019-20 Budget
+                   9,500,000 
+                  9,500,000 
+ Department of Education and Training 
+ Complete 
+BNCF-66
+Warringa Park School
+Wyndham
+2019-20 Budget
+                 12,400,000 
+                12,400,000 
+ Department of Education and Training 
+ Complete 
+BNCF-67
+Emergency Services facility program for Pt Cook
+Wyndham
+2019-20 Budget
+                   2,000,000 
+                     855,000 
+ Department of Justice and Community Safety 
+ Complete 
+BNCF-67
+Emergency Services facility program for Caroline Springs
+Melton
+2019-20 Budget
+                   2,000,000 
+                  2,900,000 
+ Department of Justice and Community Safety 
+ Complete 
+BNCF-67
+Emergency Services facility program for Craigieburn North/ Kalkallo
+Hume
+2019-20 Budget
+                   2,000,000 
+                              -   
+ Department of Justice and Community Safety 
+ Complete 
+BNCF-67
+Emergency Services facility program for Cranbourne
+Casey
+2019-20 Budget
+                   2,000,000 
+                  2,130,000 
+ Department of Justice and Community Safety 
+ Complete 
+BNCF-67
+Emergency Services facility program for Clyde
+Casey
+2019-20 Budget
+                   2,000,000 
+                  1,350,000 
+ Department of Justice and Community Safety 
+ Complete 
+BNCF-67
+Emergency Services facility program for Officer
+Cardinia
+2019-20 Budget
+                   2,000,000 
+                  1,920,000 
+ Department of Justice and Community Safety 
+ Complete 
+BNCF-73
+WIK supplementary payment - Wollert West
+Whittlesea
+2019-20 WIK
+                   6,600,000 
+                  6,356,400 
+ Department of Education and Training 
+ complete 
+BNCF-74
+WIK supplementary payment - Werribee secondary school
+Wyndham
+2019-20 WIK
+                   4,400,000 
+                  4,243,238 
+ Department of Education and Training 
+ complete 
+BNCF-75
+WIK supplementary payment - Future Vic Pol site
+Whittlesea
+2020-21 WIK
+                   3,200,000 
+                  2,650,795 
+ Department of Justice and Community Safety 
+ Complete 
+BNCF-76
+Ballarto Rd proposed P6 school
+Casey
+2023-24
+                   4,000,000 
+                  4,000,000 
+ Department of Education and Training 
+ Complete 
+BNCF-79
+Cobblebank 7-12 secondary school land acquisition 
+Melton
+2023-24
+                 16,700,000 
+                16,700,000 
+ Department of Education and Training 
+ Complete 
+BNCF-80
+McGregor Road Duplication and Henty St Signalisation
+Cardinia
+2023-24
+                   6,000,000 
+                  6,000,000 
+ Cardinia Shire Council 
+ Active 
+BNCF-81
+Officer -Princes Highway/Arena Parade Intersection Upgrade 
+Cardinia
+2023-24
+                   2,800,000 
+                  2,800,000 
+ Cardinia Shire Council 
+ Active 
+BNCF-82
+Pakenham- Drake Place Reconfiguration
+Cardinia
+2023-24
+                   8,400,000 
+                  8,400,000 
+ Cardinia Shire Council 
+ Active 
+BNCF-83
+Pakenham -John Street Extension
+Cardinia
+2023-24
+                   4,300,000 
+                  4,300,000 
+ Cardinia Shire Council 
+ Active 
+BNCF-84
+Victorian State Emergency Service - Officer Unit
+Cardinia
+2023-24
+                   1,307,000 
+                  1,307,000 
+ Department of Justice and Community Safety 
+ Active 
+BNCF-85
+Craig Road Shared User Path Design and Construction
+Casey
+2023-24
+                   1,333,860 
+                  1,333,860 
+ City of Casey 
+ Active 
+BNCF-86
+Soldiers Road Shared User Path Development
+Casey
+2023-24
+                      555,673 
+                     555,673 
+ City of Casey 
+ Active 
+BNCF-87
+Country Fire Authority New Fire Station - Clyde
+Casey
+2023-24
+                   4,230,000 
+                  4,230,000 
+ Department of Justice and Community Safety 
+ Active 
+BNCF-88
+Sunbury Community Hospital - Expanded Floor Area for Additional Dialysis Chairs
+Hume
+2023-24
+                   2,920,000 
+                  2,920,000 
+ Department of Health/Victorian Health Building Authority 
+ Active 
+BNCF-89
+Victorian State Emergency Service -Kalkallo?Unit
+Hume
+2023-24
+                   1,800,000 
+                  4,645,000 
+ Department of Justice and Community Safety 
+ active 
+BNCF-90
+Toyon Road Pedestrian Bridge
+Hume
+2023-24
+                   1,206,090 
+                  1,206,090 
+ Hume City Council 
+ active
+BNCF-91
+Victorian State Emergency Service - Sunbury 
+Hume
+2023-24
+                   5,941,194 
+                  5,941,194 
+ Department of Justice and Community Safety 
+ active 
+BNCF-92
+New Shared User Path - Ferris Road, Melton South
+Melton
+2023-24
+                   4,000,000 
+                  4,000,000 
+ Department of Transport and Planning 
+ active 
+BNCF-93
+Land acquisition for Aintree North Proposed P6 site
+Melton
+2023-24
+                 15,136,000 
+                15,136,000 
+ Department of Education and Training 
+ active 
+BNCF-94
+New Shared User Path between Grand Boulevard and Sheahan Road and widening of Hopkins Road bridge - Rockbank
+Melton
+2023-24
+                 11,000,000 
+                11,000,000 
+ Department of Transport and Planning 
+ active 
+BNCF-95
+Connecting Melton - Active transport connections: Taylors Road, Deanside
+Melton
+2023-24
+                   1,350,872 
+                  1,350,872 
+ Melton City Council 
+ active 
+BNCF-96
+Connecting Melton - Active transport connections: Vineyard Road, Diggers Rest
+Melton
+2023-24
+                      940,960 
+                     940,960 
+ Melton City Council 
+ active 
+BNCF-97
+New school construction: Cobblebank Secondary School 
+Melton
+2023-24
+                 35,472,000 
+                35,472,000 
+ Department of Education and Training 
+ active 
+BNCF-98
+Wallan East Integrated Family & Children Centre
+Mitchell
+2023-24
+                   9,600,000 
+                  9,600,000 
+ Mitchell Shire Council 
+ active 
+BNCF-99
+Mernda Aquatic Precinct Transport Infrastructure Project
+Whittlesea
+2023-24
+                 10,000,000 
+                10,000,000 
+ City of Whittlesea 
+ active 
+BNCF-100
+Shared Use Path Greenbrook Drive to Epping Station 
+Whittlesea
+2023-24
+                      800,000 
+                     800,000 
+ Department of Transport and Planning 
+ active 
+BNCF-101
+Ferres Boulevard Shared Use Path - Flindon Rd to South Morang Station
+Whittlesea
+2023-24
+                      800,000 
+                     800,000 
+ Department of Transport and Planning 
+ active 
+BNCF-102
+Ison Road (Princes Freeway to Ison Road Overpass)
+Wyndham
+2023-24
+                 60,000,000 
+                60,000,000 
+City of Wyndham 
+ active 
+BNCF-103
+Land acquisition for Wollahra Proposed 7-12 site
+Wyndham
+2023-24
+                 29,392,000 
+                29,392,000 
+ Department of Education and Training 
+ active 
+BNCF-104
+Ambulance Victoria Branch (Wyndham Vale)
+Wyndham
+2023-24
+                   7,960,920 
+                  7,960,920 
+ Department of Health/Victorian Health Building Authority 
+ active 
+BNCF-105
+Victorian State Emergency Service - Wyndham Vale Unit
+Wyndham
+2023-24
+                 12,260,808 
+                12,260,808 
+ Department of Justice and Community Safety 
+ active 
+BNCF-106
+Victorian State Emergency Service - Tarneit/Truganina 
+Wyndham
+2023-24
+                   1,800,000 
+                  1,800,000 
+ Department of Justice and Community Safety 
+ active 
+Total
+ 
+ 
+ 
+               661,139,377 
+              630,411,477 
+ 
+
+

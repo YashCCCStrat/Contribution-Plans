@@ -1,0 +1,91 @@
+Planning and Environment Act 1987 (Act) sections 201SLB-SLN provisions applying to GAIC WIKs
+
+PURPOSE
+GAIC was introduced in 2010 as a gross area charge on urban growth land that is zoned for development to help fund state infrastructure in these areas. GAIC annual rates are published on the State Revenue Office (SRO) website.
+GAIC liability may be triggered by a dutiable transaction, subdivision statement of compliance or building application event on GAIC contribution area land with payment usually due within three months or before a building permit is issued. 
+A GAIC WIK agreement enables a person to provide land and/or works instead of a cash payment, to meet all or part of their GAIC liability or expected liability.
+PARTIES
+Minister for Planning (minister) - responsible for Part 9B of the Act jointly with the Treasurer whose approval is required if the WIK value exceeds $2 million.
+GAIC liable entity (GLE) -the person / entity (land holder) with the GAIC liability or expected liability.
+Receiving agency (RA) - the minister or agency head that inspects, accepts, and then receives the land or works provided under the WIK agreement.
+Victorian Planning Authority (VPA) - makes determinations and notifications under the WIK agreement and acts under delegation from the minister.
+Developer - included where it is assuming and performing obligations for the GLE under the WIK agreement.
+INQUIRIES
+The GLE and developer are invited to discuss all aspects of any WIK proposal with the VPA prior to making a formal application. The VPA will engage with the RA initially and then hold joint meetings with the other parties. Any proposal must meet the WIK criteria in the Act and the RA's requirements regarding location, quality, scale, scope, timing, and value.
+BENEFITS
+A WIK agreement may provide land or works to the state earlier than the usual funding channels and help a community to anticipate the location and type of facility to be provided.
+For a GLE, a WIK agreement may expedite critical infrastructure in or near its development that is attractive to purchasers and meet part of its GAIC liability earlier.
+RISKS
+A WIK agreement has many components and a GLE needs to be aware of performance risks, such as subcontract interaction and failure to complete, which can have severe consequences under the Act.
+CRITERIA
+The land or works to be provided must be:
+    - situated in a growth area (ie within Casey, Cardinia, Hume, Melton, Mitchell, Whittlesea, or Wyndham municipalities)
+    - of a type that may be funded from GAIC funds.
+A WIK agreement must be entered into before the GAIC contribution is payable and meet all of the Act requirements including containing:
+    - description of the works and the land on which the works will be carried out
+    - description of the land to be transferred
+    - due dates for stages and completion
+    - agreed values of land and works involved
+    - methods for calculating partial value in the event of a non-completion default
+    - dispute resolution mechanisms
+    - recording the WIK agreement on title 
+    - other matters that the minister thinks appropriate.
+LAND
+Land proposed to be provided under a WIK agreement must meet the Act's criteria and be acceptable to the RA, including regarding timing, location, and general suitability. 
+Usually, the land and surrounds must be serviced by final settlement. Alternatively, the land may be transferred unserviced (stage 1) with servicing works to occur post transfer (stage 2), subject to the RA's requirements.
+The maximum value of any land is the current market value determined by the Valuer General Victoria (VGV) and the transaction is subject to the approval by the Victorian Government Land Monitor (VGLM). The GLE may recognise the benefit of an early land transfer by offering a discount of 5-10% on the VGV's approved valuation.
+STAGE PAYMENT ARRANGEMENT (SPA)
+The GLE may have various SPAs that will run concurrently with a WIK agreement. The WIK agreement stages and associated determinations should take SPA stages into account but allow contingency, including for delays in the development process.
+The WIK agreement will require the GLE to agree that it will not pay down any GAIC liability subject to that agreement.
+WORKS
+Works to be constructed under a WIK agreement must meet the Act's criteria and be acceptable to the RA, including regarding quality, timing, location, and general suitability.
+Works are valued by stage, including construction stages, practical completion, and defects liability period. Any works under a WIK agreement are subject to the provisions of any other relevant legislation or code and may be subject to performance bonds and a separate defects agreement.
+expenses
+The GLE is required to fund VPA's external expenses prior to approval of a WIK agreement and up to final completion of the agreement. These expenses may include land or works valuations, oversight by the RA, and legal advice. These expenses can range from $50,000 (land WIK agreement) to $100,000 (land and works WIK agreement).
+ACTUAL OR POTENTIAL LIABILITY
+The GAIC liability needs to be triggered during the WIK agreement term to ensure that the WIK agreement value wholly or partly offsets that liability. Once the GAIC liability attached to relevant land has been triggered, the GAIC liability on a date is calculated by applying the relevant GAIC rate at the date of the GAIC event to the GAIC area plus accrued interest from the trigger date to that date. 
+GAIC FUNDS
+GAIC revenue received by the SRO is paid equally into the Growth Areas Public Transport Fund (GAPTF) and the Building New Communities Fund (BNCF) to be used for state infrastructure projects including associated land acquisition in growth areas. The GAPTF may fund public transport infrastructure, or services for five years. The BNCF may fund other (non GAPTF) transport, community, environmental and economic infrastructure.
+APPLICATION
+A formal application for a WIK agreement should detail the land transfer or works proposed, timing, expected staging, scope, value and anticipated GAIC liability. Applicants should confirm that their proposal complies with the Act. An application form is available online from DELWP.
+The application must detail any staged payment arrangements that may interact with the WIK agreement and any expected financial or other details that will assist VPA in its assessment.
+SUPPLEMENTARY PAYMENTS
+Ideally, a GLE's GAIC liability should exceed the value of the WIK agreement so that a supplementary payment from GAPTF or BNCF is not required. The VPA does not determine the allocation of these funds.
+Supplementary payments must be authorised by the minister, with the approval of the Treasurer for GAPTF and BNCF of $2 million or more, prior to execution of the WIK agreement by the minister. If a supplementary payment is not available, the WIK agreement will not proceed.
+GOODS AND SERVICES TAX (GST)
+GST will usually apply to the WIK agreement and is accounted for in settlement of a stage. The GST is funded by the RA and then recovered by the RA from the Australian Taxation Office.
+NEGOTIATION
+The parties to a WIK agreement will negotiate all terms including value, timing, staging, VPA determinations, and performance targets before the draft WIK agreement is prepared for approval. This process may take a few months for a straightforward WIK agreement or a few years for a complex WIK agreement.
+AGREEMENT
+The WIK agreement must meet the provisions of the Act and will normally include terms regarding:
+    - each party's role and responsibilities
+    - the land with the GAIC liability and any applicable SPA
+    - restrictions on land dealings and approval process for works
+    - works variations process
+    - amendments and ending the WIK agreement
+    - works defects liability periods and security bonds
+    - settlement of each stage and final completion
+    - value determinations and costs that may be included
+    - inspections, notifications, and determinations procedures
+    - consequences of default
+    - VPA external expenses
+    - publication online in the public register of WIK agreements.
+A model agreement is available from the VPA and may be varied by agreement between the parties at the GLE's cost provided it remains consistent with the Act. The Act will prevail to the extent of any inconsistency with the WIK agreement or these guidelines.
+APPROVAL AND EXECUTION
+Approval and execution may take up to two months following the finalisation of the draft WIK agreement to ensure compliance with the Act. The order of execution is: GLE and developer, RA, VPA, and then the minister, who also obtains the Treasurer's consent if required.
+SETTLEMENT
+A joint site inspection of land or works will precede determination of value and settlement of each stage. Settlement of land requires a formal title for the land being transferred to the RA and adjustment of any fees and service charges that may apply at settlement.
+Final settlement of a WIK agreement will only occur after completion of all specified conditions including satisfactory remediation of any works defects identified at the end of the defects liability period, release of any security bonds and execution of a no claims release by the GLE and developer (if applicable).
+Settlement for land is via PEXA and for works by electronic funds transfer. A settlement date will usually require 10 business days' notice to ensure the notice of determination, agreed statement of adjustments and supplementary funds are available (if applicable).
+INFORMATION
+Department of Transport & Planning (DTP)
+https://www.planning.vic.gov.au/policy-and-strategy/growth-areas-infrastructure-contribution-fund
+State Revenue Office (SRO) 
+gaic@sro.vic.gov.au
++61 132 161
+GPO Box 1641 MELBOURNE VIC 3001
+Victorian Planning Authority (VPA) 
+gaic@vpa.vic.gov.au
++61 3 9651 9600
+Level 25, 35 Collins Street MELBOURNE VIC 3000
+These guidelines are for general information only and must not be relied upon.

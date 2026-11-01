@@ -1,0 +1,837 @@
+                                                                       Development Contributions Guidelines
+
+
+
+Incorporating the DCP into the planning scheme
+Introduction
+Having completed the preparation of a full cost apportionment development contributions plan (FCA
+DCP) and obtained council’s decision to prepare and exhibit an amendment to the planning scheme to
+incorporate the DCP into the planning scheme, this section provides information about:
+• [What is an approved DCP?]
+• [Why is an amendment to the planning scheme required?]
+• [Who can prepare an amendment to the planning scheme?]
+• [What Victoria Planning Provisions tools should be used to give effect to the DCP?]
+• [What amendment documentation is required for a DCP?]
+
+
+
+What is an approved DCP?
+An approved DCP forms part of a planning scheme. A DCP must be incorporated into a planning
+scheme before infrastructure levies can be collected from new development through the DCP.
+
+
+Why is an amendment to the planning scheme required?
+The incorporation of a DCP into the planning scheme will involve preparing and processing an
+amendment to the planning scheme. The amendment will follow the usual steps in the amendment
+process as set down in the Planning and Environment Act 1987, including public exhibition of the
+amendment.
+
+
+Who can prepare an amendment to the planning scheme?
+An amendment to a planning scheme must be prepared by a planning authority.
+A planning authority will in most cases be the relevant council, but can be any agency that is
+authorised by the Minister for Planning under the Planning and Environment 1987. A State
+Government agency that is authorised to prepare a DCP can use these guidelines to prepare a DCP
+and incorporate it into the planning scheme.
+
+
+What Victoria Planning Provisions tools should be used to
+give effect to the DCP?
+The following tools in the Victoria Planning Provisions (VPPs) should be applied to give effect to the
+DCP:
+• Clause 45.06 – Development Contributions Plan Overlay (DCPO)
+• the schedule to the DCPO (as provided in the Ministerial Direction – The Form and Content of
+  Planning Schemes), and
+•      the schedule to Clause 81 listing the incorporated documents.
+The main benefit of using the DCPO is that properties affected by a DCP are immediately obvious by
+looking at the planning scheme maps. Prospective purchasers of land affected by the Overlay will be
+made aware of the requirement during the conveyancing process, as the DCPO appears on the
+planning scheme certificate.
+Developers or prospective purchasers are then in a position to find out from the council what levies
+must be paid in accordance with a DCP, if they undertake development on the land.
+
+
+
+
+V5.9                                            March 2007                                    Page 1 of 17
+                                                                    Development Contributions Guidelines
+
+
+
+What amendment documentation is required for a DCP?
+The amendment documentation must include the explanatory report for the amendment.
+The explanatory report should be sufficiently detailed to enable stakeholders to understand the effect
+of the introduction of the DCP as exhibited. It should include the following information:
+• amount of levies
+• when the levies will be applied
+• the type, timing and location of infrastructure to be provided, and
+• the timeframe of the DCP.
+In preparing the amendment documentation, please refer to the following publications:
+• [Preparing the documentation for a planning scheme amendment (May 2002)]
+• [General Practice Note – Strategic assessment guidelines for planning scheme amendments
+  (November 2001)]
+• [VPP Practice note on incorporated and reference documents (August 2000)]
+• [VPP Practice note on writing schedules (May 2000)]
+• [VPP Practice note on using maps in planning schemes (May 2000)]
+• [Ministerial Direction - The Form and Content of Planning Schemes (October 2002)]
+• [Using Victoria’s Planning System], and
+• [Planning: A Short Guide].
+
+
+
+
+V5.9                                           March 2007                                  Page 2 of 17
+                                                                   Development Contributions Guidelines
+
+
+
+Establishing an accounting and payment tracking
+system
+The council is responsible for the collection and management of levies through a DCP. This section
+provides information about:
+• [What are the council’s financial responsibilities for a DCP?]
+• [What does an effective accounting and payment tracking system involve?]
+• [When should the accounting and payment tracking system be established?]
+• [What should the accounting and payment tracking system deliver?], and
+• [What are the council’s options for unspent funds?].
+
+
+
+What are the council’s financial responsibilities for a DCP?
+Once the DCP is in the planning scheme, the council is responsible for the financial management of
+the DCP. Specific requirements are set out in section 46Q of the Planning and Environment Act 1987
+(the Act).
+This involves:
+• administering the accounting and payment tracking systems
+• ensuring that due payments are made
+• monitoring and reporting on the financial aspects of the DCP on an annual basis in council’s annual
+  report
+• comparing the expected and actual cash flow
+• advising council well in advance about expected expenditure for an infrastructure project in the
+  DCP
+• advising council well in advance when additional funds will be necessary from other sources to
+  provide the infrastructure item
+• collecting on behalf of and forwarding levies to State Government agencies, where the DCP
+  includes infrastructure provided by the agency
+• satisfying financial audit standards, and
+• managing unspent funds.
+
+
+
+What does an effective accounting and payment tracking
+system involve?
+An effective accounting and payment tracking system is essential to support a DCP.
+This involves:
+• accounting for levies collected separately to differentiate them from other sources of funding
+• demonstrating that the levies have been spent on the infrastructure projects they were collected to
+  fund
+• recording the payment of levies against property records to ensure levies are not collected twice
+  from the same property, and
+• recording the payment of levies against property records to ensure unspent funds can be returned
+  to the current owners of the land, if necessary.
+
+
+
+
+V5.9                                          March 2007                                   Page 3 of 17
+                                                                     Development Contributions Guidelines
+
+
+
+When should the accounting and payment tracking system
+be established?
+As part of its corporate decision to prepare a DCP, a council should take steps to develop an
+accounting system that provides the information necessary to administer the DCP. Ideally, the system
+would integrate with council’s existing property records and financial information systems. The
+accounting and payment tracking systems must be operational when the amendment is approved and
+the DCP becomes part of the planning scheme.
+
+
+What should the accounting and payment tracking system
+deliver?
+The accounting and payment tracking systems must be capable of:
+• establishing one account per DCPO schedule (charge area) as a minimum requirement
+• providing details for which individual infrastructure projects levies have been paid
+• allocating the payment received against the relevant DCPO schedule
+• matching the payment of the levy with the relevant property
+• matching the payment to a particular planning or building permit
+• recording the amount and date of individual payments
+• issuing receipts for payments
+• recording when works are provided by the developer in lieu of payment of a levy
+• allowing for upfront payment for an infrastructure project by one developer and reimbursement as
+  other payments are made over time
+• notifying council if a payment has not been made by the due date, and
+• presenting on an annual basis what levies have been collected for the year per DCPO schedule
+  area and what funds have been spent delivering infrastructure projects.
+
+
+
+What are the council’s options for unspent funds?
+Section 46Q(4) of the Act sets out the provisions that apply in the event that the funds collected have
+not been spent within the period required by the approved DCP.
+Within 6 months after the end of that period the council must consider and implement one of the
+following options:
+• pay the amount to the current owners of the land in the area with the consent of the Minister for
+    Planning
+• prepare an amendment to the approved DCP that provides for the expenditure of that amount and
+  submit it to the Minister for Planning for approval, or
+• expend that amount for the provision of other infrastructure in that area with the consent of the
+  Minister for Planning.
+Depending on the delivery date nominated in the approved DCP, the 6 month period may be
+calculated from the:
+• end of the year specified for delivery of the infrastructure project
+• date that the threshold nominated in the DCP is reached, or
+• end date of the DCP time frame.
+
+
+
+
+V5.9                                           March 2007                                   Page 4 of 17
+                                                                   Development Contributions Guidelines
+
+
+
+Implementing a DCP
+Introduction
+Once the DCP is part of the planning scheme and the Development Contributions Plan Overlay
+(DCPO) and schedule is in operation, the responsible authority (usually council) can apply the
+infrastructure levies to new development in accordance with the schedule. The infrastructure levies
+are collected through the planning permit and building permit processes.
+This section provides information about:
+• [Calculating the infrastructure levies payable for a new development]
+• [Using the planning permit process to collect development infrastructure levies]
+• [Enforcing the payment of levies collected through the planning permit process]
+• [Collection of development infrastructure levies when no planning permit is required]
+• [Using the building permit process to collect community infrastructure levies], and
+• [Enforcing the payment of levies collected through the building permit process].
+
+
+
+
+V5.9                                          March 2007                                  Page 5 of 17
+                                                                    Development Contributions Guidelines
+
+
+
+Calculating the infrastructure levies payable for a new
+development
+This section explains how to calculate the levy payable for a particular development.
+The basis for calculating the levy payable is documented in the planning scheme. It is found in the
+relevant schedule to the Development Contributions Plan Overlay (DCPO) that applies to the land to
+be developed.
+
+
+Process
+Complete the following tasks.
+
+ Task    Description
+   1     Check the planning scheme maps to confirm that the DCPO applies to the land
+         subject to the planning permit or building permit application, and note the schedule
+         number.
+   2     Check whether a levy is payable for the proposed development by referring to any
+         exemption identified in the relevant DCPO schedule.
+   3     Determine whether a development or community infrastructure levy is payable for the
+         proposed development. The schedule will specify the types of development that will
+         be charged for one or both types of levy. This may be related to whether the proposed
+         application involves a residential or a non-residential land use.
+   4     Determine from the schedule whether indexation applies to the levy and calculate the
+         indexed levy by using the [Formula to adjust levies in accordance with the specified
+         index].
+         For more information, go to [Guidelines for adjusting infrastructure levies in
+         accordance with the specified index].
+   5     Check the schedule to determine the demand units used for charging the levy. For
+         example the demand units could be per dwelling, per lot, per square metre of
+         additional site coverage or impervious surface.
+   6     Consider the development proposal and determine what is proposed relative to the
+         demand units i.e. the number of additional dwellings, the number of additional lots, the
+         additional square metre of site coverage or area of impervious surface.
+   7     For residential development apply the [Formula to calculate the infrastructure levy
+         payable for the development].
+         For non-residential development, you may need to apply the applicable equivalence
+         ratio set out in the schedule to calculate the number of demand units proposed by the
+         application.
+         For more information, go to [Formula for using an equivalence ratio to calculate the
+         number demand units for a non-residential development proposal and the levy
+         payable].
+   8     Repeat Tasks 3-7, if more than one type of infrastructure levy applies.
+   9     Collect the development infrastructure levy by including the levy payable in a planning
+         permit condition.
+         Collect the community infrastructure levy by ensuring that the applicant for the building
+         permit pays the levy prior to the appointed building surveyor issuing the building
+         permit.
+
+
+
+
+V5.9                                          March 2007                                   Page 6 of 17
+                                                                        Development Contributions Guidelines
+
+
+
+Guidelines for adjusting infrastructure levies in accordance with the specified
+index
+The infrastructure levies in the DCPO schedule should be adjusted according to the specified index on
+an annual basis at the beginning of each new financial year within the timeframe of the DCP.
+The specified index in the schedule may be:
+• set at a particular annual rate
+• reference the consumer price index (CPI) All Groups table as set out in the Australian Bureau of
+  Statistics publication ‘Consumer Price Index Australia 6401.0’, or
+• reference another relevant annual index such as a construction cost index or building materials
+  cost index.
+If using the CPI or another annual index, select the June quarter index figure for Melbourne in the
+financial year that the DCP was approved, and the June quarter index figure for the financial year for
+which you are calculating.
+
+
+Formula to adjust levies in accordance with the specified index
+To calculate the indexed levy for any year after the first financial year the DCP is approved use the
+following formula:
+(Original levy calculated in the DCP x by the index figure for the year you are calculating) divided by
+the index figure for year 1 of the DCP = Indexed DCP levy for year n of the DCP.
+
+Example:
+Calculate the year 4 indexed charge for development infrastructure in charge area 1.
+
+Original
+development              $1,406.77
+infrastructure
+levy in charge       per demand unit
+area 1
+Specified index
+in year 1 of DCP           119.9
+operation
+Specified index
+in year 4 of DCP           133.0
+operation
+
+($1,406.77 x 133) / 119.9 = $1,560.47
+The levy payable for development infrastructure in charge area 1 in year 4 of the DCP is $1,560.47
+per demand unit.
+
+
+Formula to calculate the infrastructure levy payable for the development
+Indexed infrastructure levy per demand unit x Number of demand units proposed in the application =
+Levy payable for the development
+
+Example:
+In year 1 of the DCP, a medium density housing development involving the construction of 5 dwellings
+requires a planning permit on land that is subject to a DCPO requiring payment of a development
+infrastructure levy for a retarding basin (i.e. it falls into charge area 1). In this case, the demand unit is
+an equivalent dwelling.
+
+
+
+
+V5.9                                             March 2007                                      Page 7 of 17
+                                                                     Development Contributions Guidelines
+
+
+ Indexed infrastructure levy per          $1,406.77
+ demand unit in charge area 1
+ for year 1                          (i.e. year 1 charge)
+ Number of demand units
+                                         5 dwellings
+ proposed in the application
+
+
+$1,406.77 x 5 = $7,033.85.
+The levy payable for the development is $7,033.85.
+
+
+Formula for using an equivalence ratio to calculate the number demand units
+for a non-residential development proposal and the levy payable
+(Amount of development divided by the applicable equivalence ratio) x indexed infrastructure levy
+payable per demand unit = Levy payable for the non-residential development proposal
+
+Example:
+In year 4 of the DCP (2005), a retail development is proposed on a 698m2 site that falls into charge
+area 1. Due to the DCPO that applies to this land, a condition of the planning permit will be that the
+development proponent pays the applicable development infrastructure levy for the retarding basin
+that is to be constructed in the creek line (i.e. D001).
+
+To calculate the levy payable, it is necessary to convert the 698 square metres of retail site area into
+the relevant demand unit (in this example ‘equivalent dwellings’ are the demand units being used).
+This conversion is achieved by applying the relevant equivalence ratio specified in the schedule to the
+DCPO. In this example, the [standard equivalence ratios] apply.
+
+Retail site area in square
+                                   698
+metres
+Equivalence ratio for retail       300 m2 of site area =
+development                        1 demand unit
+Indexed development                $1,560.47
+infrastructure levy per demand     (i.e. the permit
+unit for year 4                    application occurs in
+(Refer to Step 4)                  year 4 of the DCP)
+
+
+(698 divided by 300) x $1,560.47 = $3,630.69
+$3,630.69 is the levy payable for the 698 square metres of retail site area.
+
+
+
+
+V5.9                                           March 2007                                   Page 8 of 17
+                                                                   Development Contributions Guidelines
+
+
+
+Using the planning permit process to collect development
+infrastructure levies
+The Planning and Environment Act 1987 provides that the requirement to pay a development
+infrastructure levy in accordance with a DCP must be specified in a condition on the planning permit.
+The planning permit condition may require the applicant to either:
+• pay the levy by a certain date
+• pay the levy prior to being issued a building permit under the Building Act 1993 or Statement of
+  Compliance under the Subdivision Act 1988, or
+• enter into an agreement regarding the timing and staging of payments, or provide works-in-kind to
+  meet requirements.
+The planning permit conditions must be complied with if the development is to proceed, otherwise the
+responsible authority can take steps to enforce the conditions.
+When a planning permit has been issued with a condition requiring payment of a development
+infrastructure levy, the requirement for a payment should be registered on council’s accounting and
+payment tracking system.
+
+
+Enforcing the payment of levies collected through the
+planning permit process
+If the council becomes aware that a payment in accordance with a planning permit condition has not
+been made, the council may send a letter to the owner and occupier of the land requesting compliance
+with the condition within a certain timeframe (for example 14 days).
+If the levy remains unpaid, the council may take steps that are necessary to secure payment and
+compliance with the planning permit condition.
+The options available are to:
+• serve a planning infringement notice (section 130 of the Act)
+• apply to the Victorian Civil and Administrative Tribunal (VCAT) for an enforcement order (section
+  114 of the Act)
+• start prosecution proceedings through the Magistrates Court (sections 26 and 27 of the
+  Magistrates’ Court Act 1989), or
+• commence council’s established debt collection procedures (section 46Q(5) of the Act).
+To obtain more information about general planning permit enforcement procedures under the Act,
+refer to the Department of Infrastructure’s publication [Using Victoria’s Planning System].
+Further assistance can be found in the VCAT publication, Practice Note Planning List (No.4) –
+Enforcement Orders and Interim Enforcement Orders.
+
+
+Collection of development infrastructure levies when no
+planning permit is required
+In some cases, a planning permit will not be required for new development that is subject to the DCP.
+In this case an alternative method of collection will be provided for in the approved DCP. The council
+will have addressed this circumstance as part of the preparation of the DCP.
+Refer to the approved DCP to confirm and apply the required collection method when a development
+infrastructure levy applies, but a planning permit for the new development is not required.
+One alternative method that may be used and documented in the approved DCP is the collection of
+the development infrastructure levy through the building permit process. There may be other options
+documented in the approved DCP.
+
+
+
+
+V5.9                                          March 2007                                 Page 9 of 17
+                                                                    Development Contributions Guidelines
+
+
+
+Using the building permit process to collect community
+infrastructure levies
+The Planning and Environment Act 1987 requires the building permit applicant to pay the community
+infrastructure levy prior to the building permit being issued.
+Before issuing a building permit, the building surveyor must check whether the building permit
+applicant has:
+• paid the community infrastructure levy, or
+• entered into an agreement with the council to pay the levy at a later date.
+A developer may, by agreement with the council, either pay or provide works-in-lieu to meet the
+community infrastructure levy at the planning permit stage.
+In order for the building surveyor to ensure that the payment has been made, it is necessary to check:
+• whether a community infrastructure levy is payable
+• the amount of the levy due, and
+• the receipt provided to the applicant by council that shows that the correct levy has been paid.
+The building surveyor should obtain this information in writing from the council. The building surveyor
+can proceed to issue the building permit if satisfied that the levy has been paid.
+When a building surveyor seeks information from the council about the community infrastructure levy
+payable in relation to a particular building permit application, the requirement for a payment should be
+registered on council’s accounting and payment tracking system.
+
+
+Enforcing the payment of levies collected through the
+building permit process
+If the council becomes aware that the building permit was issued and the payment has not been
+made, the council may send a letter to the owner the land and the applicant for the building permit
+requesting payment within a certain timeframe (for example 14 days).
+If the infrastructure levy remains unpaid, the council may take steps to secure payment through
+council’s established debt collection procedures, and if necessary start prosecution proceedings
+through the Magistrates Court or court of competent jurisdiction (section 46Q(5) of the Planning and
+Environment Act 1987).
+The council may advise a building surveyor who issued a building permit without first ensuring the
+payment of the levy of their responsibilities under section 24(5) of the Building Act 1993.
+
+
+
+
+V5.9                                           March 2007                                  Page 10 of 17
+                                                                    Development Contributions Guidelines
+
+
+
+Reviewing a DCP
+This section provides information about:
+• [Monitoring and reviewing a DCP]
+• [Unspent funds], and
+• [Altering a DCP].
+
+
+
+Monitoring and reviewing a DCP
+The council has a responsibility to monitor the DCP on annual basis and to review the DCP every
+three years as part of the review of the planning scheme.
+The annual monitoring of a DCP will involve:
+• tracking the financial aspects of the DCP including levies collected and spent, cash flow, unspent
+   funds, etc
+• identifying the need for additional funding from other sources if the funds collected through the
+  DCP are not enough to provide an expected infrastructure project in the DCP
+• requesting budget for capital expenditure in the upcoming 12 month period
+• comparing the actual cost of infrastructure projects compared to the expected cost specified in the
+  DCP.
+The three year review will involve identifying any changes to the DCP resulting from:
+• a review of the municipality’s strategic planning framework
+• an unexpected change in planning circumstances related to development or policy
+• a mismatch between the actual/emerging needs of the community compared to the expected
+  needs outlined in the DCP, and
+• a change in the expected timing and quantum of new development that formed the basis of the
+  approved DCP.
+Towards the end of the DCP timeframe, the council should consider whether it is appropriate to
+prepare a new DCP:
+• with all new infrastructure projects for the area
+• that includes infrastructure projects part-funded through a previous DCP, or
+• that includes infrastructure projects to be funded from unspent funds collected from the current
+  approved DCP.
+As a result of the regular monitoring and review of an approved DCP over its life, a council may decide
+that a change to the DCP is required and could be justified. Any change to an approved DCP will
+require an amendment to the planning scheme.
+
+
+Unspent funds
+Section 46Q(4) of the Act sets out the provisions that apply in the event that the funds collected have
+not been spent within the period required by the approved DCP.
+Within 6 months after the end of that period the council must consider and implement one of the
+following options:
+• pay the amount to the current owners of the land in the area with the consent of the Minister for
+    Planning
+• prepare an amendment to the approved DCP that provides for the expenditure of that amount and
+  submit it to the Minister for Planning for approval, or
+• expend that amount for the provision of other infrastructure in that area with the consent of the
+  Minister for Planning.
+
+
+
+
+V5.9                                           March 2007                                  Page 11 of 17
+                                                                     Development Contributions Guidelines
+
+
+
+Altering a DCP
+Once the DCP is incorporated into the planning scheme, any change to the content of the DCP will
+require a new amendment to the planning scheme.
+
+
+Guidelines for altering a DCP
+For an existing approved DCP that a council wants to change, there is scope for the council to make
+limited adjustments to the calculations without having to prepare a completely new DCP. In these
+cases, changes can be made on the basis of the calculation process and apportionment principles that
+applied at the time the DCP was originally prepared and approved.
+This opportunity is limited to small scale changes to the DCP, such as the:
+• deletion of infrastructure projects, or
+• increase of estimated costs for the infrastructure projects that are already in the DCP, and
+• resulting change in infrastructure levies.
+Existing approved DCPs prepared by principles different to those in the guidelines should not be
+extended once the DCP timeframe expires. Extensions to the timeframe for an approved DCP should
+be assessed in accordance with the principles contained in these guidelines.
+If an amendment to an existing DCP is proposed, it is necessary to set out in the Explanatory Report
+for the amendment:
+• what change to the DCP is proposed
+• the reasons why the change is necessary including its strategic justification, and
+• the implications of the change in terms of the type of infrastructure, the cost and timing of its
+  provision and any change to the levy.
+The amendment will follow the usual amendment processes.
+
+
+
+
+V5.9                                            March 2007                                  Page 12 of 17
+                                                                  Development Contributions Guidelines
+
+
+
+Glossary
+This glossary contains commonly used development contribution terms and their meaning.
+Click on any of the following to browse the glossary by letter.
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+
+Term                          Explanation
+analysis area                 An analysis area is a small geographic unit that is used as the
+                              basis for collecting and quantifying information about existing
+                              and future development.
+approved DCP                  See [approved development contributions plan]
+approved development          An approved DCP means a DCP that forms part of a planning
+contributions plan            scheme. The Minister for Planning has to approve an
+                              amendment to the planning scheme in order to incorporate a
+                              DCP. In approving the amendment to incorporate a DCP in the
+                              planning scheme, the Minister approves the DCP.
+building                      The Planning and Environment Act 1987 defines the term
+                              building to include:
+                              • a structure and part of a building or a structure; and
+                              • fences, walls, out-buildings, service installations and other
+                                appurtenances of a building; and
+                              • a boat or a pontoon which is permanently moored or fixed to
+                                land.
+capital cost                  The capital costs for an infrastructure project means expenditure
+                              incurred by:
+                              • constructing new infrastructure, and
+                              • extending the economic life of an existing asset, where the
+                                cost required would be equal to or greater than the cost that
+                                was required to provide the asset in the first instance.
+CCD                           See [census collector districts]
+census collector districts    Census collector districts (CCDs) are defined by the Australian
+(CCDs)                        Bureau of Statistics for the purpose of collecting and analysing
+                              census information. They are the smallest geographical area for
+                              which statistics such as dwelling numbers are available (most
+                              CCDs consist of around 200-300 dwellings). They can be used
+                              as the basis for defining analysis areas.
+charge area                   A charge area is an area where the same infrastructure levies
+                              apply to all demand units.
+                              The purpose of creating charge areas is to simplify how
+                              infrastructure levies are applied within the planning scheme.
+                              Defining charge areas relates directly to the requirements of the
+                              Development Contributions Plan Overlay in the Victoria Planning
+                              Provisions.
+                              Charge areas are created by aggregating analysis areas with
+                              common levies for common infrastructure projects.
+
+
+
+
+V5.9                                         March 2007                                  Page 13 of 17
+                                                                  Development Contributions Guidelines
+
+
+community infrastructure     Community infrastructure describes a classification of
+                             infrastructure projects for the purposes of calculating and
+                             charging the community infrastructure levy.
+                             It includes the construction of a building or facility used for a
+                             community or social purpose, but does not include the land on
+                             which the facility or building is constructed. The land acquisition
+                             is classified as development infrastructure.
+                             It does not include:
+                             • the acquisition of land for community facilities, or
+                             • the construction of maternal and child health care centres,
+                               child care centres, preschools, and multi-purpose community
+                               meeting facilities.
+                             These are classified as development infrastructure.
+community infrastructure     Community infrastructure levies are charged through an
+levy                         approved DCP for community infrastructure. They are collected
+                             at the building permit stage and are capped at:
+                             • $450 per dwelling, and
+                             • 0.25 cents in the dollar of the cost of the building work in any
+                               other case.
+CPI                          See [consumer price index]
+consumer price index (CPI)   The weighted average cost of a standard basket of retail goods
+                             expressed in relation to a base period. This is usually expressed
+                             as a figure above a base of a 100 percent. For example, in June
+                             2002 the CPI was 136.9 percent. The figures for each year are
+                             available in the Australian Bureau of Statistics publication
+                             ‘Consumer Price Index Australia 6401.0’.
+cross-subsidy                A cross-subsidy occurs when developments are charged for
+                             infrastructure that they will not use.
+DCP                          See [development contributions plan]
+DCPO                         See [Development Contributions Plan Overlay]
+demand unit                  A demand unit is an individual unit that provides the basis on
+                             which infrastructure levies are calculated.
+                             Converting the development into demand units enables common
+                             units to be used to calculate the total demand for infrastructure
+                             generated by all land uses.
+developable land             A hectare of developable land is one type of demand unit that
+                             can be selected when preparing a DCP.
+                             Developable land is land that can be converted to urban
+                             purposes, and includes those uses that are usually associated
+                             with the establishment of an urban community such as all
+                             aspects of residential, commercial and public use.
+                             It does not include land subject to some form of development
+                             control such as an easement or an Environmental Significance
+                             Overlay, which would not be charged infrastructure levies.
+
+
+
+
+V5.9                                        March 2007                                   Page 14 of 17
+                                                                 Development Contributions Guidelines
+
+
+development                  The term development is used in two ways in the guidelines
+                             depending on the context.
+
+                             Development is defined in the Planning and Environment Act
+                             1987, as including the:
+                                (a) construction or exterior alteration or exterior decoration
+                                     of a building, and
+                                (b) demolition or removal of a building or works, and
+                                (c) construction or carrying out of works, and
+                                (d) subdivision or consolidation of land, including buildings
+                                     and airspace, and
+                                (e) placing or relocation of a building or works on land, and
+                                (f) construction or putting up for display of signs and
+                                     hoardings.
+
+                             Development is also used to describe the amount of area that:
+                             • has been already developed for a particular land use (i.e.
+                               existing development),
+                             • is likely to experience future growth or expansion in certain
+                               types of land use (future, new or projected development).
+development contributions    A development contributions plan (DCP) is a mechanism used to
+plan (DCP)                   levy new development for contributions to fund planned
+                             infrastructure that will be needed by the future community.
+Development Contributions    An approved DCP should be implemented through the
+Plan Overlay and schedule    Development Contributions Plan Overlay (DCPO) and schedule,
+                             as provided for in the Victoria Planning Provisions.
+                             The Development Contributions Plan Overlay indicates the area
+                             covered by the DCP. The schedule indicates the infrastructure
+                             levies that apply in a particular area.
+development infrastructure   Development infrastructure describes a classification of
+                             infrastructure projects for the purposes of calculating and
+                             charging the development infrastructure levy.
+                             The following works, services or facilities may be funded from a
+                             development infrastructure levy:
+                             • acquisition of land for roads, public transport corridors,
+                                drainage, public open space, and community facilities
+                                including (but not limited to) those listed under the last dot
+                                point in this list
+                             • construction of roads, including the construction of bicycle
+                               and foot paths, and traffic management and control devices
+                             • construction of public transport infrastructure, including fixed
+                               rail infrastructure, railway stations, bus stops and tram stops
+                             • basic improvements to public open space, including
+                               earthworks, landscaping, fencing, seating and playground
+                               equipment
+                             • drainage works, and
+                             • buildings and works for or associated with the construction of
+                               maternal and child health centers, child care centers,
+                               kindergartens, or any center which provides these facilities in
+                               combination.
+                             Levies for development infrastructure projects are generally
+                             collected through the planning permit process.
+
+
+
+
+V5.9                                        March 2007                                  Page 15 of 17
+                                                                 Development Contributions Guidelines
+
+
+development infrastructure   Infrastructure levies calculated and charged for development
+levy                         infrastructure projects generally collected through the planning
+                             permit process.
+DU                           See [demand unit]
+equivalence ratio            Equivalence ratios are used to convert estimates of existing and
+                             future development into common units (demand units) to enable
+                             the total demand for an infrastructure project to be added up.
+                             They also enable the appropriate infrastructure levy payable for
+                             an individual development proposal to be calculated once the
+                             DCP has been incorporated into the planning scheme.
+                             Equivalence ratios are expressed as the quantum of land use
+                             that generates the equivalent amount of usage as one demand
+                             unit. For example, for road infrastructure, 19m2 of retail floor
+                             space = 1 dwelling = 1 demand unit.
+                             These ratios will differ depending on the infrastructure item.
+ER                           See [equivalence ratio]
+external usage               The proportion of usage drawn from outside the main catchment
+                             area.
+facilities                   Facilities are buildings constructed for a specific public
+                             purpose(s) and the land which is needed to accommodate the
+                             buildings. Services are generally carried out from facilities.
+FCA DCP                      See [full cost apportionment development contributions plan]
+full cost apportionment      An FCA DCP is a DCP prepared using the full cost
+development contributions    apportionment method of calculating levies. The full cost
+plan (FCA DCP)               apportionment method is explained in detail in [Preparing a
+                             DCP].
+future community             The total population or development that is expected to live or
+                             occur in an area within the timeframe of the DCP. It includes
+                             both existing and projected new development.
+future usage                 The proportion of usage generated by future development
+                             expected beyond the timeframe of the DCP from inside and
+                             outside the main catchment area.
+infrastructure project       An infrastructure project is a description of activities or outputs
+                             required to provide an item of infrastructure that is needed by the
+                             community.
+                             DCPs are prepared in order to charge new development for the
+                             provision of one or more infrastructure projects.
+                             An infrastructure project can involve:
+                             • the acquisition of land
+                             • the construction of a building or works, and/or
+                             • land forming and landscaping.
+                             The Planning and Environment Act 1987 uses the terms works,
+                             services and facilities to describe infrastructure projects.
+MCA                          See [main catchment area]
+main catchment area          The main catchment area (MCA) is the area from which an
+                             infrastructure project will draw all or most of its usage. The MCA
+                             must be identified for each infrastructure project.
+nexus                        The reasonable connection between the development and
+                             infrastructure that will be provided. This connection is
+                             demonstrated by the likelihood that new development will use
+                             the infrastructure to be provided.
+
+
+
+
+V5.9                                        March 2007                                  Page 16 of 17
+                                                                   Development Contributions Guidelines
+
+
+Planning and Environment      The [Planning and Environment Act, 1987] establishes a
+Act, 1987                     framework for planning the use, development and protection of
+                              land in Victoria in the present and long-term interest of all
+                              Victorians.
+planning authority            Any person or body that is given power under section 8 of the
+                              Planning and Environment Act 1987 to prepare a planning
+                              scheme or an amendment to a planning scheme.
+Printer friendly version      Displays the content area of the webpage in a new browser
+                              window with all website navigation tools removed, for example
+                              section tabs, left menu and breadcrumb trail. This means the
+                              content area will print on A4-sized paper.
+RA                            See [responsible authority]
+recurrent cost                Recurrent costs are those costs which occur repeatedly or
+                              periodically, such as maintenance costs or operational costs.
+responsible authority (RA)    The person who is responsible for the administration or
+                              enforcement of a planning scheme or provision of a planning
+                              scheme under the Planning and Environment Act 1987.
+services                      Services are activities carried out from facilities for the care and
+                              benefit of residents.
+standard equivalence ratios   Standard equivalence ratios are generic [equivalence ratios]
+                              provided in the guidelines for the purposes of calculating and
+                              charging infrastructure levies. These ratios can be varied to
+                              more accurately reflect local circumstances and patterns of
+                              infrastructure usage.
+voluntary agreements          A voluntary agreement is an agreement between landowners,
+                              the council and other parties for the provision of infrastructure, at
+                              the time a development proposal is considered.
+                              An agreement can be used to place an obligation on the parties
+                              to:
+                              • provide infrastructure, and/or
+                              • pay for infrastructure.
+                              Entering into an agreement for development contributions
+                              requires all parties to freely and voluntarily agree to commit to
+                              their obligations, as set out in the agreement. Therefore, the
+                              establishment of a voluntary agreement cannot be a requirement
+                              of a planning scheme amendment or planning permit.
+                              Voluntary agreements provide an alternative mechanism to a
+                              DCP for obtaining development contributions towards
+                              infrastructure provision.
+works                         The Planning and Environment Act 1987 defines the term works
+                              to include any change to the natural or existing condition or
+                              topography of land including the removal, destruction or lopping
+                              of trees and the removal of vegetation or topsoil.
+
+
+
+
+V5.9                                         March 2007                                    Page 17 of 17
+
