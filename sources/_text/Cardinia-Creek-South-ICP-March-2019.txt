@@ -1,0 +1,1757 @@
+Cardinia Creek South
+Infrastructure Contributions Plan
+
+
+
+
+March 2019
+    Contents
+    1.0 SUMMARY4
+           1.1 Monetary component                                                               4
+           1.2 Land component                                                                   4
+
+    2.0 INTRODUCTION7
+           2.1   Document structure                                                             7
+           2.2   Planning and environment act 1987                                              9
+           2.3   Strategic planning & justification                                             9
+           2.4   Timeframe & plan review period                                                 9
+           2.5   Area to which this infrastructure contribution plan applies (icp plan area)    9
+
+    3.0 MONETARY COMPONENT PROJECT IDENTIFICATION                                              11
+           3.1   Cost apportionment & related infrastructure agreements                        11
+           3.2   Transport construction projects                                               13
+           3.3   Community & recreation construction projects                                  17
+           3.4   Project staging                                                               19
+
+    4.0 PUBLIC PURPOSE LAND PROVISION                                                          21
+           4.1 Inner and outer public purpose land                                             21
+           4.2 Land component                                                                  25
+
+    5.0 CONTRIBUTIONS & ADMINISTRATION                                                         28
+           5.1  Collecting agency                                                         28
+           5.2  Development agency                                                        28
+           5.3  Net developable area                                                      28
+           5.4  Contribution land                                                         28
+           5.5  Levy rates and classes of development                                     28
+           5.6  Estimated value of public purpose land                                    29
+           5.7  Payment of contributions                                                  29
+                5.7.1 Timing of payment of monetary component & land equalisation amounts 29
+                5.7.2 Inner public purpose land                                           30
+           5.8 Payment of land credit amounts                                             30
+           5.9 Development exempt from contributions                                      30
+                5.9.1 Schools30
+                5.9.2 Housing30
+           5.10 Works in kind                                                             30
+               5.10.1 Interim and temporary works                                         31
+           5.11 Works in kind reimbursement                                               31
+           5.12 Funds administration                                                      31
+           5.13 Annual indexation of standard levy rates                                  31
+           5.14 Adjustment of land credit land amounts                                    31
+           5.15 Adjustment of land equalisation amounts                                   31
+
+    6.0 APPENDIX 1 – DEFINITIONS                                                               33
+
+    7.0 APPENDIX 2 – LAND                                                                      35
+
+
+
+
+2   CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019
+PLANS
+Plan 1   ICP plan area and classes of development                                                 6
+Plan 2   Standard levy transport construction projects                                           12
+Plan 3   Standard levy community & recreation construction projects                              16
+Plan 4   Public purposes land                                                                    19
+Plan 5   Land budget                                                                             34
+         
+
+TABLES
+Table 1 Monetary component icp levy summary                                                       4
+Table 2 ICP land contribution percentage                                                          4
+Table 3 Land credit and equalisation amounts                                                      5
+Table 4 Development classes & areas                                                               9
+Table 5 Standard levy transport construction projects                                            13
+Table 6 Standard levy community & recreation construction projects                               17
+Table 7 Inner public purpose land                                                                21
+Table 8 Public purposes land summary                                                             25
+Table 9 Public purpose land credit & equalisation amounts                                        26
+Table 10 Classes of development & standard levy rates                                            28
+Table 11 Indices31
+Table 12 Summary land use budget                                                                 35
+Table 13 Parcel specific land use budget                                                         36
+
+
+
+
+                                                    CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019   3
+    1.0       SUMMARY
+    1.1 MONETARY COMPONENT
+           The following table summarises the monetary component of the infrastructure contribution imposed under this
+           Infrastructure Contributions Plan (ICP) for each class of development.
+
+           The monetary component consists of a:
+
+           • standard levy that is calculated by multiplying the net developable area (NDA) by the standard levy rate;
+           Details of the infrastructure construction projects that will be funded by the monetary component and their
+           apportionment are provided in Section 3 of this ICP.
+
+           Details of the standard levy rates are provided in Section 5 of this ICP.
+
+           Table 1 Monetary component icp levy summary
+
+                                                             NET
+               CLASS OF                                                   LEVY RATE ($/
+                                     LEVY TYPE          DEVELOPABLE                       TOTAL LEVY TO BE PAID
+             DEVELOPMENT                                                     NDHA)
+                                                       AREA (HECTARES)
+
+                                     Transport                               $114,062         $68,416,179
+                                   Community &
+              Residential                                  599.82            $86,627          $51,960,235
+                                    Recreation
+                                       Total                                 $200,689        $120,376,415
+
+           Note: Discrepancy in numbers due to rounding of decimal point. Table 13 takes precedence.
+
+
+    1.2 LAND COMPONENT
+           The following table specifies the ICP land contribution percentage for each class of development.
+
+           The ICP land contribution percentage for a class of development is calculated by dividing the total area of public
+           purpose land specified in this ICP that is attributable to that class of development by the total area of the contribution
+           land in the ICP plan area of this ICP in that class of development.
+
+           Details of the public purposes that this land will be used and developed for, is specified in Section 4 of this ICP.
+
+           Table 2 ICP land contribution percentage
+
+                                                 ICP LAND CONTRIBUTION
+                 CLASS OF DEVELOPMENT
+                                                       PERCENTAGE
+            Residential                                  13.01%
+
+           The land component of the infrastructure contribution in relation to a parcel of land in the ICP plan area is:
+
+           • any inner public purpose land that forms part of the parcel of land; and
+           • any land equalisation amount in relation to the parcel of land.
+           Table 3 specifies for each parcel of land in the ICP plan area:
+
+           • the area of inner public purpose land to be provided by the parcel
+           • land credit amount or the land equalisation amount in relation to the parcel; and
+           • outer land attributable to this ICP.
+
+
+
+
+4   CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019
+Table 3 Land credit and equalisation amounts
+
+                            INNER PUBLIC         LAND CREDIT AMOUNT     LAND EQUALISATION     LAND EQUALISATION
+         PARCEL ID
+                          PURPOSE LAND (HA)           (TOTAL $)          AMOUNT (TOTAL $)    AMOUNT ($ PER NDHA)
+            1                            –                   $0.00           $476,510.59           $221,440.23
+            2                        4.4061            $182,338.61                 $0.00                 $0.00
+            3                            –                   $0.00                 $0.00                 $0.00
+            4                        5.8164          $2,530,086.95                 $0.00                 $0.00
+            5                      19.1394                   $0.00         $1,786,462.89            $13,136.20
+            6                            –                   $0.00                 $0.00                 $0.00
+            7                        5.4132                  $0.00         $3,696,541.30            $69,910.68
+            8                        3.4442                  $0.00         $3,201,210.64            $85,416.66
+            9                            –                   $0.00           $258,850.34           $221,440.23
+            10                       9.6317          $8,454,136.60                 $0.00                 $0.00
+            11                       0.1484                  $0.00         $2,435,959.10           $203,126.93
+            12                       2.1413                  $0.00         $5,446,391.23           $139,981.81
+            13                       1.8203                  $0.00         $4,948,570.08           $143,377.34
+            14                       0.1507                  $0.00             $1,827.71             $1,800.35
+            15                       0.0077                  $0.00         $2,054,541.78           $220,226.53
+            16                       0.8929            $185,618.26                 $0.00                 $0.00
+            17                       2.3319                  $0.00           $744,982.80            $39,311.33
+            18                       2.2313                  $0.00         $2,052,551.56            $84,875.10
+            19                     14.2214           $9,584,813.81                 $0.00                 $0.00
+            20                     12.6735          $11,080,056.89                 $0.00                 $0.00
+            21                       2.7999                  $0.00         $7,824,652.75           $144,767.17
+ SUB-TOTAL                         87.2705          $32,017,051.12        $34,929,052.78                 $0.00
+
+ ROAD RESERVE
+ R1 (Patterson Road)                     –                   $0.00                 $0.00                 $0.00
+ R2 (Smiths Lane)                        –                   $0.00           $160,869.68           $221,440.23
+ R3 (Pound Road)                         –                   $0.00            $32,850.66           $221,440.23
+ R4 (Muddy Gates Lane)                   –                   $0.00                 $0.00                 $0.00
+ R5 (Ballarto Road)                      –                   $0.00                 $0.00                 $0.00
+ SUB-TOTAL                               –                   $0.00           $193,720.34                 $0.00
+
+ OUTER LAND
+ IR-53                               0.2718            $749,188.00                 $0.00                 $0.00
+ IR-54                               1.0310          $2,038,534.00                 $0.00                 $0.00
+ IN-03A (IN-54-20)                   0.4771            $163,000.00                 $0.00                 $0.00
+ IN-03B (IN-54-20)                   0.3673            $155,000.00                 $0.00                 $0.00
+ SUB-TOTAL                           2.1472          $3,105,722.00                 $0.00                 $0.00
+
+ TOTALS PSP CARDINIA
+                                   89.4176          $35,122,773.12        $35,122,773.12                 $0.00
+ CREEK SOUTH
+
+
+
+
+                                               CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019   5
+6   CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019
+2.0      INTRODUCTION
+      The Cardinia Creek South Infrastructure Contributions Plan (the ‘ICP’) has been prepared by the Victorian Planning
+      Authority (VPA) with the assistance of Casey City Council, service authorities and other stakeholders.
+
+      This ICP has been incorporated in the Casey Planning Scheme for the purposes of imposing infrastructure
+      contributions on development proponents to contribute to the provision of works, services or facilities and the
+      provision of land for public purposes.
+
+      The infrastructure contribution imposed under this ICP in relation to the development of land in the ICP plan area
+      consists of a monetary component and a land component.
+
+      The ICP:
+
+      • Establishes the statutory mechanism for development proponents to make a monetary contribution towards the
+         cost of infrastructure projects identified in the Cardinia Creek South Precinct Structure Plan (PSP);
+
+      • Establishes the statutory mechanism for development proponents to provide land to be used and developed for
+         the public purposes identified in the Cardinia Creek South PSP;
+
+      • Lists the individual infrastructure projects identified in the Cardinia Creek South PSP; and
+      • Has been prepared in accordance with Part 3AB of the Planning and Environment Act 1987, the Ministerial
+         Direction on the Preparation and Content of Infrastructure Contributions Plans and the Infrastructure
+         Contributions Plan Guidelines.
+
+
+2.1 DOCUMENT STRUCTURE
+      This document comprises the sections described below.
+
+
+                 SECTIONS 1 & 2
+                 • Summarises the key details of this ICP
+                 • Describes the strategic basis for this ICP
+
+
+
+
+                 SECTION 3
+                 • Identifies the monetary component projects to be contributed to by this ICP
+
+
+
+
+                 SECTION 4
+                 • Identifies the public purpose land provision for this ICP
+
+
+
+
+                 SECTION 5
+                 • Discusses the administration and implementation of this ICP
+
+
+
+
+                 SECTION 6 & ABOVE
+                 • Provides additional detailed information
+
+
+
+
+                                                      CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019   7
+                                     THIS PAGE IS INTENTIONALLY BLANK
+
+
+
+
+8   CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019
+2.2 PLANNING AND ENVIRONMENT ACT 1987
+   This ICP has been prepared in accordance with Part 3AB of the Planning and Environment Act 1987 (the Act), it
+   is consistent with the Minister for Planning’s Ministerial Direction on the Preparation and Content of Infrastructure
+   Contributions Plans made under section 46GJ of the Act.
+
+   In accordance with section 46GG of the Act, this ICP has been incorporated in the Casey Planning Scheme for
+   the purposes of imposing infrastructure contributions to fund the provision of works, services or facilities and the
+   provision of land for public purposes. This ICP is implemented in the Casey Planning Scheme through Schedule 1 of
+   Clause 45.11 to the Infrastructure Contributions Overlay and is an incorporated document under Clause 72.04.
+
+
+2.3 STRATEGIC PLANNING & JUSTIFICATION
+   This ICP has been prepared in conjunction with the Cardinia Creek South PSP.
+
+   The Cardinia Creek South PSP sets out the vision for how land should be developed, illustrates the future urban
+   structure and describes the outcomes to be achieved by the future development. The PSP also identifies the
+   infrastructure projects required as well as providing the rationale and justification for the infrastructure items. The
+   background reports for the PSP provide an overview of the planning process for the Cardinia Creek South ICP area.
+
+   The PSP has confirmed:
+
+    • All road, intersection and bridge projects required to service the new community;
+    • The sporting reserves, local parks, schools and community facilities required to service the new community;
+    • The public purpose land required for the above; and
+    • The parcel specific land budget detailing the encumbrances, the Net Developable Area (NDA) and the
+      contribution land
+
+
+2.4 TIMEFRAME & PLAN REVIEW PERIOD
+   This ICP adopts a long-term outlook for development. It takes into account planned future development in the
+   area. This ICP commences on the date of incorporation into the Casey Planning Scheme. This ICP will end when
+   development within the ICP area is complete, which is projected to be 20 years after gazettal, or when this ICP is
+   removed from the Casey Planning Scheme.
+
+   This ICP is expected to be reviewed and updated every five years (or more frequently if required). This review
+   may result in minor changes or have no changes at all, alternatively this may require an amendment to the Casey
+   Planning Scheme to replace this document with an alternative, revised document.
+
+
+2.5 AREA TO WHICH THIS INFRASTRUCTURE CONTRIBUTION PLAN
+    APPLIES (ICP PLAN AREA)
+   This ICP applies to 848.51 total hectares of land as shown in Plan 1, this is the ICP plan area.
+
+   The class of development of land in relation to which an infrastructure contribution is to be imposed under this plan
+   is ‘residential’.
+
+   The classes of development are identified in Plan 1, the Net Developable Area (NDA) and contribution land for each
+   class of development are summarised in Table 4.
+
+   Table 4 Development classes & areas
+
+                                                    NET DEVELOPABLE AREA         CONTRIBUTION LAND
+                                                         (HECTARES)                 (HECTARES)
+    Residential                                                  599.82                     687.09
+    ICP Plan Area Total                                          599.82                     687.09
+
+   Note: Discrepancy in numbers due to rounding of decimal point. Table 13 takes precedence.
+
+
+
+
+                                                    CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019      9
+                                      THIS PAGE IS INTENTIONALLY BLANK
+
+
+
+
+10   CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019
+3.0      MONETARY COMPONENT PROJECT IDENTIFICATION
+      The strategic need for infrastructure included in this ICP has been determined, and been subject to consultation, as
+      part of the preparation of the Cardinia Creek South PSP.
+
+      Items can only be included in an ICP if they are consistent with the Allowable Items listed in the Ministerial
+      Direction on the Preparation and Content of Infrastructure Contributions Plans. Only items listed in this ICP can be
+      contributed to by the monetary component (standard levy) of the infrastructure contribution imposed under this ICP.
+      Infrastructure not listed must be funded via other funding mechanisms.
+
+      The monetary component will contribute towards two types of infrastructure projects:
+
+      • transport construction
+      • community and recreation construction.
+      (refer to Plans 2 and 3 and Tables 5 and 6).
+
+      Tables 5 to 7 also include staging for when the infrastructure projects are expected to be delivered. The
+      infrastructure projects have been identified as short (S), medium (M) and long (L) term stages:
+
+             Short (S):         0–5 years approx.
+
+             Medium (M):        5–10 years approx.
+
+             Long (L):          10 years and beyond
+
+
+3.1 COST APPORTIONMENT & RELATED INFRASTRUCTURE AGREEMENTS
+      Some projects within this ICP will require some apportionment external to the ICP area. Projects that have external
+      apportionment as well as the source of the balance of funding external to this ICP are identified in Tables 5 and 6.
+
+
+
+
+                                                      CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019    11
+12   CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019
+3.2 TRANSPORT CONSTRUCTION PROJECTS
+   The transport construction projects included in this ICP are based on the transport network depicted in Plan 2, as
+   identified by the Cardinia Creek South PSP.
+
+   The transport construction projects contributed to by the monetary component of this ICP are listed in the following
+   tables.
+
+   Table 5 describes the transport construction projects contributed to by the standard levy, the expected staging, the
+   apportionment to this ICP, any external funding source(s) for items not fully apportioned to this ICP. Note that RD-04,
+   IN-02, IN-03 and IN-10 identified in the PSP are funded by the Clyde DCP for the construction of interim treatment.
+
+   Table 5 Standard levy transport construction projects
+
+        ICP                                                                              INTERNAL       APPORTIONMENT
+                               PROJECT TITLE & DESCRIPTION                STAGING
+     PROJECT ID                                                                       APPORTIONMENT     FUNDING SOURCE
+
+    ROAD PROJECTS
+                    Pattersons Road: Bells Road to North-South
+                    Connector Road
+       RD-01                                                                S–M            100%                N/A
+                    Construction of a 2-lane carriageway (interim
+                    treatment) – related to Clyde DCP Project IN-54-08.
+                    Pattersons Road: North-South Connector Road
+                    to Muddy Gates Lane/McCormacks Road
+       RD-02                                                                S–M            100%                N/A
+                    Construction of a 2-lane carriageway (interim
+                    treatment).
+                    Thompsons Road: Smiths Lane to Alexander
+                    Boulevard
+       RD-03                                                                S–M            100%                N/A
+                    Construction of a 2-lane carriageway (interim
+                    treatment) – related to Clyde DCP Project IN-53-06
+                    Bells Road: Pattersons Road to Southern
+                    Connector Road
+       RD-05                                                                S–M            100%                N/A
+                    Construction of a 2-lane carriageway (interim
+                    treatment).
+                    Bells Road: South Connector Road to Ballarto
+                    Road
+       RD-06                                                                S–M            100%                N/A
+                    Construction of a 2-lane carriageway (interim
+                    treatment).
+
+
+
+
+                                                     CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019     13
+                                      THIS PAGE IS INTENTIONALLY BLANK
+
+
+
+
+14   CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019
+    ICP                                                                              INTERNAL      APPORTIONMENT
+                          PROJECT TITLE & DESCRIPTION                  STAGING
+ PROJECT ID                                                                       APPORTIONMENT    FUNDING SOURCE
+
+INTERSECTION PROJECTS
+              Intersection: Bells Road / Pattersons Road
+   IN-01      Construction of primary arterial to secondary arterial    S–M           100%               N/A
+              signalised 4-way intersection (interim treatment).
+              Intersection: Pattersons Road / North-South
+              Connector
+   IN-04                                                                S–M           100%               N/A
+              Construction of secondary arterial to connector
+              signalised 4-way intersection (interim treatment).
+              Intersection: Thompsons Road / Alexander
+              Boulevard
+   IN-05      Construction of primary arterial to secondary             S–M           100%               N/A
+              arterial (interim treatment) including interim road
+              construction up to project IN-06.
+              Intersection: Alexander Boulevard / Key Local
+              Access Street
+
+   IN-06      Construction of connector road to local access            S–M           100%               N/A
+              street signalised 4-way intersection with equestrian
+              crossing signals (interim treatment) including interim
+              road construction up to project IN-05 and IN-06.
+              Roundabout: Pattersons Road / McCormacks
+              Road / Muddy Gates Lane / Pound Road
+   IN-07                                                                S–M           100%               N/A
+              Construction of secondary arterial/connector
+              roundabout (interim treatment).
+              Roundabout: Alexander Boulevard / Connector
+
+   IN-08      Construction of connector/connector roundabout            S–M           100%               N/A
+              (interim treatment) including interim road
+              construction up to project IN-06.
+              Intersection: Thompsons Road / Berwick–
+              Cranbourne Road
+
+              Contribution to construction of one third of 50% of                                    Clyde DCP,
+   IN-09      primary arterial to primary arterial signalised 4-way     S–M            17%
+                                                                                                   Clyde South ICP
+              intersection (interim treatment) (apportionment
+              related to Clyde DCP Project IN-53-01 and future
+              Casey Fields South and Clyde South ICPs (33%).
+              Intersection: Berwick Cranbourne Road /
+              Ballarto Road
+
+              Contribution to construction of one third of 50% of
+   IN-11      primary arterial to primary arterial signalised 4-way     S–M            17%           Clyde DCP
+              intersection (interim treatment) (apportionment
+              related to Clyde DCP Project IN-54-15 (50%) and
+              future Casey Fields South and Clyde South ICPs
+              (33%).
+              T intersection: Ballarto / North Connector
+   IN-12      Construction of secondary arterial to connector           M–L           100%               N/A
+              signalised T-intersection (interim treatment).
+BRIDGE PROJECTS
+              Cardinia Creek Shared Pedestrian/ Bicycle/
+              Equestrian Bridge
+   BR-01      Construction of a shared pedestrian/bicycle/               M            100%               N/A
+              equestrian bridge (3m internal width) over Cardinia
+              Creek to connect to Banjo Place in Cardinia Shire.
+
+
+
+
+                                                 CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019   15
+16   CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019
+3.3 COMMUNITY & RECREATION CONSTRUCTION PROJECTS
+   The community and recreation construction projects included in this ICP are consistent with the range of facilities
+   identified in the Cardinia Creek South PSP.
+
+   The community and recreation construction projects identified in this ICP are listed in the following table. As there
+   are no allowable supplementary levy items for community and recreation construction, all listed projects will be
+   contributed to from the standard levy. The expected staging, the apportionment to this ICP, any external funding
+   source(s) for items not fully apportioned to this ICP, the total estimated cost and the estimated cost per hectare are
+   shown in the following table.
+
+   Under Ministerial Direction on the Preparation and Content of Infrastructure Contributions Plans, the amount of the
+   total standard levy rate for residential development that may be used for community and recreation construction
+   must not exceed $86,627 per net developable hectare in the 2018/2019 financial year or the indexed amount in
+   subsequent financial years.
+
+   Table 6 Standard levy community & recreation construction projects
+
+      ICP                                                                                        INTERNAL   APPORTIONMENT
+                                 PROJECT TITLE & DESCRIPTION                        STAGING
+   PROJECT ID                                                                                 APPORTIONMENT FUNDING SOURCE
+    COMMUNITY BUILDING PROJECTS
+                Alexander Boulevard Family and Community Centre and
+                Integrated Community Centre
+      CI-01     Construction of Level 2 facility, including 3 × kindergarten         S–M          100%           N/A
+                rooms, MCH, community rooms, and additional community
+                spaces.
+                Old Pound Road Family and Community Centre
+      CI-02     Construction of Level 1 facility, including 3 × kindergarten         S–M          100%           N/A
+                rooms, MCH, and community rooms.
+                Pattersons Road Integrated Community Centre
+
+      CI-03     Construction of Level 2 facility, including Neighbourhood            S–M          100%           N/A
+                House, dedicated social support space, meeting and
+                community spaces.
+                Ballarto Road Family and Community Centre
+      CI-04     Construction of Level 1 facility, including 3 × kindergarten         S–M          100%           N/A
+                rooms, MCH, and community rooms.
+
+
+      ICP                                                                                        INTERNAL   APPORTIONMENT
+                                 PROJECT TITLE & DESCRIPTION                        STAGING
+   PROJECT ID                                                                                 APPORTIONMENT FUNDING SOURCE
+    OPEN SPACE PROJECTS
+                Alexander Boulevard Local Sports Reserve
+
+     SR-01      Construction of 2 × cricket ovals (3 × soccer pitches overlaid),     S–M          100%           N/A
+                8 × tennis courts, 1 × cricket/soccer/tennis pavilion, and basic
+                landscaping.
+                Old Pound Road Local Sports Reserve
+
+     SR-02      Construction of 2 × AFL/cricket ovals, 2 × netball courts, 1 ×       S–M          100%           N/A
+                AFL/cricket/netball pavilion, 1 × joint use oval with the primary
+                school and basic landscaping.
+                Pattersons Road Local Sports Reserve
+     SR-03      Construction of 2 × AFL/cricket ovals, 2 × netball courts, 1 ×       S–M          100%           N/A
+                AFL/cricket/netball pavilion, and basic landscaping.
+                Ballarto Road Local Sports Reserve
+     SR-04      Construction of 2 × cricket ovals with 3 × soccer pitches            S–M          100%           N/A
+                overlaid, 1 × cricket/soccer pavilion, and basic landscaping.
+
+
+
+
+                                                        CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019   17
+                                      THIS PAGE IS INTENTIONALLY BLANK
+
+
+
+
+18   CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019
+3.4 PROJECT STAGING
+   The expected staging of each infrastructure construction item is set out in Tables 5 to 7 and is based on information
+   available at the time that the ICP was prepared. The collecting and development agencies will monitor and assess
+   the required timing for infrastructure projects and have regard to strategic resource plans, the development of the
+   PSP and areas external to the ICP.
+
+   The collecting and development agencies may consider alternative staging where:
+
+   • Infrastructure is to be constructed / provided by development proponents as works in kind, as agreed by the
+      collecting agency;
+
+   • Transport network priorities require the delivery of works or provision of public purpose land to facilitate broader
+      road network connections; and
+
+   • Community needs determine a change to the delivery of works or provision of public purpose land for community
+      facilities or open space.
+
+   All items in this ICP will be provided as soon as is practicable and as soon as sufficient contributions are available,
+   consistent with this ICP and acknowledging the Development Agency’s capacity to provide the balance of funds not
+   collected by this ICP.
+
+
+
+
+                                                    CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019      19
+20   CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019
+4.0      PUBLIC PURPOSE LAND PROVISION
+      The public purpose land included in this ICP has been determined, and been subject to consultation, as part of the
+      preparation of the Cardinia Creek South PSP.
+
+      Public purpose land specified in an ICP may only be used or developed for an allowable public purpose specified in
+      Annexure 1 to the Ministerial Direction on the Preparation and Content of Infrastructure Contributions Plans. Public
+      purpose land may be:
+
+      • inner public purpose land (IPPL) – land within the ICP plan area that is specified in the ICP as land to be set
+         aside for public purposes; or
+
+      • outer public purpose land (OPPL) – land outside of the ICP plan area that is specified in the ICP as land to be
+         acquired for public purposes.
+
+      Only items listed in this ICP can be provided for by the land component of this ICP. Public purpose land not listed
+      must be funded via other funding mechanisms.
+
+
+4.1 INNER AND OUTER PUBLIC PURPOSE LAND
+      Plan 4 shows the location of public purposes land (both inner and outer) as well as the type of allowable public
+      purposes for which it may be used and developed.
+
+      Table 7 specifies for each public purpose land (both inner and outer) the type of allowable public purposes for which
+      if may be used and developed, the area and the expected staging. The staging for public purposes land is the same
+      as the monetary component specified in section 3.
+
+      The IPPL forming part of each parcel of land is specified in Table 9.
+
+      Table 7 Inner public purpose land
+
+                                                                                           INNER PUBLIC
+        ICP PROJECT ID                    PROJECT TITLE & DESCRIPTION                     PURPOSE LAND          STAGING
+                                                                                             AREA (HA)
+
+       TRANSPORT (INNER PUBLIC PURPOSE LAND)
+                         Pattersons Road
+
+            RD-01        Provision of land for 2-lane carriageway (ultimate treatment),       0.5136             S–M
+                         excluding intersections, (related to Clyde DCP Project IN-54-
+                         08).
+                         Pattersons Road
+            RD-02        Provision of land for 2-lane carriageway (ultimate treatment),       0.5568             S–M
+                         excluding intersections.
+                         Thompsons Road
+
+            RD-03        Provision of land to create a 41m wide road reserve (ultimate        2.0229             S–M
+                         treatment), excluding intersections, including all land within
+                         PAO3, (related to Clyde DCP Project IN-53-06).
+                         Bells Road
+
+                         Provision of land (relevant part within Cardinia Creek South
+            RD-04        ICP only) to upgrade road reserve from 20m to 41m. Balance           1.3624             S–M
+                         land delivered via Clyde DCP Projects RD-54-04, IN-54-03 &
+                         IN-54-08).
+                         Bells Road
+            RD-05        Provision of land for 2-lane carriageway (ultimate treatment),       0.7114             S–M
+                         excluding intersections.
+                         Bells Road
+            RD-06        Provision of land for 2-lane carriageway (ultimate treatment),       0.9856             S–M
+                         excluding intersections.
+                         Thompson Road
+            RD-07        Provision of land to create a 41m wide road reserve (ultimate        2.0543             S–M
+                         treatment), excluding intersections.
+
+
+
+
+                                                       CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019    21
+                                                                                                   INNER PUBLIC
+              ICP PROJECT ID                     PROJECT TITLE & DESCRIPTION                      PURPOSE LAND    STAGING
+                                                                                                     AREA (HA)
+                               Bells Road / Pattersons Road intersection (Clyde DCP IN
+                               54-08)
+                  IN-01        Provision of land (relevant part within Cardinia Creek South ICP      1.2415        S–M
+                               only) for an intersection (ultimate treatment). Balance of land
+                               delivered via Clyde DCP project IN-54-08.
+                               Bells Road / South Connector intersection (Clyde DCP IN
+                               54-12)
+                  IN-02        Provision of land (relevant part within Cardinia Creek South ICP      1.0954        S–M
+                               only) for an intersection (ultimate treatment). Balance of land
+                               delivered via Clyde DCP project IN-54-12.
+                               Bells Road / Ballarto Road intersection (Clyde DCP IN 54-
+                               20)
+
+                  IN-03        Provision of land (relevant part within Cardinia Creek South          0.3902        S–M
+                               ICP only) for an intersection (ultimate treatment). Balance of
+                               land delivered via Clyde DCP project IN-54-20, Cardinia Creek
+                               South ICP outer land IN-03A and IN-3B.
+                               Pattersons Road / North-South Connector intersection
+                  IN-04                                                                              1.0960        S–M
+                               Provision of land for an intersection (ultimate treatment).
+                               Thompsons Road / Alexander Boulevard intersection
+
+                  IN-05        Provision of land for an intersection (ultimate treatment)            2.9719        S–M
+                               including all land for Alexander Boulevard reservation up to
+                               project IN-06.
+                               Alexander Boulevard / Key Local Access Street
+                               intersection
+                  IN-06        Provision of land for an intersection (ultimate treatment)            1.2855        S–M
+                               including all land for Alexander Boulevard reservation up to
+                               project IN-05 and IN-08.
+                               Pattersons Road / McCormacks Road / Muddy Gates Lane
+                  IN-07        roundabout                                                            0.4452        S–M
+                               Provision of land for an intersection (ultimate treatment).
+                               Alexander Boulevard / Key Local Access Street roundabout
+
+                  IN-08        Provision of land for an intersection (ultimate treatment)            0.4806         M
+                               including all land for Alexander Boulevard reservation up to
+                               project IN-06.
+                               Bells Road / Heather Grove connector intersection (Clyde
+                               DCP IN 54-03)
+
+                  IN-10        Provision of land (relevant part within Clyde Creek South PSP         0.3819        S–M
+                               only) for arterial to connector signalised 4-way intersection
+                               (ultimate treatment). Balance of land delivered via Clyde DCP
+                               project IN-54-03.
+                               Ballarto/North Connector T-intersection
+                  IN-12                                                                              0.3771        M–L
+                               Provision of land for T-intersection (ultimate treatment).
+               SUB-TOTAL                                                                            17.9724
+
+
+
+
+22   CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019
+TRANSPORT (OUTER PUBLIC PURPOSE LAND)
+
+              Bells Road / Ballarto Road intersection (Clyde DCP IN 54-20)
+
+              Provision of outer land for the south western portion of an
+   IN-03A     intersection (ultimate treatment). Balance of land delivered via         0.4771          S–M
+              Clyde DCP projects IN-54-12, Cardinia Creek South project IN-
+              03 and IN-03B.
+              Bells Road / Ballarto Road intersection (Clyde DCP IN 54-
+              20)
+
+   IN-03B     Provision of outer land for the south eastern portion of an              0.3673          S–M
+              intersection (ultimate treatment). Balance of land delivered via
+              Clyde DCP projects IN-54-12, Cardinia Creek South project
+              IN-03 and IN-03A.
+ SUB-TOTAL                                                                             0.8444
+
+
+COMMUNITY & RECREATION (INNER PUBLIC PURPOSE LAND)
+              Alexander Boulevard Family and Community Centre and
+    CI-01     Integrated Community Centre                                              1.4987          S–M
+              Provision of land for community centre
+              Old Pound Road Family and Community Centre
+    CI-02                                                                              0.8000          S–M
+              Provision of land for community centre
+              Pattersons Road Integrated Community Centre
+    CI-03                                                                              1.0000          S–M
+              Provision of land for community centre
+              Ballarto Road Family and Community Centre
+    CI-04                                                                              0.8000          S–M
+              Provision of land for community centre
+              Pattersons Road Indoor Sports Facility
+    IR-01     Provision of land for indoor sports facility (joint use facility with    1.0000          S–M
+              government secondary school)
+ SUB-TOTAL                                                                             5.0987
+
+
+COMMUNITY & RECREATION (OUTER PUBLIC PURPOSE LAND)
+              Indoor Sports Facility Contribution – Thompsons Road
+              PSP 1053
+    IR-53     Purchase 17% of land for indoor sports facility within                   0.2718          S–M
+              Thompsons Road PSP 1053. Balance of land delivered via
+              Clyde DCP (66%) and future Clyde South ICP (17%).
+              Indoor Sports Facility Contribution – Clyde Creek PSP 1054
+
+    IR-54     Purchase 17% of land for indoor sports facility within Clyde             1.0310          S–M
+              Creek PSP 1054. Balance of land delivered via Clyde DCP
+              (66%) and future Clyde South ICP (17%).
+ SUB-TOTAL                                                                             1.3028
+
+
+OPEN SPACE (INNER PUBLIC PURPOSE LAND)
+              Alexander Boulevard Local Sports Reserve
+    SR-01                                                                             11.0087          S–M
+              Provision of land for local sports reserve
+              Old Pound Road Local Sports Reserve
+    SR-02                                                                             11.0239          S–M
+              Provision of land for local sports reserve
+              Pattersons Road Local Sports Reserve
+    SR-03                                                                             10.0012          S–M
+              Provision of land for local sports reserve
+              Ballarto Road Local Sports Reserve
+    SR-04                                                                              9.0000          S–M
+              Provision of land for local sports reserve
+
+
+
+
+                                               CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019   23
+                  LP-01        Provision of land for local park                                   0.6997              S–M
+
+                  LP-02        Provision of land for local park                                   1.1547              S–M
+
+                  LP-03        Provision of land for local park                                   1.0094              S–M
+
+                  LP-04        Provision of land for local park                                   1.4001              S–M
+
+                  LP-05        Provision of land for local park                                   0.8000              S–M
+
+                  LP-06        Provision of land for local park                                   1.0028              S–M
+
+                  LP-07        Provision of land for local park                                   0.6000              S–M
+
+                  LP-08        Provision of land for local park                                   1.0000             S–M
+
+                  LP-09        Provision of land for local park                                   1.6470             S–M
+
+                  LP-10        Provision of land for local park                                   2.4000             S–M
+
+                  LP-11        Provision of land for local park                                   1.0000             S–M
+
+                  LP-12        Provision of land for local park                                   1.0000             S–M
+
+                  LP-13        Provision of land for local park                                   1.0000             S–M
+
+                  LP-14        Provision of land for local park                                   1.0029             S–M
+
+                  LP-15        Provision of land for local park                                   0.6969             S–M
+
+                  LP-16        Provision of land for local park                                   0.8500             S–M
+
+                  LP-17        Provision of land for local park                                   1.0000             S–M
+
+                  LP-18        Provision of land for local park                                   1.0021             S–M
+
+                  LP-19        Provision of land for local park                                   1.0002             S–M
+
+                  LP-20        Provision of land for local park                                   0.7999             S–M
+
+                  LP-21        Provision of land for local park                                   2.0000             S–M
+
+                  UP-01        Provision of land for urban plaza                                  0.0500             S–M
+
+                  UP-02        Provision of land for urban plaza                                  0.0500             S–M
+
+               SUB-TOTAL                                                                         64.1994
+
+                 TOTAL                                                                           89.4177
+
+
+
+
+            Public Open Space Contributions
+            The overall open space contribution for this ICP is identified in Land Budget Table 12 and Table 13. This ICP
+            provides for the provision of public purpose land for local sports reserves and local parks. The community and
+            recreation levy of the monetary component contributes towards the construction of local sports reserves. The
+            construction of local parks is considered developer works and separate from this ICP.
+
+
+
+
+24   CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019
+4.2 LAND COMPONENT
+   The following table summarises for each class of development specified in this ICP:
+
+   • The total area of contribution land in that class
+   • The total area of transport public purpose land attributable to that class
+   • The total area of community and recreation public purpose land attributable to that class
+   • The total area of inner public purpose land attributable to that class
+   • The total area of outer public purpose land attributable to that class
+   • The ICP land contribution percentage for that class.
+   Table 8 Public Purposes Land Summary
+
+
+
+
+                                                                             TOTAL INNER PUBLIC
+                                                         OPEN SPACE PUBLIC
+                                      TRANSPORT PUBLIC
+
+
+
+
+                                                                                                  PUBLIC PURPOSES
+                                                          COMMUNITY AND
+                                       PURPOSES LAND
+
+
+
+
+                                                          PURPOSES LAND
+
+
+
+
+                                                                               PURPOSES LAND
+
+
+
+
+                                                                                                                    PURPOSES LAND
+
+
+
+
+                                                                                                                                    TOTAL ICP LAND
+                      CONTRIBUTION
+
+
+
+
+                                                                                                                                    CONTRIBUTION
+        DEVELOPMENT
+
+
+
+
+                                                           RECREATION &
+
+
+
+
+                                                                                                                     TOTAL PUBLIC
+                                                                                                    TOTAL OUTER
+
+
+
+
+                                                                                                                                     PERCENTAGE
+                        LAND (HA)
+
+
+
+
+                                                                                                     LAND (HA)
+          CLASS OF
+
+
+
+
+                         TOTAL
+
+
+
+
+                                            (HA)
+
+
+
+
+                                                                (HA)
+
+
+
+
+                                                                                     (HA)
+
+
+
+
+                                                                                                                         (HA)
+     Residential
+                      687.09         17.9724               69.2981           87.2705              2.1472            89.4176         13.01%
+       (Ha)
+
+   The ICP land contribution percentage for a class of development is calculated by dividing the total area of public
+   purpose land specified in this ICP that is attributable to that class of development by the total area of the contribution
+   land in the ICP plan area in that class of development.
+
+   Where the need for a type of public purposes land is attributable to more than one class of development (for
+   example, transport public purposes land), each development class share of the public purposes land is equal to its
+   proportion of the total contribution land.
+
+   As public purposes land cannot be evenly distributed across all parcels, 18.4945 ha of inner public purposes land
+   and 2.1472 ha of outer public purposes land identified in Table 8, will be equalised by parcels that are below the ICP
+   land contribution percentage identified in Table 8
+
+   Table 9 specifies for each parcel of land in the ICP plan area:
+
+   • the area of IPPL forming part of the parcel
+   • the type of public purpose for which that IPPL may be used and developed
+   • the parcel contribution percentage
+   • the number of hectares that the parcel contribution percentage is above (land credit) or below (land equalisation)
+      the ICP land contribution percentage
+
+   • a land credit amount or land equalisation amount
+   • the land equalisation amount expressed as a rate per net developable hectares in the parcel.
+
+
+
+
+                                                            CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019                      25
+26
+                                                                      Table 9 Public purpose land credit & equalisation amounts
+
+
+                                                                                                                                                                                                         PUBLIC PURPOSE LAND                                                                                 LAND CREDIT AMOUNT                      LAND EQUALISATION AMOUNT
+
+
+
+
+                                                                                                                                                                                                                                                                                                                             TOTAL $
+                                                                                                                                                                                                                                                                                                                                                                TOTAL $
+
+
+
+
+                                                                                                         (HECTARES)
+                                                                                                                                                                                                                                                                                                            HECTARES
+                                                                                                                                                                                                                                                                                                                                          HECTARES
+
+
+
+
+                                                                                PSP PARCEL ID
+                                                                                                                                                                                                                                                                                       PERCENTRAGE
+                                                                                                                                                                                                                                                                                                                                                                                 $ PER NDHA
+
+
+
+
+                                                                                                                                                                                                                                      COMMERCIAL &
+
+
+                                                                                                                                                                                                             SPACE(HECTARES)
+                                                                                                                                                                                                                                                             TOTAL (HECTARES)
+
+
+
+                                                                                                                                                                                                                                     SPACE (HECTARES)
+                                                                                                                                                                                                                                                                                    PARCEL CONTRIBUTION
+
+
+
+
+                                                                                                                                                        ICP LAND CONTRIBUTION
+
+
+
+
+                                                                                                                                CLASS OF DEVELOPMENT
+                                                                                                                                                        PERCENTAGE (HECTARES)
+
+
+
+
+                                                                                                  TOTAL CONTRIBUTION AREA
+                                                                                                                                                                                  TRANSPORT (HECTARES)
+                                                                                                                                                                                                                                  INDUSTRIAL COMMUNITY
+                                                                                                                                                                                                                                                           PARCEL CONTRIBUTION -
+
+
+
+
+                                                                                                                                                                                                          AND RECREATION & OPEN
+                                                                                                                                                                                                                                  AND RECREATION & OPEN
+
+
+
+
+                                                                                                                                                                                                          RESIDENTIAL COMMUNITY
+                                                                                1                2.1519                     Residential                0.2800                   0.0000                    0.0000                   0.0000                 0.0000                   0.00%                  0.0000           $0.00        0.2800             $476,510.59     $221,440.23
+                                                                                2               32.7707                     Residential                4.2648                   3.6551                    0.7510                   0.0000                 4.4061                   13.45%                 0.1413        $182,338.61     0.0000                $0.00             $0.00
+                                                                                3                0.0000                     Residential                0.0000                   0.0000                    0.0000                   0.0000                 0.0000                   0.00%                  0.0000           $0.00        0.0000                $0.00             $0.00
+                                                                                4               37.1870                     Residential                4.8395                   3.7035                    2.1129                   0.0000                 5.8164                   15.64%                 0.9769       $2,530,086.95    0.0000                $0.00             $0.00
+                                                                                5               155.1348                    Residential                20.1893                  1.4565                   17.6829                   0.0000                 19.1394                  12.34%                 0.0000           $0.00        1.0499            $1,786,462.89    $13,136.20
+                                                                                6                0.0000                     Residential                0.0000                   0.0000                    0.0000                   0.0000                 0.0000                   0.00%                  0.0000           $0.00        0.0000                $0.00             $0.00
+                                                                                7               58.2884                     Residential                7.5857                   0.0000                    5.4132                   0.0000                 5.4132                   9.29%                  0.0000           $0.00        2.1725            $3,696,541.30    $69,910.68
+                                                                                8               40.9218                     Residential                5.3256                   0.0000                    3.4442                   0.0000                 3.4442                   8.42%                  0.0000           $0.00        1.8814            $3,201,210.64    $85,416.66
+                                                                                9                1.1689                     Residential                0.1521                   0.0000                    0.0000                   0.0000                 0.0000                   0.00%                  0.0000           $0.00        0.1521             $258,850.34     $221,440.23
+                                                                               10               43.2229                     Residential                5.6250                   0.0864                    9.5454                   0.0000                 9.6317                   22.28%                 4.0067       $8,454,136.60    0.0000                $0.00             $0.00
+                                                                               11               12.1407                     Residential                1.5800                   0.0000                    0.1484                   0.0000                 0.1484                   1.22%                  0.0000           $0.00        1.4316            $2,435,959.10    $203,126.93
+                                                                               12               41.0492                     Residential                5.3422                   1.1413                    1.0000                   0.0000                 2.1413                   5.22%                  0.0000           $0.00        3.2008            $5,446,391.23    $139,981.81
+
+
+
+
+CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019
+                                                                               13               36.3346                     Residential                4.7286                   1.1235                    0.6969                   0.0000                 1.8203                   5.01%                  0.0000           $0.00        2.9083            $4,948,570.08    $143,377.34
+                                                                               14                1.1659                     Residential                0.1517                   0.1507                    0.0000                   0.0000                 0.1507                   12.92%                 0.0000           $0.00        0.0011              $1,827.71       $1,800.35
+                                                                               15                9.3369                     Residential                1.2151                   0.0077                    0.0000                   0.0000                 0.0077                   0.08%                  0.0000           $0.00        1.2075            $2,054,541.78    $220,226.53
+                                                                               16                5.9917                     Residential                0.7798                   0.0429                    0.8500                   0.0000                 0.8929                   14.90%                 0.1132        $185,618.26     0.0000                $0.00             $0.00
+                                                                               17               21.2828                     Residential                2.7697                   2.2819                    0.0500                   0.0000                 2.3319                   10.96%                 0.0000           $0.00        0.4378             $744,982.80     $39,311.33
+                                                                               18               26.4145                     Residential                3.4376                   1.2313                    1.0000                   0.0000                 2.2313                   8.45%                  0.0000           $0.00        1.2063            $2,052,551.56    $84,875.10
+                                                                               19               47.3871                     Residential                6.1670                   1.2182                   13.0033                   0.0000                 14.2214                  30.01%                 8.0545       $9,584,813.81    0.0000                $0.00             $0.00
+                                                                               20               57.4118                     Residential                7.4716                   1.8734                   10.8001                   0.0000                 12.6735                  22.07%                 5.2019       $11,080,056.89   0.0000                $0.00             $0.00
+                                                                               21               56.8498                     Residential                7.3985                   0.0000                    2.7999                   0.0000                 2.7999                   4.93%                  0.0000           $0.00        4.5985            $7,824,652.75    $144,767.17
+                                                                           SUB-TOTAL            686.2114                                               89.3038                  17.9724                  69.2981                   0.0000                 87.2705                                         18.4945      $32,017,051.12   20.5278          $34,929,052.78
+
+                                                                                                                                                                                                         PUBLIC PURPOSE LAND                                                                                 LAND CREDIT AMOUNT                      LAND EQUALISATION AMOUNT
+                                                                                                                                                                                                                                                                                                                             TOTAL $
+                                                                                                                                                                                                                                                                                                                                                                TOTAL $
+
+
+
+
+                                                                                                         (HECTARES)
+                                                                                                                                                                                                                                                                                                            HECTARES
+                                                                                                                                                                                                                                                                                                                                          HECTARES
+
+
+
+
+                                                                                PSP PARCEL ID
+                                                                                                                                                                                                                                                                                       PERCENTRAGE
+                                                                                                                                                                                                                                                                                                                                                                                 $ PER NDHA
+
+
+
+
+                                                                                                                                                                                                                                      COMMERCIAL &
+
+
+                                                                                                                                                                                                             SPACE(HECTARES)
+                                                                                                                                                                                                                                                             TOTAL (HECTARES)
+
+
+
+                                                                                                                                                                                                                                     SPACE (HECTARES)
+                                                                                                                                                                                                                                                                                    PARCEL CONTRIBUTION
+
+
+
+
+                                                                                                                                                        ICP LAND CONTRIBUTION
+
+
+
+
+                                                                                                                                CLASS OF DEVELOPMENT
+                                                                                                                                                        PERCENTAGE (HECTARES)
+
+
+
+
+                                                                                                  TOTAL CONTRIBUTION AREA
+                                                                                                                                                                                  TRANSPORT (HECTARES)
+                                                                                                                                                                                                                                  INDUSTRIAL COMMUNITY
+                                                                                                                                                                                                                                                           PARCEL CONTRIBUTION -
+
+
+
+
+                                                                                                                                                                                                          AND RECREATION & OPEN
+                                                                                                                                                                                                                                  AND RECREATION & OPEN
+
+
+
+
+                                                                                                                                                                                                          RESIDENTIAL COMMUNITY
+
+
+
+
+                                                                      Road Reserve
+                                                                       R1 (Patterson Road)       0.0000                     Residential                0.0000                   0.0000                    0.0000                   0.0000                 0.0000                   0.00%                  0.0000                        0.0000                $0.00             $0.00
+                                                                         R2 (Smiths Lane)        0.7265                     Residential                0.0945                   0.0000                    0.0000                   0.0000                 0.0000                   0.00%                  0.0000                        0.0945             $160,869.68     $221,440.23
+                                                                         R3 (Pound Road)         0.1484                     Residential                0.0193                   0.0000                    0.0000                   0.0000                 0.0000                   0.00%                  0.0000                        0.0193             $32,850.66      $221,440.23
+                                                                                19               47.3871                     Residential                 6.1670                   1.2182                   13.0033                   0.0000                 14.2214                  30.01%                 8.0545       $9,584,813.81    0.0000                $0.00             $0.00
+                                                                                20               57.4118                     Residential                 7.4716                   1.8734                   10.8001                   0.0000                 12.6735                  22.07%                 5.2019       $11,080,056.89   0.0000                $0.00             $0.00
+                                                                                21               56.8498                     Residential                 7.3985                   0.0000                    2.7999                   0.0000                 2.7999                   4.93%                  0.0000           $0.00        4.5985            $7,824,652.75    $144,767.17
+                                                                           SUB-TOTAL             686.2114                                               89.3038                   17.9724                  69.2981                   0.0000                 87.2705                                         18.4945      $32,017,051.12   20.5278          $34,929,052.78
+
+                                                                                                                                                                                                           PUBLIC PURPOSE LAND                                                                                 LAND CREDIT AMOUNT                      LAND EQUALISATION AMOUNT
+
+
+
+
+                                                                                                                                                                                                                                                                                                                               TOTAL $
+                                                                                                                                                                                                                                                                                                                                                                  TOTAL $
+
+
+
+
+                                                                                                          (HECTARES)
+                                                                                                                                                                                                                                                                                                              HECTARES
+                                                                                                                                                                                                                                                                                                                                            HECTARES
+
+
+
+
+                                                                                 PSP PARCEL ID
+                                                                                                                                                                                                                                                                                         PERCENTRAGE
+                                                                                                                                                                                                                                                                                                                                                                                   $ PER NDHA
+
+
+
+
+                                                                                                                                                                                                                                        COMMERCIAL &
+
+
+                                                                                                                                                                                                               SPACE(HECTARES)
+                                                                                                                                                                                                                                                               TOTAL (HECTARES)
+
+
+
+                                                                                                                                                                                                                                       SPACE (HECTARES)
+                                                                                                                                                                                                                                                                                      PARCEL CONTRIBUTION
+
+
+
+
+                                                                                                                                                          ICP LAND CONTRIBUTION
+
+
+
+
+                                                                                                                                 CLASS OF DEVELOPMENT
+                                                                                                                                                          PERCENTAGE (HECTARES)
+
+
+
+
+                                                                                                   TOTAL CONTRIBUTION AREA
+                                                                                                                                                                                    TRANSPORT (HECTARES)
+                                                                                                                                                                                                                                    INDUSTRIAL COMMUNITY
+                                                                                                                                                                                                                                                             PARCEL CONTRIBUTION -
+
+
+
+
+                                                                                                                                                                                                            AND RECREATION & OPEN
+                                                                                                                                                                                                                                    AND RECREATION & OPEN
+
+
+
+
+                                                                                                                                                                                                            RESIDENTIAL COMMUNITY
+                                                                      Road Reserve
+                                                                       R1 (Patterson Road)        0.0000                     Residential                 0.0000                   0.0000                    0.0000                   0.0000                 0.0000                   0.00%                  0.0000                        0.0000                $0.00             $0.00
+                                                                         R2 (Smiths Lane)         0.7265                     Residential                 0.0945                   0.0000                    0.0000                   0.0000                 0.0000                   0.00%                  0.0000                        0.0945             $160,869.68     $221,440.23
+                                                                         R3 (Pound Road)          0.1484                     Residential                 0.0193                   0.0000                    0.0000                   0.0000                 0.0000                   0.00%                  0.0000                        0.0193             $32,850.66      $221,440.23
+                                                                      R4 (Muddy Gates Lane)       0.0000                     Residential                 0.0000                   0.0000                    0.0000                   0.0000                 0.0000                   0.00%                  0.0000                        0.0000                $0.00             $0.00
+                                                                        R5 (Ballarto Road)        0.0000                     Residential                 0.0000                   0.0000                    0.0000                   0.0000                 0.0000                   0.00%                  0.0000                        0.0000                $0.00             $0.00
+                                                                           SUB-TOTAL              0.8748                                                 0.1138                   0.0000                    0.0000                   0.0000                 0.0000                                          0.0000           $0.00        0.1138             $193,720.34
+                                                                       Inner Public Purpose
+                                                                                                                                                                                  17.9724                  69.2981                   0.0000                 87.2705
+                                                                          Land Sub-Total
+
+                                                                      Outer Public Purposes Land
+                                                                               IR-53              0.0000                     Residential                 0.0000                   0.0000                    0.2718                   0.0000                 0.2718                                          0.0000        $749,188.00
+                                                                               IR-54              0.0000                     Residential                 0.0000                   0.0000                    1.0310                   0.0000                 1.0310                                          0.0000       $2,038,534.00
+                                                                         IN-03A (IN-54-20)        0.0000                     Residential                 0.0000                   0.4771                    0.0000                   0.0000                 0.4771                                          0.0000        $163,000.00
+                                                                         IN-03B (IN-54-20)        0.0000                     Residential                 0.0000                   0.3673                    0.0000                   0.0000                 0.3673                                          0.0000        $155,000.00
+                                                                           SUB-TOTAL              0.0000                                                 0.0000                   0.8444                    1.3028                   0.0000                 2.1472                                          0.0000       $3,105,722.00    0.0000                $0.00
+
+                                                                      TOTALS PSP Cardinia
+                                                                                                 687.0862                                               89.41765                  18.8168                  70.6009                   0.0000                 89.4176                                         18.4945      $35,122,773.12   20.6416          $35,122,773.12
+                                                                          Creek South
+                                                                         Residential Total       687.0862                                               89.4176                   18.8168                  70.6009                                          89.4176                  13.01%
+                                                                      Residential Equalisation
+                                                                                                                                                                                                                                                                                                                         $1,701,549.13
+                                                                               Rate
+
+
+
+
+CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019
+27
+     5.0       CONTRIBUTIONS & ADMINISTRATION
+     5.1 COLLECTING AGENCY
+            Casey City Council is the collecting agency for the purposes of Part 3AB of the Planning and Environment Act 1987
+            (the Act) and this ICP. The monetary component and any land equalisation amount of an infrastructure contribution
+            imposed under this ICP must be paid to the collecting agency. As the collecting agency, Casey City Council is
+            responsible for the administration and enforcement of this ICP, including the payment of land credit amounts, in
+            accordance with Part 3AB of the Act.
+
+
+     5.2 DEVELOPMENT AGENCY
+            Casey City Council is the development agency for the purposes of Part 3AB of the Act and this ICP. The
+            development agency is responsible for the provision of the infrastructure projects and acquisition of outer public
+            purpose land identified in this ICP. As the development agency, Casey City Council is also responsible for the proper
+            administration of this ICP in accordance with Part 3AB of the Act.
+
+
+     5.3 NET DEVELOPABLE AREA
+            The monetary component of Metropolitan Greenfield Growth Area ICPs are payable on the Net Developable Area
+            (NDA) of land on any given development site (NDA is defined in Appendix 1 Definitions).
+
+            To align with the classes of development specified in this ICP, the NDA is divided into:
+
+            • Net Developable Area Residential (NDA-R) – the NDA for the residential class of development
+            • Net Developable Area Employment (NDA-E) – the NDA for the commercial and industrial class of development.
+            The NDA for this ICP has been calculated in Table 12 and Table 13. Table 12 is the summary land use budget which
+            summarises the land requirements and net developable area for the ICP plan area as a whole. Table 13 is the parcel
+            specific land use budget which specifies the net developable area and land requirements for each parcel of land in
+            the ICP plan area.
+
+            For the purposes of this ICP, the number of net developable hectares will only change if the collecting agency agrees
+            to a variation to the parcel specific land budget and associated tables in the PSP and ICP.
+
+
+     5.4 CONTRIBUTION LAND
+            The contribution land specified in this ICP is the land in the ICP plan area in respect of which an infrastructure
+            contribution is to be imposed under this plan if any of that land is developed. It excludes encumbered land, land
+            already used or developed for a public purpose and land that is exempt from paying an infrastructure contribution
+            under the Ministerial Direction on the Preparation and Content of Infrastructure Contributions Plans. It includes the
+            net developable area and inner public purpose land.
+
+            The contribution land in the ICP plan area is specified in Table 12 and Table 13.
+
+
+     5.5 LEVY RATES AND CLASSES OF DEVELOPMENT
+            Annexure 1 to the Ministerial Direction on the Preparation and Content of Infrastructure Contributions Plans
+            specifies standard levy rates for two classes development for Metropolitan Greenfield Growth Areas – ‘residential
+            development’ and ‘commercial and industrial development’
+
+            Table 10 specifies the standard levy rate for each class of development of 1 July 2018.
+
+            Table 10 Classes of development & standard levy rates
+
+
+                 CLASS OF            TRANSPORT              COMMUNITY & RECREATION
+                                                                                                TOTAL STANDARD LEVY RATE
+               DEVELOPMENT          CONSTRUCTION                CONSTRUCTION
+
+
+
+                 Residential           $114,062                      $86,627                           $200,689
+
+
+
+
+28   CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019
+5.6 ESTIMATED VALUE OF PUBLIC PURPOSE LAND
+   A land credit amount specified in this ICP is based on the estimated value of the inner public purpose land in that
+   parcel of land determined in accordance with Part 3AB of the Act and the Ministerial Direction on the Preparation
+   and Content of Infrastructure Contributions Plans and the Infrastructure Contributions Plan Guidelines (Ministerial
+   Direction).
+
+   The component of a land equalisation amount specified in this ICP that relates to any outer public purpose land is
+   based on the estimated value of the outer public purpose land determined in accordance with the method specified
+   in the Ministerial Direction.
+
+   The component of a land equalisation amount specified in this ICP that relates to any inner public purpose land is
+   based on the estimated value of land credit amounts for inner public purpose land.
+
+   The estimated value of inner public purpose land in a parcel of land is required to be calculated when the parcel
+   contribution percentage of that land is more than the ICP land contribution percentage for the class of development.
+
+   The parcels of land with a land contribution percentage that is more than the ICP public land contribution percentage
+   are identified in Table 9.
+
+
+5.7 PAYMENT OF CONTRIBUTIONS
+
+   5.7.1      Timing of payment of monetary component & land equalisation amounts
+   Subdivision of land
+   If the development of the land involves a plan under the Subdivision Act 1988, the monetary component (standard
+   levy) and any land equalisation amount of an infrastructure contribution must be paid to the collecting agency for the
+   land after certification of the relevant plan of subdivision but cannot be required more than 21 days prior to the issue
+   of a Statement of Compliance with respect to that plan.
+
+   If the subdivision is to be developed in stages, only the monetary component and any land equalisation amount for
+   the stage to be developed is required paid to the collecting agency within 21 days prior to the issue of a Statement
+   of Compliance for that stage, provided that a Schedule of Infrastructure Contributions is submitted with each stage
+   of the plan of subdivision. The Schedule must show the amount of the infrastructure contributions payable for each
+   stage and the value of the contributions for prior stages to the satisfaction of the collecting agency.
+
+   If the collecting agency agrees to works in lieu of payment of the monetary component, the land owner must enter
+   into an agreement under Section 173 of the Planning and Environment Act 1987 in respect of the proposed works in
+   lieu.
+   Development of land where no subdivision is proposed
+   Provided an infrastructure contribution has not yet been collected for development of the subject land, the monetary
+   component and any land equalisation amount of an infrastructure contribution must be paid to the collecting
+   agency before the issue of a building permit for each net developable hectare proposed to be developed prior to
+   the commencement of any development (development includes buildings, car park, access ways, landscaping and
+   ancillary components). If the collecting agency agrees to works in lieu of payment of the monetary component, the
+   land owner must enter into an agreement, or other suitable arrangement, under Section 173 of the Planning and
+   Environment Act 1987 in respect of the proposed works or provision of land in lieu.
+   Where no building permit is required
+   Where no building permit is required, the monetary component and any land equalisation amount of an infrastructure
+   contribution must be paid to the collecting agency prior to the commencement of any development in accordance
+   with a permit a permit issued under the Act, unless otherwise agreed by the collecting agency in a Section 173
+   agreement.
+
+   If the collecting agency agrees to works in lieu of payment of the monetary component, the land owner must enter
+   into an agreement under Section 173 of the Planning and Environment Act 1987 in respect of the proposed works or
+   provision of land in lieu.
+
+
+
+
+                                                    CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019       29
+            5.7.2       Inner public purpose land
+            If any land component of an infrastructure contribution includes inner public purpose land, that inner public purpose
+            land must be provided in accordance with section 46GV of the Act.
+
+
+     5.8 PAYMENT OF LAND CREDIT AMOUNTS
+            A person is entitled to be paid the land credit amount specified in this ICP in relation to a parcel of land if:
+
+            • the parcel contribution percentage of the parcel of land to be developed is more than the ICP land contribution
+               percentage for that class of development.
+
+            The land credit amount is to be paid by the collecting agency to the landowner at a time to be agreed, but not before
+            lodgement of a subdivision plan. This may be formalised in a section 173 agreement if the collecting agency and
+            landowner agree.
+
+
+     5.9 DEVELOPMENT EXEMPT FROM CONTRIBUTIONS
+            Some classes of development are exempt from infrastructure contributions. Where land is subdivided or developed
+            for an exempt purpose, as listed below, and the land is subsequently used for a purpose other than as one of those
+            exempt uses, the owner of that land must pay to the collecting agency infrastructure contributions in accordance with
+            the provisions of this ICP. The levy must be paid within 28 days of the date of the commencement of the construction
+            of any buildings or works for that alternative use.
+
+
+            5.9.1       Schools
+            The development of land for government and non-government schools are exempt from the requirement to pay
+            an infrastructure contribution levy in accordance with the Ministerial Direction on the Preparation and Content of
+            Infrastructure Contributions Plans.
+
+
+            5.9.2       Housing
+            Any housing to be provided by or on behalf of the Department of Health & Human Services (DHHS) is exempt
+            from the requirement to pay an infrastructure contributions levy in accordance with the Ministerial Direction on the
+            Preparation and Content of Infrastructure Contributions Plans.
+
+
+     5.10 WORKS IN KIND
+            Under section 46GX of the Act, the collecting agency may accept the provision of works, services or facilities by
+            an applicant in part or full satisfaction of the monetary component of an infrastructure contribution payable by the
+            applicant to the collecting agency (‘works in kind’).
+
+            Before accepting the provision of works in kind, the collecting agency must obtain the agreement of the development
+            agency or agencies specified in this ICP.
+
+            The collecting agency should only accept the provision of works in kind if:
+
+            • The works in kind constitute part or all of the delivery of an infrastructure project(s) identified in this ICP, to the
+               satisfaction of the collecting agency and development agency.
+
+            • The Collection Agency and Development Agency have agreed that the timing of the works in kind is consistent
+               with priorities in this ICP (alternatively a credit for works may be delayed to align with clearly identified and
+               published development priorities).
+
+            • The works in kind are defined and agreed in a section 173 agreement.
+            • The detailed design of the works in kind is to the satisfaction of the Development Agency and any others
+               identified in permit conditions.
+
+
+
+
+30   CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019
+   If the collecting and development agencies accept the provision of works in kind:
+
+    • The value of the works in kind will be negotiated between the collecting agency and the applicant;
+    • The monetary component the infrastructure contribution payable by the applicant will be offset by the agreed
+      value of the works in kind; and
+
+    • If the agreed value of the works in kind exceeds the monetary component the infrastructure contribution, the
+      applicant will be reimbursed the difference between the two amounts at a time negotiated between applicant and
+      the collecting and development agencies.
+
+   The land component and any land equalisation amounts or land credit amounts cannot be accepted as works in kind.
+
+
+   5.10.1     Interim and temporary works
+   Interim and temporary works are not considered as eligible for works in kind credits against this ICP, unless agreed
+   to by the collecting and development agencies.
+
+
+5.11 WORKS IN KIND REIMBURSEMENT
+   If the collecting agency agrees to accept works under section 46GX of the Act and the value of those works is
+   greater than the monetary component of the infrastructure contribution payable by the applicant, the applicant is
+   entitled to be reimbursed the difference between the two amounts.
+
+   The details of a reimbursement must be negotiated with, and agreed to by the collecting agency and Development
+   Agency.
+
+
+5.12 FUNDS ADMINISTRATION
+   The contributions made under this ICP will held by the collecting agency until required for the provision of
+   infrastructure projects. Details of contributions received and expenditures will be held by the collecting agency in
+   accordance with the provisions of the Local Government Act 1989, the Planning and Environment Act 1987 and the
+   Ministerial Reporting Requirements for Infrastructure Contributions Plans.
+
+
+5.13 ANNUAL INDEXATION OF STANDARD LEVY RATES
+   The standard levy rates specified in this ICP will be indexed in accordance with the indexation method specified in
+   Annexure 1 of the Ministerial Direction on the Preparation and Content of Infrastructure Contributions Plans on 1
+   July each year.
+
+   The indices used in the indexation method are set out in Table 11.
+
+   Table 11 Indices
+
+             CLASS OF                                                     INDEX
+         INFRASTRUCTURE
+      Community & recreation                       Australian Bureau of Statistics Producer Price Indexes
+          construction                              Non-Residential Building Construction Index, Victoria
+                                             (Catalogue 6427.0, Table 17 Output of the Construction Industries)
+       Transport construction                      Australian Bureau of Statistics Producer Price Indexes
+                                                        Road & Bridge Construction Index, Victoria
+                                             (Catalogue 6427.0, Table 17 Output of the Construction Industries)
+
+
+5.14 ADJUSTMENT OF LAND CREDIT LAND AMOUNTS
+   The land credit amounts specified in this ICP will be adjusted in accordance with the method of adjustment specified
+   in Annexure 1 of the Ministerial Direction on the Preparation and Content of Infrastructure Contributions Plans on 1
+   July each year.
+
+
+5.15 ADJUSTMENT OF LAND EQUALISATION AMOUNTS
+   The land equalisation amounts specified in this ICP will be adjusted in accordance with the method of adjustment
+   specified in Annexure 1 of the Ministerial Direction on the Preparation and Content of Infrastructure Contributions
+   Plans on 1 July each year.
+
+
+
+
+                                                   CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019    31
+                                      THIS PAGE IS INTENTIONALLY BLANK
+
+
+
+
+32   CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019
+6.0      APPENDIX 1 – DEFINITIONS
+      Collecting agency	The Minister, public authority or municipal council specified in an infrastructure
+                         contributions plan as the entity that an infrastructure levy is payable to in accordance
+                         with Part 3AB of the Planning and Environment Act 1987.
+
+      Contribution land	The land in the ICP plan area of an infrastructure contribution plan in respect of which
+                         an infrastructure contribution is to be imposed under the plan if any of that land is
+                         developed.
+
+      	This excludes encumbered land, existing public purposes land and land that is exempt
+        from paying a contribution. It includes Net Developable Area and Inner Public Purpose
+        Land
+
+      Development agency	The Minister, public authority or municipal council specified in an infrastructure
+                          contributions plan as the entity responsible for works, services or facilities and public
+                          purpose land specified in this ICP plan.
+
+      Gross developable area	Total precinct area excluding encumbered land, arterial roads and other roads with
+                              four or more lanes.
+
+      Inner public purpose land	Land within the ICP plan area that is specified in this ICP as land to be set aside for
+                                 public purposes.
+
+      Land budget table	A table setting out the ICP plan area, contribution land, net developable area and the
+                         classes of development.
+
+      Net developable area (NDA)	Land within a precinct available for development. This excludes encumbered land,
+                                  arterial roads, railway corridors, schools and community facilities and public open
+                                  space. It includes lots, local streets and connector streets. Net Developable Area may
+                                  be expressed in terms of hectare units (for example NDHa).
+
+      Outer public purpose land	Land outside of the ICP plan area that is specified in this ICP as land to be acquired
+                                 for public purposes.
+
+      Works in Kind	Any works, services or facilities accepted by the collecting agency in a part or full
+                     satisfaction of the monetary component of an infrastructure contribution.
+
+
+
+
+                                                     CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019   33
+34   CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019
+7.0       APPENDIX 2 – LAND
+      Table 12 Summary land use budget
+                                DESCRIPTION                                                 CARDINIA CREEK SOUTH PSP
+
+                                                                                HECTARES           % OF TOTAL           % OF NDA
+                                                                                  848.51
+
+       TRANSPORT
+       Arterial Road - Existing Road Reserve                                       6.91              0.81%               1.15%
+       Arterial Road - New / Widening / Intersection Flaring (Public               17.97             2.12%               3.00%
+       purposes land)
+       Arterial Road - Landscape Buffer Adjoining                                  0.89              0.10%               0.15%
+       Non-Arterial Road - Retained Existing Road Reserve                          6.11              0.72%               1.02%
+       Non-Arterial Road - Landscape Buffer (btw Gas Easement)                     0.57              0.07%               0.09%
+       Sub-total Transport                                                         32.45              3.8%               5.41%
+
+       COMMUNITY & EDUCATION
+       Government School                                                           18.91             2.23%               3.15%
+       Potential Non-Government School                                             3.50              0.41%               0.58%
+       Local Community Facility (Public purposes land)                             4.10              0.48%               0.68%
+       Local Indoor Recreation (Public purposes land)                              1.00              0.12%               0.17%
+       Sub-total Education                                                         27.51              3.2%                4.6%
+
+       OPEN SPACE
+
+       SERVICE OPEN SPACE
+       Conservation Reserve                                                        3.15              0.37%               0.52%
+       Waterway and Drainage Reserve                                               70.78             8.34%               11.80%
+       Waterway and Drainage (Conservation Area 36)                                30.91             3.64%               5.15%
+       Heritage Reserve - Post Contact                                             0.35              0.04%               0.06%
+       Utilities Easements                                                         17.97             2.12%               3.00%
+       Other                                                                       0.07              0.01%               0.01%
+       Sub-total Service Open Space                                               123.21             14.52%              20.54%
+
+       CREDITED OPEN SPACE
+       Local Sports Reserve (Public purposes land)                                 41.03              4.8%               6.84%
+       Local Network Park (Public purposes land)                                   23.17              2.7%               3.86%
+       Sub-total Credited Open Space                                               64.20              7.6%               10.70%
+
+       TOTAL ALL OPEN SPACE                                                        187.41            22.1%               31.24%
+
+       OTHER
+       Utilities Sub-stations / facilities (acquired by relevant authority)        1.32              0.16%               0.22%
+       Sub-total                                                                   1.32              0.16%               0.22%
+
+       TOTAL NET DEVELOPABLE AREA - (NDA) HA                                      599.82             70.69%
+
+       NET DEVELOPABLE AREA - RESIDENTIAL (NDAR) HA                               599.82             70.69%
+
+       NET DEVELOPABLE AREA - EMPLOYMENT (NDAE) HA                                 0.00              0.00%
+
+       TOTAL CONTRIBUTION LAND - HA                                               687.09             80.98%
+
+       RESIDENTIAL LOCAL OPEN SPACE                                             HECTARES                     % OF NDAR
+       (EXPRESSED AS % OF NDAR)
+       Local Sports Reserve (ICP land)                                             41.03                        6.84%
+       Local Network Park (ICP land)                                               23.17                        3.86%
+
+       TOTAL OPEN SPACE                                                           64.20                       10.70%
+
+
+      NOTE: Discrepancy in figures due to rounding of decimal points. Table 14 – Parcel Specific Land Budget takes precedence.
+
+
+
+
+                                                                         CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019   35
+36
+                                                                      Table 13 Parcel specific land use budget
+
+                                                                                                                                                                                              TRANSPORT                                                                                                                                                                                                                                                                                                                            OPEN SPACE
+
+                                                                                                                                                                                                                                                OTHER                                                                                                                                                                                                                                                                                                                                                      CREDITED
+                                                                                                                                                           ARTERIAL ROAD                                                                                                                                                                                                                                                                                                                   SERVICE OPEN SPACE
+                                                                                                                                                                                                                                              TRANSPORT                                                                                                                                                                                                                                                                                                                                                   OPEN SPACE
+
+
+
+
+                                                                                           PSP PARCEL ID
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                OTHER
+
+
+
+
+                                                                                                                                                RESERVE
+                                                                                                                                                                                                                                                                                                                                                                               PURPOSES LAND)
+                                                                                                                                                                                                                                                                                                                                                                                                                   PURPOSES LAND)
+
+
+
+
+                                                                                                             TOTAL AREA (HECTARES)
+                                                                                                                                                                                                                   ADJOINING
+                                                                                                                                                                                                                                                                                                              GOVERNMENT SCHOOL
+
+
+
+
+                                                                                                                                                                              PURPOSES LAND)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                PURPOSES LAND)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               PURPOSES LAND)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        UTILITIES EASEMENTS
+
+
+
+
+                                                                                                                                                                                                                                               EXISTING ROAD RESERVE
+                                                                                                                                                                                                                                                                                                                                                                                                                                               CONSERVATION RESERVE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                       (CONSERVATION AREA 36)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                       WATERWAY AND DRAINAGE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           TOTAL CONTRIBUTION LAND (HECTARES)
+
+
+
+
+                                                                                                                                                                                                                                                                              BUFFER (BTW GAS EASEMENT)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        UTILITIES SUB-STATIONS / FACILITIES
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                           LOCAL INDOOR RECREATION (PUBLIC
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 TOTAL NET DEVELOPABLE AREA (HECTARES)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                       LOCAL COMMUNITY FACILITY (PUBLIC
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       (ACQUIRED BY RELEVANT AUTHORITY)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         LOCAL NETWORK PARK (PUBLIC
+
+
+
+
+                                                                                                                                                                                                                                            NON-ARTERIAL ROAD - RETAINED
+
+
+
+
+                                                                                                                                      ARTERIAL ROAD - EXISTING ROAD
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         LOCAL SPORTS RESERVE (PUBLIC
+
+
+
+
+                                                                                                                                                                      / INTERSECTION FLARING (PUBLIC
+                                                                                                                                                                                                                                                                                                                                    POTENTIAL NON-GOVERNMENT SCHOOL
+
+
+
+
+                                                                                                                                                                      ARTERIAL ROAD - NEW / WIDENING
+                                                                                                                                                                                                                                                                            NON-ARTERIAL ROAD - LANDSCAPE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  WATERWAY AND DRAINAGE RESERVE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    HERITAGE RESERVE - POST CONTACT
+
+
+
+
+                                                                                                                                                                                                        ARTERIAL ROAD - LANDSCAPE BUFFER
+                                                                                            1               5.39                                  -                                -                                 -                                 -                                -                           -                         -                                     -                                   -                             -                  3.24                               -                                 -                               -                  -                  -                               -                                 -                         2.15                                      2.15
+                                                                                            2              40.73                                  -                          3.66                          0.55                                        -                                -                          -                          -                                     -                                   -                            -                   6.99                               -                      0.35                                0.07                      -                  -                      0.75                                       -                        28.36                                      32.77
+                                                                                            3               4.09                                  -                                -                                 -                                 -                                -                          -                          -                                     -                                   -                            -                   4.09                              -                                  -                               -                  -                  -                              -                                  -                         0.00                                      0.00
+                                                                                            4              51.07                                  -                         3.70                           0.33                                        -                                -                          -                          -                                     -                                   -                            -                   3.00                    3.69                                         -                        5.54                      -                  -                      2.11                           1.32                                 31.37                                      37.19
+                                                                                            5              197.39                                 -                         1.46                                     -                                 -                                -                    3.51                             -                           1.50                                         -                             -                   9.28                    19.47                                        -                        10.00                     -       11.01                             5.18                                       -                        136.00                                    155.13
+                                                                                            6               1.23                                  -                                -                                 -                                 -                                -                          -                          -                                     -                                  -                             -                   1.23                              -                                  -                               -                  -                  -                              -                                 -                          0.00                                      0.00
+                                                                                            7              64.65                                  -                                -                                 -                                 -                      0.07                           3.13                             -                          0.80                                          -                             -                          -                2.89                                         -                        0.28                      -         0.89                            3.72                                      -                         52.88                                      58.29
+                                                                                            8              40.92                                 -                                 -                                 -                                 -                               -                           -                         -                                      -                                  -                             -                          -                          -                                 -                                -                  -         1.44                            2.00                                      -                         37.48                                      40.92
+                                                                                            9               1.37                                 -                                 -                                 -                                 -                      0.05                                 -                         -                                      -                                  -                             -                         -                           -                                 -                         0.15                      -                  -                              -                                 -                          1.17                                      1.17
+                                                                                           10              48.87                                 -                          0.09                                     -                                 -                      0.45                           0.37                            -                                      -                                  -                             -                         -                 3.20                                        -                         1.62                      -         8.54                            1.00                                      -                         33.59                                     43.22
+                                                                                           11              12.14                                 -                                 -                                -                                  -                               -                           -                         -                                     -                                   -                             -                         -                          -                                  -                               -                   -         0.15                                    -                                 -                         11.99                                     12.14
+                                                                                           12              43.03                                 -                          1.14                                    -                         0.00                                     -                           -                         -                                     -                                   -                            -                          -                 1.98                                        -                               -                   -                  -                      1.00                                      -                         38.91                                     41.05
+
+
+
+
+CARDINIA CREEK SOUTH INFRASTRUCTURE CONTRIBUTIONS PLAN – March 2019
+                                                                                           13              39.61                        0.00                                1.12                                    -                                  -                               -                          -                          -                                     -                                   -                            -                          -                 3.28                                        -                               -                   -                  -                     0.70                                       -                         34.51                                     36.33
+                                                                                           14               1.17                                 -                          0.15                                    -                                  -                               -                          -                         -                                      -                                   -                            -                          -                          -                                 -                                -                   -                  -                              -                                 -                         1.02                                       1.17
+                                                                                           15               9.34                                 -                          0.01                                    -                                  -                               -                          -                         -                                      -                                   -                            -                          -                          -                                 -                                -                   -                  -                              -                                 -                         9.33                                       9.34
+                                                                                           16               7.08                                 -                          0.04                                    -                                 -                                -                          -                         -                                      -                                   -                            -                          -                 1.09                                       -                                -                   -                 -                      0.85                                       -                         5.10                                       5.99
+                                                                                           17              32.60                       0.00                                 2.28                                    -                                 -                                 -                           -                         -                                     -                                   -                             -                         -                11.32                                         -                              -                  -                  -                      0.05                                       -                        18.95                                      21.28
+                                                                                           18              34.04                                  -                          1.23                                    -                                 -                                -                          -                          -                                     -                                   -                            -                          -                7.62                                         -                               -                  -                  -                      1.00                                       -                        24.18                                      26.41
+                                                                                           19              66.81                        0.00                                 1.22                                    -                                 -                                -                    8.40                  2.89                                   1.00                                1.00                                   -                          -                8.12                                         -                               -                  -       10.00                             1.00                                       -                        33.17                                      47.39
+                                                                                           20              67.06                                  -                         1.87                                     -                                 -                                -                    3.50                             -                           0.80                                          -                     3.15                       2.84                    0.17                                         -                               -                  -         9.00                            1.00                                       -                        44.74                                      57.41
+                                                                                           21              64.52                                  -                                -                                 -                                 -                                -                          -               0.61                                             -                                  -                             -                          -                7.06                                         -                               -                  -                  -                      2.80                                      -                         54.05                                      56.85
+                                                                                     SUB-TOTAL             833.09                      0.00                              17.97                           0.88                                0.00                            0.57                           18.91                  3.50                                 4.10                                1.00                              3.15                    30.67                     69.88                              0.35                               17.66                    0.00     41.03                           23.17                           1.32                                   598.94                                    686.21
+
+                                                                      Road Reserve
+                                                                      R1 (Patterson Road)                   1.77                        1.77                                       -                                 -                                 -                                -                          -                          -                                     -                                  -                             -                          -                          -                                  -                               -                  -                  -                              -                                 -                          0.00                                      0.00
+                                                                      R2 (Smiths Lane)                      5.88                        1.67                                       -                      0.01                                2.42                                     -                           -                         -                                      -                                  -                             -                  0.24                     0.43                                        -                         0.31                    0.07                 -                              -                                 -                          0.73                                      0.73
+                                                                      R3 (Pound Road)                       2.57                        0.13                                       -                                 -                        2.03                                     -                           -                         -                                      -                                  -                             -                          -                0.26                                        -                                -                  -                  -                              -                                 -                          0.15                                      0.15
+                                                                      R4 (Muddy Gates Lane)                 1.75                        0.09                                       -                                 -                        1.66                                     -                           -                         -                                      -                                  -                             -                         -                           -                                 -                               -                   -                  -                              -                                 -                          0.00                                      0.00
+                                                                      R5 (Ballarto Road)                    3.45                        3.25                                       -                                -                                  -                               -                           -                         -                                     -                                   -                             -                         -                 0.20                                        -                               -                   -                  -                              -                                 -                          0.00                                      0.00
+                                                                                     SUB-TOTAL             15.42                      6.91                                 0.00                         0.01                                 6.11                           0.00                             0.00                  0.00                                0.00                                0.00                               0.00                     0.24                      0.89                              0.00                                0.31                    0.07      0.00                            0.00                          0.00                                     0.87                                      0.87
+
+                                                                      TOTALS PSP Cardina Creek South       848.51                    6.91                             17.97                            0.89                                6.11                            0.57                             18.91                 3.50                                4.10                                1.00                               3.15                     30.91                     70.78                             0.35                                17.97                   0.07      41.03                           23.17                         1.32                                    599.82                                     687.09
+
+                                                                      Outer Land
+                                                                                         IR-53              0.27                                                                                                                                                                                                                                                                                           0.27
+                                                                                         IR-54              1.03                                                                                                                                                                                                                                                                                           1.03
+                                                                                   IN-03A (IN-54-20)        0.48                                                           0.48
+                                                                                   IN-03B (IN-54-20)        0.37                                                           0.37
+                                                                                     SUB-TOTAL              2.15                      0.00                                 0.84                         0.00                                0.00                            0.00                             0.00                  0.00                                0.00                                1.30                               0.00                     0.00                      0.00                              0.00                                0.00                    0.00      0.00                            0.00                          0.00
+             Cardinia Creek South
+Infrastructure Contributions Plan – March 2019
+

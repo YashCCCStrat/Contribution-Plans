@@ -1,0 +1,515 @@
+Spatial Data Description
+
+
+      VPA’s Precinct Boundaries
+      Including the Greenfield Precinct Structure Plans
+
+
+
+
+Version: 5.0 – January 2022
+     Document Control
+
+                  Date                         Version                                 Author                                                 Nature of Change
+     January 2016                             v1.0                 Jamie Sheehan                                              Initial document
+
+     August 2016                              v2.0                 Jamie Sheehan                                              Rebranded to VPA
+                                                                                                                              Minor updates to data values table
+
+     December 2016                            v3.0                 Jamie Sheehan                                              Inclusion of Road Centreline data
+                                                                                                                              structure
+
+     June 2020                                v3.1                 Jamie Sheehan                                              Minor updates to data values table
+                                                                                                                              New attribute added to FUS LandUse
+                                                                                                                              table
+
+     May 2021                                  v4.0                Jamie Sheehan                                              Updated data format for PSP Boundaries
+
+     January 2022                             V5.0                 Jamie Sheehan                                              Updated with the inclusion of Regional &
+                                                                                                                              Urban Renewal Precinct Boundaries
+
+
+
+     Contents
+
+     Document Control ................................................................................................................................................................. 2
+     Contents ................................................................................................................................................................................ 2
+     Description ............................................................................................................................................................................ 3
+     PSP Boundaries ..................................................................................................................................................................... 3
+     FUS LandUse ......................................................................................................................................................................... 3
+     Road Centrelines ................................................................................................................................................................... 3
+     Data Format.......................................................................................................................................................................... 4
+     Co-ordinate Reference System .............................................................................................................................................. 4
+     Geographic Extents ............................................................................................................................................................... 4
+     Data Scope ............................................................................................................................................................................ 4
+     Geometry Validation ............................................................................................................................................................. 4
+     Data Structure....................................................................................................................................................................... 5
+     PSP Boundaries ..................................................................................................................................................................... 5
+     FUS LandUse ......................................................................................................................................................................... 6
+     Road Centrelines ................................................................................................................................................................... 7
+     Data Values ........................................................................................................................................................................... 8
+     Road Type ............................................................................................................................................................................. 8
+     Land Use (Class / Type / SubType) ........................................................................................................................................ 9
+     Disclaimer ........................................................................................................................................................................... 12
+     Copyright and Limitations on Use ....................................................................................................................................... 12
+
+
+
+
+ii                                                                                                                    VPA SPATIAL DATA DESCRIPTION – JANUARY 2022
+      Description
+      The Victorian Planning Authority has released three spatial datasets. The first dataset, ‘Precinct Boundaries’ includes
+      boundaries of all completed and current precincts (Greenfield, Regional and Urban Renewal), as well as future
+      Greenfield PSPs. The other 2 layers relate specifically to Melbourne’s Greenfield Precinct Structure Plan areas, these are
+      ‘FUS LandUse’ and ‘Road Centrelines’
+
+      Precinct Boundaries
+      The declared growth areas of Melbourne have been divided into 110+ precincts, each of which will have a Precinct
+      Structure Plan (PSP) completed to help guide the development of new residential and commercial areas. The Precinct
+      Boundaries Layer contains the boundaries of each of these precincts. In addition, we have now added the Boundaries
+      for all Regional & Urban Renewal Precincts that are completed, or actively being worked on by the VPA.
+
+      FUS LandUse
+      Each PSP describes the planned land uses for new development in specific parts of Melbourne’s Growth Areas. The
+      official Future Urban Structure (FUS) plan (also now known as a ‘Place Based Plan’) for any individual area is contained
+      in the approved PSP documents incorporated into the relevant municipal planning schemes for that area. Copies are
+      available as *pdf downloads on the VPA website or from the relevant municipality.
+
+      The Victorian Planning Authority’s (VPA’s) FUS LandUse data has been generated by amalgamating individual PSP data.
+      Various PSPs have been generated over many years and by different organisations and processes. This FUS data is
+      therefore a simplified combination of data that originally comprised different formats and structures.
+
+      The VPA’s FUS LandUse data has no official status and is provided solely to assist in land use planning in areas within or
+      adjacent to areas with completed PSP, and should be treated as having been provided for general information purposes
+      only. If accurate information is required, the reader is directed to the information contained within the relevant
+      individual official Planning Scheme, Planning Scheme Amendment and Precinct Structure Plan.
+
+      Road Centrelines
+      The Road Centreline data has been generated by amalgamating individual PSP data. As with the FUS LandUse data,
+      these PSPs have been produced over a number of years by different organisations and evolving processes. The resulting
+      road centreline data has been derived from various sources and formats with the VPA’s best efforts to create a
+      representative standardised dataset.
+
+      As with the FUS LandUse data, the Road Centreline data has no official status and has been created purely to assist in
+      the planning of areas within or adjacent to PSPs. For the official gazetted information, users should refer to the
+      approved PSP .pdf documents available on the VPA website or from the relevant municipality.
+
+
+
+
+iii                                                                             VPA SPATIAL DATA DESCRIPTION – JANUARY 2022
+     Data Format
+     ESRI Shapefile – Polygon (PSP Boundaries, FUS LandUse)
+
+     ESRI Shapefile – Polylines (Road Centrelines)
+
+
+
+     Co-ordinate Reference System
+     Map Grid Australia (GDA2020), zone 55
+
+     (When downloaded from ArcGIS Online, the CRS of the data is WGS84).
+
+
+
+     Geographic Extents
+     Victoria
+
+
+
+     Data Scope
+     The Precinct Boundaries layer contains all PSPs across Melbourne’s Growth Areas (Completed, Current and Future).
+     It also now includes other precincts that VPA are actively involved in working on across Regional and Established
+     Melbourne (Urban Renewal sites).
+
+     The FUS LandUse layer extends only to Approved PSP areas. PSPs at draft or exhibition stage are not included. Currently
+     the FUS spatial data only includes the planned land-uses in polygon format.
+     Other contextual features (buffer lines, point features, labels) shown in the FUS plans are not included.
+
+     The Road Centreline layer is currently a work-in-progress, with the eventual aim to include all Approved PSP areas.
+     Currently the majority of PSPs completed in the South-East corridor have been included as well as recently approved
+     PSPs.
+
+
+
+     Geometry Validation
+     Greenfield PSP Boundaries should not overlap (there is the odd exception where a later PSP has overlapped with a
+     previously completed PSP to revise a small area in line with the overall future plan). Other VPA precinct boundaries can
+     and do overlap, depending on the final planning output of a project (for example a Framework Plan may be followed up
+     with a more detailed Precinct Structure Plan and the boundaries may fully or partially overlap.)
+
+     All areas within a PSP boundary should be allocated a FUS LandUse. There should be no gaps and no overlaps between
+     FUS LandUse polygon features.
+
+     Road Centrelines should be ‘snapped’ at intersections (with the exceptions of off-road paths). Where possible they
+     should snap to existing road centrelines outside the PSP area, however sometimes due to planned road-width changes
+     this is not feasible. Existing roads are included in the data where they play a significant role or have planned
+     improvements.
+
+
+
+
+iv                                                                            VPA SPATIAL DATA DESCRIPTION – JANUARY 2022
+    Data Structure
+    Precinct Boundaries
+      FIELD NAME      FIELD TYPE/SIZE   NULL                      DESCRIPTION                            EXAMPLE
+
+
+    VPA_NO           Numeric (10,1)      N     Unique Project number that identifies precinct             1091.0
+    PSP_NAME         Character (254)     N     The name of the Precinct                                  Riverdale
+    PRJ_CAT          Character (254)     N     The project category                                     Greenfield
+                                               Allowed values: Greenfield, Regional, Urban Renewal
+    PRJ_TYPE         Character (254)     N     The project type (may include more than one)          Precinct Structure
+                                               Allowed values: see Project Type Values table                Plan
+    SUBREGION        Character (254)     N     The SubRegion as shown in Plan Melbourne                   Western
+                                               Allowed values: Western, Northern, Southern, Inner
+                                               Metro, Inner South East, Barwon, Central Highlands,
+                                               Gippsland, Goulburn, Great South Coast, Loddon
+                                               Campaspe, Mallee, Ovens Murray, Wimmera
+                                               Southern Mallee.
+    LGA              Character (254)     N     The Local Government Area(s) the PSP covers              Wyndham
+                                               Allowed values: any Victorian LGA name.
+    LEAD_AGE         Character (50)      N     The agency leading the planning process                     VPA
+                                               Allowed values: VPA, Council (or other
+                                               department/agency)
+    WEB_URL          Character (254)     Y     URL address of the webpage for the precinct
+    STATUSCODE       Integer             N     A coded value representing the current Status.                4
+                                               Allowed values: 1, 2, 3, 4
+
+    STATUS_DESC      Character (50)      N     A description representing the Status Code               Completed
+                                               Allowed values: Unprogrammed, Pre-
+                                               Commencement, Under Preparation, Completed
+    GAZ_DATE         Date                Y     The date the PSP was gazetted (completed projects        25/1/2019
+                                               only)
+    AREA_HA          Numeric (10,1)      N     The area of the precinct in hectares                        246.8
+
+
+
+
+v                                                                         VPA SPATIAL DATA DESCRIPTION – JANUARY 2022
+     FUS LandUse
+        FIELD NAME   FIELD TYPE/SIZE   NULL                       DESCRIPTION                              EXAMPLE
+
+
+     LU_ID           Character (20)     N     Unique Identifier for polygon object                         1091-123
+     LU_CLASS        Character (50)     N     1st Tier Classification breakdown                            Transport
+                                              Allowed values: see Land Use Data Values table
+
+     LU_TYPE         Character (50)     N     2nd Tier Classification breakdown                          Arterial Road
+                                              Allowed values: see Land Use Data Values table
+
+     LU_SUBTYPE      Character (50)     N     3rd Tier Classification breakdown                          Existing Road
+                                              Allowed values: see Land Use Data Values table                Reserve
+
+     EXISTING        Character (1)      N     Denote existing facilities/land uses                           Y/N
+                                              Allowed values: Y, N
+
+     ASSET_ID        Character (20)     Y     A text link to reference GIS records to various tables     RD01 or IN05
+                                              in the PSP document, such as Open Space, Road
+                                              Projects, Community Infrastructure and Water
+                                              Management. Should be unique within a PSP. Only
+                                              complete for more recent PSPs.
+
+     CHARGEAREA      Character (20)     Y     Division for Residential or Employment Charge areas         Residential
+                                              for the purposes of Land Budget Calculations.
+                                              Potential to expand use under ICP provisions if
+                                              required.
+                                              Allowed values: Residential, Employment
+     COMMENTS        Character (100)    Y     Free text as required, can be used to further
+                                              differentiate areas or note source of object shape
+
+     LEGEND_TXT      Character (100)    N     The text as per the legend in the published FUS plan     Future Government
+                                                                                                             School
+
+
+     PSP_NO          Number (10,1)      N     PSP number                                                    1091.2
+     PSP_DATE        Date               N     Date of PSP Gazettal                                        11/09/2011
+     AREA_HA         Number (20,6)      N     The area in hectares                                         3.500000
+     LEGEND_CAT      Character (80)     N     An additional category to aid users in the display of     other uncredited
+                                              data as per simplified FUS data rules. A single field       open space
+                                              rather than needing to combine Category, Type and
+                                              Subtype. For a single PSP, ‘LEGEND_TXT’ would
+                                              better match the FUS as per the published
+                                              document, but ‘LEGEND_CAT’ helps to provide a
+                                              standardised view across multiple PSPs.
+
+
+
+
+vi                                                                      VPA SPATIAL DATA DESCRIPTION – JANUARY 2022
+      Road Centrelines
+        FIELD NAME   FIELD TYPE/SIZE   NULL                       DESCRIPTION                              EXAMPLE
+
+      ROADTYPE       Character (50)     N     Road Type according to FUS plan. See Road Type            Connector Road
+                                              table for allowed values.
+      BUSCAPABLE     Character (5)      N     Indicates whether the road forms part of the                    Yes
+                                              planned bus network, as per the Public Transport
+                                              plan.
+                                              Allowed values: Yes, No, PPTN.
+      ARROWEND       Character (11)     N     For graphical purposes only.                                   Start
+                                              Allowed values: Start, End, Start & End, None.
+      RDWIDTH        Number (4,1)       Y     The full width (in metres) of the road casement, as             25.0
+                                              per the Cross-Section, including any paths or nature-
+                                              strip plantings specifically included in the allocated
+                                              road transect.
+                                              Not required for off-road paths.
+      ORBIKELANE     Character (20)     Y     Indicates the presence of dedicated ON-ROAD bike                Yes
+                                              lanes. ‘Additional lane width to allow safe-sharing of
+                                              road with bicycles’ is NOT considered to be an on-
+                                              road bike lane. Bike lane is to be at the same level as
+                                              vehicle lane, if separation has been provided for, it
+                                              should be considered ‘off-road’.
+                                              Allowed values: Yes, No.
+                                              Not required for off-road paths.
+      SHAREDPATH     Character (20)     Y     Indicates the presence and side of any planned                 Both
+                                              shared paths within the allocated road cross-section.
+                                              (based on the direction of road centreline digitising).
+                                              If the path is not within the road cross-section,
+                                              instead within adjacent open space areas, it should
+                                              be included as a separate feature.
+                                              Allowed values: Left, Right, Both, None.
+                                              Not required for off-road paths.
+      BIKEPATH2W     Character (20)     Y     Indicates the presence and side of any planned 2-               Left
+                                              way bike paths within the allocated road cross-
+                                              section. (based on the direction of road centreline
+                                              digitising). If the path is not within the road cross-
+                                              section, instead within adjacent open space areas, it
+                                              should be included as a separate feature.
+                                              Allowed values: Left, Right, Both, Both (1-way),
+                                              None.
+                                              Not required for off-road paths.
+      PSP_NO         Number (10,1)      N     The PSP Number.                                                 25.2
+
+      XSECTION       Character (200)    Y     Free text reference to the number and/or name of          Connector Road –
+                                              the cross-section in the published PSP document.          Boulevard (31m)
+                                              Not required for off-road paths.
+
+      ROADNAME       Character (80)     Y     Text field for noting any existing or known future         Sunbury Road
+                                              road names, to assist with labelling etc.
+
+
+
+
+vii                                                                     VPA SPATIAL DATA DESCRIPTION – JANUARY 2022
+       Data Values
+
+       Status Coded Domain
+
+
+       STATUSCODE                DISPLAYS AS                                               Description
+             1          Unprogrammed                    Not currently on the VPA work program
+             2          Pre-Commencement                On the VPA work program and in early scoping stages
+             3          Under Preparation               Precinct is being prepared for an amendment.
+             4          Completed                       Precinct has been completed and the amendment approved and gazetted.
+
+
+
+       Project Type
+
+                     PRJ_TYPE                                                               Description
+       Precinct Structure Plan
+       Site Specific Amendment
+       Development Contributions Plan
+       Infrastructure Contributions Plan
+       Framework Plan
+       Guidelines
+       Growth Plan
+       Investigation Area
+       Investment Case
+       Implementation
+       Master Plan
+       Management Plan
+       Review
+       Structure Plan
+       Not applicable
+       Comprehensive Development Plan
+
+
+       Road Type
+
+                  ROADTYPE                                                                Description
+                                               Local Access Streets (typically 13-16m) key to PSP design, often at interface to key areas (open
+       Access Street (Level 1)
+                                               space, rail lines, etc). Not every future local access street will be shown.
+                                               Local Access Street (typically 20m) key to PSP design. Not every future local access street will be
+       Access Street (Level 2)
+                                               shown.
+       Key Local Access Street                 Other Access Streets key to the design of the PSP
+       Connector Street                        All planned connector street (typically 25m) within the PSP
+       Connector Street - Boulevard            A specific type of connector street with increased road tree-plantings (typically 28-31m)
+       Connector Street – Town Centre          A specific type of connector street through Local/Major town centres
+       Arterial Road (4 lane)                  A designated future Arterial Road which may have interim design (typically 34m)
+       Arterial Road (6 lane)                  A designated future Arterial Road which may have interim design (typically 41m)
+       Freeway                                 A freeway (usually existing).
+                                               Off-road shared path connections, typically through open space. NOT within adjacent road
+       Off-Road Shared Path
+                                               reserves.
+                                               Off-road dedicated bike-path connections, typically through open space. NOT within adjacent
+       Off-Road Bike Path
+                                               road reserves.
+
+
+
+
+viii                                                                                         VPA SPATIAL DATA DESCRIPTION – JANUARY 2022
+     Land Use (Class / Type / SubType)
+
+          LU_CLASS                    LU_TYPE                  LU_SUBTYPE                                                             Description
+                                                           Existing Road Reserve                                             Any existing road reserve to be used for future/current arterial road
+                                                         Public Acquisition Overlay                               Widening/Intersections/New Road/Rail covered by a PAO (existing or planned)
+                                                        Widening/Intersection Flaring                                             Other arterial road widening not under a PAO (often DCP land)
+                                    Arterial Road                                       Used where the entire future arterial road is new (not just widening of existing road). Also used for past
+                                                            Future Arterial Road
+                                                                                                                               precincts where existing reserve/widening was not differentiated.
+                                                             Grade Separation                                                                                 Areas required for grade separation
+                                                        Tree Reserve Abutting Road      Additional 'green' buffer along a road, outside of road reserve cross-section generally for the purpose of
+                                                                 Reserve                                                                                                    additional tree planting
+                                                        Tree Reserve Abutting Road      Additional 'green' buffer along a road, outside of road reserve cross-section generally for the purpose of
+                                                                 Reserve                                                                                                    additional tree planting
+           Transport                                                                    ONLY to be used for Non-Arterial Roads that are being included as a DCP/ICP Item. The intersection of a
+                                                                                         Non-Arterial road to an Arterial road should still be put under 'Arterial'. Eg. Exceptions to the standard
+                                  Non-Arterial Road     Widening/Intersection Flaring
+                                                                                            approach where only Arterial Roads are DCP/ICP funded and all others are at the cost of developers
+                                                                                                                                                    (generally Regional/Urban Renewal Projects)
+                                                                                             Existing road reserve that is not available for development (ie. Being retained as a local/connector
+                                                           Existing Road Reserve
+                                                                                                                               road). Future local/connector roads form part of developable land
+                                                            Existing Rail Reserve                                                                                        Existing rail corridor land
+                                                         Public Acquisition Overlay                                                                           Future rail reserve covered by a PAO
+                                         Rail                Future Rail Reserve                                                                   Land set aside for future/proposed rail reserve
+                                                             Grade Separation                                                                       Areas required for rail/road grade separation
+                                                               Transport Hub                                                                     Land set aside for Stations, Station Car Parks, etc
+                                                            Community Facilities
+                                 Community Facilities
+                                                             Indoor Recreation
+                                                            Government School                                                                          Proposed and Existing Government Schools
+Education/Community/Government        Education
+                                                          Non-Government School                                                                   Proposed and Existing Non-Government Schools
+                                                            Emergency Services                                                                               eg. CFA, MFB, SES, Police, Ambulance
+                                 Government Services
+                                                             Other Government                                                                                        eg. Health Centre, Justice, etc
+                                                                                                               Used in past precincts where the reason for conservation has not been specified.
+                                                                Conservation              Can be used for 'local' conservation or to separate areas of conservation that are otherwise not listed
+                                                                                                                                                    below, if so use comments to specify reason
+     Uncredited Open Space          Conservation         Growling Grass Frog (BCS)
+                                                         Nature Conservation (BCS)
+                                                             Open Space (BCS)
+                                                         Golden Sun Moth
+                                                            EPBC Flora
+                                                    Retained Native Vegetation
+                                                    Retained Exotic Vegetation
+                                                            (Heritage)                                            Only used for past precincts where the Heritage reason was not specified
+                                  Heritage                  Aboriginal
+                                                           Post Contact
+                                  Cemetery           Cemetery/Memorial Park
+                                                            Waterways               May included some retarding basin/WQT areas where they have not been separated from waterways
+                                                   Waterway within Conservation
+                                                   Retarding Basin/WQT Wetland
+                                  Drainage
+                                                        within Conservation
+                                                   Retarding Basin/WQT Wetland
+                                                         Reservoir Buffer
+                                                             Gas/Oil
+                                  Utility
+                                                            Electricity
+                             Easement/Corridor
+                                                           Water/Sewer
+                                                            Local Park                                     Existing Local Park (eg. already council owned land) that should not be credited
+                             Existing Open Space
+                                                       Local Sports Reserve                      Existing Local Sports Reserve (eg. already council owned land) that should not be credited
+                                                           Crown Land                                                              Designated Crown land with no other specific future use
+                                                        Fire Management                                                                                            Fire Management buffers
+                                    Other
+                                                         Landscape Values                                  Land being retained as Open Space (not credited) for reasons such as slope, etc.
+                                                                                  Existing road reserves that are no longer required for a road and will be used for an open space function
+                                                     Redundant Road Reserve
+                                                                                                                                                           such as linear trail (not credited)
+                                                            Local Park                                                                                                            Local parks
+   Credited Open Space        Local Open Space         Local Sports Reserve
+                                                           Urban Plaza                                                                                                  Local sports reserves
+                                Metropolitan          State Metropolitan Park                                                                                State Acquisition/management
+   Regional Open Space                                    Municipal Park                                                                                   Council acquisition/management
+                                  Municipal
+                                                     Municipal Sports Reserve                                            Council acquisition/management, may include public golf courses
+                                                             Gas/Oil
+Other Non-Developable Land      Utility Facility            Electricity
+                                                           Water/Sewer
+                                                             Communications
+                                                           Residential/Mixed Use                                 Land that is already developed and being considered for future development
+                                 Existing Developed
+                                                                Employment                                       Land that is already developed and being considered for future development
+                                         Land
+                                                            Extractive Industries                                                                                                     Eq. Quarry
+                                 Private Recreation
+                                                         Private Recreation Facility
+                                       Facility
+                                                                Residential                           General 'Residential' category used when the density has not specifically been identified
+                                                           Conventional Density
+                                                                                                                                                     Only used if the Density has been specified
+                                                               Residential
+                                     Residential          Low Density Residential                                                                    Only used if the Density has been specified
+                                                        Medium Density Residential                                                                   Only used if the Density has been specified
+                                                          High Density Residential                                                                   Only used if the Density has been specified
+Developable Area - Residential
+                                     Mixed Use                   Mixed Use                                                                                 Mixed Residential/Commercial areas
+                                                         Local Convenience Centre
+                                    Town Centre              Local Town Centre
+                                                            Major Town Centre
+                                                                                             Used for past precincts where the future local street network was digitised/separated from other
+                                 (Non-Arterial Road)   (Future Local Road Network)
+                                                                                         developable land. Normally included in the adjacent Residential/Employment developable land areas
+                                                                   Office
+                                                                  Business
+                                    Commercial         Small Local Enterprise Precinct
+                                                                   Retail
+Developable Area - Employment
+                                                                   Health
+                                                             General Industrial                        Industrial Zone 3: Includes light Industrial / Office Park and unspecified Industrial areas
+                                     Industrial              Medium Industrial                                            Industrial Zone 1: Areas specifically designated as Medium Industrial
+                                                              Heavy Industrial                                                Industrial Zone 2: Areas specifically designated as High Industrial
+            Other                Investigation Area          Investigation Area
+      Disclaimer
+      Although the VPA Precinct Boundary & Greenfields Precinct Structure Plan data has been generated with care by the
+      VPA from the original Precinct Structure Plans, no warranty, expressed or implied, is made regarding accuracy,
+      adequacy, completeness, legality, reliability or usefulness of any information. The information is provided on an "as is"
+      basis. All warranties of any kind, express or implied, including but not limited to the implied warranties of
+      merchantability, fitness for a particular purpose, freedom from contamination by computer viruses and non-
+      infringement of proprietary rights are disclaimed.
+
+      To the fullest extent permitted by law, any user of the VPA Open Data shall indemnify and hold harmless the VPA (being
+      the Growth Areas Authority trading as the Victorian Planning Authority, and any successor organisations) from any
+      claim, loss, damage, injury, or liability of any kind (including, without limitation, incidental and consequential damages,
+      court costs, attorney’s fees and costs of investigation), that arises directly or indirectly, in whole or in part, from that
+      user’s use of this data, including any secondary or derivative use of the information provided.
+
+      Should you identify what you believe is an error in the data the VPA would appreciate being notified by email to:
+      maps@vpa.vic.gov.au.
+
+      Changes may be periodically made to the information herein; these changes may or may not be incorporated in any
+      new version published on the VPA’s website. Users will not be notified of the availability of updated versions of the
+      data. It is recommended that the user regularly check the VPA website to ensure that the latest version of the data is
+      downloaded and used.
+
+      If you have obtained this data from a source other than the VPA website, be aware that electronic data can be altered
+      subsequent to original distribution or may have been superseded by a later version.
+
+
+
+      Copyright and Limitations on Use
+      The VPA Precinct Boundary data, including the images and information contained herein, are the property of the State
+      of Victoria through the VPA and are protected by copyright and other intellectual property laws.
+
+      Except for any logos, emblems and trade marks, this work (VPA Precinct Boundary data) is licensed under a Creative
+      Commons Attribution 4.0 International licence, to the extent that it is protected by copyright. Authorship of this work
+      must be attributed to the Victorian Planning Authority.
+
+      To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/
+
+      Third parties seeking access to the data must be referred to the VPA website at
+      www.vpa.vic.gov.au.
+
+
+
+
+xii                                                                                    VPA SPATIAL DATA DESCRIPTION – MAY 2021
+

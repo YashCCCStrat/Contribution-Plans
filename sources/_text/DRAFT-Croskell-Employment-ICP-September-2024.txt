@@ -1,0 +1,1852 @@
+Croskell (Employment)
+    Infrastructure Contributions Plan
+        Draft for Public Consultation
+                         September 2024
+                CONTENTS
+                Summary .................................................................................................................................................................................3
+
+                    1.1           Monetary Component .........................................................................................................................................3
+
+                    1.2           Land component .................................................................................................................................................3
+
+                2        Introduction ..................................................................................................................................................................6
+
+                    2.1           Document Structure ............................................................................................................................................6
+
+                    2.2           Planning and Environment Act 1987 ...................................................................................................................6
+
+                    2.3           Strategic planning and justification.....................................................................................................................7
+
+                    2.4           Timeframe and plan review period .....................................................................................................................7
+
+                    2.5           Area to which this infrastructure contributions plan applies (ICP plan area) ....................................................7
+
+                3        Monetary component project identification ................................................................................................................9
+
+                    3.1           Cost apportionment and related infrastructure agreements .............................................................................9
+
+                    3.2           Transport construction projects........................................................................................................................11
+
+                    3.3           Community and recreation construction projects ............................................................................................17
+
+                    3.4           Project staging ...................................................................................................................................................17
+
+                4        Public purpose land provision .....................................................................................................................................19
+
+                    4.1           Inner and outer public purpose land ................................................................................................................19
+
+                    4.2           Land component ...............................................................................................................................................20
+
+                5        Contributions & administration ..................................................................................................................................26
+
+                    5.1           Collecting agency...............................................................................................................................................26
+
+                    5.2           Development agency.........................................................................................................................................26
+
+                    5.3           Net developable area ........................................................................................................................................26
+
+                    5.4           Contribution land ..............................................................................................................................................26
+
+                    5.5           Levy rates and classes of development.............................................................................................................26
+
+                    5.6           Estimated value of public purpose land ............................................................................................................27
+
+                    5.7           Payment of contributions..................................................................................................................................27
+
+                    5.8           Payment of land credit amounts .......................................................................................................................28
+
+                    5.9           Development exempt from contributions ........................................................................................................28
+
+                    5.10          Works in kind .....................................................................................................................................................28
+
+                    5.11          Works in kind reimbursement ..........................................................................................................................29
+
+                    5.12          Funds administration ........................................................................................................................................29
+
+                    5.13          Annual indexation of standard levy rates .........................................................................................................29
+
+                    5.14          Adjustment of land credit amounts ..................................................................................................................30
+
+CROSKELL (EMPLOYMENT) ICP – DRAFT PUBLIC CONSULTATION VERSION – SEPTEMBER 2024
+1
+                    5.15          Adjustment of land equalisation amounts ........................................................................................................30
+
+                6        Appendix 1 Definitions ................................................................................................................................................31
+
+                7        Appendix 2 Land use budget .......................................................................................................................................32
+
+                8        Appendix 3 Designs (Placeholder) ..............................................................................................................................37
+
+
+
+                PLANS
+                Plan 1: ICP Plan Area and Classes of Development ................................................................................................................8
+                Plan 2: Standard and Supplementary Levy Transport Construction Projects ........................................................................9
+                Plan 3: Standard Levy Community & Recreation Construction Projects ..............................................................................16
+                Plan 4: Public Land Provision ................................................................................................................................................18
+                Plan 5: Land Use Budget .......................................................................................................................................................32
+
+
+
+                TABLES
+                Table 1: Monetary component ICP levy summary .................................................................................................................3
+                Table 2: ICP Land Contribution Percentage ............................................................................................................................3
+                Table 3:              Land credit and equalisation amounts [To be updated prior to gazettal] .....................................................4
+                Table 4: Development classes & areas ...................................................................................................................................7
+                Table 5:              Standard levy transport construction projects .............................................................................................11
+                Table 6 Supplementary levy transport construction projects ..............................................................................................15
+                Table 7:              Standard levy community & recreation construction projects ....................................................................17
+                Table 8: Inner and outer public purpose land ......................................................................................................................19
+                Table 9:              Public purposes land summary .....................................................................................................................21
+                Table 10: ICP land equalisation rate .....................................................................................................................................22
+                Table 11: Public purpose land credit & equalisation amounts .............................................................................................23
+                Table 12: Classes of development & standard levy rates .....................................................................................................26
+                Table 15: Indices ...................................................................................................................................................................29
+                Table 16: Summary land use budget ....................................................................................................................................33
+                Table 17: Parcel specific land use budget ............................................................................................................................34
+
+
+
+
+CROSKELL (EMPLOYMENT) ICP – DRAFT PUBLIC CONSULTATION VERSION – SEPTEMBER 2024
+2
+                SUMMARY
+
+    1.1         Monetary Component
+                The following table summarises the monetary component of the infrastructure contribution imposed under this
+                infrastructure contributions plan (ICP) for each class of development.
+
+                The monetary component consists of a standard and supplementary levy that is calculated by multiplying the net
+                developable area (NDA) by the total levy rate.
+
+                Details of the infrastructure construction projects and plan preparation costs that will be funded by the monetary
+                component and their apportionment are provided in Section 3 of this ICP.
+
+                Details of the standard levy rates are provided in Section 5 of this ICP.
+
+                Table 1: Monetary component ICP levy summary
+
+                                                              NET DEVELOPABLE AREA
+                  CLASS OF DEVELOPMENT                                                    LEVY RATE                LEVY TO BE PAID
+                                                              (HECTARES)
+
+
+                  STANDARD LEVY
+
+                  Residential development                                         35.14               $256,650                  $9,017,518
+
+                  Commercial and industrial                                      141.66               $147,562                 $20,903,686
+                                                                                                                               $29,921,204
+                  Subtotal                                                        176.8
+
+                  SUPPLEMENTARY LEVY
+
+                  Residential                                                     35.14                $43,012                  $1,511,255
+
+                  Commercial and industrial                                      141.66                $43,012                  $6,093,130
+
+                  Subtotal                                                        176.8                                         $7,604,386
+
+                  TOTAL LEVY
+
+                  Residential                                                     35.14               $299,662                 $10,528,774
+
+                  Commercial and industrial                                      141.66               $190,574                 $26,996,816
+
+                  Total                                                           176.8                                        $37,525,590
+
+                Note: Minor discrepancies in numbers due to rounding.
+
+
+    1.2         Land component
+                The following table specifies the ICP land contribution percentage for each class of development.
+
+                The ICP land contribution percentage for a class of development is calculated by dividing the total area of public
+                purpose land specified in this ICP that is attributable to that class of development by the total area of the contribution
+                land in the ICP plan area of this ICP in that class of development (refer Table 9:        Public purposes land summary
+                for more detail).
+
+                Details of the public purposes that this land will be used and developed for, is specified in Section 4 of this ICP.
+
+                Table 2: ICP Land Contribution Percentage
+
+                  CLASS OF DEVELOPMENT                                              ICP LAND CONTRIBUTION PERCENTAGE
+
+                  Residential                                                                                                    16.06%
+
+
+
+CROSKELL (EMPLOYMENT) ICP – DRAFT PUBLIC CONSULTATION VERSION – SEPTEMBER 2024
+3
+                  Commercial and industrial                                                                                      4.10%
+
+
+                The land component of the infrastructure contribution in relation to a parcel of land in the ICP plan area is:
+                            •    any inner public purpose land that forms part of the parcel of land, and
+                            •    any land equalisation amount in relation to the parcel of land.
+
+                Table 3 specifies for each parcel of land in the ICP plan area:
+                            •    the area of inner public purpose land to be provided by the parcel
+                            •    land credit amount or the land equalisation amount in relation to the parcel
+
+                Table 3: Land credit and equalisation amounts [To be updated prior to gazettal]
+
+                                              INNER PUBLIC PURPOSE      LAND CREDIT            LAND EQUALISATION       LAND EQUALISATION
+                  PARCEL ID
+                                              LAND (HA)                 AMOUNT (TOTAL $)       AMOUNT (TOTAL $)        AMOUNT ($ PER NDHA)
+                  CK-01E                                        0.95                       -                       -                         -
+                  CK-01R                                                                   -                       -                         -
+                                                                0.22
+                  CK-02                                                                    -                       -                         -
+                                                                    -
+                  CK-03                                                                    -                       -                         -
+                                                                    -
+                  CK-04                                                                    -                       -                         -
+                                                                0.01
+                  CK-05                                                                    -                       -                         -
+                                                                0.25
+                  CK-06                                                                    -                       -                         -
+                                                                0.63
+                  CK-07                                                                    -                       -                         -
+                                                                    -
+                  CK-08                                                                    -                       -                         -
+                                                                0.71
+                  CK-09                                                                    -                       -                         -
+                                                                    -
+                  CK-10                                                                    -                       -                         -
+                                                                1.00
+                  CK-11                                                                    -                       -                         -
+                                                                0.10
+                  CK-12                                                                    -                       -                         -
+                                                                0.03
+                  CK-13E                                                                   -                       -                         -
+                                                                0.64
+                  CK-13R                                                                   -                       -                         -
+                                                                0.73
+                  CK-14                                                                    -                       -                         -
+                                                                1.73
+                  CK-15E                                            -                      -                       -                         -
+                  CK-15R                                            -                      -                       -                         -
+                  CK-16                                             -                      -                       -                         -
+                  CK-17                                             -                      -                       -                         -
+                  CK-18                                             -                      -                       -                         -
+                  CK-19                                         0.44                       -                       -                         -
+                  CK-20                                         1.54                       -                       -                         -
+                  CK-21                                         0.47                       -                       -                         -
+                  CK-22                                             -                      -                       -                         -
+                  CK-23                                             -                      -                       -                         -
+                  CK-24                                         1.32                       -                       -                         -
+                  CK-25                                             -                      -                       -                         -
+                  CK-26                                             -                      -                       -                         -
+                  CK-R01                                            -                      -                       -                         -
+                  CK-R02                                            -                      -                       -                         -
+                  CK-R03                                            -                      -                       -                         -
+                  CK-R04                                            -                      -                       -                         -
+                  CK-R05                                            -                      -                       -                         -
+                  CK-R06                                            -                      -                       -                         -
+                  CK-R07                                            -                      -                       -                         -
+
+
+CROSKELL (EMPLOYMENT) ICP – DRAFT PUBLIC CONSULTATION VERSION – SEPTEMBER 2024
+4
+                  CK-R08                                            -                       -                    -                     -
+                  CK-R09                                            -                       -                    -                     -
+                  CK-R10                                            -                       -                    -                     -
+                  CK-R11                                            -                       -                    -                     -
+                  CK-R12                                            -                       -                    -                     -
+                  CK-R13                                            -                       -                    -                     -
+                  CK-R14                                            -                       -                    -                     -
+                  CK-R15                                            -                       -                    -                     -
+                  CK-R16                                            -                       -                    -                     -
+                  CK-R17                                            -                       -                    -                     -
+                  CK-R18                                            -                       -                    -                     -
+                  SUBTOTAL                                     10.77
+                                                                           OUTER LAND
+                                                                                 LAND CREDIT    LAND EQUALISATION
+                                                     OUTER PUBLIC                                                     LAND EQUALISATION
+                  PROJECT ID                                                        AMOUNT               AMOUNT
+                                                 PURPOSE LAND (HA)                                                   AMOUNT ($ PER NDHA)
+                                                                                    (TOTAL $)            (TOTAL $)
+                  CK-OPPL-RD-01                                  0.99                       -                    -                     -
+                  CK-OPPL-IN-06                                  0.69                       -                    -                     -
+                  SUBTOTAL                                       1.68                       -                    -                     -
+                                               INNER/OUTER PUBLIC
+                                                PURPOSE LAND (HA)
+                  TOTAL                                         12.45
+
+
+
+
+CROSKELL (EMPLOYMENT) ICP – DRAFT PUBLIC CONSULTATION VERSION – SEPTEMBER 2024
+5
+    2           INTRODUCTION
+                The Croskell (Employment) Infrastructure Contributions Plan (the ‘ICP’) has been prepared by the Victorian Planning
+                Authority (VPA) with the assistance of Casey Council, service authorities and other stakeholders.
+
+                This ICP has been incorporated in the Casey Planning Scheme for the purposes of imposing infrastructure contributions
+                on development proponents to contribute to the provision of works, services or facilities and the provision of land for
+                public purposes.
+
+                The infrastructure contribution imposed under this ICP in relation to the development of land in the ICP plan area
+                consists of a monetary component and a land component.
+
+                The ICP:
+                            •    Establishes the statutory mechanism for development proponents to make a monetary contribution
+                                 towards the cost of infrastructure projects identified in Croskell (Employment) Precinct Structure Plan
+                                 (PSP)
+                            •    Establishes the statutory mechanism for development proponents to provide land to be used and
+                                 developed for the public purposes identified in the Croskell (Employment) PSP
+                            •    Lists the individual infrastructure projects identified in the Croskell (Employment) PSP, and
+                            •    Has been prepared in accordance with Part 3AB of the Planning and Environment Act 1987 (‘the Act’),
+                                 the Ministerial Direction on the Preparation and Content of Infrastructure Contributions Plans (February
+                                 2021) and the Infrastructure Contributions Plan Guidelines.
+
+
+    2.1         Document Structure
+                This document comprises the sections described below.
+
+
+                                                                     • Summarises the key details of this ICP
+                         Sections 1 & 2                              • Describes the strategic basis for this ICP
+
+
+                                                                     • Identifies the monetary component projects to be
+                                Section 3                             contributed to by this ICP
+
+
+
+                                Section 4                            • Identifies the public purpose land provision for this ICP
+
+
+
+                                                                     • Discusses the administration and implementation of
+                                Section 5                             this ICP
+
+
+
+                    Sections 6 & above                               • Provides additional detailed information
+
+
+
+
+    2.2         Planning and Environment Act 1987
+                This ICP has been prepared in accordance with Part 3AB of the Act, it is consistent with the Minister for Planning’s
+                Ministerial Direction on the Preparation and Content of Infrastructure Contributions Plans (February 2021) made under
+                section 46GJ of the Act.
+
+                In accordance with section 46GG of the Act, this ICP has been incorporated in the Casey Planning Scheme for the
+                purposes of imposing infrastructure contributions to fund the provision of works, services or facilities and the provision
+
+
+
+CROSKELL (EMPLOYMENT) ICP – DRAFT PUBLIC CONSULTATION VERSION – SEPTEMBER 2024
+6
+                of land for public purposes. This ICP is implemented in the Casey Planning Scheme through Schedule 04 of Clause 45.11
+                to the Infrastructure Contributions Overlay and is an incorporated document under Clause 04.
+
+
+    2.3         Strategic planning and justification
+                This ICP has been prepared in conjunction with the Croskell (Employment) PSP.
+                The Croskell (Employment) PSP sets out the vision for how land should be developed, illustrates the Place-based Plan
+                and describes the outcomes to be achieved by the future development. The PSP also identifies the infrastructure
+                projects required as well as providing the rationale and justification for the infrastructure items. The background
+                reports for the PSP provide an overview of the planning process for the Croskell (Employment) ICP area.
+
+                The PSP has confirmed:
+                            •    All road, intersection, shared user path, pedestrian signals and culvert projects required to service the
+                                 new community
+                            •    The sporting reserves and local parks required to service the new community
+                            •    The public purpose land required for the above, and
+                            •    The parcel specific land budget detailing the encumbrances, the net developable area (NDA) and the
+                                 contribution land.
+
+
+    2.4         Timeframe and plan review period
+                This ICP adopts a long-term outlook for development. It considers planned future development in the area. This ICP
+                commences on the date of incorporation into the Casey Planning Scheme. This ICP will end when development within
+                the ICP area is complete, which is projected to be 25 years after gazettal, or when this ICP is removed from the Casey
+                Planning Scheme.
+
+                This ICP is expected to be reviewed and updated every five years by the Collection Agency (or more frequently if
+                required). This review may result in minor changes or have no changes at all. Alternatively, this may require an
+                amendment to the Casey Planning Scheme to replace this document with an alternative, revised document.
+
+
+    2.5         Area to which this infrastructure contributions plan applies (ICP plan area)
+                This ICP plan area applies to 317.24 total hectares of land as shown in Plan 1.
+
+                The classes of development of land in relation to which an infrastructure contribution is to be imposed under this plan
+                are ‘residential’ and ‘commercial and industrial’.
+
+                The classes of development are identified in Plan 1. The NDA and contribution land for each class of development are
+                summarised in Table 4.
+
+                Table 4: Development classes & areas
+
+                  CLASS OF DEVELOPMENT                          NET DEVELOPABLE AREA (HECTARES)           CONTRIBUTION LAND (HECTARES)
+                  Residential                                                                     35.14                              39.86
+                  Commercial and Industrial                                                    141.66                               147.70
+                  Total for ICP plan area                                                         176.8                             187.56
+
+                Note: Discrepancy in numbers due to rounding of decimal point. Table 17 takes precedence.
+
+                The monetary component of the infrastructure contribution is payable on the NDA.
+
+                The land component of the infrastructure contribution is calculated based on the contribution land.
+
+
+
+
+CROSKELL (EMPLOYMENT) ICP – DRAFT PUBLIC CONSULTATION VERSION – SEPTEMBER 2024
+7
+                Plan 1: ICP Plan Area and Classes of Development
+
+
+
+
+CROSKELL (EMPLOYMENT) ICP – DRAFT PUBLIC CONSULTATION VERSION – SEPTEMBER 2024
+8
+    3           MONETARY COMPONENT PROJECT IDENTIFICATION
+                The strategic need for infrastructure included in this ICP has been determined, and been subject to consultation, as part
+                of the preparation of the Croskell (Employment) PSP.
+
+                Items can only be included in an ICP if they are consistent with the Allowable Items listed in the Ministerial Direction on
+                the Preparation and Content of Infrastructure Contributions Plans (February 2021). Only items listed in this ICP can be
+                contributed to by the monetary component (standard levy) of the infrastructure contribution imposed under this ICP.
+                Infrastructure not listed must be funded via other funding mechanisms.
+
+                The monetary component will contribute towards two types of infrastructure projects (refer to Error! Reference source
+                not found., Error! Reference source not found. and Error! Reference source not found. and Table 5, Table 6 and Table
+                7):
+                            •    Transport construction
+                            •    Community and recreation construction
+
+                Table 5, Table 6 and Table 7 also include staging for when the projects are expected to be delivered. The infrastructure
+                projects have been identified as short (S), medium (M) and long (L) term stages:
+                           Short (S): 0–5 years approx.
+                           Medium (M):          5–10 years approx.
+                           Long (L): 10 years and beyond
+
+
+    3.1         Cost apportionment and related infrastructure agreements
+                Some projects within this ICP will require some apportionment external to the ICP area. Projects that have external
+                apportionment as well as the source of the balance of funding external to this ICP are identified in Table 5, Table 6 and
+                Table 7.
+
+
+
+
+                Plan 2: Standard and Supplementary Levy Transport Construction Projects
+
+
+
+
+CROSKELL (EMPLOYMENT) ICP – DRAFT PUBLIC CONSULTATION VERSION – SEPTEMBER 2024
+9
+CROSKELL (EMPLOYMENT) ICP – DRAFT PUBLIC CONSULTATION VERSION – SEPTEMBER 2024
+10
+    3.2         Transport construction projects
+                The transport construction projects included in this ICP are based on the transport network depicted in Error!
+                Reference source not found., as identified by the Croskell (Employment) PSP.
+
+                The transport construction projects contributed to by the monetary component of this ICP are listed in the following
+                tables.
+
+                Table 5 describes the transport construction projects contributed to by the standard levy, the expected staging, the
+                apportionment to this ICP, any external funding source(s) for items not fully apportioned to this ICP, the total estimated
+                cost and the estimated cost per net developable hectare.
+
+                Table 5: Standard levy transport construction projects
+
+                                                          APPORTION-
+                    PROJECT TITLE &                                         APPORTIONMENT         TOTAL ESTIMATED   COST APPORTIONED
+   PROJECT ID                                 STAGING     MENT TO THIS                                                                   COST PER HA
+                    DESCRIPTION                                             FUNDING SOURCE        COST              TO ICP
+                                                          ICP
+
+
+                                                                          Road projects
+
+                    Casey Fields
+                    Boulevard
+
+                    Construction of a
+                    connector boulevard
+                    with one traffic lane
+                    in each direction
+                    within a 31m road
+                    reserve from northern
+                    leg of IN06 to
+                    southern boundary of
+                                                                            Remaining balance
+                    central utilities
+                                                                            covered by Croskell
+   CK-RD-01         easement.                      S           18.7%                                 $9,358,541        $1,754,156            $9,922
+                                                                              (Employment)
+                                                                            supplementary levy
+                    Construction of a
+                    connector boulevard
+                    with one traffic lane
+                    in each direction
+                    within a 23.75m road
+                    from southern
+                    boundary of central
+                    utilities easement to
+                    northern boundary of
+                    central utilities
+                    easement.
+
+                                                                   Shared user path projects
+
+                    Shared user path:
+                    Melbourne Water
+                    pipe track                                                   Croskell
+     CK-SUP-01                                     S           100%                                  $3,069,827        $3,069,827            $17,364
+                                                                             (Employment) ICP
+                    Construction of a
+                    shared user path
+
+                    Shared user path:
+                    Thompsons Road
+                                                                                 Croskell
+     CK-SUP-02                                     S           100%                                   $559,627          $559,627             $3,165
+                                                                             (Employment) ICP
+                    Construction of a
+                    shared user path
+
+                    Shared user path:
+                                                                                 Croskell
+     CK-SUP-03      Victorian                      S           100%                                   $343,383          $343,383             $1,942
+                                                                             (Employment) ICP
+                    Desalination Project
+
+
+
+CROSKELL (EMPLOYMENT) ICP – DRAFT PUBLIC CONSULTATION VERSION – SEPTEMBER 2024
+11
+                    assets western
+                    crossing
+
+                    Construction of a
+                    shared user path
+                    crossing over the VDP
+                    assets
+
+                    Shared user path:
+                    Victorian
+                    Desalination Project
+                    assets eastern central
+                    crossing                                                     Croskell
+     CK-SUP-04                                     S           100%                             $343,383     $343,383     $1,942
+                                                                             (Employment) ICP
+                    Construction of a
+                    shared user path
+                    crossing over the VDP
+                    assets
+
+                    Shared user path:
+                    Victorian
+                    Desalination Project
+                    assets eastern
+                    crossing                                                     Croskell
+     CK-SUP-05                                     S           100%                             $343,383     $343,383     $1,942
+                                                                             (Employment) ICP
+                    Construction of a
+                    shared user path
+                    crossing over the VDP
+                    assets
+
+                                                                   Pedestrian signal projects
+
+                    Pedestrian Signals:
+                    Narre Waren
+                    Cranbourne Road
+                                                                                 Croskell
+     CK-PED-01                                     S           100%                             $392,048     $392,048     $2,218
+                                                                             (Employment) ICP
+                    Construction of a
+                    signalised pedestrian
+                    crossing
+
+                    Pedestrian Signals:
+                    Berwick Cranbourne
+                    Road
+                                                                                 Croskell
+     CK-PED-02                                     S           100%                             $394,999     $394,999     $2,234
+                                                                             (Employment) ICP
+                    Construction of a
+                    signalised pedestrian
+                    crossing
+
+                                                                      Intersection Projects
+
+                    Thompsons Road and
+                    Industrial Connector
+                    Road (southern leg)
+                                                                                 Croskell
+                    Construction of the
+      CK-IN-01                                     S           100%          (Employment) ICP   $2,774,591   $2,774,591   $15,694
+                    southern leg of a
+                    primary arterial to
+                    industrial connector
+                    road signalised four-
+                    way intersection
+
+                    Thompsons Road and
+                    Casey Fields                                                 Croskell
+      CK-IN-02                                     S           100%                             $2,986,223   $2,986,223   $16.891
+                    Boulevard (southern                                      (Employment) ICP
+                    leg)
+
+CROSKELL (EMPLOYMENT) ICP – DRAFT PUBLIC CONSULTATION VERSION – SEPTEMBER 2024
+12
+                    Construction of the
+                    southern leg of a
+                    primary arterial to
+                    connector boulevard
+                    signalised four-way
+                    intersection
+
+                    Thompsons Road and
+                    Wheelers Park Drive
+                    (southern leg)
+
+                    Construction of the                                          Croskell
+      CK-IN-03                                     S           100%                             $2,516,982   $2,516,982   $14,237
+                    southern leg of a                                        (Employment) ICP
+                    primary arterial to
+                    industrial connector
+                    road signalised four-
+                    way intersection
+
+                    Narre Warren
+                    Cranbourne Road and
+                    Industrial Connector
+                    Road (eastern leg)
+                                                                                 Croskell
+      CK-IN-04      Construction of the            S           100%                             $2,700,643   $2,700,643   $15,275
+                                                                             (Employment) ICP
+                    eastern leg of a
+                    primary arterial to
+                    industrial connector
+                    road signalised four-
+                    way intersection
+
+                    Berwick Cranbourne
+                    Road and Industrial
+                    Connector Road
+                    (western leg)
+                                                                                 Croskell
+      CK-IN-05      Construction of the            S           100%                             $2,573,597   $2,573,597   $14,557
+                                                                             (Employment) ICP
+                    western leg of a
+                    primary arterial to
+                    industrial connector
+                    road signalised four-
+                    way intersection
+
+                    Linsell Boulevard and
+                    Casey Fields
+                    Boulevard (northern
+                    leg)
+                                                                                 Croskell
+      CK-IN-06      Construction of the            S           100%                             $1,846,909   $1,846,909   $10,447
+                                                                             (Employment) ICP
+                    northern leg of a
+                    secondary arterial to
+                    connector boulevard
+                    signalised four-way
+                    intersection
+
+                                                                    Culvert & Bridge Projects
+
+                    Culvert: Casey Fields
+                    Boulevard
+                                                                                 Croskell
+      CK-CU-01      Construction of box            S           100%
+                                                                             (Employment) ICP
+                    culverts across                                                             $2,614,083   $2,614,083   $14,786
+                    ultimate road reserve
+                    width
+
+
+
+CROSKELL (EMPLOYMENT) ICP – DRAFT PUBLIC CONSULTATION VERSION – SEPTEMBER 2024
+13
+                    Culvert: shared user
+                    path
+                                                                                 Croskell
+      CK-CU-02      Construction of box            S           100%
+                                                                             (Employment) ICP
+                    culverts along shared                                                       $849,296      $849,296      $4,804
+                    user path over
+                    constructed waterway
+
+
+                    Culvert: shared user
+                    path
+                                                                                 Croskell
+      CK-CU-03      Construction of                S           100%
+                                                                             (Employment) ICP
+                    culvert on shared user                                                      $849,296      $849,296      $4,804
+                    path over constructed
+                    waterway
+
+
+   Total standard transport levies                                                              $34,516,810   $26,912,425   $152,223
+
+                 Note: Minor discrepancies in numbers due to rounding
+
+
+
+
+CROSKELL (EMPLOYMENT) ICP – DRAFT PUBLIC CONSULTATION VERSION – SEPTEMBER 2024
+14
+                 Table 6 Supplementary levy transport construction projects
+
+                                                      APPORTION-                                                     COST
+                PROJECT TITLE &                                        APPORTION-MENT
+PROJECT ID                               STAGING      MENT TO THIS                            TOTAL ESTIMATED COST   APPORTIONED TO   COST PER HA
+                DESCRIPTION                                            FUNDING SOURCE
+                                                      ICP                                                            ICP
+
+
+                                                                        Road projects
+
+
+
+
+                Casey Fields
+                Boulevard
+
+                Construction of a
+                connector boulevard
+                with one traffic lane
+                in each direction
+                within a 31m road
+                reserve from
+                northern leg of IN06
+                to southern
+                                                                        Remaining balance
+                boundary of central
+                                                                        covered by Croskell
+  CK-RD-01      utilities easement.           S           81.3%                                    $9,358,541          $7,604,386       $43,012
+                                                                          (Employment)
+                                                                           standard levy
+                Construction of a
+                connector boulevard
+                with one traffic lane
+                in each direction
+                within a 23.75m
+                road from southern
+                boundary of central
+                utilities easement to
+                northern boundary
+                of central utilities
+                easement.
+
+
+
+
+Total supplementary transport levies                                                                $9,358,541          $7,604,386      $43,012
+
+                 Note: Minor discrepancies in numbers due to rounding.
+
+
+
+
+ CROSKELL (EMPLOYMENT) ICP – DRAFT PUBLIC CONSULTATION VERSION – SEPTEMBER 2024
+ 15
+                Plan 3: Standard Levy Community & Recreation Construction Projects
+
+
+
+
+CROSKELL (EMPLOYMENT) ICP – DRAFT PUBLIC CONSULTATION VERSION – SEPTEMBER 2024
+16
+      3.3         Community and recreation construction projects
+                  The community and recreation construction projects included in this ICP are consistent with the range of facilities
+                  identified in the Croskell (Employment) PSP.
+
+                  The community and recreation construction projects identified in this ICP are listed in the following table. As there are
+                  no allowable supplementary levy items for community and recreation construction, all listed projects will be
+                  contributed to from the standard levy. The expected staging, the apportionment to this ICP, any external funding
+                  source(s) for items not fully apportioned to this ICP, the total estimated cost and the estimated cost per hectare are
+                  shown in the following table.
+
+                  Under Ministerial Direction on the Preparation and Content of Infrastructure Contributions Plans (February 2021), the
+                  amount of the total standard levy rate for residential development that may be used for community and recreation
+                  construction must not exceed $109,088 per net developable hectare in the 2024/2025 financial year or the indexed
+                  amount in subsequent financial years.
+
+                  Table 7: Standard levy community & recreation construction projects
+
+                                                          APPORTION-                                                COST
+               PROJECT TITLE &                                              APPORTION-MENT
+PROJECT ID                                     STAGING    MENT TO THIS                         TOTAL COST           APPORTIONED TO          COST PER HA
+               DESCRIPTION                                                  FUNDING SOURCE
+                                                          ICP                                                       ICP
+
+                                                                  Open Space Projects
+
+                                                                              Balance to be
+               Construction of lawn
+ CK-SR-01                                         M           16.5%          covered by City     $10,100,667           $1,666,610             $47,428
+               bowls
+                                                                                of Casey
+               Construction of 2
+               football/cricket ovals,                                        Balance to be
+ CK-SR-02      pavilion, cricket nets             M           16.6%          covered by City     $13,039,821           $2,166,742             $61,660
+               and 2 netball courts and                                         of Casey
+               a multi-purpose pavilion
+
+Total standard community & recreation levies                                                     $23,140,487           $3,833,352             $109,088
+
+
+Total capped community and recreation levy                                                                                                    $109,088
+
+
+
+
+      3.4         Project staging
+                  The expected staging of each infrastructure construction item is set out in Table 5, Table 6 and Table 7 and is based on
+                  information available at the time that the ICP was prepared. The collecting and development agencies will monitor and
+                  assess the required timing for infrastructure projects and have regard to strategic resource plans, the development of
+                  the PSP and areas external to the ICP.
+
+                  The collecting and development agencies may consider alternative staging where:
+                              •    Infrastructure is to be constructed/provided by development proponents as works in kind, as agreed by
+                                   the collecting agency
+                              •    Transport network priorities require the delivery of works or provision of public purpose land to
+                                   facilitate broader road network connections, and
+                              •    Community needs determine a change to the delivery of works or provision of public purpose land for
+                                   community facilities or open space.
+
+                  All items in this ICP will be provided as soon as is practicable and as soon as sufficient contributions are available,
+                  consistent with this ICP and acknowledging the development agency’s capacity to provide the balance of funds not
+                  collected by this ICP.
+
+
+
+
+  CROSKELL (EMPLOYMENT) ICP – DRAFT PUBLIC CONSULTATION VERSION – SEPTEMBER 2024
+  17
+                Plan 4: Public Land Provision
+
+
+
+
+CROSKELL (EMPLOYMENT) ICP – DRAFT PUBLIC CONSULTATION VERSION – SEPTEMBER 2024
+18
+    4           PUBLIC PURPOSE LAND PROVISION
+                The public purpose land included in this ICP has been determined, and been subject to consultation, as part of the
+                preparation of the Croskell (Employment) PSP.
+
+                Public purpose land specified in an ICP may only be used or developed for an allowable public purpose specified in
+                Annexure 1 to the Ministerial Direction on the Preparation and Content of Infrastructure Contributions Plans (February
+                2021). Public purpose land may be:
+
+                           Inner public purpose land (IPPL): Land within the ICP plan area that is specified in the ICP as land to be set
+                           aside for public purposes; or
+
+                           Outer public purpose land (OPPL): Land outside of the ICP plan area that is specified in the ICP as land to be
+                           acquired for public purposes.
+
+                Only items listed in this ICP can be provided for by the land component of this ICP. Public purpose land not listed must
+                be funded via other funding mechanisms.
+
+
+    4.1         Inner and outer public purpose land
+                Plan 4: shows the location of public purpose land (both inner and outer) as well as the type of allowable public
+                purposes for which it may be used and developed.
+
+                Table 8: specifies for each public purpose land (inner and outer) the type of allowable public purposes for which it may
+                be used and developed, the area and the expected staging. The staging for public purpose land is the same as the
+                monetary component specified in Section 3.
+
+                The IPPL forming part of each parcel of land is specified in Table 9.
+
+                Table 8: Inner and outer public purpose land
+
+                                                                                                  PUBLIC PURPOSE
+                  ICP PROJECT ID         PROJECT TITLE & DESCRIPTION                                                    STAGING
+                                                                                                  LAND AREA (HA)
+                  Transport (Inner) Public Purpose Land
+                                         Casey Fields Boulevard
+
+                                         Provision of land to create a 31m road reserve from
+                                         PSP boundary to southern boundary of central
+                  CK-RD-01               utilities easement.                                                    0.82              N/A
+
+                                         Provision of land to create a 23.75m road reserve
+                                         from southern boundary of central utilities easement
+                                         to northern boundary of central utilities easement.
+
+                                         Thompsons Road and Industrial Connector Street
+                                         (southern leg)
+                  CK-IN-01                                                                                      0.87              N/A
+                                         Provision of land for the southern leg of a primary
+                                         arterial to industrial connector road signalised four-
+                                         way intersection
+
+                                         Thompsons Road and Casey Fields Boulevard
+                                         (southern leg)
+                  CK-IN-02                                                                                      0.73              N/A
+                                         Provision of land for the southern leg of a primary
+                                         arterial to connector boulevard signalised four-way
+                                         intersection
+
+                                         Thompsons Road and Wheelers Park Drive
+                                         (southern leg)
+                  CK-IN-03                                                                                      0.67              N/A
+                                         Provision of land for the southern leg of a primary
+                                         arterial to industrial connector road signalised four-
+                                         way intersection
+
+
+CROSKELL (EMPLOYMENT) ICP – DRAFT PUBLIC CONSULTATION VERSION – SEPTEMBER 2024
+19
+                                         Narre Warren Cranbourne Road and Industrial
+                                         Connector (eastern leg)
+                  CK-IN-04                                                                                  0.58             N/A
+                                         Provision of land for the eastern leg of a primary
+                                         arterial to industrial connector road signalised four-
+                                         way intersection
+
+                                         Berwick Cranbourne Road and Industrial Connector
+                                         (western leg)
+                  CK-IN-05                                                                                  0.64             N/A
+                                         Provision of land for the western leg of a primary
+                                         arterial to industrial connector road signalised four-
+                                         way intersection
+                  Sub-Total                                                                                 4.31
+                  Community & recreation (Inner) Public Purpose Land
+                                         Sports reserve
+                  CK-SR-01                                                                                  0.74             N/A
+                                         Provision of land
+                                         Sports reserve
+                  CK-SR-02                                                                                  2.22             N/A
+                                         Provision of land
+                                         Local park
+                  CK-LP-01                                                                                  0.60             N/A
+                                         Provision of land
+                                         Local park
+                  CK-LP-02                                                                                  0.71             N/A
+                                         Provision of land
+                                         Local park
+                  CK-LP-03                                                                                  2.19             N/A
+                                         Provision of land
+                  Sub-Total                                                                                 6.46
+                  Transport (Outer) Public Purpose Land
+                                       Casey Fields Boulevard
+
+                  CK-OPPL-RD-01        Provision of land to create a road reserve for 22m of                0.99             N/A
+                                       the total 31m road reserve from the northern
+                                       boundary of IN-06 to the PSP boundary.
+
+                                       Linsell Boulevard and Casey Fields Boulevard
+                                       (northern leg)
+                  CK-OPPL-IN-06                                                                             0.69             N/A
+                                       Provision of land for the northern leg of a secondary
+                                       arterial to connector boulevard signalised four-way
+                                       intersection
+                  Sub-Total                                                                                 1.68
+                  Total Inner and Outer Public Purpose Land                                                12.45
+
+
+    4.1.1       Public open space contributions
+                The overall open space contribution for this ICP is identified in Table 14: Summary land use budget and Table 15: Parcel
+                specific land use budget. This ICP provides for the provision of public purpose land for local sports reserves and local
+                parks. The community and recreation levy of the monetary component contributes towards the construction of local
+                sports reserves. The construction of local parks is considered developer works and separate from this ICP.
+
+
+
+
+                4.2           Land component
+                The following table summarises for each class of development specified in this ICP:
+
+CROSKELL (EMPLOYMENT) ICP – DRAFT PUBLIC CONSULTATION VERSION – SEPTEMBER 2024
+20
+                                                             •   The total area of contribution land
+                                                             •   The total area of transport inner public purpose land
+                                                             •   The total area of community and recreation inner public purpose land
+                                                             •   The total area of inner public purpose land
+                                                             •   The total area of outer public purpose land
+                                                             •   The ICP land contribution percentage
+
+                              Table 9: Public purposes land summary
+
+
+
+
+                                                                                                                                                                            TOTAL INNER PUBLIC PURPOSE
+
+
+
+
+                                                                                                                                                                                                                              TOTAL PUBLIC PURPOSE LAND
+                                                                                                                                                INNER PUBLIC PURPOSE LAND
+
+
+
+
+                                                                                                                                                                                                                                                          CONTRIBUTION PERCENTAGE
+                                                                                                                                                 COMMUNITY & RECREATION
+                                                                                                                     RESIDENTIAL COMMUNITY &
+
+
+
+
+                                                                                                                                                 COMMERCIAL & INDUSTRIAL
+                                   TOTAL CONTRIBUTION LAND
+
+
+
+
+                                                                                                                      RECREATION INNER PUBLIC
+                                                                   PROPORTION OF PRECINCT
+
+
+
+                                                                                            TRANSPORT INNER PUBLIC
+       CLASS OF DEVELOPMENT
+
+
+
+
+                                                                    CLASS OF DEVELOPMENT
+
+
+
+
+                                                                                                                                                                                                         TOTAL OUTER PUBLIC
+                                                                                              PURPOSE LAND (HA)
+
+
+
+
+                                                                                                                                                                                                          PURPOSE LAND (HA)
+                                                                                                                         PURPOSELAND (HA)
+
+
+
+
+                                                                                                                                                                                                                                                               TOTAL ICP LAND
+                                                                                                                                                                                     LAND (HA)
+                                             (HA)
+
+
+
+
+                                                                                                                                                           (HA)
+
+
+
+
+                                                                                                                                                                                                                                         (HA)
+Residential (Ha)                  39.86                                                      0.66                         4.06                                               4.72                         1.68                 6.40                       16.06%
+
+Commercial &
+                                  147.7                                                      3.65                                                      2.40                  6.05                               -              6.05                       4.10%
+Industrial (Ha)
+
+     Total                        187.56                                                     4.31                         4.06                         2.40                 10.77                         1.68                12.45
+
+
+                              The ICP land contribution percentage for a class of development is calculated by dividing the total area of public
+                              purpose land specified in this ICP that is attributable to that class of development, by the total area of the contribution
+                              land in the ICP plan area in that class of development.
+
+                              Where the need for a type of public purpose land is attributable to more than one class of development (for example,
+                              transport public purpose land), each development class’ share of the public purpose land is equal to its proportion of
+                              the total contribution land.
+
+                              As public purpose land cannot be evenly distributed across all parcels, 10.77ha of inner public purpose land and 1.68ha
+                              of outer public purpose land identified in Table 9, will be equalised by parcels that are required to provide less than the
+                              ICP land contribution percentage identified in Table 9.
+
+                              Table 10 summarises for each class of development specified in this ICP:
+                                                             •   total amount of IPPL (in hectares) that is provided over the ICP land contribution percentage
+                                                             •   the total value of the credits for the IPPL over the ICP land contribution percentage
+                                                             •   the total estimated value for any OPPL
+                                                             •   the total land equalisation to be paid (IPPL credits plus OPPL estimated value)
+                                                             •   the total amount of IPPL that is equal to or less than the ICP land contribution percentage (this is IPPL
+                                                                 (Ha) to be directly provided by each parcel and this land is not entitled to a credit), and
+                                                             •   the land equalisation rate (total land equalisation value divided by the total IPPL under the ICP land
+                                                                 contribution percentage).
+
+                              The land equalisation rate ($ per Ha) is used to determine the land equalisation amount specified in Table 10. The land
+                              equalisation amount is required to be paid by parcels which have a land contribution percentage that is less than the
+                              ICP land contribution percentage.
+
+
+
+
+CROSKELL (EMPLOYMENT) ICP – DRAFT PUBLIC CONSULTATION VERSION – SEPTEMBER 2024
+21
+                Table 10: ICP land equalisation rate
+
+
+                       TOTAL IPPL (HA)
+                                             TOTAL IPPL (HA)
+                       EQUAL TO OR LESS                             TOTAL IPPL LAND     TOTAL OUTER          TOTAL LAND            LAND
+ CLASS OF                                    OVER ICP LAND
+                       THAN ICP LAND                                CREDIT AMOUNT       LAND ESTIMATED       EQUALISATION TO       EQUALISATION
+ DEVELOPMENT                                 CONTRIBUTION
+                       CONTRIBUTION                                 (FOR ‘OVER’ LAND)   VALUE                BE PAID               RATE ($ PER HA)
+                                             PERCENTAGE
+                       PERCENTAGE
+
+ Residential (Ha)                     4.48                  2.80                    -                    -                     -                     -
+ Commercial and                                                                     -                    -                                           -
+                                      1.28                  1.28                                                               -
+ Industrial (Ha)
+ Total                                5.76                  4.08                    -                    -                     -                     -
+
+
+
+                Table 11 specifies for each parcel of land in the ICP plan area: the total contribution area of the parcel:
+                            •    The total ICP land contribution percentage
+                            •    The type of public purpose for which that IPPL may be used and developed
+                            •    The IPPL parcel contribution percentage
+                            •    The number of hectares that the parcel contribution percentage is above (land credit) or below (land
+                                 equalisation) the ICP land contribution percentage
+                            •    A land credit amount (hectares and total ($))
+                            •    The land equalisation amount expressed as a rate per net developable hectares in the parcel.
+
+
+
+
+CROSKELL (EMPLOYMENT) ICP – DRAFT PUBLIC CONSULTATION VERSION – SEPTEMBER 2024
+22
+             Table 11: Public purpose land credit & equalisation amounts
+
+                                                                                                               PUBLIC PURPOSE LAND                                            LAND CREDIT AMOUNT        LAND EQUALISATION AMOUNT
+                                                                        ICP LAND
+                                   TOTAL                                                                                COMMERCIAL &                             PARCEL
+                                                                     CONTRIBUTION                         RESIDENTIAL
+            PSP PARCEL ID       CONTRIBUTION          LAND USE                                                           INDUSTRIAL           PARCEL         CONTRIBUTION
+                                                                      PERCENTAGE        TRANSPORT        COMMUNITY &                                                                                                                $ PER
+                               AREA (HECTARES)                                                                          COMMUNITY &        CONTRIBUTION      PERCENTAGE (%)   HECTARES       TOTAL $   HECTARES       TOTAL $
+                                                                       (HECTARES)       (HECTARES)        RECREATION                                                                                                                NDHA
+                                                                                                                         RECREATION       TOTAL (HECTARES)
+                                                                                                          (HECTARES)
+                                                                                                                          (HECTARES)
+
+                                                                                                              INNER PUBLIC PURPOSE LAND
+
+           CK-01E                        19.12    Employment                     0.78         0.36                  -            0.59                0.95            4.97%        0.17             -          -                 -           -
+           CK-01R                         4.96    Residential                    0.80         0.22                  -                -               0.22            4.44%               -         -       0.58                 -           -
+           CK-02                          0.50    Employment                     0.02                -              -                -                   -                -              -         -       0.02                 -           -
+           CK-03                          0.40    Employment                     0.02                -              -                -                   -                -              -         -       0.02                 -           -
+           CK-04                          1.16    Employment                     0.05                -              -            0.01                0.01            0.86%               -         -       0.04                 -           -
+           CK-05                          1.44    Employment                     0.06         0.25                  -                -               0.25           17.36%        0.19             -              -             -           -
+           CK-06                         22.59    Employment                     0.93         0.63                  -                -               0.63            2.79%               -         -       0.30                 -           -
+           CK-07                         12.18    Employment                     0.50                -              -                -                   -                -              -         -       0.50                 -           -
+           CK-08                         19.49    Employment                     0.80                -              -            0.71                0.71            3.64%                         -       0.09                 -           -
+           CK-09                          0.54    Employment                     0.02                -              -                -                   -                -              -         -       0.02                 -           -
+           CK-10                         14.15    Employment                     0.58         1.00                  -                -               1.00            7.07%        0.42             -              -             -           -
+           CK-11                          0.10    Employment                     0.00         0.10                  -                -               0.10         100.00%         0.10             -              -             -           -
+           CK-12                          0.58    Employment                     0.02         0.03                  -                -               0.03            5.17%        0.01             -                            -           -
+           CK-13E                        20.11    Employment                     0.82         0.64                  -                -               0.64            3.18%               -         -       0.18                 -           -
+           CK-13R                         0.92    Residential                    0.15                -           0.73                -               0.73           79.35%        0.58             -              -             -           -
+           CK-14                         32.64    Employment                     1.34         0.64                  -            1.09                1.73            5.30%        0.39             -                            -           -
+           CK-15E                         2.70    Employment                     0.11                -              -                -                   -                -              -         -       0.11                 -           -
+           CK-15R                         9.31    Residential                    1.50                -              -                -                   -                -              -         -       1.50                 -           -
+           CK-16                          7.97    Residential                    1.28                -              -                -                   -                -              -         -       1.28                 -           -
+           CK-17                          0.01    Residential                    0.00                -              -                -                   -                -              -         -              -             -           -
+           CK-18                          0.08    Residential                    0.01                -              -                -                   -                -              -         -       0.01                 -           -
+           CK-19                          3.95    Residential                    0.63         0.44                  -                -               0.44           11.14%                         -       0.19                 -           -
+
+
+
+
+SKELL (EMPLOYMENT) ICP – PUBLIC CONSULTATION VERSION – AUGUST 2024          23
+           CK-20                          5.08    Residential             0.82      -      1.54               -      1.54    30.31%   0.72   -      -   -   -
+           CK-21                          0.47    Residential             0.08      -      0.47               -      0.47   100.00%   0.39   -          -   -
+           CK-22                          3.23    Residential             0.52      -          -              -         -         -      -   -   0.52   -   -
+           CK-23                          0.81    Residential             0.13      -          -              -         -         -      -   -   0.13   -   -
+           CK-24                          1.32    Residential             0.21      -      1.32               -      1.32   100.00%   1.11   -      -   -   -
+           CK-25                          0.03    Residential             0.00      -          -              -         -                -   -      -   -   -
+           CK-26                          1.70    Residential             0.27      -          -              -         -         -      -   -   0.27   -   -
+           CK-R01                             -   Residential                -      -          -              -         -         -      -   -      -   -   -
+           CK-R02                             -   Residential                -      -          -              -         -         -      -   -      -   -   -
+           CK-R03                             -   Residential                -      -          -              -         -         -      -   -      -   -   -
+           CK-R04                             -   Residential                -      -          -              -         -         -      -   -      -   -   -
+           CK-R05                             -   Residential                -      -          -              -         -         -      -   -      -   -   -
+           CK-R06                             -   Residential                -      -          -              -         -         -      -   -      -   -   -
+           CK-R07                             -   Residential                -      -          -              -         -         -      -   -      -   -   -
+           CK-R08                             -   Residential                -      -          -              -         -         -      -   -      -   -   -
+           CK-R09                             -   Residential                -      -          -              -         -         -      -   -      -   -   -
+           CK-R10                             -   Residential                -      -          -              -         -         -      -   -      -   -   -
+           CK-R11                             -   Residential                -      -          -              -         -         -      -   -      -   -   -
+           CK-R12                             -   Residential                -      -          -              -         -         -      -   -      -   -   -
+           CK-R13                             -   Residential                -      -          -              -         -         -      -   -      -   -   -
+           CK-R14                             -   Residential                -      -          -              -         -         -      -   -      -   -   -
+           CK-R15                             -   Residential                -      -          -              -         -         -      -   -      -   -   -
+           CK-R16                             -   Residential                -      -          -              -         -         -      -   -      -   -   -
+           CK-R17                             -   Residential                -      -          -              -         -         -      -   -      -   -   -
+           CK-R18                             -   Residential                -      -          -              -         -         -      -   -      -   -   -
+          SUB TOTAL                    187.56                                    4.31      4.06           2.40      10.77             4.08       5.76   -   -
+          Residential
+                                         39.86                               -   0.66      4.06                      4.72             2.80       4.48
+          Sub Total
+          Commercial &
+          Industrial Sub               147.70                                -   3.65                     2.40       6.05             1.28       1.28
+          Total
+                                                                                        Outer Public Purpose Land
+
+
+
+
+SKELL (EMPLOYMENT) ICP – PUBLIC CONSULTATION VERSION – AUGUST 2024   24
+                                                                          ICP LAND                                                                           PARCEL
+                                        TOTAL
+                                                                     CONTRIBUTION                                                                      CONTRIBUTION
+          PROJECT ID            CONTRIBUTION      LAND USE                                              PUBLIC PURPOSE LAND                                            LAND CREDIT AMOUNT      LAND EQUALISATION AMOUNT
+                                                                       PERCENTAGE                                                                        PERCENTAGE
+                               AREA (HECTARES)
+                                                                        (HECTARES)                                                                        (HECTARES)
+                                                                                                                  COMMERCIAL &
+                                                                                                    RESIDENTIAL
+                                                                                                                      INDUSTRIAL             PARCEL
+                                                                                     TRANSPORT    COMMUNITY &                                                                                                     $ PER
+                                                                                                                   COMMUNITY &       CONTRIBUTION –                    HECTARES   TOTAL $   HECTARES   TOTAL $
+                                                                                     (HECTARES)     RECREATION                                                                                                    NDHA
+                                                                                                                     RECREATION     TOTAL (HECTARES)
+                                                                                                     (HECTARES)
+                                                                                                                       (HECTARES)
+          CK-OPPL-RD-
+                                              -   Residential                    -        0.99                -                 -              0.99
+          01
+          CK-OPPL-IN-06                       -   Residential                    -        0.69                -                 -              0.69
+          SUB TOTAL                                                                       1.68
+          TOTAL
+          CROSKELL
+                                        187.56                                            5.99            4.06              2.40              12.45
+          (EMPLOYMEN
+          T)
+          Residential
+                                         39.86                                            2.34            4.06                                 6.40          16.06%
+          Total
+          Commercial &
+          Industrial                   147.70                                             3.65                             2.40                6.05           4.10%
+          Total
+          Equalisation
+          Rate
+
+
+
+
+SKELL (EMPLOYMENT) ICP – PUBLIC CONSULTATION VERSION – AUGUST 2024         25
+    5           CONTRIBUTIONS & ADMINISTRATION
+
+    5.1         Collecting agency
+                Casey Council is the collecting agency for the purposes of Part 3AB of the Act and this ICP. The monetary component
+                and any land equalisation amount of an infrastructure contribution imposed under this ICP must be paid to the
+                collecting agency. As the collecting agency, Casey Council is responsible for the administration and enforcement of this
+                ICP, including the payment of land credit amounts, in accordance with Part 3AB of the Act.
+
+
+    5.2         Development agency
+                Casey Council is the development agency for the purposes of Part 3AB of the Act and this ICP. The development agency
+                is responsible for provision of the infrastructure projects and acquisition of outer public purpose land identified in this
+                ICP. As the development agency, Casey Council is also responsible for the proper administration of this ICP in
+                accordance with Part 3AB of the Act.
+
+
+    5.3         Net developable area
+                The monetary component of Metropolitan Greenfield Growth Area ICPs are payable on the net developable area (NDA)
+                of land on any given development site (NDA is defined in Adjustment of land equalisation amounts
+
+                The land equalisation amounts specified in this ICP will be adjusted in accordance with the method of adjustment
+                specified in Annexure 1 of the Ministerial Direction on the Preparation and Content of Infrastructure Contributions Plans
+                (February 2021) on 1 July each year.
+
+                Appendix 1 Definitions).
+
+                To align with the classes of development specified in this ICP, the NDA is divided into:
+                            •    Net developable area residential (NDA-R) – the NDA for the residential class of development
+                            •    Net developable area employment (NDA-E) – the NDA for the commercial and industrial class of
+                                 development.
+
+                The NDA for this ICP has been calculated in Table 14: Summary land use budget and Table 17. Table 16 is the summary
+                land use budget which summarises the land requirements and net developable area for the ICP plan area as a whole.
+                Table 17 is the parcel specific land use budget which specifies the net developable area and land requirements for each
+                parcel of land in the ICP plan area.
+
+                For the purposes of this ICP, the number of net developable hectares will only change if the collecting agency agrees to
+                a variation to the parcel specific land budget and associated tables in the PSP and ICP.
+
+
+    5.4         Contribution land
+                The land component of the infrastructure contribution is calculated based on the contribution land.
+
+                The contribution land specified in this ICP is the land in the ICP plan area in respect of which an infrastructure
+                contribution is to be imposed under this plan if any of that land is developed. It excludes encumbered land, land already
+                used or developed for a public purpose and land that is exempt from paying an infrastructure contribution under the
+                Ministerial Direction on the Preparation and Content of Infrastructure Contributions Plans (February 2021). It includes
+                the net developable area and inner public purpose land.
+
+                The contribution land in the ICP plan area is specified in Table 4 and Table 15: .
+
+
+    5.5         Levy rates and classes of development
+                Annexure 1 to the Ministerial Direction on the Preparation and Content of Infrastructure Contributions Plans (February
+                2021) specifies standard levy rates for two classes development for Metropolitan Greenfield Growth Areas – ‘residential
+                development’ and ‘commercial and industrial development’.
+
+                Table specifies the standard levy rate for each class of development.
+
+
+
+
+CROSKELL (EMPLOYMENT) ICP – PUBLIC CONSULTATION VERSION – AUGUST 2024          26
+                Table 12: Classes of development & standard levy rates
+
+                                                 COMMUNITY & RECREATION
+                  CLASS OF DEVELOPMENT                                              TRANSPORT CONSTRUCTION     TOTAL STANDARD LEVY RATE
+                                                 CONSTRUCTION
+                  Residential                                      $109,088.00                      $147,562                     $256,650
+                  Commercial and Industrial                                    -                    $147,562                     $147,562
+
+
+                Table 3: Classes of development & supplementary levy rates
+
+                                                 COMMUNITY AND                                                 TOTAL SUPPLEMENTARY LEVY
+                  CLASS OF DEVELOPMENT                                              TRANSPORT CONSTRUCTION
+                                                 RECREATION CONSTRUCTION                                       RATE
+                                                                                                                                  $43,012
+                  Residential                                                                        $43,012
+
+                  Commercial and Industrial                                                          $43,012                      $43,012
+
+
+                Table14: Classes of development & total monetary levy rates
+
+                                              COMMUNITY AND
+                  CLASS OF DEVELOPMENT                                             TRANSPORT CONSTRUCTION      TOTAL LEVY RATE
+                                              RECREATION CONSTRUCTION
+
+                  Residential                                    $109,088.00                       $190,574                      $299,662
+                  Commercial and                                           -                       $190,574                      $190,574
+                  Industrial
+
+
+    5.6         Estimated value of public purpose land
+                A land credit amount specified in this ICP is based on the estimated value of the inner public purpose land in that parcel
+                of land determined in accordance with Part 3AB of the Act and the Ministerial Direction on the Preparation and Content
+                of Infrastructure Contributions Plans (February 2021) and the Infrastructure Contributions Plan Guidelines (ICP
+                Guidelines).
+
+                The component of a land equalisation amount specified in this ICP that relates to any outer public purpose land is based
+                on the estimated value of the outer public purpose land determined in accordance with the method specified in the
+                Ministerial Direction.
+
+                The component of a land equalisation amount specified in this ICP that relates to any inner public purpose land is based
+                on the estimated value of land credit amounts for inner public purpose land.
+
+                The estimated value of inner public purpose land in a parcel of land is required to be calculated when the parcel
+                contribution percentage of that land is more than the ICP land contribution percentage for the class of development.
+
+                The parcels of land with a land contribution percentage that is more than the ICP public land contribution percentage
+                are identified in Table 10.
+
+
+    5.7         Payment of contributions
+
+    5.7.1       Timing of payment of monetary component & land equalisation amounts
+
+                Subdivision of land
+
+                If the development of the land involves a plan under the Subdivision Act 1988, the monetary component (standard levy)
+                and any land equalisation amount of an infrastructure contribution must be paid to the collecting agency for the land
+                after certification of the relevant plan of subdivision but cannot be required more than 21 days prior to the issue of a
+                Statement of Compliance with respect to that plan.
+
+                If the subdivision is to be developed in stages, only the monetary component and any land equalisation amount for the
+                stage to be developed is required paid to the collecting agency within 21 days prior to the issue of a Statement of
+                Compliance for that stage, provided that a Schedule of Infrastructure Contributions is submitted with each stage of the
+                plan of subdivision. The schedule must show the amount of the infrastructure contributions payable for each stage and
+                the value of the contributions for prior stages to the satisfaction of the collecting agency.
+
+                If the collecting agency agrees to works in lieu of payment of the monetary component, the landowner must enter into
+                an agreement under Section 173 of the Planning and Environment Act 1987 in respect of the proposed works in lieu.
+
+
+CROSKELL (EMPLOYMENT) ICP – PUBLIC CONSULTATION VERSION – AUGUST 2024               27
+                Development of land where no subdivision is proposed
+
+                Provided an infrastructure contribution has not yet been collected for development of the subject land, the monetary
+                component and any land equalisation amount of an infrastructure contribution must be paid to the collecting agency
+                before the issue of a building permit for each net developable hectare proposed to be developed prior to the
+                commencement of any development (development includes buildings, car park, access ways, landscaping and ancillary
+                components). If the collecting agency agrees to works in lieu of payment of the monetary component, the landowner
+                must enter into an agreement, or other suitable arrangement, under Section 173 of the Act in respect of the proposed
+                works or provision of land in lieu.
+
+                Where no building permit is required
+
+                Where no building permit is required, the monetary component and any land equalisation amount of an infrastructure
+                contribution must be paid to the collecting agency prior to the commencement of any development in accordance with
+                a permit issued under the Act, unless otherwise agreed by the collecting agency in a Section 173 agreement.
+
+                If the collecting agency agrees to works in lieu of payment of the monetary component, the landowner must enter into
+                an agreement under Section 173 of the Act in respect of the proposed works or provision of land in lieu.
+
+
+    5.7.2       Inner public purpose land
+                If any land component of an infrastructure contribution includes inner public purpose land, that inner public purpose
+                land must be provided in accordance with section 46GV of the Act.
+
+
+    5.8         Payment of land credit amounts
+                A person is entitled to be paid the land credit amount specified in this ICP in relation to a parcel of land if:
+                            •    On development of that parcel the person must, in accordance with section 46GV(4) of the Act, provide
+                                 inner public purpose land forming part of that parcel to the collecting agency or a development agency;
+                                 and
+                            •    The parcel contribution percentage of the parcel of land to be developed is more than the ICP land
+                                 contribution percentage for that class of development.
+
+                The land credit amount is to be paid by the collecting agency to the landowner at a time to be agreed, but not before
+                lodgement of a subdivision plan. This may be formalised in a section 173 agreement if the collecting agency and
+                landowner agree.
+
+
+    5.9         Development exempt from contributions
+                Some classes of development are exempt from infrastructure contributions. Where land is subdivided or developed for
+                an exempt purpose, as listed below, and the land is subsequently used for a purpose other than as one of those exempt
+                uses, the owner of that land must pay to the collecting agency infrastructure contributions in accordance with the
+                provisions of this ICP. The levy must be paid within 28 days of the date of the commencement of the construction of
+                any buildings or works for that alternative use.
+
+
+    5.9.1       Schools
+                The development of land for government and non-government schools are exempt from the requirement to pay an
+                infrastructure contribution levy in accordance with the Ministerial Direction on the Preparation and Content of
+                Infrastructure Contributions Plans (February 2021).
+
+
+    5.9.2       Housing
+                Any housing to be provided by or on behalf of the Department of Health & Human Services (DHHS) is exempt from the
+                requirement to pay an infrastructure contributions levy in accordance with the Ministerial Direction on the Preparation
+                and Content of Infrastructure Contributions Plans (February 2021).
+
+
+
+
+CROSKELL (EMPLOYMENT) ICP – PUBLIC CONSULTATION VERSION – AUGUST 2024           28
+    5.10        Works in kind
+                Under section 46GX of the Act, the collecting agency may accept the provision of works, services or facilities by an
+                applicant in part or full satisfaction of the monetary component of an infrastructure contribution payable by the
+                applicant to the collecting agency (‘works in kind’).
+
+                Before accepting the provision of works in kind, the collecting agency must obtain the agreement of the development
+                agency or agencies specified in this ICP.
+
+                The collecting agency should only accept the provision of works in kind if:
+                            •    The works in kind constitute part or all of the delivery of an infrastructure project(s) identified in this
+                                 ICP, to the satisfaction of the collecting agency and development agency.
+                            •    The collecting agency and development agency have agreed that the timing of the works in kind is
+                                 consistent with priorities in this ICP (alternatively a credit for works may be delayed to align with clearly
+                                 identified and published development priorities).
+                            •    The works in kind are defined and agreed in a section 173 agreement.
+                            •    The detailed design of the works in kind is to the satisfaction of the development agency and any others
+                                 identified in permit conditions.
+
+                If the collecting and development agencies accept the provision of works in kind:
+                            •    The value of the works in kind will be negotiated between the collecting agency and the applicant
+                            •    The monetary component the infrastructure contribution payable by the applicant will be offset by the
+                                 agreed value of the works in kind.
+
+                The land component and any land equalisation amounts or land credit amounts cannot be accepted as works in kind.
+
+
+    5.10.1      Interim and temporary works
+                Interim and temporary works are not considered as eligible for works in kind credits against this ICP, unless agreed to
+                by the collecting and development agencies.
+
+
+    5.11        Works in kind reimbursement
+                If the collecting agency agrees to accept works under section 46GX of the Act and the value of those works is greater
+                than the monetary component of the infrastructure contribution payable by the applicant, the applicant is entitled to
+                be reimbursed the difference between the two amounts.
+
+                The details of a reimbursement must be negotiated with and agreed to by the collecting agency and development
+                agency.
+
+
+    5.12        Funds administration
+                The contributions made under this ICP will be held by the collecting agency until required for the provision of
+                infrastructure projects. Details of contributions received and expenditures will be held by the collecting agency in
+                accordance with the provisions of the Local Government Act 1989, the Act and the Ministerial Reporting Requirements
+                for Infrastructure Contributions Plans (February 2021).
+
+                In accordance with the Planning and Environment Act, the collecting agency to which the monetary component of
+                contributions are paid must forward to the VPA (as planning authority) any part of the monetary component of
+                contributions that is imposed for plan preparation costs. Subject to the agreement between the collecting agency and
+                the planning authority, reimbursement of plan preparation costs should occur as soon as practicable within the first five
+                years of development.
+
+
+    5.13        Annual indexation of standard levy rates
+                The standard levy rates specified in this ICP will be indexed in accordance with the indexation method specified in
+                Annexure 1 of the Ministerial Direction on the Preparation and Content of Infrastructure Contributions Plans (February
+                2021) on 1 July each year.
+
+
+
+CROSKELL (EMPLOYMENT) ICP – PUBLIC CONSULTATION VERSION – AUGUST 2024            29
+                The indices used in the indexation method are set out in Table .
+
+                Table 13: Indices
+
+                  CLASS OF INFRASTRUCTURE                      INDEX
+
+                                                               Australian Bureau of Statistics Producer Price Index for Non-Residential Building
+                  Community and recreation construction        Construction – Victoria (Catalogue 6427.0, Table 17, Output of the Construction Industries,
+                                                               subdivision and class index numbers)
+
+
+                                                               Australian Bureau of Statistics Producer Price Index for Road and Bridge Construction –
+                  Transport construction (inclusive of plan
+                                                               Victoria (Catalogue 6427.0, Table 17, Output of the Construction Industries, subdivision and
+                  preparation costs)
+                                                               class index numbers)
+
+
+
+  5.14        Adjustment of land credit amounts
+                The land credit amounts specified in this ICP will be adjusted in accordance with the method of adjustment specified in
+                Annexure 1 of the Ministerial Direction on the Preparation and Content of Infrastructure Contributions Plans (February
+                2021) on 1 July each year.
+
+
+  5.15        Adjustment of land equalisation amounts
+                The land equalisation amounts specified in this ICP will be adjusted in accordance with the method of adjustment
+                specified in Annexure 1 of the Ministerial Direction on the Preparation and Content of Infrastructure Contributions Plans
+                (February 2021) on 1 July each year.
+
+
+
+
+CROSKELL (EMPLOYMENT) ICP – PUBLIC CONSULTATION VERSION – AUGUST 2024             30
+    6           APPENDIX 1 DEFINITIONS
+
+                                                      The Minister, public authority or municipal council specified in an infrastructure
+                  collecting agency                   contributions plan as the entity that an infrastructure levy is payable to in
+                                                      accordance with Part 3AB of the Planning and Environment Act 1987.
+
+                                                      The land in the ICP plan area of an infrastructure contribution plan in respect of
+                                                      which an infrastructure contribution is to be imposed under the plan if any of that
+                                                      land is developed.
+                  contribution land
+                                                      This excludes encumbered land, existing public purposes land and land that is
+                                                      exempt from paying a contribution. It includes net developable area and inner
+                                                      public purpose land
+
+                                                      The Minister, public authority or municipal council specified in an infrastructure
+                  development agency                  contributions plan as the entity responsible for works, services or facilities and
+                                                      public purpose land specified in this ICP plan.
+
+                                                      Total precinct area excluding encumbered land, arterial roads and other roads with
+                  gross developable area
+                                                      four or more lanes.
+
+                                                      Land within the ICP plan area that is specified in this ICP as land to be set aside for
+                  inner public purpose land
+                                                      public purposes.
+
+                                                      Land within a precinct available for development. This excludes encumbered land,
+                                                      arterial roads, railway corridors, schools and community facilities and credited
+                  net developable area (NDA)
+                                                      public open space. It includes lots, local streets and connector streets. Net
+                                                      developable area may be expressed in terms of hectare units (for example NDHa).
+
+                  summary land use budget             A table setting out the total precinct area, a breakdown of constituent non
+                  table                               developable land uses proposed within the precinct and the net developable area.
+
+                                                      As per summary land use budget but broken down on a parcel by parcel basis. For
+                  parcel specific land use
+                                                      the ICP, it also includes contribution land areas and a breakdown of transport and
+                  budget
+                                                      community and recreation land takes for each parcel.
+
+                                                      Land outside of the ICP plan area that is specified in this ICP as land to be acquired
+                  Outer Public Purpose Land
+                                                      for public purposes.
+
+                                                      The reasonable costs and expenses incurred by the planning authority in preparing
+                  plan preparation costs              the infrastructure contributions plan and the related precinct structure plan or
+                                                      strategic plan.
+
+                                                      Any works, services or facilities accepted by the collecting agency in a part or full
+                  works in kind
+                                                      satisfaction of the monetary component of an infrastructure contribution.
+
+
+
+
+CROSKELL (EMPLOYMENT) ICP – PUBLIC CONSULTATION VERSION – AUGUST 2024            31
+    7           APPENDIX 2 LAND USE BUDGET
+                Plan 5: Land Use Budget
+
+
+
+
+CROSKELL (EMPLOYMENT) ICP – PUBLIC CONSULTATION VERSION – AUGUST 2024   32
+                Table 14: Summary land use budget
+                                                     DESCRIPTION                         AREA (HA)    % OF TOTAL   % OF NDA
+                  TOTAL PRECINCT AREA (ha)                                                   317.24
+                  TRANSPORT
+                  Arterial road - existing road reserve                                        8.66        2.73%       4.90%
+                  Arterial road - new / widening / intersection flaring (ICP land)             3.48        1.10%       1.97%
+                  Non-arterial road - new / widening / intersection flaring (ICP land)         0.82        0.26%       0.46%
+                  Non-arterial road - retained existing road reserve                           0.47        0.15%       0.27%
+                  SUB-TOTAL TRANSPORT                                                         13.43        4.23%       7.60%
+                  OPEN SPACE
+                  UNCREDITED OPEN SPACE & REGIONAL OPEN SPACE
+                  Aboriginal heritage                                                          5.40        1.70%       3.06%
+                  Waterway and drainage reserve                                               65.62       20.69%      37.12%
+                  Utilities easements                                                         40.38       12.73%      22.84%
+                  Local sports reserve uncredited                                              9.14        2.88%       5.17%
+                  SUB-TOTAL UNCREDITED OPEN SPACE & REGIONAL OPEN SPACE                      120.54       38.00%      68.18%
+                  CREDITED OPEN SPACE
+                  Local network park (ICP land)                                                3.50        1.10%       1.98%
+                  Local sports reserve credited (ICP Land)                                     2.96        0.93%       1.68%
+                  SUB-TOTAL CREDITED OPEN SPACE                                                6.46        2.04%       3.66%
+                  TOTAL ALL OPEN SPACE                                                       127.01       40.03%      71.84%
+                  TOTAL NET DEVELOPABLE AREA – (NDA) Ha                                      176.80       55.73%
+                  NET DEVELOPABLE AREA – RESIDENTIAL (NDAR) Ha                                35.14       11.08%
+                  NET DEVELOPABLE AREA – EMPLOYMENT (NDAE) Ha                                141.66       44.65%
+
+
+
+
+CROSKELL (EMPLOYMENT) ICP – PUBLIC CONSULTATION VERSION – AUGUST 2024             33
+       Table 15: Parcel specific land use budget
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      COMMERCIAL & INDUSTRIAL COMMUNITY
+                                                                                                                                                                                                                                                                                                                                                                                                                                             RESIDENTIAL COMMUNITY & RECREATION
+                                                                                              TRANSPORT                                                                                                                              OPEN SPACE
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                   TOTAL NET DEVELOPABLE AREA (HA)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                         TOTAL CONTRIBUTION LAND (HA)
+                                             Arterial Road - Existing Road
+
+
+
+
+                                                                                                               Non-Arterial Road - Retained
+
+
+
+                                                                                                                                                   Non-Arterial Road - New /
+
+
+
+
+                                                                                                                                                                                                                                     Local Network Park (ICP
+                                                                                                                                                                               Waterway and Drainage
+                                                                                                                 Existing Road Reserve
+                                                                                 Widening / Intersection
+
+
+
+
+                                                                                                                                                    Widening / Intersection
+
+
+
+
+                                                                                                                                                                                                                                                                                             Local Sports Reserve
+
+
+
+                                                                                                                                                                                                                                                                                                                        Local Sports Reserve
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              & RECREATION (HA)
+                                                                                 Arterial Road - New /
+
+
+
+
+                                                                                                                                                                                                                                                                                                                         Credited (ICP Land)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                        TRANSPORT (HA)
+                                                                                                                                                                                                           Utilities Easements
+
+
+
+
+                                                                                                                                                                                                                                                                   Aboriginal Heritage
+                                                                                   Flaring (ICP land)
+
+
+
+
+                                                                                                                                                      Flaring (ICP land)
+
+
+
+
+                                                                                                                                                                                                                                                                                                  Uncredited
+                                   TOTAL
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            (HA)
+                                                        Reserve
+
+
+
+
+                                                                                                                                                                                     Reserve
+                     PARCEL ID
+
+
+
+
+                                                                                                                                                                                                                                              land)
+                                 AREA (HA)
+
+
+
+
+                    CK-01E          19.12                                    -                0.36                                             -                          -                            -                         -              0.59                                     -                          -                          -           18.17                               19.12                         0.36                                                 -                 0.59
+
+                    CK-01R           4.96                                    -                0.22                                             -                          -                            -                         -                             -                         -                          -                          -                               4.74                              4.96        0.22                                                 -                                       -
+
+                    CK-02            0.50                                    -                             -                                   -                          -                            -                         -                             -                         -                          -                          -                               0.50                              0.50                    -                                        -                                       -
+
+                    CK-03            0.40                                    -                             -                                   -                          -                            -                         -                             -                         -                          -                          -                               0.40                              0.40                    -                                        -                                       -
+
+                    CK-04            1.16                                    -                             -                                   -                          -                            -                         -              0.01                                     -                          -                          -                               1.15                              1.16                    -                                        -                 0.01
+
+                    CK-05            1.44                                    -                0.25                                             -                          -                            -                         -                             -                         -                          -                          -                               1.20                              1.44        0.25                                                 -                                       -
+
+                    CK-06           22.59                                    -                0.63                                             -                          -                            -                         -                             -                         -                          -                          -           21.96                               22.59                         0.63                                                 -                                       -
+
+                    CK-07           12.18                                    -                             -                                   -                          -                            -                         -                             -                         -                          -                          -           12.18                               12.18                                     -                                        -                                       -
+
+                    CK-08           32.46                                    -                             -                                   -                          -                   1.22                  11.76                       0.71                                     -                          -                          -           18.78                               19.49                                     -                                        -                 0.71
+
+                    CK-09            0.54                                    -                             -                                   -                          -                            -                         -                             -                         -                          -                          -                               0.54                              0.54                    -                                        -                                       -
+
+                    CK-10           32.01                                    -                0.73                                             -             0.27                       15.33                                2.53                              -                         -                          -                          -           13.15                               14.15                         1.00                                                 -                                       -
+
+                    CK-11            2.90                                    -                             -                                   -             0.10                             0.29                           2.51                              -                         -                          -                          -                                     -                           0.10        0.10                                                 -                                       -
+
+                    CK-12            0.58                                    -                0.03                                             -                          -                            -                         -                             -                         -                          -                          -                               0.55                              0.58        0.03                                                 -                                       -
+
+
+
+
+(EMPLOYMENT) ICP – PUBLIC CONSULTATION VERSION – AUGUST 2024                                                                              34
+                    CK-13E         39.48           -      0.64          -      -    8.79   10.59      -      -      -      -    19.46    20.11   0.64      -      -
+
+                    CK-13R          1.58           -           -        -      -    0.66       -   0.65      -      -   0.08     0.19     0.92      -   0.73      -
+
+                    CK-14          53.58           -      0.64          -      -   11.56    9.37      -      -      -   1.09    30.91    32.64   0.64      -   1.09
+
+                    CK-15E          2.70           -           -        -      -       -       -      -      -      -      -     2.70     2.70      -      -      -
+
+                    CK-15R         15.90           -           -        -      -    3.77    2.82      -      -      -      -     9.31     9.31      -      -      -
+
+                    CK-16          18.87           -           -        -      -   10.90       -      -      -      -      -     7.97     7.97      -      -      -
+
+                    CK-17           0.34           -           -        -      -       -    0.32      -      -      -      -     0.01     0.01      -      -      -
+
+                    CK-18           1.26           -           -        -      -    0.71    0.47      -      -      -      -     0.08     0.08      -      -      -
+
+                    CK-19           5.90           -           -        -   0.44    1.94       -      -      -      -      -     3.51     3.95   0.44      -      -
+
+                    CK-20          11.84           -           -        -      -    1.36       -   1.54   5.40      -      -     3.54     5.08      -   1.54      -
+
+                    CK-21           3.03           -           -        -      -       -       -      -      -   2.55   0.47        -     0.47      -   0.47      -
+
+                    CK-22           3.23           -           -        -      -       -       -      -      -      -      -     3.23     3.23      -      -      -
+
+                    CK-23           0.81           -           -        -      -       -       -      -      -      -      -     0.81     0.81      -      -      -
+
+                    CK-24           7.91           -           -        -      -       -       -      -      -   6.59   1.32        -     1.32      -   1.32      -
+
+                    CK-25           6.82           -           -        -      -    6.79       -      -      -      -      -     0.03     0.03      -      -      -
+
+                    CK-26           4.01           -           -        -      -    2.31       -      -      -      -      -     1.70     1.70      -      -      -
+                    SUB-
+                                  308.10                   3.48             0.82   65.62   40.38   3.50   5.40   9.14   2.96   176.80   187.56   4.31   4.06   2.40
+                    TOTAL
+                    CK-R01          0.80       0.80            -        -      -       -       -      -      -      -      -        -        -      -      -      -
+
+                    CK-R02          0.09       0.09            -        -      -       -       -      -      -      -      -        -        -      -      -      -
+
+                    CK-R03          0.14       0.14            -        -      -       -       -      -      -      -      -        -        -      -      -      -
+
+
+
+
+(EMPLOYMENT) ICP – PUBLIC CONSULTATION VERSION – AUGUST 2024       35
+                    CK-R04          0.02       0.02            -         -   -   -   -   -   -   -   -   -   -   -   -   -
+
+                    CK-R05          1.01       1.01            -         -   -   -   -   -   -   -   -   -   -   -   -   -
+
+                    CK-R06          0.05       0.05            -         -   -   -   -   -   -   -   -   -   -   -   -   -
+
+                    CK-R07          0.81       0.81            -         -   -   -   -   -   -   -   -   -   -   -   -   -
+
+                    CK-R08          1.31       1.31            -         -   -   -   -   -   -   -   -   -   -   -   -   -
+
+                    CK-R09          0.20       0.20            -         -   -   -   -   -   -   -   -   -   -   -   -   -
+
+                    CK-R10          0.07       0.07            -         -   -   -   -   -   -   -   -   -   -   -   -   -
+
+                    CK-R11          0.34       0.34            -         -   -   -   -   -   -   -   -   -   -   -   -   -
+
+                    CK-R12          0.15       0.15            -         -   -   -   -   -   -   -   -   -   -   -   -   -
+
+                    CK-R13          0.99       0.99            -         -   -   -   -   -   -   -   -   -   -   -   -   -
+
+                    CK-R14          0.41       0.41            -         -   -   -   -   -   -   -   -   -   -   -   -   -
+
+                    CK-R15          0.21       0.21            -         -   -   -   -   -   -   -   -   -   -   -   -   -
+
+                    CK-R16          2.07       2.07            -         -   -   -   -   -   -   -   -   -   -   -   -   -
+
+                    CK-R17          0.04           -           -   0.04      -   -   -   -   -   -   -   -   -   -   -   -
+
+                    CK-R18          0.44           -           -   0.44      -   -   -   -   -   -   -   -   -   -   -   -
+
+                    Sub-Total       9.14       8.66                0.47
+
+
+
+
+(EMPLOYMENT) ICP – PUBLIC CONSULTATION VERSION – AUGUST 2024        36
+    8           APPENDIX 3 DESIGNS (PLACEHOLDER)
+
+
+
+
+CROSKELL (EMPLOYMENT) ICP – PUBLIC CONSULTATION VERSION – AUGUST 2024   37
+Croskell (Employment) Infrastructure Contributions Plan
+                  September 2024
+

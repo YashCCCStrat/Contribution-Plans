@@ -1,0 +1,2376 @@
+Cranbourne West
+Development Contributions Plan
+Version: Version 2
+
+Date updated: August 2017
+
+Responsible Department: Strategic Development
+
+Related policies: Cranbourne West Precinct Structure Plan
+
+
+
+
+       Council policy documents change from time to time and it is recommended that you consult
+       the electronic reference copy at www.casey.vic.gov.au/policiesstrategies to ensure that you
+       have the current version. Alternatively you may contact Customer Service on 9705 5200.
+   Cranbourne West Development Contributions Plan (Version 3)                                                              Page 2 of 67
+   Section 1 – How to read this Development Contributions Plan
+
+
+   Section 1 – How to read this Development Contributions Plan ....................................... 4
+   1      Background.................................................................................................................... 4
+   2      Planning and Environment Act 1987 ............................................................................. 6
+   3      Cranbourne West PSP .................................................................................................. 6
+   Section 2 – Part A Development Contributions Plan ......................................................... 7
+   4      Introduction .................................................................................................................... 7
+          4.1     Background .......................................................................................................... 7
+          4.2     Part A DCP purpose ............................................................................................. 7
+          4.3     Part A DCP structure ............................................................................................ 9
+   5      Infrastructure funding principles and policy ................................................................... 9
+          5.1     Infrastructure funding principles ........................................................................... 9
+          5.2     Infrastructure funding policy ............................................................................... 10
+   6      Strategic base for the Part A DCP ............................................................................... 10
+          6.1     Planning framework ............................................................................................ 10
+   7      Charge areas and development scenario .................................................................... 13
+          7.1     Charge areas ...................................................................................................... 13
+          7.2     Development stocktake ...................................................................................... 15
+          7.3     Development and infrastructure usage nexus .................................................... 16
+          7.4     Equivalence ratios and total demand units ......................................................... 17
+   8      Infrastructure projects .................................................................................................. 23
+          8.1     Works required ................................................................................................... 23
+          8.2     Distinction between Development Infrastructure and Community Infrastructure 28
+Amended   8.2.1 Variation to the Community Infrastructure Levy (CIL) payable under this
+by GC75         Development Contributions Plan (DCP) ............................................................. 28
+          8.3     Project timing and delivery ................................................................................. 28
+          8.4     External demand ................................................................................................ 28
+          8.5     Valuation of land ................................................................................................. 29
+          8.6     Project contingencies ......................................................................................... 29
+          8.7     VicRoads ............................................................................................................ 29
+   9      DCP rates 31
+          9.1     Method of calculating charges ............................................................................ 31
+          9.2     Development contribution rates per demand unit ............................................... 31
+          9.3     Development contribution rates for development types ..................................... 33
+   10     Implementation strategy .............................................................................................. 37
+          10.1 Background and rationale for the implementation strategy ................................ 37
+          10.2 Liability for development contributions ............................................................... 37
+          10.3 Method of payment ............................................................................................. 37
+          10.4 Funds administration .......................................................................................... 39
+          10.5 Review ................................................................................................................ 40
+Cranbourne West Development Contributions Plan (Version 3)                                                             Page 3 of 67
+Section 1 – How to read this Development Contributions Plan
+
+11     Appendices .................................................................................................................. 40
+Appendix 1 – Demand Equivalence Ratios ........................................................................... 41
+Appendix 2 – Infrastructure project details ............................................................................ 43
+Appendix 3 – Infrastructure project charges per landholding ................................................ 46
+Appendix 4 – Property specific land budget .......................................................................... 49
+Section 3 – Part B Development Contributions Plan ....................................................... 51
+12     Introduction .................................................................................................................. 51
+       12.1 Land to which the Part B DCP applies ............................................................... 51
+13     Strategic base for the Part B DCP ............................................................................... 52
+14     Infrastructure project justification ................................................................................. 52
+15     Items not included in the Part B DCP .......................................................................... 53
+16     Infrastructure projects .................................................................................................. 53
+17     Project timing ............................................................................................................... 55
+18     Calculation of contributions.......................................................................................... 58
+19     Land budget and demand units ................................................................................... 58
+20     Calculation of costs...................................................................................................... 58
+21     Road construction and intersection works ................................................................... 58
+22     Culvert works ............................................................................................................... 59
+23     Cost apportionment ..................................................................................................... 60
+24     Schedule of costs ........................................................................................................ 60
+25     Summary of charges per hectare ................................................................................ 60
+26     DCP administration ...................................................................................................... 60
+27     Payment of contribution levies and payment timing .................................................... 60
+28     Works in kind ............................................................................................................... 61
+29     Funds administration ................................................................................................... 62
+30     Construction and land value costs indexation ............................................................. 63
+31     DCP review period ....................................................................................................... 63
+32     Collecting agency (agency responsible for collecting Infrastructure Levy) .................. 63
+33     Development agency (agency responsible for works) ................................................. 63
+34     Appendices .................................................................................................................. 63
+Appendix 5 – Project cost sheets for identified infrastructure....................................... 64
+Appendix 6 – Property specific land budget for properties in Charge Area 1.1 –
+Applicable to Part B DCP only ........................................................................................... 67
+Cranbourne West Development Contributions Plan (Version 3)                     Page 4 of 67
+Section 1 – How to read this Development Contributions Plan
+
+Section 1 – How to read this Development Contributions Plan
+
+1     Background
+
+The Cranbourne West Development Contributions Plan (DCP) applies to the Cranbourne
+West Precinct Structure Plan (PSP) area as shown in Plan 1. This DCP is comprised of two
+separate development contributions frameworks. These two frameworks have been
+prepared using different methods of calculating charges to fund identified development and
+community infrastructure at different times over different periods. The Cranbourne West PSP
+area has been broken into four charge areas – see Plan 1.
+
+Plan 1 – Cranbourne West PSP area and Charge Areas (1 to 3 and 1.1)
+Cranbourne West Development Contributions Plan (Version 3)                       Page 5 of 67
+Section 1 – How to read this Development Contributions Plan
+
+This document comprises three parts:
+
+Section 1 - How to read this Development Contributions Plan
+
+Section 1 explains how to use this development contributions plan and the strategic
+justification for the two separate development contributions frameworks over the Cranbourne
+West PSP area.
+
+
+
+
+Section 2 – Part A DCP
+
+Section 2 sets out a development contributions framework for the precinct (including Charge
+Areas 1, 2 and 3) of the Cranbourne West PSP area.
+
+
+
+
+Section 3 – Part B DCP
+
+Section 3 sets out a development contributions framework for the local road network within
+part of the Charge Area 1 of the Cranbourne West PSP area (hereafter referred as Charge
+Area 1.1).
+
+
+
+The development contributions framework contained in Section 2 of this document was
+prepared by SGS Economics and Planning for the City of Casey (Part A DCP). The Part A
+DCP was prepared in conjunction with the Cranbourne West PSP and subsequently
+incorporated into the Casey Planning Scheme through Amendment C102 in 2010. The Part
+A DCP applies to the entire Cranbourne West PSP area (including Charge Areas 1, 2 and
+3). It has operated since 2010 and remains current.
+
+The development contributions framework contained in Section 3 (Part B DCP) of this
+document was prepared by the City of Casey in 2014. The Part B DCP is supplementary to
+the Part A DCP and will apply to Charge Area 1.1 as shown in Plan 1.
+
+The purpose of the Part B DCP is to coordinate the funding and delivery of key local roads in
+the northern employment precinct. The smaller and more fragmented title structure in this
+area is considered a factor in the delayed commencement of employment development.
+Consequently Council officers have been working closely with industry to understand the
+barriers and develop a coordinated approach to infrastructure delivery.
+
+Despite being contained in a single document, the Part A and Part B DCPs will be separately
+administered and satisfied by the City of Casey. It is intended to operate the Part A DCP in
+its current form with no changes and collect additional funds through the Part B DCP to build
+key local roads to deliver earlier employment outcomes in Charge Area 1.1. Future
+development within Charge Area 1.1 will need to pay contributions in accordance with both
+Part A and Part B DCPs.
+Cranbourne West Development Contributions Plan (Version 3)                        Page 6 of 67
+Section 1 – How to read this Development Contributions Plan
+
+2     Planning and Environment Act 1987
+
+This document has been prepared in accordance with Part 3B of the Planning and
+Environment Act 1987 (the Act) as well as other relevant legislation and has been developed
+in line with the State and Local Planning Policy Framework of the Casey Planning Scheme.
+It is consistent with the Minister for Planning’s Directions on Development Contributions
+made under section 46M(1) of the Act and has had regard to the Victorian Government’s
+Development Contributions Guidelines (the ‘DCP Guidelines’).
+
+The document provides for the charging of a Development Infrastructure Levy pursuant to
+Section 46J(a) of the Act towards works, services and facilities.
+
+This document forms part of the Casey Planning Scheme pursuant to Section 46I of the Act
+and is an incorporated document under Clause 81 of the Casey Planning Scheme.
+
+This document is implemented in the Casey Planning Scheme through Schedule 12 to the
+Development Contributions Plan Overlay and is shown as DCPO12 on the planning scheme
+maps.
+
+3     Cranbourne West PSP
+
+The Cranbourne West PSP sets out the vision for how land should be developed, illustrates
+the future urban structure and describes the objectives to be achieved by the future
+development. It also describes a range of projects required to ensure that future residents,
+visitors and workers within the area are provided with timely access to services and transport
+infrastructure necessary to support a quality affordable lifestyle.
+
+The Cranbourne West PSP was firstly incorporated into the Casey Planning Scheme
+through Amendment C102 in 2010 and consequently amended through Amendment C159 in
+2012. This PSP remains current and informs the preparation of both development
+contributions frameworks contained in this document.
+Cranbourne West Development Contributions Plan (Version 3)                          Page 7 of 67
+Section 2 – Part A – Development Contributions Plan
+
+Section 2 – Part A Development Contributions Plan
+
+4     Introduction
+
+4.1   Background
+
+Cranbourne West PSP area is a 791 hectare site located at the western edge of
+Cranbourne, in the City of Casey (see Figure 1). Currently used for rural purposes, the site
+will be developed to provide additional employment and residential land for the City of Casey
+and the broader metropolitan Melbourne region.
+
+Designated as a growth area in Melbourne 2030, the site was also identified as a key growth
+corridor in the Casey C21 Plan. In response to this, the Cranbourne West PSP has been
+prepared by the City of Casey, to ensure the orderly planning and future development of the
+Cranbourne West growth area.
+
+The future urban development of the growth area will demand and make use of many
+infrastructure items over time, including road, drainage, open space and community facility
+projects. The cost of providing this infrastructure will be significant.
+
+The City of Casey has resolved that new development in the Cranbourne West growth area
+is required to meet its share of the capital cost of development infrastructure, and its share of
+community infrastructure up to the cap, in accordance with State Government policy on
+development contributions. This Part A DCP has been prepared on that basis and is directly
+informed by the Cranbourne West PSP.
+
+4.2   Part A DCP purpose
+
+This Part A DCP has been prepared:
+
+     To reflect and implement the vision and strategic aspirations as expressed in the
+      Cranbourne West PSP;
+
+     To list infrastructure items that will be required over time to service the Cranbourne
+      West growth area;
+
+     To calculate development contribution charges for all development types, based on
+      anticipated share of usage;
+
+     To explain and justify all information inputs and the method of calculating charges.
+
+This Part A DCP forms part of the City of Casey Planning Scheme and must be read in
+conjunction with it.
+Cranbourne West Development Contributions Plan (Version 3)       Page 8 of 67
+Section 2 – Part A – Development Contributions Plan
+
+Figure 1 – Cranbourne West Development Contributions Plan Area
+Cranbourne West Development Contributions Plan (Version 3)                            Page 9 of 67
+Section 2 – Part A – Development Contributions Plan
+
+4.3   Part A DCP structure
+
+This Part A DCP comprises the following sections:
+
+     Section 2 - Infrastructure Funding Principles and Policy;
+
+     Section 3 – Strategic Base for the DCP;
+
+     Section 4 – Charge Areas and Development Scenario;
+
+     Section 5 - Infrastructure Projects;
+
+     Section 6 - Development Contribution Charge Rates; and
+
+     Section 7 - Implementation Strategy.
+
+Detailed information inputs and calculations are presented in the Appendices as follows:
+
+     Appendix 1 – Demand Equivalence Ratios;
+
+     Appendix 2 – Infrastructure Project Details; and
+
+     Appendix 3 – Infrastructure Project Charges per Landholding.
+
+5     Infrastructure funding principles and policy
+
+5.1   Infrastructure funding principles
+
+As development in the Cranbourne West Growth Area progresses, each developer will be
+required to build on-site infrastructure to service the development site to specifications
+approved by the City of Casey. In addition further infrastructure including a series of road,
+drainage, open space and community facility projects, will be required within the Part A DCP
+area. The need for these higher order infrastructure projects has been determined
+according to the anticipated development scenario for Cranbourne West as described in the
+Cranbourne West PSP. The infrastructure projects that have been included in the Part A
+DCP all have the following characteristics:
+
+     They are essential to the health, safety and well-being of the community;
+
+     They will be used by a broad cross-section of the community; and,
+
+     They reflect the vision and strategic aspirations as expressed in the Cranbourne West
+      PSP.
+
+The purpose of this Part A DCP is to ensure that the cost of providing new infrastructure is
+shared between developers and the wider community on a fair and reasonable basis.
+Fairness requires that costs be apportioned according to share of usage of the required
+infrastructure.
+
+The cost apportionment methodology adopted in this Part A DCP relies on the nexus
+principle. A use or development is deemed to have a nexus with an infrastructure item if the
+occupants of, or visitors to, the site in question are likely to make use of the infrastructure in
+question.
+Cranbourne West Development Contributions Plan (Version 3)                          Page 10 of 67
+Section 2 – Part A – Development Contributions Plan
+
+Costs are apportioned according to the projected share of infrastructure usage. Since
+development contributions are levied ‘up-front’, an accurate measure of infrastructure usage
+by individual developments (called demand units) is not possible. Hence costs must be
+shared in accordance with the projected share of usage, using best estimates.
+
+This Part A DCP calculates what each developable hectare should pay towards provision of
+the nominated infrastructure projects. As suggested above, this is the total cost of delivering
+the project divided by the total developable hectares within its usage catchment (referred to
+as its Main Catchment Area (MCA)). Where necessary, an allowance for other or external
+usage of the project (i.e. usage arising from outside the MCA) is factored into the calculation
+to ensure users are charged fairly.
+
+This Part A DCP has been prepared on the basis that the infrastructure included in it is
+directly required to service the wider development of the area. However infrastructure that
+relates specifically to the needs of an individual developer has not been included in the Part
+A DCP. Such items include, but are not limited to:
+
+     Collector roads and intersections with arterial roads.
+
+     Local roads.
+
+     Drainage and waterway infrastructure.
+
+     Reticulated services.
+
+This infrastructure will instead be provided by the developer by way of permit conditions in
+accordance with the Cranbourne West Precinct Structure Plan and any associated drainage
+scheme(s).
+
+5.2   Infrastructure funding policy
+
+New development in the Cranbourne West Growth Area is required to meet 100% of its
+share of the capital cost of development infrastructure, and its share of community
+infrastructure up to the cap, in accordance with State Government policy through
+development contributions collected under this Part A DCP.
+
+The balance of the capital cost of the infrastructure projects not recovered under this Part A
+DCP will be funded from alternative sources. Should there be any revision to project
+specifications contained within this Part A DCP once it is approved, the agency requiring the
+subsequent changes will be liable for any additional costs.
+
+Council reserves the right to collect the balance of the total cost (or part thereof) of the works
+not recovered under the Part A DCP if this balance is due to development outside the
+current Part A DCP Area, and where a future Development Contributions Plan is applied.
+
+6     Strategic base for the Part A DCP
+
+6.1   Planning framework
+
+The strategic base for the Part A DCP is provided by the Cranbourne West PSP. Refer to
+Figure 2 for the PSP plan. All demographic assumptions that underpin the formulation of
+this Part A DCP are included in Chapter 2 of the Cranbourne West PSP. The role of the
+Cranbourne West PSP is:
+Cranbourne West Development Contributions Plan (Version 3)                     Page 11 of 67
+Section 2 – Part A – Development Contributions Plan
+
+     To provide the framework, conditions and requirements for the consideration of
+      planning permits that provide for urban development under the provisions of the Casey
+      Planning Scheme, including the provisions of the Urban Growth Zone.
+
+     To plan for the creation of an urban structure that implements the ‘Neighbourhood
+      Principles’ as stated in Melbourne 2030.
+
+     To ensure that planning occurs so that the future community within the Cranbourne
+      West PSP area can be provided with early access to infrastructure and services, such
+      as community facilities and services, transport, employment, activity centres, open
+      space and recreation facilities.
+
+     To provide developers, investors and local communities with certainty regarding the
+      nature of future development within the Cranbourne West PSP area.
+
+This Cranbourne West PSP is:
+
+     informed by the goals of the Casey C21 Plan;
+
+     informed by the State Planning Policy Framework and the Victorian Government’s
+      Precinct Structure Planning Guidelines; and,
+
+     informed by the Local Planning Policy Framework of the Casey Planning Scheme as
+      well as other City of Casey local policies and strategies.
+
+The need for, and scope of projects to support existing and future communities and
+businesses in the Cranbourne West PSP area has directly informed the items detailed in this
+Part A DCP.
+Cranbourne West Development Contributions Plan (Version 3)   Page 12 of 67
+Section 2 – Part A – Development Contributions Plan
+
+Figure 2 – Cranbourne West Precinct Structure Plan
+Cranbourne West Development Contributions Plan (Version 3)                         Page 13 of 67
+Section 2 – Part A – Development Contributions Plan
+
+7     Charge areas and development scenario
+
+7.1   Charge areas
+
+In a DCP, contribution rates are set for areas known as ‘charge areas’. A charge area is a
+small land area for which a discrete development contribution rate is calculated. All
+development within a particular charge area will be required to pay the same contribution
+amount. The charge areas are developed based upon the ‘main catchment area’ for each
+infrastructure project which is a term to describe the area from which an infrastructure
+project will draw all or most of its usage.
+
+In setting the boundaries of a charge area, the key principle is to ensure that the potential for
+serious ‘cross-subsidies’ should be kept as low as possible. A cross-subsidy occurs when
+development is asked to pay for infrastructure that it will not (or hardly ever) use, or is asked
+to pay above its fair share.
+
+A DCP will often include more than one charge area to ensure that development in any one
+area pays for infrastructure it will be deemed to make use of, and not other infrastructure.
+Contribution rates will often vary across different charge areas depending on the number
+and cost of infrastructure projects provided to service each area.
+
+However, the avoidance of cross-subsidies ought not to be taken to extremes. It is proper to
+allow a reasonable margin of error between usage nexus. In some cases where there is an
+overriding community of interest in place, a common charge could be reasonable across
+many areas.
+
+In this Part A DCP, Cranbourne West PSP area has been broken into 3 charge areas - see
+Figure 3.
+
+The charge areas are based on land areas that reasonably approximate catchments for
+infrastructure projects that are included in this DCP. The land units used are deemed small
+enough to eliminate the prospect of serious cross-subsidisation.
+
+Some usage of the infrastructure items will also be generated by development outside of the
+Part A Development Contributions Plan Area. This is generally referred to as ‘external
+demand’. Where necessary, an allowance for external demand has been factored into the
+calculation of infrastructure charges for each relevant project.
+Cranbourne West Development Contributions Plan (Version 3)    Page 14 of 67
+Section 2 – Part A – Development Contributions Plan
+
+Figure 3 – Cranbourne West Part A DCP Charge Areas (1 to 3)
+
+
+
+
+Note: Plan only used for identifying charge areas
+Cranbourne West Development Contributions Plan (Version 3)                    Page 15 of 67
+Section 2 – Part A – Development Contributions Plan
+
+7.2   Development stocktake
+
+Table 1 below shows the calculation of net developable hectares within the Part A DCP
+area.
+
+Table 1 – Calculation of Net Developable Hectares
+
+ Land Use                                   Area (ha)
+
+ Precinct Structure Plan Area               791.27
+
+ Transport
+
+ Arterial road widening                     20.9
+
+ Freeway Interchange                        15.44
+
+ Tree Reserves / Buffers                    2.56
+
+ Railway Corridors / Easements              0.49
+
+ Community Facilities
+
+ Community Services Facilities              0.75
+
+ Government Education
+
+ Government Schools                         15.48
+
+ Open Space
+
+ Encumbered Land Available for
+ recreation
+
+ Power easements                            24.78
+
+ Waterway / Drainage Line / Wetland /       58.8
+ retarding
+
+
+
+ Unencumbered Land Available for
+ recreation
+
+ Active Open Space                          18.13
+
+ Passive Open Space                         22.94
+
+ Total Primary Infrastructure/Open          180.27
+ Space
+
+ Net Developable Area                       611.00
+Cranbourne West Development Contributions Plan (Version 3)                          Page 16 of 67
+Section 2 – Part A – Development Contributions Plan
+
+Net Developable Hectares has been used because this is the land that is developable and
+thus creates the nexus for infrastructure projects within this Part A DCP. The yield of Net
+Developable Hectares for the 4 primary development types in Cranbourne West Growth
+Area is shown in Table 2 below:
+
+Table 2 – Developable Hectares by Development Type*
+
+Land Use                   Area (ha)
+
+Residential                254.02
+
+Industrial                 341.55
+
+Activity Centre            7.45
+
+Business Activity
+Centre                     7.98
+
+Net Developable
+Hectares                   611.00
+
+*This includes collector roads
+
+7.3   Development and infrastructure usage nexus
+
+This Part A DCP has eight infrastructure categories: Roads (Development Infrastructure),
+Roads Land (Development Infrastructure), Planning (Development Infrastructure), Open
+Space Land (Development Infrastructure), Open Space Works (Development Infrastructure),
+Community Facilities (Development Infrastructure), Community Facilities Land (Development
+Infrastructure), and Community Facilities (Community Infrastructure). Section 5 provides
+more detail.
+
+It is determined that residential development will make use of all eight infrastructure
+categories, and will be liable to pay a contribution for provision of these items (subject to
+application of share of usage principles).
+
+It is determined that Business Activity Centre and Industry Development in Charge Area 1,
+and Activity Centre development in Charge Area 2, will only make use of Roads, Road Land,
+Community Facilities (Development Infrastructure), Community Facilities Land (Development
+Infrastructure) and Planning projects, and will be liable to pay a contribution for provision of
+these items (subject to application of share of usage principles). These non-residential uses
+are not deemed to be principal users of Open Space or Community Facilities (Community
+Infrastructure) which are more closely related to residential development and therefore will
+not be required to pay for.
+Cranbourne West Development Contributions Plan (Version 3)                                                                                    Page 17 of 67
+Section 2 – Part A – Development Contributions Plan
+
+These nexus principles are summarised in Table 3 below.
+
+Table 3 - Development-Infrastructure Usage Nexus
+
+                                                                                         Open Space        Open Space         Community          Community          Community
+                                Roads            Roads Land             Planning
+                                                                                            Works              Land            Facilities      Facilities Land       Facilities
+                            (Development        (Development         (Development
+                                                                                        (Development      (Development      (Development       (Development        (Community
+                            Infrastructure)     Infrastructure)      Infrastructure)
+                                                                                        Infrastructure)   Infrastructure)   Infrastructure)    Infrastructure)    Infrastructure)
+Residential                       Yes                 Yes                  Yes                  Yes            Yes               Yes                Yes                Yes
+Activity Centre                   Yes                 Yes                  Yes                   -                 -             Yes                Yes                  -
+Industry                          Yes                 Yes                  Yes                   -                 -             Yes                Yes                  -
+Business Activity Centre          Yes                 Yes                  Yes                   -                 -             Yes                Yes                  -
+
+
+7.4        Equivalence ratios and total demand units
+
+Where more than one development type is deemed a user of an infrastructure project (as is
+the case for Roads (works and land), Community Infrastructure (Development Infrastructure
+works and land) and Planning), consideration must be given to whether the different land
+uses place a differential demand loading on the project per unit area of development.
+
+For this reason, it is necessary to express all development types in a consistent ‘demand
+unit’ format before DCP calculations are made for Roads (works and land) and Planning
+projects. This is not necessary for Community Facility projects because only residential
+units are required for the calculations.
+
+For the purpose of this Part A DCP, one hectare of residential land is adopted as the
+common demand unit. Other development forms are then converted into this demand unit
+based on usage / demand equivalence ratios placed on particular infrastructure items, as
+shown in the following table.
+
+The table shows the accepted rates adopted for the Part A DCP area. Refer to Appendix 1
+for more detail on how these ratios were derived.
+
+Table 4 - Definition of One Demand Unit
+                                                                                    Open Space Works Open Space Land          Community           Community         Community
+                               Roads           Roads Land            Planning
+                                                                                      (Development    (Development             Facilities       Facilities Land      Facilities
+                           (Development       (Development        (Development
+                                                                                      Infrastructure) Infrastructure)       (Development        (Development       (Community
+                           Infrastructure)    Infrastructure)     Infrastructure)
+                                                                                                                            Infrastructure)     Infrastructure)   Infrastructure)
+Residential                     1 ha               1 ha                1 ha               1 ha               1 ha                1 ha                1 ha              1 ha
+Activity Centre              0.200 ha           0.200 ha               1 ha                 -                  -                 1 ha                1 ha                -
+Industry                     0.307 ha           0.307 ha               1 ha                 -                  -                 1 ha                1 ha                    -
+Business Activity Centre     0.164 ha           0.164 ha               1 ha                 -                  -                 1 ha                1 ha                    -
+
+
+
+Note: ha = hectares of developable site area
+
+The equivalence ratios shown above are used to calculate total demand units (existing and
+projected) for each charge area and for each infrastructure category. That is, the
+development stocktake areas are converted into common demand units for the purpose of
+this Part A DCP calculations.
+
+For example, the ratios show that 0.200 ha of Activity Centre development generates the
+same demand loading on a road as does 1 ha of Residential development. The equivalent
+Industrial unit for road demand loading is 0.307 ha of development.
+Cranbourne West Development Contributions Plan (Version 3)                        Page 18 of 67
+Section 2 – Part A – Development Contributions Plan
+
+Refer to the individual infrastructure project sheets shown later in this report to view total
+demand units by main catchment area for each project. The following tables provide a
+summary of how the ratios are used to convert the development data into demand units for
+each infrastructure category within the Part A DCP.
+
+Table 5 – Summary of Maximum Demand Units per Charge Area by Project Type
+
+ Planning & Community Facility(DI) Projects
+
+                                 Demand Units
+
+ Development Type                Charge Area 1        Charge Area 2      Charge Area 3
+
+ Residential                     0.00                 89.01              165.01
+
+ Activity Centre                 0.00                 7.45               0.00
+
+ Business Activity Centre        7.98                 0.00               0.00
+
+ Industry                        341.55               0.00               0.00
+
+ Total Demand Units              349.53               96.46              165.01
+
+ Road (Land & Works) Projects
+
+                                 Demand Units
+
+ Development Type                Charge Area 1        Charge Area 2      Charge Area 3
+
+ Residential                     0.00                 89.01              165.01
+
+ Activity Centre                 0.00                 37.16              0.00
+
+ Business Activity Centre        48.70                0.00               0.00
+
+ Industry                        1113.67              0.00               0.00
+
+ Total Demand Units              1162.37              126.17             165.01
+
+ Open Space & Community Facility (CI) Projects
+
+                                 Demand Units
+
+ Development Type                Charge Area 1        Charge Area 2      Charge Area 3
+
+ Residential                     0.00                 89.01              165.01
+
+ Activity Centre                 0.00                 0.00               0.00
+
+ Business Activity Centre        0.00                 0.00               0.00
+
+ Industry                        0.00                 0.00               0.00
+
+ Total Demand Units              0.00                 89.01              165.01
+Cranbourne West Development Contributions Plan (Version 3)             Page 19 of 67
+Section 2 – Part A – Development Contributions Plan
+
+Table 6 – Summary of Maximum Demand Units by Project Type
+
+ Maximum Demand Units for Community Facility (Community
+ Infrastructure) Projects
+
+ Development
+ Type        Units                       Full Development Conditions
+
+                  Developable Site
+ Residential      Area (Ha)              254.02
+
+                  Equivalence Ratio      1.00
+
+                  Demand Units           254.02
+
+
+
+ Maximum Demand Units                    254.02
+
+
+
+ Maximum Demand Units for Open Space (Works and Land) Projects
+
+ Development
+ Type        Units                       Full Development Conditions
+
+                  Developable Site
+ Residential      Area (Ha)              254.02
+
+                  Equivalence Ratio      1.00
+
+                  Demand Units           254.02
+
+
+
+ Maximum Demand Units                    254.02
+Cranbourne West Development Contributions Plan (Version 3)              Page 20 of 67
+Section 2 – Part A – Development Contributions Plan
+
+
+
+
+ Maximum Demand Units for Planning Projects
+
+ Development
+ Type               Units                 Full Development Conditions
+
+                    Developable Site
+ Residential        Area (Ha)             254.02
+
+                    Equivalence Ratio     1.00
+
+                    Demand Units          254.02
+
+
+
+                    Developable Site
+                    Area (Ha)             7.45
+
+                    Equivalence Ratio     1.00
+
+                    Demand Units          7.45
+
+
+
+ Business           Developable Site
+ Activity Centre    Area (Ha)             7.98
+
+                    Equivalence Ratio     1.00
+
+                    Demand Units          7.98
+
+
+
+                    Developable Site
+ Industry           Area (Ha)             341.55
+
+                    Equivalence Ratio     1.00
+
+                    Demand Units          341.55
+
+
+
+ Maximum Demand Units                     611.00
+Cranbourne West Development Contributions Plan (Version 3)             Page 21 of 67
+Section 2 – Part A – Development Contributions Plan
+
+
+
+
+ Maximum Demand Units for Community Facility (Development
+ Infrastructure) Projects
+
+ Development
+ Type               Units                Full Development Conditions
+
+                    Developable Site
+ Residential        Area (Ha)            254.02
+
+                    Equivalence Ratio    1
+
+                    Demand Units         254.02
+
+
+
+                    Developable Site
+ Activity Centre    Area (Ha)            7.45
+
+                    Equivalence Ratio    1
+
+                    Demand Units         7.45
+
+
+
+ Business           Developable Site
+ Activity Centre    Area (Ha)            7.98
+
+                    Equivalence Ratio    1
+
+                    Demand Units         7.98
+
+
+
+                    Developable Site
+ Industry           Area (Ha)             341.55
+
+                    Equivalence Ratio    1
+
+                    Demand Units         341.55
+
+
+
+ Maximum Demand Units                    611.00
+Cranbourne West Development Contributions Plan (Version 3)             Page 22 of 67
+Section 2 – Part A – Development Contributions Plan
+
+ Maximum Demand Units for Road (Works and Land) Projects
+
+ Development
+ Type               Units                Full Development Conditions
+
+                    Developable Site
+ Residential        Area (Ha)            254.02
+
+                    Equivalence Ratio    1.00
+
+                    Demand Units         254.02
+
+
+
+                    Developable Site
+ Activity Centre    Area (Ha)            7.45
+
+                    Equivalence Ratio    0.200
+
+                    Demand Units         37.16
+
+
+
+ Business           Developable Site
+ Activity Centre    Area (Ha)            7.98
+
+                    Equivalence Ratio    0.164
+
+                    Demand Units         48.70
+
+
+
+                    Developable Site
+ Industry           Area (Ha)            341.55
+
+                    Equivalence Ratio    0.307
+
+                    Demand Units         1,113.67
+
+
+
+ Maximum Demand Units                    1,453.6
+Cranbourne West Development Contributions Plan (Version 3)                         Page 23 of 67
+Section 2 – Part A – Development Contributions Plan
+
+8     Infrastructure projects
+
+8.1   Works required
+
+The City of Casey has determined through its strategic planning processes (refer to Section
+3 for details) that 35 projects will be included in this Part A DCP. Note that other
+infrastructure projects may be warranted in the area but at the time of Part A DCP
+preparation these were omitted from the Part A DCP for varying reasons.
+
+The breakdown of the Part A DCP projects is as follows:
+
+     15 Road projects (coded RD);
+
+The key transport related projects in the Part A DCP are based on the transport network
+depicted in Figure 2. This plan was prepared taking into account the requirements,
+principles and objectives of the Cranbourne West PSP. The road projects included in this
+Part A DCP recognise that the future Cranbourne West community will require a basic level
+of road infrastructure however upgrades including arterial road duplication projects are not
+included as they will benefit the region more broadly. Projects that will assist with
+connecting the future Cranbourne West community with Cranbourne have also been
+included.
+
+In addition to the road projects, contributions will be gathered for a number of important
+controlled intersections that will be necessary to achieve a functional transportation network.
+
+     2 Planning projects (coded PL);
+
+The planning projects relate to the preparation of the PSP and Part A DCP and management
+of the Part A DCP in terms of indexing. There is an ongoing cost associated with the annual
+valuation of land which will reduce as the various land parcels are acquired throughout the
+development of the PSP area.
+
+     4 Development Infrastructure projects (coded DI)
+
+The land and construction of an integrated community facility is fundamental to the wellbeing
+of the residential community in Cranbourne West. It is a multiuse facility that will provide for
+Maternal and Child Health and Kindergarten, community meeting space and consultation
+space for non-government service providers. A business accelerator will be co-located with
+the community facility, supporting home based and small businesses to expand and thus
+creating new employment opportunities for the community and supporting the overall
+development of the commercial area.
+
+     10 Open Space projects (coded OS);
+
+The open space projects include land acquisition for active open space and the
+embellishment and infrastructure for both active and passive open space. Land for passive
+open space will be provided under the requirements of Clause 52.01 of the Casey Planning
+Scheme, separate to the Part A DCP.
+
+Two of the projects which relate to provision of bowling greens will serve a catchment
+beyond the community of Cranbourne West and therefore an external demand has been
+applied consistent with projected usage.
+Cranbourne West Development Contributions Plan (Version 3)                             Page 24 of 67
+Section 2 – Part A – Development Contributions Plan
+
+     4 Community Infrastructure projects (coded CI).
+
+Three of the projects within this Part A DCP defined as ‘community infrastructure’ relate to
+pavilions for the active playing fields and the tennis court and lawn bowl facility. The fourth
+project is for the purchase of a community bus which will provide for local transport services
+to residents in the absence of any other public transport in the locality.
+
+The full list of projects follows overleaf. More detail on projects and their justification is
+provided in Appendix 2. The location of each project is shown in Figure 4.
+Cranbourne West Development Contributions Plan (Version 3)                          Page 25 of 67
+Section 2 – Part A – Development Contributions Plan
+
+Table 7 - List of DCP Projects
+
+ Project
+                Name
+ Number
+
+ Community Infrastructure Levy Projects
+
+ CI01           Community Bus
+
+ CI02           Pavilion - Active Playing Fields 1 (Football/Cricket/Netball)
+
+ CI03           Pavilion - Active Playing Fields 2 (Soccer/Cricket)
+
+ CI04           Pavilion - Tennis Court & Lawn Bowls
+
+ Development Infrastructure Projects
+
+ DI01a          Integrated Community Facility
+
+ DI01b          Integrated Community Facility - Land
+
+ DI02a          Business Accelerator
+
+ DI02b          Business Accelerator - Land
+
+                Establishment and infrastructure for Active Playing Fields 1
+ OS01a
+                (Football/Cricket/Netball)
+
+ OS01b          Land for Active Playing Fields 1 (Football/Cricket/Netball)
+
+                Establishment and infrastructure for Active Playing Fields 2
+ OS02a
+                (Soccer/Cricket)
+
+ OS02b          Land for Active Playing Fields 2 (Soccer/Cricket)
+
+ OS08a          Tennis Courts
+
+ OS08b          Tennis Courts - Land
+
+ OS09a          Synthetic Bowling Greens
+
+ OS09b          Synthetic Bowling Greens - Land
+
+                Recreation facilities in northern residential area (reflecting revised
+ OS14
+                POS network)
+
+                Recreation facilities in southern residential area (reflecting revised
+ OS15
+                POS network)
+
+                Signalised Intersection - Intersection of Thompsons Road and Evans
+ RD01
+                Road
+
+ RD02a          Interim 2 lane roundabout intersection of Hall Road and Evans Road
+Cranbourne West Development Contributions Plan (Version 3)                   Page 26 of 67
+Section 2 – Part A – Development Contributions Plan
+
+ Project
+                Name
+ Number
+
+                Road connection / signalisation at Cranbourne-Frankston Road from
+ RD02b          interim 2 lane roundabout at intersection of Hall Road and Evans
+                Road
+
+ RD03           Pedestrian Operated Signals on Evans Road (near Montrose Way)
+
+ RD04           Land for Evans Road Widening
+
+ RD05           Land for Hall Road Widening
+
+ RD06           Hall Road Bridge & Culvert
+
+ RD07           Land for Central Parkway Extension
+
+ RD08           Urbanisation of Evans Road
+
+ RD09           Urbanisation of Hall Road
+
+ RD10           Volk Road Extension
+
+ RD11           North-South Residential Collector Road Extension
+
+ RD12           Land for Missens Road widening
+
+ RD13           Construction of Missens Road
+
+                Construction of signalised intersection at Thompsons & Missens
+ RD14
+                Roads
+
+ PL01           Structure Plan and DCP preparation
+
+ PL02           Annual Valuations
+Cranbourne West Development Contributions Plan (Version 3)   Page 27 of 67
+Section 2 – Part A – Development Contributions Plan
+
+Figure 4 – Projects in the Part A DCP
+Cranbourne West Development Contributions Plan (Version 3)                        Page 28 of 67
+Section 2 – Part A – Development Contributions Plan
+
+8.2   Distinction between Development Infrastructure and Community Infrastructure
+
+The Planning and Environment Act 1987 states that infrastructure in a Development
+Contributions Plan may be classified into one of two categories: Development Infrastructure
+and Community Infrastructure. The distinction is relevant in terms of the type of
+infrastructure that may be funded under the Ministerial Direction on Development
+Contributions and the manner of payment.
+
+The Ministerial Direction identifies what can be levied as Development Infrastructure. There
+is no Ministerial Direction regarding what can be levied as Community Infrastructure.
+However, the Victorian State Government Development Contributions Guidelines Version
+5.9 March 2007 provides some assistance in this regard.
+
+The collection of contributions for Community Infrastructure is limited to the building permit
+stage and there is a $1,150 cap per dwelling on Community Infrastructure contributions.
+Development Infrastructure may be charged at the planning permit stage and there is no cap
+on contribution amounts.
+
+In accordance with the relevant Victorian State Government Development Contributions
+Guidelines and Ministerial Direction, four DCP projects are classified as Community
+Infrastructure in this Part A DCP (see above).
+
+
+8.2.1 Variation to the Community Infrastructure Levy (CIL) payable under this
+      Development Contributions Plan (DCP)
+
+If the maximum amount of the CIL which may be collected under an approved DCP is varied
+under section 46L of the Planning and Environment Act 1987, the collecting agency may
+adjust the amount of the CIL payable under this DCP in accordance with section 46L of the
+Planning and Environment Act 1987.
+
+The collecting agency must publish the adjusted amount of the CIL payable under this DCP
+on its website.
+
+8.3   Project timing and delivery
+
+This Part A DCP adopts a 15 year outlook for development and infrastructure delivery based
+on the strategic framework for the Cranbourne West PSP area, as set out in section 3. It is
+estimated that development will commence in 2010, with full development of the Part A DCP
+Area at 2025.
+
+The timing for delivery of infrastructure projects listed in this Part A DCP is based upon an
+event, threshold or circumstance linked to the development of the area. Ultimately, all
+projects will be delivered by the end date of the Part A DCP.
+
+8.4   External demand
+
+The strategic planning undertaken to determine the requirement for infrastructure items
+within the Development Contributions Plan area has identified that some of the infrastructure
+items within this Part A DCP generate usage demand from outside the Part A DCP area.
+Cranbourne West Development Contributions Plan (Version 3)                       Page 29 of 67
+Section 2 – Part A – Development Contributions Plan
+
+Where external demand is not recovered by a Development Contributions Plan, funds will be
+sought from alternative funding sources, including general rates, and Federal and State
+government funding.
+
+8.5   Valuation of land
+
+Initial valuation assessment for land required for development and community infrastructure
+within this Part A DCP is based upon site specific valuations established by Charter Keck
+Cramer in their ‘Land Acquisition Assessment’ report dated 14 January 2009. The land
+values have been used to calculate land cost components for the relevant DCP project
+which require the acquisition of land.
+
+
+
+Land purchasing projects included in this Part A DCP will be indexed by an annual re-
+valuation.
+
+Land purchasing projects account for 12 of 35 projects in this Part A DCP with total land
+costs being $41.8million of a total $99.6million worth of projects in the Part A DCP.
+
+8.6   Project contingencies
+
+Whilst it is desirable to understand the detailed costing of each item of infrastructure in a
+Development Contributions Plan this is not feasible at the time of preparing a Development
+Contributions Plan. Therefore, contingencies have been included as follows:
+
+     30% for infrastructure including buildings and roadworks.
+
+     10% for landscaping.
+
+These percentages are consistent with Council and other state government agency
+practices. No contingency is included for land acquisition however an allowance has been
+made for additional fees associated with the acquisition of land. The fees include legal and
+valuation fees required to be paid by the relevant legislation.
+
+It should be noted that if a project comes under budget as scoped in the Part A DCP, the
+legislation has provision to reimburse the funds collected or redistribute the money to
+alternate projects in the area.
+
+8.7   VicRoads
+
+This Part A DCP will collect funds for the following project infrastructure items which come
+under the control of VicRoads:
+
+     RD01 – Signalised intersection of Thompsons Road and Evans Road.
+
+     RD02 – Signalised intersection of Evans Road, Hall Road and Cranbourne Frankston
+      Road.
+
+     RD14 – Signalised intersection of Thompsons Road and Missens Road.
+
+VicRoads is the Development Agency in respect of each of the projects identified above.
+While Council as the Collecting Agency will collect the funds, those funds will be paid to
+Cranbourne West Development Contributions Plan (Version 3)                     Page 30 of 67
+Section 2 – Part A – Development Contributions Plan
+
+VicRoads as the Development Agency. If the projects cost more than the amounts levied
+under this Part A DCP, additional funding will need to be provided by VicRoads.
+
+This Part A DCP will collect 50% of the estimated funds required for project RD14 -
+Construction of a signalised intersection at the corner of Thompsons & Missens Rds.
+VicRoads is the Development Agency in respect of this project. The developer of land on
+the north side of Thompsons Rd is responsible for providing funds for 50% of the estimated
+cost of this project pursuant to an agreement between Council and the developer.
+Cranbourne West Development Contributions Plan (Version 3)                          Page 31 of 67
+Section 2 – Part A – Development Contributions Plan
+
+9     DCP rates
+
+9.1   Method of calculating charges
+
+The cost apportionment methodology adopted in this Part A DCP relies on the nexus
+principle. A use or development is deemed to have a nexus with an infrastructure item if the
+occupants of, or visitors to, the site in question will make use of the infrastructure in
+question. Costs are apportioned according to projected share of infrastructure usage.
+
+The general cost apportionment method is to:
+
+     Define and schedule the infrastructure items required to service the area, other than
+      on-site work carried out by the developer;
+
+     For each infrastructure project, identify the main catchment area;
+
+     Project the growth in demand units in each catchment area over the life of the funding
+      plan;
+
+     Adjust the cost of each infrastructure item downwards in line with the estimated share
+      of usage coming from outside each project’s main catchment area and / or outside the
+      time frame of the Part A DCP;
+
+     Divide the infrastructure cost by the number of demand units to arrive at a charge per
+      demand unit; and
+
+     Aggregate all charges that apply to a particular charge area to arrive at a total charge.
+
+9.2   Development contribution rates per demand unit
+
+The development contributions that apply to each charge area are shown in Table 8 and 9,
+for one demand unit (ha of developable residential site area).
+
+These contribution amounts are current as at 31 July 2009. They will be periodically
+adjusted to cover cost increases by applying the following indexing:
+
+The responsible authority will adjust the cost of capital works items included in the DCP, on
+1st January and 1st July each year, by applying the Building Price Index, as published in the
+latest edition of Rawlinsons Australian Construction Handbook; and
+
+The land value for all infrastructure projects is based on site specific fixed land valuations
+established by Charter Keck Cramer in the Land Acquisition Assessment report dated 14
+January 2009. The responsible authority will adjust land values as of 1st July each year
+following a valuation by a registered valuer.
+
+Within 14 days of the adjustments being made, the Responsible Authority will publish a
+notice of the amended contributions on the City of Casey website.
+Cranbourne West Development Contributions Plan (Version 3)                                                                                           Page 32 of 67
+Section 2 – Part A – Development Contributions Plan
+
+Table 8 - Development Contribution Rates for One Demand Unit – before $1,150 CI cap
+
+            CI Community        DI Community   DI Community      DI Open Space   DI Open Space
+Area        Facilities          Facilities     Facilities Land   Land            Works           DI Planning   DI Roads     DI Roads Land   Total
+
+            Per demand unit Per demand unit Per demand unit Per demand unit Per demand unit Per demand unit Per demand unit Per demand unit Per demand unit
+Area 001              $0.00        $1,101.32          $61.55           $0.00           $0.00      $3,554.54       $11,355.07      $10,103.45      $26,175.93
+Area 002         $15,406.22       $15,749.69       $6,436.50      $93,619.60      $54,826.96      $3,554.54       $15,028.50       $9,869.32     $214,491.34
+Area 003         $15,406.22       $15,749.69       $6,436.50      $93,619.60      $45,301.88      $3,554.54       $13,777.87       $8,655.46     $202,501.76
+
+
+
+
+Table 9 - Development Contribution Rates for One Demand Unit – after $1,150 CI cap
+
+            CI Community
+            Facilities - with   DI Community   DI Community      DI Open Space   DI Open Space
+Area        cap                 Facilities     Facilities Land   Land            Works           DI Planning   DI Roads     DI Roads Land   Total
+
+            Per demand unit Per demand unit Per demand unit Per demand unit Per demand unit Per demand unit Per demand unit Per demand unit Per demand unit
+Area 001              $0.00        $1,101.32          $61.55           $0.00           $0.00      $3,554.54       $11,355.07      $10,103.45      $26,175.93
+Area 002         $15,406.22       $15,749.69       $6,436.50      $93,619.60      $54,826.96      $3,554.54       $15,028.50       $9,869.32     $214,491.34
+Area 003         $15,012.00       $15,749.69       $6,436.50      $93,619.60      $45,301.88      $3,554.54       $13,777.87       $8,655.46     $202,107.53
+Cranbourne West Development Contributions Plan (Version 2)                      Page 33 of 67
+Section 2 – Part A – Development Contributions Plan
+
+9.3   Development contribution rates for development types
+
+The tables that follow show the charge for each area by main development type. This is the
+above demand unit table converted into development types to assist in usability (using,
+where necessary, equivalence ratios).
+
+The charges are broken into Development Infrastructure and Community Infrastructure.
+Table 10 and Table 11 list contributions for Residential Development (per hectare of
+developable site area), Table 12 for Industrial Development (per hectare of developable site
+area), Table 13 for Activity Centre Development (per hectare of developable site area) and
+Table 14 for Business Activity Centre Development (per hectare of developable site area).
+
+Refer to Appendix 3 for a detailed breakdown of charges for each infrastructure project per
+landholding.
+
+Refer to Appendix 4 for a property specific land budget.
+Cranbourne West Development Contributions Plan (Version 3)                                                                                        Page 34 of 67
+Section 2 – Part A – Development Contributions Plan
+
+Table 10 - Development Contribution Rates for Residential Development before $1,150 CI cap (per ha of developable site area)
+
+                                                                        Residential
+                                                          Developm ent Infrastructure                                                Com m unity Infrastructure
+                                                                                                                                                       Total
+                                                                                                                Total Developm ent                  Com m unity
+                                                       Open Space   Open Space  Com m unity       Com m unity     Infrastructure     Com m unity Infrastructure
+                  Roads       Roads Land   Planning       Land        Works    Facilities Land     Facilities         Charge          Facilities      Charges
+     Area          Per Ha       Per Ha      Per Ha       Per Ha        Per Ha           Per Ha       Per Ha          Per Ha            Per Ha          Per Ha
+    Area 001       $0.00        $0.00       $0.00        $0.00         $0.00            $0.00        $0.00            $0.00             $0.00          $0.00
+    Area 002     $15,028.50    $9,869.32   $3,554.54   $93,619.60    $54,826.96       $6,436.50    $15,749.69      $199,085.11       $15,406.22      $15,406.22
+    Area 003     $13,777.87    $8,655.46   $3,554.54   $93,619.60    $45,301.88       $6,436.50    $15,749.69      $187,095.53       $15,406.22      $15,406.22
+
+
+
+
+Table 11 - Development Contribution Rates for Residential Development after $1,150 CI cap (per ha of developable site area)
+
+                                                                        Residential
+                                                          Developm ent Infrastructure                                                Com m unity Infrastructure
+                                                                                                                                                       Total
+                                                                                                                Total Developm ent                  Com m unity
+                                                       Open Space   Open Space  Com m unity       Com m unity     Infrastructure     Com m unity Infrastructure
+                  Roads       Roads Land   Planning       Land        Works    Facilities Land     Facilities         Charge           Facility       Charges
+     Area          Per Ha       Per Ha      Per Ha       Per Ha        Per Ha           Per Ha       Per Ha          Per Ha            Per Ha          Per Ha
+    Area 001       $0.00        $0.00       $0.00        $0.00         $0.00            $0.00        $0.00            $0.00             $0.00          $0.00
+    Area 002     $15,028.50    $9,869.32   $3,554.54   $93,619.60    $54,826.96       $6,436.50    $15,749.69      $199,085.11       $15,406.22      $15,406.22
+    Area 003     $13,777.87    $8,655.46   $3,554.54   $93,619.60    $45,301.88       $6,436.50    $15,749.69      $187,095.53       $15,012.00      $15,012.00
+Cranbourne West Development Contributions Plan (Version 3)                                                                                     Page 35 of 67
+Section 2 – Part A – Development Contributions Plan
+
+Table 12 - Development Contribution Rates for Industrial Development (per ha of developable site area)
+
+                                                                         Industrial
+                                                          Developm ent Infrastructure                                               Com m unity Infrastructure
+                                                                                                                                                      Total
+                                                                                                               Total Developm ent                  Com m unity
+                                                       Open Space   Open Space  Com m unity      Com m unity     Infrastructure     Com m unity Infrastructure
+                  Roads       Roads Land   Planning       Land        Works    Facilities Land    Facilities         Charge           Facility       Charges
+     Area          Per Ha       Per Ha      Per Ha       Per Ha       Per Ha            Per Ha     Per Ha           Per Ha            Per Ha        Per Ha
+    Area 001     $36,987.19   $32,910.28   $3,554.54     $0.00         $0.00            $61.55    $1,101.32        $74,614.87          $0.00         $0.00
+    Area 002       $0.00        $0.00       $0.00        $0.00         $0.00            $0.00       $0.00            $0.00             $0.00         $0.00
+    Area 003       $0.00        $0.00       $0.00        $0.00         $0.00            $0.00       $0.00            $0.00             $0.00         $0.00
+
+
+
+
+Table 13 - Development Contribution Rates for Activity Centre Development (per ha of developable site area)
+
+                                                                      Activity Centre
+                                                          Developm ent Infrastructure                                               Com m unity Infrastructure
+                                                                                                                                                      Total
+                                                                                                               Total Developm ent                  Com m unity
+                                                       Open Space   Open Space  Com m unity      Com m unity     Infrastructure     Com m unity Infrastructure
+                  Roads       Roads Land   Planning       Land        Works    Facilities Land    Facilities         Charge           Facility       Charges
+     Area          Per Ha       Per Ha      Per Ha       Per Ha       Per Ha            Per Ha     Per Ha           Per Ha            Per Ha        Per Ha
+    Area 001       $0.00        $0.00       $0.00        $0.00         $0.00            $0.00       $0.00            $0.00             $0.00         $0.00
+    Area 002     $75,142.52   $49,346.62   $3,554.54     $0.00         $0.00            $0.00       $0.00         $128,043.68          $0.00         $0.00
+    Area 003       $0.00        $0.00       $0.00        $0.00         $0.00            $0.00       $0.00            $0.00             $0.00         $0.00
+Cranbourne West Development Contributions Plan (Version 3)                                                                                     Page 36 of 67
+Section 2 – Part A – Development Contributions Plan
+
+Table 14 - Development Contribution Rates for Business Activity Centre Development (per ha of developable site area)
+
+                                                                  Business Activity Centre
+                                                          Developm ent Infrastructure                                               Com m unity Infrastructure
+                                                                                                                                                      Total
+                                                                                                               Total Developm ent                  Com m unity
+                                                       Open Space   Open Space  Com m unity      Com m unity     Infrastructure     Com m unity Infrastructure
+                  Roads       Roads Land   Planning       Land        Works    Facilities Land    Facilities         Charge           Facility       Charges
+     Area          Per Ha       Per Ha      Per Ha       Per Ha        Per Ha           Per Ha     Per Ha           Per Ha            Per Ha        Per Ha
+    Area 001     $69,238.21   $61,606.43   $3,554.54     $0.00         $0.00            $61.55    $1,101.32       $135,562.05          $0.00         $0.00
+    Area 002       $0.00        $0.00       $0.00        $0.00         $0.00            $0.00       $0.00            $0.00             $0.00         $0.00
+    Area 003       $0.00        $0.00       $0.00        $0.00         $0.00            $0.00       $0.00            $0.00             $0.00         $0.00
+Cranbourne West Development Contributions Plan (Version 3)                            Page 37 of 67
+Section 2 – Part A – Development Contributions Plan
+
+10    Implementation strategy
+
+Pursuant to sections 46H and 46K(1) of the Planning and Environment Act 1987, Casey City
+Council is the Collecting Agency and is, therefore, the person to whom all levies under this
+Part A DCP are payable.
+
+The Council is also responsible for the administration and implementation of this Part A DCP
+(sections 46P and 46Q) and is entitled to recover any amount of levy payable to it, and
+which remains unpaid, as a debt due to it; including by way of action in a court of competent
+jurisdiction (section 46QC).
+
+Identification of the Development Agency for each project is set out in Appendix 2 of this Part
+A DCP.
+
+10.1 Background and rationale for the implementation strategy
+
+This Implementation Strategy has been incorporated into the Part A DCP to help minimise
+the risk to Council associated with administration the Part A DCP. The Implementation
+Strategy recognises that much of the land within the Part A DCP area is held in large
+consolidated holdings by a small number of large residential land developers.
+
+The purpose of the Implementation Strategy is to reduce the funding risk to Council, while
+developers are given greater flexibility, certainty and control over the roll-out of infrastructure
+within their development area.
+
+10.2 Liability for development contributions
+
+Proponents of all development types anywhere in the Part A DCP shall be liable for
+development contributions, regardless of whether or not a planning permit is required. There
+are no as-of-right exemptions in respect of this requirement.
+
+If a planning permit is issued to allow any development within the area covered by the Part A
+DCP, the Council (acting as the responsible authority) must, and will, include a condition
+which will require either:
+
+(a)   the payment of the applicable amount of levy to the Council within a time either
+      specified in the condition or within a time specified subsequently specified by the
+      Council; or
+
+(b)   the entry into an agreement with the Council, by the person liable for the levy, to pay
+      that amount within a time specified in that agreement (section 46N).
+
+10.3 Method of payment
+
+Payment of development contributions is to be made in cash.
+
+Alternatively, the Council may accept the provision of land, works, services or facilities (“non-
+cash payment”) by a person who is liable to pay an amount of levy either in part, or in full,
+satisfaction of the amount of levy otherwise payable to it (section 46P). In the event that the
+Council proceeds to accept any non-cash payment, it will do so only upon the entry into an
+agreement with the person who is liable to make that payment.
+Cranbourne West Development Contributions Plan (Version 3)                         Page 38 of 67
+Section 2 – Part A – Development Contributions Plan
+
+In determining whether to accept the provision of any non-cash payment, the Council will
+have regard to the:
+
+     terms of the Part A DCP and ensure that the acceptance of any non-cash payment is
+      in accordance with the Part A DCP;
+
+     in the event that the Council is not the relevant Development Agency, the person
+      specified in Appendix 2 of the Part A DCP as the Development Agency; and
+
+     its obligations, including under the Local Government Act 1989, with respect to
+      contractual and financial transactions.
+
+Payment of contributions
+
+Unless otherwise specified by the Council:
+
+     Payment of a Development Infrastructure Levy is to be made:
+
+      -     at least 21 days prior to the issue of a Statement of Compliance for the
+            subdivision of the land or for any stage of the subdivision; or
+      -     the issue of a planning permit for use, development or works associated with the
+            land if there is no subdivision; or
+      -     the issue of a building permit if there is no planning permit issued for use,
+            development or works associated with the land.
+
+     Payment of the Community Infrastructure Levy is to be made prior to the issue of the
+      Building Permit.
+
+Implementation
+
+Any agreement under which the Council agrees to accept a non-cash payment must in the
+form of an agreement pursuant to section 173 of the Planning and Environment Act 1987.
+
+It is Council’s aim, where possible, to discuss and agree with large land developers, how
+they wish to develop their land holdings and to identify all of the items of infrastructure they
+wish to provide in lieu of development contributions. It is Council’s aim to agree on these
+matters with developers prior to development commencing. For further details regarding the
+implementation, refer to Section 4 of the Precinct Structure Plan.
+
+Permit conditions to be included in any planning permit
+
+The Council must impose the following conditions on a planning permit as relevant:
+
+For subdivision of land
+
+     An infrastructure levy must be paid to the Responsible Authority in accordance with the
+      provisions of the approved Development Contributions Plan for the land within the
+      following specified time, namely after certification of the relevant plan of subdivision
+      but not more than 21 days prior to the issue of a Statement of Compliance in respect
+      of that plan.
+Cranbourne West Development Contributions Plan (Version 3)                         Page 39 of 67
+Section 2 – Part A – Development Contributions Plan
+
+     Where the subdivision is to be developed in stages the infrastructure levy for the stage
+      to be developed only may be paid to the Responsible Authority within 21 days prior to
+      the issue of a Statement of Compliance in respect of that stage provided that a
+      Schedule of Development Contributions is submitted with each stage of the plan of
+      subdivision. This Schedule must show the amount of the development contributions
+      payable for each stage and value of the contributions in respect of prior stages to the
+      satisfaction of the Responsible Authority.
+
+     If Council agrees to works or provision of land in lieu of the payment of the
+      infrastructure levy, the land owner must enter into an agreement under section 173 of
+      the Planning and Environment Act in respect of the proposed works or provision of
+      land in lieu.
+
+For development of land where no subdivision is proposed.
+
+     Provided an infrastructure levy has not already been paid in respect of the land, an
+      infrastructure levy must be paid to the responsible authority in accordance with the
+      provisions of the approved Development Contributions Plan for each demand unit
+      proposed to be developed prior to the commencement of any development.
+
+     Council may require that contributions be made at either the planning or building
+      permit stage for Development Infrastructure.
+
+     If Council agrees to works or provision of land in lieu of the payment of the
+      infrastructure levy, the land owner must enter into an agreement under section 173 of
+      the Planning and Environment Act in respect of the proposed works or land in lieu.
+
+Where no planning permit is required.
+
+The following requirements apply where no planning permit is required.
+
+The land may only be used and developed subject to the following requirements being met.
+
+     Unless some other arrangement has been agreed to by Council in a section 173
+      agreement, prior to the commencement of any development, an infrastructure levy
+      must be paid to the Responsible Authority in accordance with the provisions of this
+      approved Development Contribution Plan for the land.
+
+     If Council agrees to works or provision of land in lieu of the payment of the
+      infrastructure levy, the land owner must enter into an agreement under section 173 of
+      the Planning and Environment Act in respect of the proposed works or provision of
+      land in lieu.
+
+10.4 Funds administration
+
+Funds collected through development contributions will be held in a specific interest-bearing
+reserve account in accordance with the provisions of the Local Government Act 1989 (Part
+3b section 46Q(1)(a)). All monies held in this account will be used solely for the provision of
+infrastructure as itemised in this Part A DCP.
+Cranbourne West Development Contributions Plan (Version 3)                        Page 40 of 67
+Section 2 – Part A – Development Contributions Plan
+
+The Council will provide for regular monitoring, reporting and review of the monies received
+and expended in accordance with this Part A DCP through a separate set of audited
+financial statements.
+
+Should Council resolve not to proceed with any of the infrastructure projects listed in this
+DCP, the funds collected for these items will be used for the provision of additional works,
+services and facilities as approved by the Minister responsible for the Planning and
+Environment Act, or will be refunded to developers and / or owners of land subject to these
+infrastructure charges.
+
+10.5 Review
+
+The Development Contributions Plan is expected to be reviewed and updated as necessary.
+
+The review may include:
+
+     Review of projects, their costs, scope and indicative provision trigger.
+
+     Review of estimated net developable area (this will also be required if the Precinct
+      Structure Plan is subject to a substantive amendment).
+
+11    Appendices
+Cranbourne West Development Contributions Plan (Version 3)                      Page 41 of 67
+Section 2 – Part A – Development Contributions Plan
+
+Appendix 1 – Demand Equivalence Ratios
+
+In this DCP, equivalence ratios are required for Roads, Community Facilities (Development
+Infrastructure) and Planning Projects because more than one development type is deemed a
+user of these projects. Equivalence ratios are not required for the other infrastructure
+categories because it is assumed that only one development type, Residential development,
+generates demand for Community Facilities (Community Infrastructure) and Open Space.
+
+In this DCP, the City of Casey has adopted the State Government Guidelines on
+equivalence ratios as a generic starting point, and where necessary adjusted these to suit
+local circumstances. These are shown below.
+
+Equivalence Ratios for Planning Projects
+
+
+1. Adjusting figures to relate to one residential hectare
+Residential                                                 1
+Activity Centre                                             1
+Business Activity Centre                                    1
+Industry                                                    1
+
+Equivalence Ratios for Community
+Facilities Projects (Development Infrastructure)
+2. Adjusting figures to relate to one residential hectare
+Residential                                                 1
+Activity Centre                                             1
+Business Activity Centre                                    1
+Industry                                                    1
+Cranbourne West Development Contributions Plan (Version 3)                                                                                Page 42 of 67
+Section 2 – Part A – Development Contributions Plan
+
+Equivalence Ratios for Roads (Works and Land)
+
+1 . ERs in DCP guidelines for Roads
+                                                                                            trip generation    trips generated per units / sqm that
+                                       units                               car spaces             per space                    use generate 8 trips*
+Residential                             1             dwelling                   2.00                  4.00                   8.00             1.00
+Retail                                100                sqm                     7.00                  6.00                  42.00           19.05
+Office                                100                sqm                     3.00                  2.20                   6.60          121.21
+Light Industry                        100                sqm                     3.00                  2.20                   6.60          121.21
+Expansive Industrial                  100                sqm                     4.00                  3.00                  12.00           66.67
+
+2. Assumptions to convert land use classifications
+Residential                              100% Residential
+Activity Centre                          80% Retail and 20% Office
+Industry                                 43% Light Industry, 42% Expansive Industry, 14% Office and 1% Retail
+Business Activity Centre                 40% Light Industry, 10% Expansive Industry, 40% Office and 10% Retail
+
+3. Weighted average conversions
+
+                                                                        trip generation     trips generated floor area equivalent
+                                     Units         car spaces                 per space             per use          to 1 dwelling
+Residential                              1                  2                         4                   8                      1
+
+Activity Centre
+Retail                                 80                   5.60                  6.00               33.60
+Office                                 20                   0.60                  2.20                1.32
+                  Total               100                                                            34.92                  22.91
+
+Industry
+Expansive Industrial                   42                   1.68                  3.00                5.04
+Light Industry                         43                   1.29                  2.20                2.84
+Retail                                  1                   0.07                  6.00                0.42
+Office                                 14                   0.42                  2.20                0.92
+                Total                 100                                                             9.22                  86.75
+
+Business Activity Centre
+Expansive Industrial                   10                    0.4                  3.00                1.20
+Light Industry                         40                    1.2                  2.20                2.64
+Retail                                 10                    0.7                  6.00                4.20
+Office                                 40                   1.20                  2.20                2.64
+                Total                 100                                                            10.68                  74.91
+
+1 Dwelling assumed to average                               200 sqm
+
+4. Site coverage assumptions (to convert floorspace into site area)
+Site Coverage Assumptions for 1 Hectare (10,000 sqm)
+
+Residential                                  equals 17.5 dwellings per hectare                                               17.5
+Activity Centre                              20% site coverage
+                                             1 storey average
+                                             equals 2,000 sqm per hectare                                                   2000
+Industry                                     45% site coverage
+                                             1.1 storeys average
+                                             equals 4,950 sqm per hectare                                                   4950
+Business Activity Centre                     40% site coverage
+                                             2 storeys average
+                                             equals 8,000 sqm per hectare                                                   8000
+
+5. Adjusting figures to relate to one residential hectare
+Residential                                 17.50                  dwellings
+Activity Centre                             401                    sqm
+Industry                                    1,518                  sqm
+Business Activity Centre                    1,311                  sqm
+
+6. Converting the unit / sqm figures into hectares
+Residential                                1.000                   ha                     10,000              sqm
+Activity Centre                            0.200                   ha                     2,005               sqm
+Industry                                   0.307                   ha                     3,067               sqm
+Business Activity Centre                   0.164                   ha                     1,639               sqm
+Cranbourne West Development Contributions Plan (Version 3)                                                                   Page 43 of 67
+Section 2 – Part A – Development Contributions Plan
+
+
+Appendix 2 – Infrastructure project details
+
+The following page lists all infrastructure projects and provides detail on project justification and project description.
+Cranbourne West Development Contributions Plan (Version 3)   Page 44 of 67
+Section 2 – Part A – Development Contributions Plan
+Cranbourne West Development Contributions Plan (Version 3)   Page 45 of 67
+Section 2 – Part A – Development Contributions Plan
+Cranbourne West Development Contributions Plan (Version 3)    Page 46 of 67
+Section 2 – Part A – Development Contributions Plan
+
+Appendix 3 – Infrastructure project charges per landholding
+Cranbourne West Development Contributions Plan (Version 3)   Page 47 of 67
+Section 2 – Part A – Development Contributions Plan
+Cranbourne West Development Contributions Plan (Version 3)   Page 48 of 67
+Section 2 – Part A – Development Contributions Plan
+Cranbourne West Development Contributions Plan (Version 3)   Page 49 of 67
+Section 2 – Part A – Development Contributions Plan
+
+Appendix 4 – Property specific land budget
+
+The land budget for each property is set out overleaf.
+Cranbourne West Development Contributions Plan (Version 3)   Page 50 of 67
+Section 3 – Part B – Development Contributions Plan
+Cranbourne West Development Contributions Plan (Version 3)                        Page 51 of 67
+Section 3 – Part B – Development Contributions Plan
+
+
+
+Section 3 – Part B Development Contributions Plan
+
+12    Introduction
+
+The development contributions framework to fund the delivery of key local roads in Charge
+Area 1.1, known as the Part B DCP, has been prepared by the Casey City Council with the
+assistance of service authorities and other major stakeholders. The Part B DCP:
+
+     Outlines projects required to ensure that future employment development can be
+      delivered with timely access to key infrastructure and necessary services.
+
+     Establishes a framework for development proponents to make a financial contribution
+      towards the cost of the identified infrastructure projects.
+
+     Ensures that the cost of providing new infrastructure and services is shared equitably
+      between various development proponents and the wider community.
+
+     Details the calculation of financial contributions that must be made by future
+      developments towards the nominated projects.
+
+     Provides developers, investors and local communities with certainty about
+      development contributions requirements and how these will be administered.
+
+12.1 Land to which the Part B DCP applies
+
+In accordance with section 46K(1)(a) of the Planning and Environment Act 1987 this Part B
+DCP applies to land shown as Charge Area 1.1 shown in Plan 1. The area is also shown on
+Development Contributions Plan Overlay Schedule 12 of the Casey Planning Scheme.
+
+This Part B DCP applies to approximately 82 Net Developable Hectares of land.
+
+The Part B DCP forms a single catchment area as shown in Plan 2, for all projects,
+consistent with the Cranbourne West PSP.
+Cranbourne West Development Contributions Plan (Version 3)                       Page 52 of 67
+Section 3 – Part B – Development Contributions Plan
+
+Plan 2 – Catchment area of the Part B DCP
+
+
+
+
+13    Strategic base for the Part B DCP
+
+The Part B DCP has been prepared in accordance with the Cranbourne West PSP which
+provides the strategic justification for the future land use and road network. It is an
+implementation based planning tool which identifies the road infrastructure items required for
+development of the precinct and apportions the cost of this infrastructure in an equitable
+manner across Charge Area 1.1, thus enabling a cooperative approach to road delivery and
+unlocking the area for employment development.
+
+14    Infrastructure project justification
+
+The need for infrastructure included in this Part B DCP has been determined according to
+the anticipated development scenario for Cranbourne West Charge Area 1.1. Items included
+are required to coordinate delivery of roads and services required by multiple land parcels
+and owners.
+
+All road items included have been assessed to ensure they have a relationship or nexus to
+proposed development in Charge Area 1.1.
+
+The items that have been included in the Part B DCP all have the following characteristics:
+
+     They will be used by a broad cross-section of the business community.
+
+     They reflect the vision and objectives expressed in the Cranbourne West PSP.
+
+     They are the basis for the future development of an integrated road network.
+Cranbourne West Development Contributions Plan (Version 3)                        Page 53 of 67
+Section 3 – Part B – Development Contributions Plan
+
+15    Items not included in the Part B DCP
+
+The following items are not included in the DCP, as they are not considered to be higher
+order items, but must be provided by developers (except where nominated in the Part B
+DCP) as a matter of course:
+
+     Internal streets and connector streets, creek, drainage line and utility easement
+      crossings and associated traffic management measures.
+
+     Waterway management works and drainage systems.
+
+     Intersections connecting the development to the existing road network, except where
+      specified as development contributions plan projects.
+
+     Water, sewerage, underground power, gas and telecommunications services.
+
+     Local pathways and connections to the regional and / or district pathway network.
+
+     Shared path networks, including required crossings of waterways.
+
+     Basic levelling, provision of biodiversity offsets, water tapping and landscaping of open
+      space.
+
+     Passive public open space reserve master plans and any agreed associated works
+      required by the PSPs.
+
+     Council’s plan checking and supervision.
+
+     Bus stops.
+
+16    Infrastructure projects
+
+Only Transport projects are included in this Part B DCP and are all Development
+Infrastructure. No Community Infrastructure is included in this Part B DCP.
+
+Road construction projects included in this Part B DCP are depicted in Plan 3. Whitfield
+Boulevard, Gwen Road and Volk Road should be constructed generally in accordance with
+Figure 5.
+
+Figure 5 – 22m road cross-section
+Cranbourne West Development Contributions Plan (Version 3)                        Page 54 of 67
+Section 3 – Part B – Development Contributions Plan
+
+Plan 3 – Road construction projects
+
+
+
+
+Land for roads included in this Part B DCP are depicted in Plan 4 and Table 15.
+
+Plan 4 – Land projects
+Cranbourne West Development Contributions Plan (Version 3)                         Page 55 of 67
+Section 3 – Part B – Development Contributions Plan
+
+Table 15 – Property specific land requirements for identified land projects
+
+
+
+
+In selecting items, consideration has been given to ensure they are not already funded
+through another contribution mechanism, such as the Part A DCP or an agreement under
+Section 173 of the Act. For identification of key infrastructure projects funded by the Part A
+DCP, refer to Figure 4 contained in the Part A DCP.
+
+17    Project timing
+
+All items in this Part B DCP will be provided as soon as is practicable and as soon as
+sufficient contributions are available.
+
+Gwen Road must be constructed to the relevant property boundary or road abuttal prior to
+the issue of a statement of compliance for the relevant stage.
+
+All items will be provided within 20 years from the date upon which this Part B DCP was first
+incorporated into the Casey Planning Scheme.
+Cranbourne West Development Contributions Plan (Version 3)   Page 56 of 67
+Section 3 – Part B – Development Contributions Plan
+
+Table 16 – Calculation of cost and contributions
+Cranbourne West Development Contributions Plan (Version 3)                                                                                                                                                Page 57 of 67
+Section 3 – Part B – Development Contributions Plan
+
+                                                                                                                                                                              %
+ DCP                                                                                                                       Estimated Project Cost ($ July 2014)         Apportioned    Total $ cost
+                                                                                             Infrastructure Land Area                                                                                  $ Contribution per NDHa
+Project                                          Project                                                                                                                   to DCP     recovered by
+                                                                                                Category      (sqm)                                                                                     (excl. local roads land)
+  No.                                                                                                                   Land             Construction Total               (Internal       DCP
+                                                                                                                                                                            Use)
+          Transport
+
+          Land - Intersection - Whitfield Boulevard / Thompsons Road. Land required to
+RD15                                                                                         Development       11,670          904,186              0         904,186         100%           904,186                      11,069
+          facilitate construction of RD16 and ultimate road flaring.
+
+          Construction - Intersection - Whitfield Boulevard / Thompsons Road. Including
+RD16.1    provision of traffic signals in accordance with the intersection scope agreed by   Development                            0        3,590,047    3,590,047           100%         3,590,047                      43,947
+          the City of Casey.
+          Construction - Intersection - Whitfield Boulevard / Thompsons Road.
+RD16.2    Construction of a second right turn lane from Thompsons Road to Whitfield          Development                            0         150,000         150,000         100%           150,000                       1,836
+          Boulevard (by VicRoads as part of Thompsons Road duplication).
+
+          Land - Whifield Boulevard. Land required to achieve a 22 metre road
+RD17                                                                                         Development       12,958      1,003,979                0     1,003,979           100%         1,003,979                      12,290
+          reservation.
+
+
+RD18      Construction - Whitfield Boulevard.                                                Development                            0        4,385,394    4,385,394           100%         4,385,394                      53,683
+
+          Land - Gwen Road extension/widening. Land required to achieve a 22 metre
+RD19                                                                                         Development       11,127          746,835              0         746,835         100%           746,835                       9,142
+          road reservation between Whitfield Boulevard and Missens Road.
+
+RD20      Construction - Gwen Road.                                                          Development                            0        3,872,786    3,872,786           100%         3,872,786                      47,408
+
+          Land - Volk Road extension. Land required to achieve a 22 metre road
+RD21                                                                                         Development        2,746          245,000              0         245,000         100%           245,000                       2,999
+          reservation between Missens Road and Evans Road.
+
+RD22      Construction - Volk Road.                                                          Development                            0        3,225,871    3,225,871           100%         3,225,871                      39,489
+
+RD23      Construction - Culvert at Volk Road.                                               Development                            0         550,000         550,000         100%           550,000                       6,733
+
+          Land - Intersection - Volk Road / Evans Road. Land required to facilitate
+RD24                                                                                         Development         433           110,000              0         110,000         100%           110,000                       1,347
+          construction of RD25 and ultimate road flaring in accordance with Appendix 5.
+
+RD25      Construction - Intersection - Volk Road / Evans Road                               Development                            0        1,709,023    1,709,023           100%         1,709,023                      20,921
+
+          Sub-stations                                                                       Development         320            24,739              0          24,739         100%            24,739                         303
+
+          Sub-total transport cost                                                                             39,254      3,034,739        17,483,121   20,517,860           100%        20,517,860                    251,167
+          Planning
+
+PL01      Preparation of Development Contributions Plans.                                    Development                            0          70,000          70,000         100%            70,000                        857
+
+          Sub-total planning cost                                                                                                   0          70,000          70,000         100%            70,000                         857
+                                    TOTAL DEVELOPMENT INFRASTRUCTURE                                                       3,034,739        17,553,121   20,587,860                       20,587,860                    252,024
+Cranbourne West Development Contributions Plan (Version 3)                       Page 58 of 67
+Section 2 – Part A – Development Contributions Plan
+
+18    Calculation of contributions
+
+The general cost apportionment method includes the following steps:
+
+     Calculation of the Net Developable Area (‘NDA’).
+
+     Calculation of project costs (refer Table 16).
+
+     The development infrastructure charge per net developable hectare (refer Table 16).
+
+All development infrastructure contributions are payable on the NDA of land on any given
+development site within Charge area 1.1.
+
+For the purposes of this Part B DCP the NDA is defined as the total amount of land within
+the precinct that is made available for development of employment buildings, including lots,
+all connector and local streets. It is the total precinct area minus community facilities,
+educational facilities, open space, encumbered land, arterial roads, existing roads and road
+projects as identified in this Part B DCP (refer to Land Budget Table for Charge Area 1.1 in
+Appendix 6). Any additional small local parks defined at the subdivision stage are included in
+the NDA.
+
+19    Land budget and demand units
+
+Net developable hectare is the demand unit for this Part B DCP. All land within the Charge
+Area 1.1 is subject to one development charge rate within this Part B DCP.
+
+20    Calculation of costs
+
+Each project has been assigned a land and / or construction cost. These costs are listed in
+Table 16. The costs are expressed in July 2014 dollars and will be indexed in accordance
+with the indexation method specified in Section 29.
+
+21    Road construction and intersection works
+
+The costs for the transport projects have been estimated and the scope for intersection
+projects has been established collaboratively with VicRoads.
+
+Road construction and intersection costs were derived from concept functional designs
+which were overlaid onto aerial photograph and cadastre in the CAD system. This enables
+relatively detailed component costing as shown on the data sheets in Appendix 5.
+Considering the signalised intersection at Thompsons Road and Whitfield Boulevard
+currently being constructed estimates on delivery of RD16.1 & RD16.2 are taken from the
+landowner of Property 10 (940 Thompsons Road, Cranbourne West) and hence no relevant
+detailed costing sheets are included in Appendix 5.
+
+The costs of works uses road construction estimation rates are current at July 2014.
+
+The intersection layouts and the scope of works are agreed with the relevant road authority.
+The general assumptions used are:
+Cranbourne West Development Contributions Plan (Version 3)                         Page 59 of 67
+Section 2 – Part A – Development Contributions Plan
+
+
+
+
+     No land acquisition costs have been allowed for unless stated (these are separately
+      identified in each DCP project costing.
+
+     No trunk services have been allowed for.
+
+     Drainage allowance is for ‘road reserve or project land’ areas i.e. no external
+      catchments. However, major drainage such as culverts or bridges consistent with the
+      Cranbourne West PSP has been included as separate projects.
+
+     A standard excavation depth has been allowed for. Final pavement requirements will
+      be determined at construction stage responding to actual ground conditions.
+
+     Where required an allowance has been made for existing services adjustment or
+      relocation (e.g. electricity poles, water fittings, manholes etc)
+
+Additional percentage based costs tailored to each individual project have been included for:
+
+     Fees of field survey, administration and detail design.
+
+     Construction overheads and supervision.
+
+     Contingency.
+
+The level of contingency for each project reflects the level of design resolution achieved at
+the time the Part B DCP was prepared. Cost estimates include but not limited to naturestrip
+landscaping, servicing provisions, road line marking, road pavement, footpaths and street
+lighting.
+
+With respect to road / intersection construction along existing road alignments:
+
+     Proposed roads were put back to the existing road alignment hence reduces activities
+      e.g. clearing and grubbing and unnecessary vegetation removal.
+
+     Construction estimates for the proposed roads are based on relatively flat terrain as no
+      land/featured survey was carried out for this exercise, Excavation of unstable material
+      at subgrade level has been allowed for as provisional item in the project estimates.
+
+     Higher levels of traffic management and service relocation have been allowed for.
+
+Where possible, arterial road works as funded by this Part B DCP have been designed to
+minimise any redundant works that are required in the ultimate delivery of future arterial
+roads.
+
+22    Culvert works
+
+There is one culvert triggered by the works on Volk Road. The cost estimate has been
+included in the Part B DCP and it is based upon a standardised design.
+Cranbourne West Development Contributions Plan (Version 3)                         Page 60 of 67
+Section 2 – Part A – Development Contributions Plan
+
+23    Cost apportionment
+
+This Part B DCP apportions a charge to new development according to its expected use of
+identified infrastructure items. Since development contribution charges are levied ‘up-front’, a
+measure of actual use by individual development sites is not possible. Therefore costs must
+be shared in accordance with the estimated share of use. This is the total cost of the item
+divided by the NDA.
+
+It is important to note that the number of Net Developable Hectares (that is the demand
+units) is based on the land budgets in Appendix 4 included in this Part A DCP.
+
+The ‘per Net Developable Hectare’ contributions will not and must not be amended to
+respond to minor changes to land budgets that may result from the subdivision process. In
+other words, this Part B DCP is permanently linked to the calculation of Net Developable
+Area set out in the property specific land budget in Appendix 4 included in the Part A DCP.
+
+No distinction is made between development types in this Part B DCP area for the purposes
+of determining a Development Infrastructure Levy.
+
+24    Schedule of costs
+
+Table 16 calculates the amount of contributions payable for each infrastructure category.
+Detailed schedule of costs can be found in Appendix 5 included later in this document.
+
+25    Summary of charges per hectare
+
+Table 16 shows the quantum of funds to be contributed towards each infrastructure project.
+This adds up to the total amount of funds recoverable under the Part B DCP.
+
+26    DCP administration
+
+This section sets out how this Part B DCP will be administered and covers the timing of
+payment, provision of works and land in kind and how funds generated by this Part B DCP
+will be managed in terms of reporting, indexation and review periods.
+
+The DCP Development Infrastructure Levy applies to subdivision and / or development of
+land.
+
+No Community Infrastructure Levy is required under this Part B DCP.
+
+Council will be both the Collecting Agency and the Development Agency for the purposes of
+this Part B DCP.
+
+27    Payment of contribution levies and payment timing
+
+Development infrastructure
+
+For subdivision of Land
+
+     A development infrastructure levy must be paid to Council for the land within the
+      following specified time, namely after certification of the relevant plan of subdivision
+      but not more than 21 days prior to the issue of a Statement of Compliance with respect
+      to that plan or included in an implementation agreement under Section 173 of the Act.
+Cranbourne West Development Contributions Plan (Version 3)                          Page 61 of 67
+Section 2 – Part A – Development Contributions Plan
+
+     Where the subdivision is to be developed in stages, the infrastructure levy for the
+      stage to be developed may only be paid to Council within 21 days prior to the issue of
+      a Statement of Compliance for that stage provided that a Schedule of Development
+      Contributions is submitted with each stage of plan of subdivision. This Schedule must
+      show the amount of the development contributions payable for each stage and the
+      value of the contributions for prior stages to the satisfaction of Council or included in
+      an implementation agreements under Section 173 the Act.
+
+If the Collecting Agency agrees to works or provision of land in lieu of the payment of the
+infrastructure levy, the land owner must enter into an agreement under Section 173 of the
+Act in respect of the proposed works or provision of land in lieu to specific requirements.
+
+For development of land where no subdivision is proposed
+
+     Provided a development infrastructure levy has not already been paid on subject land,
+      an infrastructure levy must be paid to the Collecting Agency in accordance with the
+      provisions of the approved DCP for each demand unit (Net Developable Hectare)
+      proposed to be developed prior to the commencement of any development (i.e.
+      development includes buildings, car park, access ways landscaping and ancillary
+      components). Council may require that contributions be made at either the planning or
+      building permit stage for Development Infrastructure.
+
+If the Council agrees to works or provision of land in lieu of the payment of the infrastructure
+levy, the land owner must enter into an agreement or other suitable arrangement under
+Section 173 of the Act in relation to the proposed works or land in lieu.
+
+Where no planning permit is required
+
+The following requirements apply where no planning permit is required. The land may only
+be used and developed subject to the following requirements being met:
+
+     Unless otherwise agreed to by the Collecting Agency in a Section 173 agreement, a
+      development infrastructure levy must be paid to the Collecting Agency prior to the
+      commencement of any development in accordance with the provision of this approved
+      Development Contributions Plan for the land.
+
+If the Collecting Agency agrees to works or provision of land in lieu of the payment of the
+infrastructure levy, the land owner must enter into an agreement under Section 173 of the
+Act in respect of the proposed works or provision of land in lieu.
+
+28    Works in kind
+
+The Collecting Agency may permit development proponents to undertake works in lieu of
+cash payments, providing that:
+
+     The works constitute project(s) funded by this Part B DCP.
+
+     Council agrees that the timing of the works has broader net community benefit.
+
+     The development proponent complies with appropriate tendering, documentation,
+      supervision and related provisions.
+Cranbourne West Development Contributions Plan (Version 3)                           Page 62 of 67
+Section 2 – Part A – Development Contributions Plan
+
+     The works are defined and agreed in a Section 173 agreement.
+
+     Works must be provided to a standard that accords with this to the satisfaction of
+      Council, unless an alternative is agreed by Council.
+
+     Detailed design must be approved by Council and must generally accord with the
+      expectations outlined in this Part B DCP unless an alternative is agreed by Council.
+
+     The construction of works must be completed to the satisfaction of Council.
+
+     There should be no negative financial impact on this Part B DCP to the satisfaction of
+      Council.
+
+     In particular, the works will only be accepted in lieu of a financial contribution required
+      by this Part B DCP to the extent that they constitute part or all of the design of the
+      infrastructure item and reduce the cost to complete that design, to Council’s
+      satisfaction. Temporary works will not be accepted as works in kind.
+
+29    Funds administration
+
+The administration of the contributions made under this Part B DCP will be transparent and
+development contributions will be held in accounts until required for provision of items.
+Details of funds received and expenditures will be held by the Collecting Agency in
+accordance with the provisions of the Local Government Act 1993 and the Planning and
+Environment Act 1987.
+
+The administration of contributions made under this Part B DCP will be transparent and
+demonstrate:
+
+     The amount and timing of funds collected.
+
+     The sources of the funds collected.
+
+     The amount and timing of expenditure on specific projects.
+
+     The project on which the expenditure was made.
+
+     The account classes or individual project classes.
+
+     Details of any works-in-kind arrangements for project provision.
+
+     Any pooling or quarantining of funds to deliver specific projects where applicable.
+
+Council will provide for regular monitoring, reporting and review of the monies received and
+expended in accordance with this Part B DCP.
+
+Council will establish interest bearing accounts and all monies held in these accounts will be
+used solely for then provision of infrastructure as specified in this Part B DCP, as required
+under Section 46QB(2) of the Act.
+
+Should Council achieve savings on any project, or resolve not to proceed with any of the
+infrastructure projects listed in this Part B DCP, the funds collected for these items will be
+used for alternative works in the same infrastructure class as specified by this Part B DCP.
+Cranbourne West Development Contributions Plan (Version 3)                           Page 63 of 67
+Section 2 – Part A – Development Contributions Plan
+
+Such funds may also be used for the provision of additional works, services or facilities
+where approved by the Minister responsible for the Act, or will be refunded to developers
+and / or owners of land subject to these infrastructure charges.
+
+30    Construction and land value costs indexation
+
+Capital costs of all infrastructure items (with the exception of land) are in July 2014 dollars
+and will be indexed by Council quarterly to take account of inflation.
+
+In relation to the costs of infrastructure items other than land, the responsible authority will
+adjust the cost of capital works items included in the DCP, on 1st January and 1st July each
+year, by applying the Building Price Index, as published in the latest edition of Rawlinsons
+Australian Construction Handbook.
+
+Land values will be adjusted on 1 July every year following a revaluation by a registered
+valuer of properties with land required by the Part B DCP. Within 14 days of the revaluation,
+Council will publish the amended contributions on Council’s website.
+
+31    DCP review period
+
+The Part B DCP is expected to be revised and updated every 5 years (or more frequently if
+required). This will require an amendment to the Casey Planning Scheme to replace this
+document with an alternative, revised document. Any review will need to have regard to any
+arrangements (for example an agreement under s 173 of the Act) for the implementation of
+this Part B DCP.
+
+32    Collecting agency (agency responsible for collecting Infrastructure Levy)
+
+Casey City Council is the Collecting Agency pursuant to section 46K(1)(fa) of the Act which
+means that it is the public authority to whom all levies are payable. As the Collecting Agency,
+Casey City Council is also responsible for the administration of this Part B DCP and also its
+enforcement pursuant to Section 46QC of the Act.
+
+33    Development agency (agency responsible for works)
+
+Casey City Council is the Development Agency and is responsible for the provision of all of
+the DCP projects identified in this Part B DCP.
+
+34    Appendices
+Cranbourne West Development Contributions Plan (Version 3)                                                                                                Page 64 of 67
+Section 2 – Part A – Development Contributions Plan
+
+Appendix 5 – Project cost sheets for identified infrastructure
+Contract No
+Description           Construction of Whitfield Bvd & Associated Works (RD18) - Stage 2 & 3                                                    Approx: 505m
+Tenderer                                                                                                                                                      0
+
+
+                                                                                                                               Rate ($)        Amount ($)
+       Item                                       Description of Work                                    Est Qty   Unit
+                                                                                                                              (GST Ex)          (GST Ex)
+   A               Construction of Whitfield Bvd & Associated Works (RD18) - Stage 2 & 3                                                  $       3,343,899.00
+   B               Provisional Item
+              1    Excavation of unstable material at subgrade level & backfill with Size 40mm Class 3
+                   CR including portion under kerb & channel as specified                                 1944      m3    $         80.00 $         155,520.00
+              2    Services Relocation                                                                     1       Item   $     50,000.00 $          50,000.00
+              3    Council Charges - Administration, Design, Project Management (10%)                      1       Item              10% $          334,389.90
+              4    Contingency (15%)                                                                       1       Item              15% $          501,584.85
+                                                                                                          TOTAL CONTRACT AMOUNT           $ 4,385,393.75
+                                                                                                                                               Amount ($)
+   Item No                                        Description of Work
+                                                                                                                                                (GST Ex)
+       1            General                                                                                                               $         160,000.00
+       2            Earthworks                                                                                                            $           8,684.00
+       3            Pavement                                                                                                              $         802,015.00
+       4            Kerb & Channel                                                                                                        $          49,650.00
+       5            Traffic Island                                                                                                         $                 -
+       6            Footpath                                                                                                              $          66,150.00
+       7            Shared path                                                                                                           $         113,625.00
+       8            Subsoil Drainage                                                                                                      $          24,825.00
+       9            Drainage Pipes                                                                                                        $         389,180.00
+       10           Drainage Pits                                                                                                         $          50,000.00
+       11           Pavement Marking & Road Furniture                                                                                     $           8,000.00
+       12           Services
+                  a T elstra/ NBN                                                                                                         $           75,750.00
+                  b Water                                                                                                                 $          656,500.00
+                  c Sewage                                                                                                                $          320,070.00
+       13           Electrical                                                                                                            $          444,400.00
+       14           Landscaping                                                                                                           $          175,050.00
+                                                                                                                                          $        3,343,899.00
+
+
+Contract No
+Description           Construction of Gwen Road & Associated Works (RD20)                                                                      Approx: 630m
+Tenderer
+
+
+                                                                                                                               Rate ($)        Amount ($)
+       Item                                       Description of Work                                    Est Qty   Unit
+                                                                                                                              (GST Ex)          (GST Ex)
+   A               Construction of Gwen Road & Associated Works (RD20)                                                                    $       2,865,525.00
+   B               Provisional Item
+              1    Excavation of unstable material at subgrade level & backfill with Size 40mm Class 3
+                   CR including portion under kerb & channel as specified                                 2386      m3    $      80.00    $         190,880.00
+              2    Services Relocation                                                                     1       Item   $ 100,000.00    $         100,000.00
+              3    Council Charges - Administration, Design, Project Management (10%)                      1       Item           10%     $         286,552.50
+              4    Contingency (15%)                                                                       1       Item           15%     $         429,828.75
+                                                                                                          TOTAL CONTRACT AMOUNT           $ 3,872,786.25
+                                                                                                                                               Amount ($)
+   Item No                                        Description of Work
+                                                                                                                                                (GST Ex)
+       1            General                                                                                                               $         115,000.00
+       2            Earthworks                                                                                                            $         106,578.00
+       3            Pavement                                                                                                              $         981,642.00
+       4            Kerb & Channel                                                                                                        $          63,000.00
+       5            Traffic Island                                                                                                        $                  -
+       6            Footpath                                                                                                              $          85,050.00
+       7            Shared path                                                                                                           $         141,750.00
+       8            Subsoil Drainage                                                                                                      $          31,500.00
+       9            Drainage Pipes                                                                                                        $         153,150.00
+       10           Drainage Pits                                                                                                         $          62,500.00
+       11           Pavement Marking & Road Furniture                                                                                     $          13,380.00
+       12           Services
+                  a T elstra/ NBN                                                                                                         $           94,500.00
+                  b Water                                                                                                                 $           64,890.00
+                  c Sewage                                                                                                                $          195,220.00
+       13           Electrical                                                                                                            $          584,640.00
+       14           Landscaping                                                                                                           $          172,725.00
+                                                                                                                                          $        2,865,525.00
+Cranbourne West Development Contributions Plan (Version 3)                                                                                                         Page 65 of 67
+Section 2 – Part A – Development Contributions Plan
+
+Contract No
+Description           Construction of Volk Road & Associated Works (RD22)                                                                             Approx: 523m
+Tenderer                                                                                                                                                              0
+
+                                                                                                                                   Rate ($)            Amount ($)
+       Item                                       Description of Work                                      Est Qty     Unit
+                                                                                                                                  (GST Ex)              (GST Ex)
+   A               Construction of Volk Road & Associated Works (RD22)                                                                            $       2,393,900.00
+   B               Provisional Item
+              1    Excavation of unstable material at subgrade level & backfill with Size 40mm Class 3
+                   CR including portion under kerb & channel as specified                                  1981.2       m3    $         80.00 $             158,496.00
+              2    Services Relocation                                                                       1         Item   $     75,000.00 $              75,000.00
+              3    Council Charges - Administration, Design, Project Management (10%)                        1         Item              10% $              239,390.00
+              4    Contingency (15%)                                                                         1         Item              15% $              359,085.00
+                                                                                                               TOTAL CONTRACT AMOUNT              $       3,225,871.00
+                                                                                                                                                       Amount ($)
+   Item No                                        Description of Work
+                                                                                                                                                        (GST Ex)
+        1           General                                                                                                                       $         100,000.00
+        2           Earthworks                                                                                                                    $          88,494.00
+        3           Pavement                                                                                                                      $         815,071.00
+        4           Kerb & Channel                                                                                                                $          62,760.00
+        5           Traffic Island                                                                                                                $                  -
+        6           Footpath                                                                                                                      $          70,650.00
+        7           Shared path                                                                                                                   $         117,720.00
+        8           Subsoil Drainage                                                                                                              $          26,150.00
+        9           Drainage Pipes                                                                                                                $         113,814.00
+        10          Drainage Pits                                                                                                                 $          25,000.00
+        11          Pavement Marking & Road Furniture                                                                                             $          12,880.00
+        12          Services
+                  a T elstra/ NBN                                                                                                                 $           78,450.00
+                  b Water                                                                                                                         $           53,869.00
+                  c Sewage                                                                                                                        $          237,442.00
+        13          Electrical                                                                                                                    $          448,211.00
+        14          Landscaping                                                                                                                   $          143,389.00
+                                                                                                                                                  $        2,393,900.00
+
+
+Contract No
+Description           Construction of Culverts & Associated Works (RD23)                                                                               Approx:
+Tenderer
+
+
+                                                                                                                               Rate ($)               Amount ($)
+       Item                                     Description of Work                                      Est Qty     Unit
+                                                                                                                              (GST Ex)                 (GST Ex)
+   A               Construction of Culverts & Associated Works (RD23)                                                                         $             440,000.00
+   B               Provisional Item
+              1    Council Charges - Administration, Design, Project Management (10%)                      1         Item             10% $                  44,000.00
+              2    Contingency (15%)                                                                       1         Item             15% $                  66,000.00
+                                                                                                          TOTAL CONTRACT AMOUNT               $          550,000.00
+                                                                                                                                                      Amount ($)
+   Item No                                      Description of Work
+                                                                                                                                                       (GST Ex)
+                   DRAINAGE
+        1          Drainage Culvert                                                                                                           $             440,000.00
+                                                                                                                                              $             440,000.00
+Cranbourne West Development Contributions Plan (Version 3)                                                                                                   Page 66 of 67
+Section 2 – Part A – Development Contributions Plan
+
+Contract No
+Description           Construction of Volk Road & Evans Road Intersection (RD25)                                                                   Approx: 77m
+Tenderer                                                                                                                                  Approx: 220m on Evans Rd
+
+                                                                                                                               Rate ($)           Amount ($)
+       Item                                       Description of Work                                    Est Qty   Unit
+                                                                                                                              (GST Ex)             (GST Ex)
+   A               Construction of Volk Road & Evans Road Intersection (RD25)                                                                $       1,174,706.00
+   B               Provisional Item
+              1    Excavation of unstable material at subgrade level & backfill with Size 40mm Class 3
+                   CR including portion under kerb & channel as specified                                 1133      m3    $        80.00 $              90,640.00
+              2    Services Relocation                                                                      1      Item   $   150,000.00 $             150,000.00
+              3    Council Charges - Administration, Design, Project Management (10%)                       1      Item              10% $             117,470.60
+              4    Contingency (15%)                                                                        1      Item              15% $             176,205.90
+                                                                                                          TOTAL CONTRACT AMOUNT              $       1,709,022.50
+                                                                                                                                                  Amount ($)
+   Item No                                        Description of Work
+                                                                                                                                                   (GST Ex)
+       1            General                                                                                                                  $         130,000.00
+       2            Earthworks                                                                                                               $          50,625.00
+       3            Pavement                                                                                                                 $         455,077.00
+       4            Kerb & Channel                                                                                                           $          40,740.00
+       5            Traffic Island                                                                                                           $           3,250.00
+       6            Footpath                                                                                                                 $          40,140.00
+       7            Shared path                                                                                                              $          66,870.00
+       8            Subsoil Drainage                                                                                                         $          14,400.00
+       9            Drainage Pipes                                                                                                           $         124,368.00
+       10           Drainage Pits                                                                                                            $          32,500.00
+       11           Pavement Marking & Road Furniture                                                                                        $          14,880.00
+       12           Services
+                  a T elstra/ NBN                                                                                                            $           11,550.00
+                  b Water                                                                                                                    $            7,931.00
+                  c Sewage                                                                                                                   $           34,958.00
+       13           Electrical                                                                                                               $           65,989.00
+       14           Landscaping                                                                                                              $           81,428.00
+                                                                                                                                             $        1,174,706.00
+Cranbourne West Development Contributions Plan (Version 3)                                                              Page 67 of 67
+Section 3 – Part B – Development Contributions Plan
+
+
+Appendix 6 – Property specific land budget for properties in Charge Area 1.1 – Applicable to Part B DCP only
+                                                                Site
+Prope                                                                                                                                                                           Total    Gross Dev.   Net Dev.    Passive    Passive
+                     Property Address              Land use     Area                        Primary Infrastructure
+rty No.                                                                                                                                                                         Infra.   Area (ha)    Area (ha)   POS (ha)   POS (%)
+                                                                (ha)
+
+                                                                                               Local      Tree                  Ret.   Bus.            Mixed
+                                                                        Arterial   Thompson                          Floodw.                   Ind.            POS    Roading
+                                                                                               Roads     Reserve               Basin   Park             Use
+
+  1       1/910 Thompsons Rd, Cranbourne West      Industrial    2.00    0.14                              0.15                                 1.71                            0.29        1.71        1.71        0.00      0.0%
+  2       920 Thompsons Rd, Cranbourne West        Industrial    2.04                0.12                                                       1.92                            0.12        1.92        1.92        0.00      0.0%
+  3       1/930 Thompsons Rd, Cranbourne West      Industrial    3.33                0.30                                                       3.03                            0.30        3.03        3.03        0.00      0.0%
+  4       490 Western Port Hwy, Cranbourne West    Industrial    2.48    0.09                              0.09                                 2.30                            0.18        2.30        2.30        0.00      0.0%
+  5       500 Western Port Hwy, Cranbourne West    Industrial    3.77    0.10                              0.09                                 3.58                            0.19        3.58        3.58        0.00      0.0%
+  6       510 Western Port Hwy, Cranbourne West    Industrial    3.78    0.10                              0.03                1.20             2.45                            1.33        2.45        2.45        0.00      0.0%
+  7       520 Western Port Hwy, Cranbourne West    Industrial    3.64    0.09                                                  0.18             2.16           1.21             0.27        3.37        2.16        1.21     56.0%
+  8       530 Western Port Hwy, Cranbourne West    Industrial    3.56    0.09                                                  0.39             2.45           0.63             0.48        3.08        2.45        0.63     25.7%
+  9       540T Western Port Hwy, Cranbourne West   Industrial    3.54    0.09                                                  0.75             2.70                            0.84        2.70        2.70        0.00      0.0%
+ 10       940 Thompsons Rd, Cranbourne West        Industrial   21.80                0.73       3.014                                          17.96                   3.11     3.74       21.07       18.06        0.00      0.0%
+ 11       30 Gwen Rd, Cranbourne West              Industrial   12.05                           0.444                                          11.15                   0.96     0.44       12.05       11.61        0.00      0.0%
+ 16       15 Gwen Rd, Cranbourne West              Bus. Park     2.03                           0.059                                  1.99                            0.04     0.06        2.03        1.97        0.00      0.0%
+ 17       5 Gwen Rd, Cranbourne West               Bus. Park     2.02                           0.057                                  1.87                            0.15     0.06        2.02        1.96        0.00      0.0%
+ 18       20 Gwen Rd, Cranbourne West              Bus. Park     2.01                                                                  1.97                            0.04     0.00        2.01        2.01        0.00      0.0%
+ 19       10 Gwen Rd, Cranbourne West              Bus. Park     2.03                           0.002                                  1.88                            0.15     0.00        2.03        2.03        0.00      0.0%
+ 20       75 Missens Rd, Cranbourne West           Bus. Park     2.22                                                                  1.53                    0.20    0.49     0.00        2.22        2.02        0.20      9.9%
+ 31       5 Volk Rd, Cranbourne West               Bus. Park     2.00                           0.002                                  1.85                            0.15     0.00        2.00        2.00        0.00      0.0%
+ 32       15 Volk Rd, Cranbourne West              Bus. Park     2.04                                                                  2.00                            0.04     0.00        2.04        2.04        0.00      0.0%
+ 33       1/25-27 Volk Rd, Cranbourne West         Bus. Park     2.08                                                 0.54             1.47                            0.07     0.54        1.54        1.54        0.00      0.0%
+ 34       35 Volk Rd, Cranbourne West              Bus. Park     2.30                                                 0.29             1.98                            0.03     0.29        2.01        2.01        0.00      0.0%
+ 36       275 Evans Rd, Cranbourne West            Bus. Park     2.03                           0.024                                  1.20            0.35            0.48     0.02        2.03        2.01        0.00      0.0%
+ 37       10 Volk Rd, Cranbourne West              Mixed use     2.02                           0.061                                                  1.66            0.36     0.06        2.02        1.96        0.00      0.0%
+ 38       20 Volk Rd, Cranbourne West              Mixed use     2.03                           0.062                                                  1.77            0.26     0.06        2.03        1.97        0.00      0.0%
+ 39       30 Volk Rd, Cranbourne West              Mixed use     2.03                           0.062                                                  1.77            0.26     0.06        2.03        1.97        0.00      0.0%
+ 40       40 Volk Rd, Cranbourne West              Mixed use     2.90                           0.088                 0.55                             1.98            0.37     0.64        2.35        2.26        0.00      0.0%
+ 41       265 Evans Rd, Cranbourne West            Mixed use     2.02    0.01                   0.020                 0.01                             2.00                     0.04        2.00        1.98        0.00      0.0%
+Total                                                           93.75    0.71        1.15        3.89      0.36       1.39     2.52    17.74   51.41   9.53    2.04    6.96     10.02      87.62       81.69        2.04      2.5%
+Cranbourne West Development Contributions Plan (Version 3)   Page 68 of 67
+Section 3 – Part B – Development Contributions Plan
+
