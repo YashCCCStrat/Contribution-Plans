@@ -1,0 +1,132 @@
+BENCHMARK INFRASTRUCTURE COSTINGS –
+ANNUAL INDEXATION
+     Calculations 2026–27
+
+
+Item   Category              Description                     Standard                        Cost Application   Estimate P50   Estimate P90
+
+Roads and Intersection BIC
+
+1      Road                  Primary Arterial                Interim - First carriageway     Per 800m of road     $4,630,743     $5,264,998
+
+2      Road                  Secondary Arterial              Interim - First carriageway     Per 800m of road     $4,289,746     $4,773,962
+
+3      Road                  Connector - Boulevard           Ultimate                        Per 800m of road     $4,988,108     $5,646,915
+
+4      Road                  Connector Street                Ultimate                        Per 800m of road     $4,583,003     $5,173,610
+
+5      Intersection          Primary/Primary                 Cross - Signalised (Interim)    Per intersection     $8,396,717     $9,557,471
+
+6      Intersection          Primary/Secondary               Cross - Signalised (Interim)    Per intersection     $8,393,989     $9,464,720
+
+7      Intersection          Primary/Connector Blvd          Cross - Signalised (Interim)    Per intersection     $5,597,811     $6,375,285
+
+8      Intersection          Secondary/Secondary             Cross - Signalised (Interim)    Per intersection     $7,481,480     $8,366,709
+
+9      Intersection          Secondary/Connector Blvd        Cross - Signalised (Interim)    Per intersection     $5,215,894     $5,878,793
+
+10     Intersection          Connector Blvd/Connector Blvd   Cross - Roundabout (Ultimate)   Per intersection     $2,362,429     $2,695,242
+
+11     Intersection          Primary/Primary                 T - Signalised (Interim)        Per intersection     $6,654,903     $7,564,683
+
+12     Intersection          Primary/Secondary               T - Signalised (Interim)        Per intersection     $5,967,452     $6,770,842
+
+13     Intersection          Primary/Connector Blvd          T - Signalised (Interim)        Per intersection     $4,719,402     $5,404,125
+Item    Category                     Description                                             Standard                                Cost Application   Estimate P50   Estimate P90
+
+14      Intersection                 Secondary/Secondary                                     T - Signalised (Interim)                Per intersection     $5,368,661     $6,024,740
+
+15      Intersection                 Secondary/Connector Blvd                                T - Signalised (Interim)                Per intersection     $4,296,565     $4,840,797
+
+16      Intersection                 Connector Blvd/Connector Blvd                           T - Roundabout (Ultimate)               Per intersection     $1,846,841     $2,111,455
+
+Bridges and Culverts BIC
+
+17      Bridge                       Interim Primary Arterial Road Bridge                    Super-T - 15.80m wide (Interim)         Per bridge           $9,313,317    $10,940,556
+                                     50m span
+18      Bridge                       Interim Primary Arterial Road Bridge                    Super-T - 15.80m wide (Interim)         Per bridge          $16,959,840    $19,976,984
+                                     100m span
+19      Bridge                       Interim Secondary Arterial Road Bridge                  Super-T - 14.90m wide (Interim)         Per bridge           $8,552,211    $10,049,871
+                                     50m span
+20      Bridge                       Interim Secondary Arterial Road Bridge                  Super-T - 14.90m wide (Interim)         Per bridge          $15,537,199    $18,303,369
+                                     100m span
+21      Bridge                       Ultimate Connector Road Bridge                          Super-T - 14.30m wide (Ultimate)        Per bridge           $8,552,211    $10,049,871
+                                     50m span
+22      Bridge                       Ultimate Connector Road Bridge                          Super-T - 14.30m wide (Ultimate)        Per bridge          $15,537,199    $18,303,369
+                                     100m span
+23      Bridge                       Pedestrian Bridge - 20m length                          Typ. Super-T - 4m wide (Ultimate)       Per bridge           $1,317,613     $1,542,672
+
+24      Bridge                       Pedestrian Bridge - 80m length                          Typ. Super-T - 4m wide (Ultimate)       Per bridge           $3,891,461     $4,588,459
+
+25      Major Culvert                Box culverts 1200 x 2100 (4 side by side)               Secondary Arterial Interim - 17.0 m     Per structure         $536,048        $616,523
+
+26      Major Culvert                Box culverts 1200 x 2100 (4 side by side)               Connector Boulevard Ultimate - 31.0 m   Per structure         $762,470       $877,045
+
+27      Major Culvert                Box culverts 1800 x 3000 (6 side by side)               Secondary Arterial Interim - 17.0 m     Per structure        $1,084,371     $1,246,686
+
+28      Major Culvert                Box culverts 1800 x 3000 (6 side by side)               Connector Boulevard Ultimate - 31.0 m   Per structure        $1,639,515     $1,885,033
+
+29      Major Culvert                Box culverts 2100 x 2100 (16 side by side)              Secondary Arterial Interim - 17.0 m     Per structure        $1,927,317     $2,216,482
+
+30      Major Culvert                Box culverts 2100 x 2100 (16 side by side)              Connector Boulevard Ultimate - 31.0 m   Per structure        $2,921,665     $3,359,505
+
+31      Major Culvert                Circular Pipes (RCP) 1200 dia. (2 side by side)         Secondary Arterial Interim - 17.0 m     Per structure         $340,997       $391,465
+
+
+
+Benchmark Infrastructure Costings - Annual Indexation - Financial Year 2026–27 / July 2026                                                                                 Page 2 of 4
+Item    Category                     Description                                             Standard                                  Cost Application   Estimate P50   Estimate P90
+
+32      Major Culvert                Circular Pipes (RCP) 1200 dia. (2 side by side)         Connector Boulevard Ultimate - 31.0 m     Per structure         $480,124        $552,416
+
+33      Major Culvert                Circular Pipes (RCP) 1800 dia. (3 side by side)         Secondary Arterial Interim - 17.0 m       Per structure         $646,531        $743,374
+
+34      Major Culvert                Circular Pipes (RCP) 1800 dia. (3 side by side)         Connector Boulevard Ultimate - 31.0 m     Per structure        $1,025,720     $1,179,851
+
+35      Major Culvert                Circular Pipes (RCP) 2100 dia. (4 side by side)         Secondary Arterial Interim - 17.0 m       Per structure         $967,068      $1,113,015
+
+36      Major Culvert                Circular Pipes (RCP) 2100 dia. (4 side by side)         Connector Boulevard Ultimate - 31.0 m     Per structure        $1,561,767     $1,795,010
+
+Community Infrastructure BIC
+
+37      Community Facilities         Level 1 Facility                                        Contemporary standard                     Bldg floor area      $9,429,209    $10,508,215
+
+38      Community Facilities         Level 2 Facility                                        Contemporary standard                     Bldg floor area     $11,140,973    $12,334,649
+
+39      Community Facilities         Level 3 Facility                                        Above contemporary standard allowing      Bldg floor area     $14,867,065    $16,343,963
+                                                                                             for place making architectural features
+Sports Pavilion BIC
+
+40      Sports and                   Sports Pavilion 2 playing areas                         Contemporary standard multi-purpose       Bldg floor area      $2,229,853     $2,287,878
+        Recreation Facilities                                                                facility
+41      Sports and                   Sports Pavilion 3 playing areas                         Contemporary standard multi-purpose       Bldg floor area      $3,712,276     $3,803,460
+        Recreation Facilities                                                                facility
+Sports and Recreation Facility BIC
+
+42      Sports and                   Sports and recreation facility                          Contemporary senior and junior sporting   Per Reserve          $9,590,853    $11,081,566
+        Recreation Facilities        5 to 6 hectare site                                     competition standard
+43      Sports and                   Sports and recreation facility                          Contemporary senior and junior sporting   Per Reserve         $12,449,319    $14,306,148
+        Recreation Facilities        8 to 10 hectare site                                    competition standard
+
+
+
+
+Benchmark Infrastructure Costings - Annual Indexation - Financial Year 2026–27 / July 2026                                                                                   Page 3 of 4
+    Benchmark                                             Benchmark                      1 July 2026
+    Infrastructure Cost Item                              items                                index
+
+    Roads and Intersection                                1 to 16                               1.36
+
+    Bridges and Culverts                                  17 to 36                              1.36
+
+    Community Infrastructure                              37 to 39                              1.38
+
+    Sports Pavilion                                       40 to 41                              1.38
+
+    Sports & Recreation Facility                          42 to 43                              1.38
+
+
+
+
+Benchmark Infrastructure Costings - Annual Indexation - Financial Year 2026–27 / July 2026             Page 4 of 4
+

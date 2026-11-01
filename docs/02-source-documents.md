@@ -3,8 +3,15 @@
 Index page: <https://www.planning.vic.gov.au/guides-and-resources/legislation-regulation-and-fees/infrastructure-contributions>
 (planning.vic.gov.au blocks automated download, so documents are added manually.)
 
-Originals live in `sources/<framework>/`; plain-text extracts for search in
-`sources/_text/`.
+Originals live in `sources/<framework>/` and in `All Documents/` (the user's drop folder,
+pushed directly); plain-text extracts for search in `sources/_text/`.
+
+Also now in `All Documents/` (Nov 2026): full Casey Planning Scheme (C302case),
+Clyde DCP Parts 1–3, Lyndhurst DCP (June 2026), C208 Clyde Creek DCP and PSPs
+(Clyde Creek, Thompsons Road, Casey Fields South), Understanding Development
+Contributions, both WOL land calculation spreadsheets, Benchmark Infrastructure
+Costs Guide + 2026-27 indexation, Review of Benchmark Infrastructure Costings (2019),
+GAIC model WIK agreement (land transfer). See `docs/03-casey-contribution-plans.md`.
 
 ## Register
 
@@ -31,7 +38,7 @@ Originals live in `sources/<framework>/`; plain-text extracts for search in
 | Clyde DCP (Oct 2014, amended Dec 2023, VC249) — **Part 2 of 3** (from s7.6: interim road costings, per-metre cost estimates) | Casey DCP | Dec 2023 | ✅ `sources/casey/clyde/` — Parts 1 and 3 ☐ (Part 1 likely holds charge areas, levy rates, land budget) |
 | Cranbourne East PSP (incl. Native Vegetation Precinct Plan) | Casey PSP | May 2010 | ✅ `sources/casey/cranbourne-east/` — has Plan 7 land budget and Table 4 property-specific land budget (NDA 467.66 ha) |
 | **Cranbourne East DCP** (May 2010, amended Dec 2023, VC249) — complete, 39 pp | Casey DCP | Dec 2023 | ✅ `sources/casey/cranbourne-east/` — **first complete Casey test plan**. Demand unit = NDHa. Levies (base Jan 2010 $, before indexation): residential DIL $166,426/NDHa; employment DIL $101,575/NDHa; non-government education DIL $41,607/NDHa (25% of residential); CIL $735/dwelling. VC249 adds small-second-dwelling exemption. |
-| Casey Planning Scheme: Clause 72.04, 45.06 and 45.11 schedules | Casey | — | ☐ **critical** |
+| Casey Planning Scheme (full, C302case 22/07/2026) | Casey | Jul 2026 | ✅ `All Documents/` |
 | Casey GAIC project data (spatial.planning.vic.gov.au/gaic) | GAIC | — | ☐ (screenshot only) |
 
 ## Key facts from the index page (as of 14 Oct 2026)
