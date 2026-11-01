@@ -28,7 +28,9 @@ Originals live in `sources/<framework>/`; plain-text extracts for search in
 | IPPL only – example PSP – Whole of Life Land Calculation (XLSX) | ICP | — | ☐ **critical** (land equalisation worked example) |
 | OPPL and IPPL – example PSP – Whole of Life Land Calculation (XLSX) | ICP | — | ☐ **critical** |
 | Understanding Development Contributions | DCP | — | ☐ |
-| Casey DCP / ICP incorporated documents + Clause 45.06 / 45.11 schedules | Casey | — | ☐ **critical** |
+| Clyde DCP (Oct 2014, amended Dec 2023, VC249) — **Part 2 of 3** (from s7.6: interim road costings, per-metre cost estimates) | Casey DCP | Dec 2023 | ✅ `sources/casey/clyde/` — Parts 1 and 3 ☐ (Part 1 likely holds charge areas, levy rates, land budget) |
+| Cranbourne East PSP (incl. Native Vegetation Precinct Plan) | Casey PSP | May 2010 | ✅ `sources/casey/cranbourne-east/` — has Plan 7 land budget and Table 4 property-specific land budget (NDA 467.66 ha); the separate **Cranbourne East DCP** ☐ |
+| Casey Planning Scheme: Clause 72.04, 45.06 and 45.11 schedules | Casey | — | ☐ **critical** |
 | Casey GAIC project data (spatial.planning.vic.gov.au/gaic) | GAIC | — | ☐ (screenshot only) |
 
 ## Key facts from the index page (as of 14 Oct 2026)
