@@ -1,0 +1,1140 @@
+7.11 Community facility costing sheets
+
+
+
+
+                              CLYDE DEVELOPMENT CONTRIBUTIONS PLAN - October 2014 (Amended December 2023)   87
+A
+P
+P
+E
+N
+D
+I
+X
+
+‘A’
+        PROWSE QUANTITY SURVEYORS PTY LTD
+        ABN 83 097 049 548 ACN 097 049 548
+
+
+CLYDE DEVELOPER CONTRIBUTION PLAN COSTING                                                          DATE                  4/03/2014
+COMMUNITY FACILITIES
+Explanatory Notes
+                                                                                                   REF                     9847/C
+                                                                                                   Page                         1
+
+
+
+
+        EXPLANATORY NOTES:
+          Definition of Measurement of Building Area
+           - Fully Enclosed Covered Area (FECA)
+            The sum of all such areas at all building floor levels, including basement (except unexcavated portions),
+            floored roof spaces and attics, garages, penthouses, enclosed porches and attached enclosed covered way
+            alongside buildings, equipment rooms, lift shafts, vertical ducts, staircases and any other fully enclosed
+            spaces and usable area of the building, computed by measuring from the normal inside face of exterior walls
+            but ignoring any projections such as plinths, columns, piers and the like which project from the normal
+            inside face of exterior walls.
+
+
+            It shall not include open courts, light wells, connecting or isolated covered ways and net open areas of upper
+            portions of rooms, lobbies, halls, interstitial spaces and the like which extend through the storey being
+            computed.
+
+
+
+           - Unenclosed Covered Area (UCA)
+            The sum of all such areas at all building floor levels, including roofed balconies, open verandahs, porches
+            and porticos, attached open covered way alongside buildings, undercrofts and usable space under buildings,
+            unenclosed access galleries (including ground floor) and any other trafficable covered areas of the building
+            which are not totally enclosed by full height walls, computed by measuring the areas between the enclosing
+            walls or balustrade (ie from the inside face of the UCA excluding the wall or balustrade thickness).
+            When the covering element (ie roof or upper floor) is supported by columns, is cantilevered or is suspended,
+            or any combination of these, the measurements shall taken to the edge of the paving or to the edge of the
+            cover, whichever is the lesser.
+
+
+            UCA shall not include eves overhangs, sun shading, awnings and the like where these do not relate to clearly
+            defined trafficable covered areas, nor shall it include connecting or isolated covered ways.
+
+
+
+           - Gross Floor Area (GFA)
+            The sum of the "Fully Enclosed Area" and "Unenclosed Covered Area" as defined.
+
+
+
+           - Building Area (BA)
+            The total enclosed and unenclosed area of the building at all building floor levels measured between
+            the normal outside face of any enclosing walls, balustrades and supports.
+        PROWSE QUANTITY SURVEYORS PTY LTD
+        ABN 83 097 049 548 ACN 097 049 548
+
+
+CLYDE DEVELOPER CONTRIBUTION PLAN COSTING                                                          DATE                 4/03/2014
+COMMUNITY FACILITIES
+Explanatory Notes
+                                                                                                   REF                    9847/C
+                                                                                                   Page                        2
+
+
+
+
+        EXPLANATORY NOTES (Cont'd)
+          Building Costs per square meter
+
+           - The estimates provided are all-up estimates of the construction costs, they include allowance for labours,
+          material, equipment, builder's preliminaries and overheads and profits.
+
+
+           - We have assumed the compliance of current building codes and Australian Standards would be the minimum
+          requirement of the development. The development should achieve Council's expectation of standard
+          quality and finishes of similar public assets.
+
+
+           - We have assumed the tender procurement for each development is through a competitive tendering process
+          with no less than three selected tenderers to participate.
+
+
+           - We have assumed the form of contracting is an Australian Standard lump sum contract, such as AS4000.
+
+
+           - We have allowed for cost escalation to an anticipated tender date as noted. The estimates include cost
+          escalation during the construction period of the development.
+
+
+           - A 5% of "Design Fees" has been allowed for in our cost estimates as per MPA's instruction
+
+
+           - A 10% of "Project Management & Supervision" cost has been allowed for in our cost estimates as per MPA's
+          instruction.
+
+
+           - A 20% of "Contingency" has been allowed for in our cost estimates as per MPA's instruction
+
+
+
+           - The estimates exclude Goods and Services Tax (G.S.T)
+
+
+           - The estimates exclude cost associated with utilities connection, authority contribution and headworks
+          charges
+
+
+           - The estimates exclude cost associated with working in significant sloping site, rock excavation and site
+          decontamination.
+
+
+           - The estimates exclude allowance for loose furniture and equipment.
+
+
+           - The estimates are prepared based on the previous DCP costing that PQS involved in, such as
+          Armstrong Creek East DCP, Armstrong Creek West DCP, Armstrong Creek Horseshoe Bend DCP,
+          Ballarat West DCP, and also cost plans prepared for various local councils including City of Boroondara,
+          Melton City Council, City of Port Phillip, Frankston City Council etc.
+A
+P
+P
+E
+N
+D
+I
+X
+
+‘B’
+           PROWSE QUANTITY SURVEYORS PTY LTD
+           ABN 83 097 049 548 ACN 097 049 548
+
+
+CLYDE DEVELOPER CONTRIBUTION PLAN COSTING                                      DATE            4/03/2014
+COMMUNITY FACILITIES
+Summary
+                                                                               REF               9847/C
+                                                                               Page                   1
+
+
+ ELEM                               DESCRIPTION            UNIT   NETT COST      ON COST       TOTAL
+                                                                                                COST
+
+
+           COMMUNITY FACILITIES
+
+
+
+             Thompson's Road Precinct
+CO_53_01     Family and Children's Centre (Level 1)        ITEM    3,119,900      1,204,282    4,324,182
+
+
+CO_53_02     Branch Library & Community Centre (Level 3)   ITEM           -             -            -
+              - Excluded as advised
+
+
+CO_53_03     Community Care Hub / Host Home                ITEM           -             -            -
+              - Excluded as advised
+
+
+CO_53_04     Family and Children's Centre (Level 1)        ITEM    3,119,900      1,204,282    4,324,182
+
+
+
+
+             Clyde Creek Precinct
+CO_54_01     Family and Children's Centre (Level 1)        ITEM    3,119,900      1,204,282    4,324,182
+
+
+CO_54_02     Family and Children's Centre (Level 1)        ITEM    3,119,900      1,204,282    4,324,182
+
+
+CO_54_03     Family and Children's Centre (Level 1)        ITEM    3,119,900      1,204,282    4,324,182
+
+
+CO_54_04     Family and Children's Centre (Level 1)        ITEM    3,119,900      1,204,282    4,324,182
+
+
+CO_54_05     Specialist Community Centre (Level 3)         ITEM           -             -            -
+              - Excluded as advised
+
+
+CO_54_06     Family and Children's Centre (Level 1)        ITEM    3,119,900      1,204,282    4,324,182
+
+
+
+
+           TOTAL OF COMMUNITY FACILITIES (Excl GST)
+  CO                                                                                          30,269,274
+           (Fixed Price Contract - July 2014)
+          PROWSE QUANTITY SURVEYORS PTY LTD
+          ABN 83 097 049 548 ACN 097 049 548
+
+
+CLYDE DEVELOPER CONTRIBUTION PLAN COSTING                                                     DATE            4/03/2014
+COMMUNITY FACILITIES                                                                          GFA                  839
+CO-53-01 - Family and Children's Centre (Level 1)
+                                                                                              REF               9847/C
+                                                                                              Page                   2
+
+
+  ELEM                           DESCRIPTION                            UNIT      QUANTITY       RATE         TOTAL
+                                                                                                               COST
+
+          CO-53-01 - Family and Children's Centre (Level 1)
+           Foyer                                               (FECA)   M2               15          2,100      31,500
+           Reception Desk                                      (FECA)   M2               12          2,300      27,600
+           Community congregation area                         (FECA)   M2               50          2,400     120,000
+           Kindergarten Rooms (in 2 no. x 33 children)         (FECA)   M2              264          2,600     686,400
+           MCH Rooms (in 2 no.)                                (FECA)   M2               44          2,400     105,600
+           Multi-purpose space                                 (FECA)   M2               80          2,400     192,000
+           Meeting rooms (in 2 no.)                            (FECA)   M2               24          2,400      57,600
+           Kitchenettes (in 3 no.)                             (FECA)   M2               24          2,800      67,200
+           MCH waiting room                                    (FECA)   M2               12          2,400      28,800
+           Office                                              (FECA)   M2               12          2,400      28,800
+           Staff room                                          (FECA)   M2               20          2,400      48,000
+           Children's toilet                                   (FECA)   M2               66          2,800     184,800
+           Public Toilets                                      (FECA)   M2               64          2,600     166,400
+           First aid room                                      (FECA)   M2               12          2,600      31,200
+           Circulation, storage & services cupboards           (FECA)   M2              100          2,100     210,000
+           Canopy & Verandah                                    (UCA)   M2               40            700      28,000
+           Outdoor play space & playground                    (OPEN)    M2              800            600     480,000
+
+
+          Site Works
+            Site preparation & demolition                               ITEM                                   100,000
+            Roads, footpaths and paved areas                            ITEM                                    25,000
+             - Asphalt Carpark (in approx 30 cars)                       M2             900             110     99,000
+            Boundary walls, fences and gates                            ITEM                                    12,000
+            Outbuildings and covered ways                               ITEM                                    12,000
+            Landscaping and Improvements                                ITEM                                    75,000
+
+          External Services
+            External stormwater drainage                                ITEM                                    85,000
+            External sewer drainage                                     ITEM                                    56,000
+            External water supply                                       ITEM                                    28,000
+            External gas reticulation                                   ITEM                                    21,000
+            External fire protection                                    ITEM                                    21,000
+            External light & power                                      ITEM                                    85,000
+            External communications                                     ITEM                                     7,000
+
+
+SUB-TOTAL                                                                                                 $   3,119,900
+
+ PRELIMINARIES (Included Above)                                             - %                           $        -
+ COST ESCALATION TO TENDER (Included Above)                                 - %                           $        -
+ COST ESCALATION DURING CONSTRUCTION (Included Above)                       - %                           $        -
+ DESIGN FEES (As Advised)                                                5.00 %                           $    155,995
+ PROJECT MANAGEMENT & SUPERVISION (As Advised)                          10.00 %                           $    327,590
+ CONTINGENCY (As Advised)                                               20.00 %                           $    720,697
+ LOOSE FURNITURE & EQUIPMENT (Excluded)                                 ITEM                              $          -
+
+ANTICIPATED TOTAL PROJECT COST (Excluding GST)                                                            $   4,324,182
+(Fixed Price Contract - July 2014)
+          PROWSE QUANTITY SURVEYORS PTY LTD
+          ABN 83 097 049 548 ACN 097 049 548
+
+
+CLYDE DEVELOPER CONTRIBUTION PLAN COSTING                                                     DATE            4/03/2014
+COMMUNITY FACILITIES                                                                          GFA                  839
+CO-53-04 - Family and Children's Centre (Level 1)
+                                                                                              REF               9847/C
+                                                                                              Page                   3
+
+
+  ELEM                           DESCRIPTION                            UNIT      QUANTITY       RATE         TOTAL
+                                                                                                               COST
+
+          CO-53-04 - Family and Children's Centre (Level 1)
+           Foyer                                               (FECA)   M2               15          2,100      31,500
+           Reception Desk                                      (FECA)   M2               12          2,300      27,600
+           Community congregation area                         (FECA)   M2               50          2,400     120,000
+           Kindergarten Rooms (in 2 no. x 33 children)         (FECA)   M2              264          2,600     686,400
+           MCH Rooms (in 2 no.)                                (FECA)   M2               44          2,400     105,600
+           Multi-purpose space                                 (FECA)   M2               80          2,400     192,000
+           Meeting rooms (in 2 no.)                            (FECA)   M2               24          2,400      57,600
+           Kitchenettes (in 3 no.)                             (FECA)   M2               24          2,800      67,200
+           MCH waiting room                                    (FECA)   M2               12          2,400      28,800
+           Office                                              (FECA)   M2               12          2,400      28,800
+           Staff room                                          (FECA)   M2               20          2,400      48,000
+           Children's toilet                                   (FECA)   M2               66          2,800     184,800
+           Public Toilets                                      (FECA)   M2               64          2,600     166,400
+           First aid room                                      (FECA)   M2               12          2,600      31,200
+           Circulation, storage & services cupboards           (FECA)   M2              100          2,100     210,000
+           Canopy & Verandah                                    (UCA)   M2               40            700      28,000
+           Outdoor play space & playground                    (OPEN)    M2              800            600     480,000
+
+
+          Site Works
+            Site preparation & demolition                               ITEM                                   100,000
+            Roads, footpaths and paved areas                            ITEM                                    25,000
+             - Asphalt Carpark (in approx 30 cars)                       M2             900             110     99,000
+            Boundary walls, fences and gates                            ITEM                                    12,000
+            Outbuildings and covered ways                               ITEM                                    12,000
+            Landscaping and Improvements                                ITEM                                    75,000
+
+          External Services
+            External stormwater drainage                                ITEM                                    85,000
+            External sewer drainage                                     ITEM                                    56,000
+            External water supply                                       ITEM                                    28,000
+            External gas reticulation                                   ITEM                                    21,000
+            External fire protection                                    ITEM                                    21,000
+            External light & power                                      ITEM                                    85,000
+            External communications                                     ITEM                                     7,000
+
+
+SUB-TOTAL                                                                                                 $   3,119,900
+
+ PRELIMINARIES (Included Above)                                             - %                           $        -
+ COST ESCALATION TO TENDER (Included Above)                                 - %                           $        -
+ COST ESCALATION DURING CONSTRUCTION (Included Above)                       - %                           $        -
+ DESIGN (As Advised)                                                     5.00 %                           $    155,995
+ PROJECT MANAGEMENT & SUPERVISION (As Advised)                          10.00 %                           $    327,590
+ CONTINGENCY (As Advised)                                               20.00 %                           $    720,697
+ LOOSE FURNITURE & EQUIPMENT (Excluded)                                 ITEM                              $          -
+
+ANTICIPATED TOTAL PROJECT COST (Excluding GST)                                                            $   4,324,182
+(Fixed Price Contract - July 2014)
+          PROWSE QUANTITY SURVEYORS PTY LTD
+          ABN 83 097 049 548 ACN 097 049 548
+
+
+CLYDE DEVELOPER CONTRIBUTION PLAN COSTING                                                     DATE            4/03/2014
+COMMUNITY FACILITIES                                                                          GFA                  839
+CO-54-01 - Family and Children's Centre (Level 1)
+                                                                                              REF               9847/C
+                                                                                              Page                   4
+
+
+  ELEM                           DESCRIPTION                            UNIT      QUANTITY       RATE         TOTAL
+                                                                                                               COST
+
+          CO-54-01 - Family and Children's Centre (Level 1)
+           Foyer                                               (FECA)   M2               15          2,100      31,500
+           Reception Desk                                      (FECA)   M2               12          2,300      27,600
+           Community congregation area                         (FECA)   M2               50          2,400     120,000
+           Kindergarten Rooms (in 2 no. x 33 children)         (FECA)   M2              264          2,600     686,400
+           MCH Rooms (in 2 no.)                                (FECA)   M2               44          2,400     105,600
+           Multi-purpose space                                 (FECA)   M2               80          2,400     192,000
+           Meeting rooms (in 2 no.)                            (FECA)   M2               24          2,400      57,600
+           Kitchenettes (in 3 no.)                             (FECA)   M2               24          2,800      67,200
+           MCH waiting room                                    (FECA)   M2               12          2,400      28,800
+           Office                                              (FECA)   M2               12          2,400      28,800
+           Staff room                                          (FECA)   M2               20          2,400      48,000
+           Children's toilet                                   (FECA)   M2               66          2,800     184,800
+           Public Toilets                                      (FECA)   M2               64          2,600     166,400
+           First aid room                                      (FECA)   M2               12          2,600      31,200
+           Circulation, storage & services cupboards           (FECA)   M2              100          2,100     210,000
+           Canopy & Verandah                                    (UCA)   M2               40            700      28,000
+           Outdoor play space & playground                    (OPEN)    M2              800            600     480,000
+
+
+          Site Works
+            Site preparation & demolition                               ITEM                                   100,000
+            Roads, footpaths and paved areas                            ITEM                                    25,000
+             - Asphalt Carpark (in approx 30 cars)                       M2             900             110     99,000
+            Boundary walls, fences and gates                            ITEM                                    12,000
+            Outbuildings and covered ways                               ITEM                                    12,000
+            Landscaping and Improvements                                ITEM                                    75,000
+
+          External Services
+            External stormwater drainage                                ITEM                                    85,000
+            External sewer drainage                                     ITEM                                    56,000
+            External water supply                                       ITEM                                    28,000
+            External gas reticulation                                   ITEM                                    21,000
+            External fire protection                                    ITEM                                    21,000
+            External light & power                                      ITEM                                    85,000
+            External communications                                     ITEM                                     7,000
+
+
+SUB-TOTAL                                                                                                 $   3,119,900
+
+ PRELIMINARIES (Included Above)                                             - %                           $        -
+ COST ESCALATION TO TENDER (Included Above)                                 - %                           $        -
+ COST ESCALATION DURING CONSTRUCTION (Included Above)                       - %                           $        -
+ DESIGN (As Advised)                                                     5.00 %                           $    155,995
+ PROJECT MANAGEMENT & SUPERVISION (As Advised)                          10.00 %                           $    327,590
+ CONTINGENCY (As Advised)                                               20.00 %                           $    720,697
+ LOOSE FURNITURE & EQUIPMENT (Excluded)                                 ITEM                              $          -
+
+ANTICIPATED TOTAL PROJECT COST (Excluding GST)                                                            $   4,324,182
+(Fixed Price Contract - July 2014)
+          PROWSE QUANTITY SURVEYORS PTY LTD
+          ABN 83 097 049 548 ACN 097 049 548
+
+
+CLYDE DEVELOPER CONTRIBUTION PLAN COSTING                                                     DATE            4/03/2014
+COMMUNITY FACILITIES                                                                          GFA                  839
+CO-54-02 - Family and Children's Centre (Level 1)
+                                                                                              REF               9847/C
+                                                                                              Page                   5
+
+
+  ELEM                           DESCRIPTION                            UNIT      QUANTITY       RATE         TOTAL
+                                                                                                               COST
+
+          CO-54-02 - Family and Children's Centre (Level 1)
+           Foyer                                               (FECA)   M2               15          2,100      31,500
+           Reception Desk                                      (FECA)   M2               12          2,300      27,600
+           Community congregation area                         (FECA)   M2               50          2,400     120,000
+           Kindergarten Rooms (in 2 no. x 33 children)         (FECA)   M2              264          2,600     686,400
+           MCH Rooms (in 2 no.)                                (FECA)   M2               44          2,400     105,600
+           Multi-purpose space                                 (FECA)   M2               80          2,400     192,000
+           Meeting rooms (in 2 no.)                            (FECA)   M2               24          2,400      57,600
+           Kitchenettes (in 3 no.)                             (FECA)   M2               24          2,800      67,200
+           MCH waiting room                                    (FECA)   M2               12          2,400      28,800
+           Office                                              (FECA)   M2               12          2,400      28,800
+           Staff room                                          (FECA)   M2               20          2,400      48,000
+           Children's toilet                                   (FECA)   M2               66          2,800     184,800
+           Public Toilets                                      (FECA)   M2               64          2,600     166,400
+           First aid room                                      (FECA)   M2               12          2,600      31,200
+           Circulation, storage & services cupboards           (FECA)   M2              100          2,100     210,000
+           Canopy & Verandah                                    (UCA)   M2               40            700      28,000
+           Outdoor play space & playground                    (OPEN)    M2              800            600     480,000
+
+
+          Site Works
+            Site preparation & demolition                               ITEM                                   100,000
+            Roads, footpaths and paved areas                            ITEM                                    25,000
+             - Asphalt Carpark (in approx 30 cars)                       M2             900             110     99,000
+            Boundary walls, fences and gates                            ITEM                                    12,000
+            Outbuildings and covered ways                               ITEM                                    12,000
+            Landscaping and Improvements                                ITEM                                    75,000
+
+          External Services
+            External stormwater drainage                                ITEM                                    85,000
+            External sewer drainage                                     ITEM                                    56,000
+            External water supply                                       ITEM                                    28,000
+            External gas reticulation                                   ITEM                                    21,000
+            External fire protection                                    ITEM                                    21,000
+            External light & power                                      ITEM                                    85,000
+            External communications                                     ITEM                                     7,000
+
+
+SUB-TOTAL                                                                                                 $   3,119,900
+
+ PRELIMINARIES (Included Above)                                             - %                           $        -
+ COST ESCALATION TO TENDER (Included Above)                                 - %                           $        -
+ COST ESCALATION DURING CONSTRUCTION (Included Above)                       - %                           $        -
+ DESIGN (As Advised)                                                     5.00 %                           $    155,995
+ PROJECT MANAGEMENT & SUPERVISION (As Advised)                          10.00 %                           $    327,590
+ CONTINGENCY (As Advised)                                               20.00 %                           $    720,697
+ LOOSE FURNITURE & EQUIPMENT (Excluded)                                 ITEM                              $          -
+
+ANTICIPATED TOTAL PROJECT COST (Excluding GST)                                                            $   4,324,182
+(Fixed Price Contract - July 2014)
+          PROWSE QUANTITY SURVEYORS PTY LTD
+          ABN 83 097 049 548 ACN 097 049 548
+
+
+CLYDE DEVELOPER CONTRIBUTION PLAN COSTING                                                     DATE            4/03/2014
+COMMUNITY FACILITIES                                                                          GFA                  839
+CO-54-03 - Family and Children's Centre (Level 1)
+                                                                                              REF               9847/C
+                                                                                              Page                   6
+
+
+  ELEM                           DESCRIPTION                            UNIT      QUANTITY       RATE         TOTAL
+                                                                                                               COST
+
+          CO-54-03 - Family and Children's Centre (Level 1)
+           Foyer                                               (FECA)   M2               15          2,100      31,500
+           Reception Desk                                      (FECA)   M2               12          2,300      27,600
+           Community congregation area                         (FECA)   M2               50          2,400     120,000
+           Kindergarten Rooms (in 2 no. x 33 children)         (FECA)   M2              264          2,600     686,400
+           MCH Rooms (in 2 no.)                                (FECA)   M2               44          2,400     105,600
+           Multi-purpose space                                 (FECA)   M2               80          2,400     192,000
+           Meeting rooms (in 2 no.)                            (FECA)   M2               24          2,400      57,600
+           Kitchenettes (in 3 no.)                             (FECA)   M2               24          2,800      67,200
+           MCH waiting room                                    (FECA)   M2               12          2,400      28,800
+           Office                                              (FECA)   M2               12          2,400      28,800
+           Staff room                                          (FECA)   M2               20          2,400      48,000
+           Children's toilet                                   (FECA)   M2               66          2,800     184,800
+           Public Toilets                                      (FECA)   M2               64          2,600     166,400
+           First aid room                                      (FECA)   M2               12          2,600      31,200
+           Circulation, storage & services cupboards           (FECA)   M2              100          2,100     210,000
+           Canopy & Verandah                                    (UCA)   M2               40            700      28,000
+           Outdoor play space & playground                    (OPEN)    M2              800            600     480,000
+
+
+          Site Works
+            Site preparation & demolition                               ITEM                                   100,000
+            Roads, footpaths and paved areas                            ITEM                                    25,000
+             - Asphalt Carpark (in approx 30 cars)                       M2             900             110     99,000
+            Boundary walls, fences and gates                            ITEM                                    12,000
+            Outbuildings and covered ways                               ITEM                                    12,000
+            Landscaping and Improvements                                ITEM                                    75,000
+
+          External Services
+            External stormwater drainage                                ITEM                                    85,000
+            External sewer drainage                                     ITEM                                    56,000
+            External water supply                                       ITEM                                    28,000
+            External gas reticulation                                   ITEM                                    21,000
+            External fire protection                                    ITEM                                    21,000
+            External light & power                                      ITEM                                    85,000
+            External communications                                     ITEM                                     7,000
+
+
+SUB-TOTAL                                                                                                 $   3,119,900
+
+ PRELIMINARIES (Included Above)                                             - %                           $        -
+ COST ESCALATION TO TENDER (Included Above)                                 - %                           $        -
+ COST ESCALATION DURING CONSTRUCTION (Included Above)                       - %                           $        -
+ DESIGN (As Advised)                                                     5.00 %                           $    155,995
+ PROJECT MANAGEMENT & SUPERVISION (As Advised)                          10.00 %                           $    327,590
+ CONTINGENCY (As Advised)                                               20.00 %                           $    720,697
+ LOOSE FURNITURE & EQUIPMENT (Excluded)                                 ITEM                              $          -
+
+ANTICIPATED TOTAL PROJECT COST (Excluding GST)                                                            $   4,324,182
+(Fixed Price Contract - July 2014)
+          PROWSE QUANTITY SURVEYORS PTY LTD
+          ABN 83 097 049 548 ACN 097 049 548
+
+
+CLYDE DEVELOPER CONTRIBUTION PLAN COSTING                                                     DATE            4/03/2014
+COMMUNITY FACILITIES                                                                          GFA                  839
+CO-54-04 - Family and Children's Centre (Level 1)
+                                                                                              REF               9847/C
+                                                                                              Page                   7
+
+
+  ELEM                           DESCRIPTION                            UNIT      QUANTITY       RATE         TOTAL
+                                                                                                               COST
+
+          CO-54-04 - Family and Children's Centre (Level 1)
+           Foyer                                               (FECA)   M2               15          2,100      31,500
+           Reception Desk                                      (FECA)   M2               12          2,300      27,600
+           Community congregation area                         (FECA)   M2               50          2,400     120,000
+           Kindergarten Rooms (in 2 no. x 33 children)         (FECA)   M2              264          2,600     686,400
+           MCH Rooms (in 2 no.)                                (FECA)   M2               44          2,400     105,600
+           Multi-purpose space                                 (FECA)   M2               80          2,400     192,000
+           Meeting rooms (in 2 no.)                            (FECA)   M2               24          2,400      57,600
+           Kitchenettes (in 3 no.)                             (FECA)   M2               24          2,800      67,200
+           MCH waiting room                                    (FECA)   M2               12          2,400      28,800
+           Office                                              (FECA)   M2               12          2,400      28,800
+           Staff room                                          (FECA)   M2               20          2,400      48,000
+           Children's toilet                                   (FECA)   M2               66          2,800     184,800
+           Public Toilets                                      (FECA)   M2               64          2,600     166,400
+           First aid room                                      (FECA)   M2               12          2,600      31,200
+           Circulation, storage & services cupboards           (FECA)   M2              100          2,100     210,000
+           Canopy & Verandah                                    (UCA)   M2               40            700      28,000
+           Outdoor play space & playground                    (OPEN)    M2              800            600     480,000
+
+
+          Site Works
+            Site preparation & demolition                               ITEM                                   100,000
+            Roads, footpaths and paved areas                            ITEM                                    25,000
+             - Asphalt Carpark (in approx 30 cars)                       M2             900             110     99,000
+            Boundary walls, fences and gates                            ITEM                                    12,000
+            Outbuildings and covered ways                               ITEM                                    12,000
+            Landscaping and Improvements                                ITEM                                    75,000
+
+          External Services
+            External stormwater drainage                                ITEM                                    85,000
+            External sewer drainage                                     ITEM                                    56,000
+            External water supply                                       ITEM                                    28,000
+            External gas reticulation                                   ITEM                                    21,000
+            External fire protection                                    ITEM                                    21,000
+            External light & power                                      ITEM                                    85,000
+            External communications                                     ITEM                                     7,000
+
+
+SUB-TOTAL                                                                                                 $   3,119,900
+
+ PRELIMINARIES (Included Above)                                             - %                           $        -
+ COST ESCALATION TO TENDER (Included Above)                                 - %                           $        -
+ COST ESCALATION DURING CONSTRUCTION (Included Above)                       - %                           $        -
+ DESIGN (As Advised)                                                     5.00 %                           $    155,995
+ PROJECT MANAGEMENT & SUPERVISION (As Advised)                          10.00 %                           $    327,590
+ CONTINGENCY (As Advised)                                               20.00 %                           $    720,697
+ LOOSE FURNITURE & EQUIPMENT (Excluded)                                 ITEM                              $          -
+
+ANTICIPATED TOTAL PROJECT COST (Excluding GST)                                                            $   4,324,182
+(Fixed Price Contract - July 2014)
+          PROWSE QUANTITY SURVEYORS PTY LTD
+          ABN 83 097 049 548 ACN 097 049 548
+
+
+CLYDE DEVELOPER CONTRIBUTION PLAN COSTING                                                     DATE            4/03/2014
+COMMUNITY FACILITIES                                                                          GFA                  839
+CO-54-06 - Family and Children's Centre (Level 1)
+                                                                                              REF               9847/C
+                                                                                              Page                   8
+
+
+  ELEM                           DESCRIPTION                            UNIT      QUANTITY       RATE         TOTAL
+                                                                                                               COST
+
+          CO-54-06 - Family and Children's Centre (Level 1)
+           Foyer                                               (FECA)   M2               15          2,100      31,500
+           Reception Desk                                      (FECA)   M2               12          2,300      27,600
+           Community congregation area                         (FECA)   M2               50          2,400     120,000
+           Kindergarten Rooms (in 2 no. x 33 children)         (FECA)   M2              264          2,600     686,400
+           MCH Rooms (in 2 no.)                                (FECA)   M2               44          2,400     105,600
+           Multi-purpose space                                 (FECA)   M2               80          2,400     192,000
+           Meeting rooms (in 2 no.)                            (FECA)   M2               24          2,400      57,600
+           Kitchenettes (in 3 no.)                             (FECA)   M2               24          2,800      67,200
+           MCH waiting room                                    (FECA)   M2               12          2,400      28,800
+           Office                                              (FECA)   M2               12          2,400      28,800
+           Staff room                                          (FECA)   M2               20          2,400      48,000
+           Children's toilet                                   (FECA)   M2               66          2,800     184,800
+           Public Toilets                                      (FECA)   M2               64          2,600     166,400
+           First aid room                                      (FECA)   M2               12          2,600      31,200
+           Circulation, storage & services cupboards           (FECA)   M2              100          2,100     210,000
+           Canopy & Verandah                                    (UCA)   M2               40            700      28,000
+           Outdoor play space & playground                    (OPEN)    M2              800            600     480,000
+
+
+          Site Works
+            Site preparation & demolition                               ITEM                                   100,000
+            Roads, footpaths and paved areas                            ITEM                                    25,000
+             - Asphalt Carpark (in approx 30 cars)                       M2             900             110     99,000
+            Boundary walls, fences and gates                            ITEM                                    12,000
+            Outbuildings and covered ways                               ITEM                                    12,000
+            Landscaping and Improvements                                ITEM                                    75,000
+
+          External Services
+            External stormwater drainage                                ITEM                                    85,000
+            External sewer drainage                                     ITEM                                    56,000
+            External water supply                                       ITEM                                    28,000
+            External gas reticulation                                   ITEM                                    21,000
+            External fire protection                                    ITEM                                    21,000
+            External light & power                                      ITEM                                    85,000
+            External communications                                     ITEM                                     7,000
+
+
+SUB-TOTAL                                                                                                 $   3,119,900
+
+ PRELIMINARIES (Included Above)                                             - %                           $        -
+ COST ESCALATION TO TENDER (Included Above)                                 - %                           $        -
+ COST ESCALATION DURING CONSTRUCTION (Included Above)                       - %                           $        -
+ DESIGN (As Advised)                                                     5.00 %                           $    155,995
+ PROJECT MANAGEMENT & SUPERVISION (As Advised)                          10.00 %                           $    327,590
+ CONTINGENCY (As Advised)                                               20.00 %                           $    720,697
+ LOOSE FURNITURE & EQUIPMENT (Excluded)                                 ITEM                              $          -
+
+ANTICIPATED TOTAL PROJECT COST (Excluding GST)                                                            $   4,324,182
+(Fixed Price Contract - July 2014)
+     7.12 Concept interim road mid-block lengths
+
+
+
+
+88   CLYDE DEVELOPMENT CONTRIBUTIONS PLAN - October 2014 (Amended December 2023)
+                                                           ROAD MID-BLOCK LENGTH TOTALS
+                                                                                                                                                                THOMPSONS ROAD
+
+
+                                                               ROAD NUMBER    TOTAL LENGTH (m)
+
+                                                               RD-53-01A            760
+
+                                                               RD-53-01B            1100
+
+                                                               RD-53-02             540
+
+
+
+
+                                                                                                                                                                                                                 B
+                                                               RD-53-03A            630
+
+
+
+
+                                                                                                                                                                                                                  E
+                                                                                                                                                                                                                   L
+                                                                                                                                                                                                                    L
+                                                                                                                                                                                                                     S
+                                                               RD-54-01             1520
+
+
+
+
+                                                                                                                                                                                                                         R
+                                                                                                                                                                                                                          O
+                                                                                                                                                                                                                           A
+                                                                                                                                         ROAD
+
+
+
+
+                                                                                                                                                                                                                            D
+                                                               RD-54-02             1900
+                                                                                                                                                                   HARDYS ROAD                                                  SK22
+                                                               RD-54-03             1730**
+   14 PM
+
+
+
+
+                                                                                                                                              CK - CRANBOURNE
+                                                               RD-54-04             1105
+ 43:
+6:
+
+
+
+
+                                                               RD-54-05             357*
+            7/04/2015
+
+
+
+
+                                                               RD-54-06             497*
+DATE PLOTTED:
+
+
+
+
+                                                               RD-54-07             975*
+
+                                                               RD-57.1-01           1000
+
+
+
+
+                                                                                                                                         BERW I
+                                                               RD-57.1-02           300
+
+                                                               * VALUES PROVIDED BY MPA
+                                                               ** ADDITIONAL 100m ADDED AT COUNCIL
+                                                               REQUEST FOR BALLARTO ROAD INTERFACE                                                              PATTERSONS ROAD
+                                                                                                                                                                                                                                SK23
+                                                                                                                                                VE-W AYS ROAD
+                                                                                                        ELDS
+                                                                                                               BOULEVARD
+                                                                                                                                 ON
+                                                                                                 CASEY FI
+
+
+
+
+                                                                                                                                         CLYDE FI
+                                                                                                                           EXTENSI
+
+
+
+
+                                                                                                                                      SK25
+                                                                                                                                                                BALLARTO ROAD
+                                                                                                                                                                                                                                SK24
+                                                     dgn
+                                     ngs\CG130898SK21.
+         \DRATRAFF\2013\CG130898\Drawi
+
+
+
+
+                                                              CLYDE DCP - LEGEND
+
+                                                                CONCEPT PROPOSED TITLE BOUNDARY
+
+                                                                CLYDE DCPO BOUNDARY
+                                                                                                                                                                     CG130898SK21 P3 - CLYDE DCP
+       O:
+
+
+
+
+                                                                                                                                                         CONCEPT INTERIM ROAD MID-BLOCK LENGTHS - TITLE PAGE
+     LE:
+CAD FI
+
+
+
+
+                                                                                                                                                                          SCALE - 1:30000 @ A3 DATE - 07-04-15
+                                                                                                               THOMPSONS ROAD
+                                                                                                   378                              490                                               204                                               518           270
+
+
+
+
+                                                                                                                                                                                                                                      RD-53-01B     RD-53-01A
+                                                                                                RD-53-01B                         RD-53-01A                                     RD-53-01B
+                                                                  CRANBOURNE ROAD
+
+
+
+
+                                                                                                                                                                                                                      BE
+                                                                                                                                                                                                                        LL
+   08 PM
+
+
+
+
+                                                                                                                                                                                                                          S R 18
+ 34:
+3:
+
+
+
+
+                                                                                                                                                                                                                             OA
+                                                                                                                                                                                                          RD
+
+
+
+
+                                                                                                                                                                                                                              1
+            7/04/2015
+
+
+
+
+                                                                                                                                                                                                            -53
+
+
+
+
+                                                                                                                                                                                                                                 D
+                                                                                                                                                                                                               -03
+DATE PLOTTED:
+
+
+
+
+                                                                                                                                                                                                                  A
+                                                                                                                                                                                                         00
+                                                                                                                                                                                                         1
+                                                                                                                                                                   182
+                                                                CK-
+
+
+
+
+                                                                                                                                                                                                               02
+                                                                                                                                                                                                             3-
+                                                                                                                                                                                                           -5
+                                                                                                                                                                 RD-53-02                                RD
+                                                           BERW I
+
+
+
+
+                                                                                                                                                                                                                                              5
+                                                                                                                                                                                                                                               12
+                                                                                                                                                      RD-53-02
+
+
+
+
+                                                                                                                                                                                                                               R
+                                                                                                                                                                                                                                D
+                                                                                                                                                                                                                                 -
+                                                                                                                                              258
+
+
+
+
+                                                                                                                                                                                                                                  5
+                                                                                                                                                                                                                                   3
+                                                                                                                                                                                                                                    -
+                                                                                                                                                                                                                                     0
+                                                                                                                                                                                                                                      3
+                                                                                                                                                                                                                                       A
+                                                                                                     HARDYS ROAD
+                                                                                                  522                    115              33                                          527                                              323
+
+
+
+
+                                                                                                                                                                                RD-54-01                                             RD-54-01
+                                                                                                RD-54-01               RD-54-01        RD-54-01
+
+                                                                                                                         FOR CONTINUATION SEE CARDNO DRAWING CG130898SK23
+                                                     dgn
+                                     ngs\CG130898SK22.
+         \DRATRAFF\2013\CG130898\Drawi
+
+
+
+
+                                                                                    CLYDE DCP - LEGEND
+
+                                                                                     CONCEPT PROPOSED TITLE BOUNDARY
+
+                                                                                     CLYDE DCPO BOUNDARY
+
+                                                                                                                                                      CG130898SK22 P2 - CLYDE DCP
+       O:
+
+
+
+
+                                                                                                                                                CONCEPT INTERIM ROAD MID-BLOCK LENGTHS
+     LE:
+CAD FI
+
+
+
+
+                                                                                                                                                                  SCALE - 1:12500 @ A3 DATE - 07.04.15
+                                                                                                                       FOR CONTINUATION SEE CARDNO DRAWING CG130898SK22
+
+
+
+
+                                                                                                                                                                                                                                     RD-
+
+
+
+
+                                                                                                                                                                                                                                                555
+                                                                                                                                                               RD-54-03
+                                                                  CRANBOURNE ROAD
+
+
+
+
+                                                                                                                                                                                                                                        54-0
+                                                                                                                                                       435
+
+
+
+
+                                                                                                                                                                                                                                            4
+3: 37 PM
+ 34:        7/04/2015
+DATE PLOTTED:
+
+
+
+
+                                                                                                                                        TUCKERS ROAD
+
+
+
+
+                                                                                                                                                                                                                            BELLS ROAD
+                                                                                                                                                               RD-54-03
+
+
+
+
+                                                                                                                                                                                                                                                 RD-54-04
+                                                                CK-
+
+
+
+
+                                                                                                                                                        565
+
+
+
+
+                                                                                                                                                                                                                                          550
+                                                           BERW I
+
+
+
+
+                                                                                         PATTERSONS ROAD
+                                                                                                  535                                                                                           513                423
+                                                                                                                               429
+
+
+
+
+                                                                                                                                                                                          RD-54-02               RD-54-02
+                                                                                                RD-54-02                     RD-54-02
+
+                                                                                                                       FOR CONTINUATION SEE CARDNO DRAWING CG130898SK24
+                                                     dgn
+                                     ngs\CG130898SK23.
+         \DRATRAFF\2013\CG130898\Drawi
+
+
+
+
+                                                                                    CLYDE DCP - LEGEND
+
+                                                                                     CONCEPT PROPOSED TITLE BOUNDARY
+
+                                                                                     CLYDE DCPO BOUNDARY
+
+                                                                                                                                                              CG130898SK23 P2 - CLYDE DCP
+       O:
+
+
+
+
+                                                                                                                                                       CONCEPT INTERIM ROAD MID-BLOCK LENGTHS
+     LE:
+CAD FI
+
+
+
+
+                                                                                                                                                                          SCALE - 1:12500 @ A3 DATE - 07.04.15
+CAD FI
+     LE:
+       O:\DRATRAFF\2013\CG130898\Drawi
+                                     ngs\CG130898SK24.
+                                                     dgn                                                                                                                                                                           DATE PLOTTED:
+                                                                                                                                                                                                                                               7/04/2015   4:
+                                                                                                                                                                                                                                                            22:
+                                                                                                                                                                                                                                                              02 PM
+
+
+
+
+                                                                                                                                                                                                FOR CONTI
+                                                                                                                                                                                                        NUATI
+                                                                                                                                                                                                            ON SEE CARDNO DRAW I
+                                                                                                                                                                                                                               NG CG130898SK25
+
+
+
+
+                                                                                                                                                                                                                      BERW I
+                                                                                                                                                                                                                           CK-
+                                                                                                                                                                                                                             CRANBOURNE ROAD
+
+
+
+
+                                                                                                                   CLYDE DCPO BOUNDARY
+                                                                                                                                                                           CLYDE DCP - LEGEND
+
+                                                                                                                                         CONCEPT PROPOSED TITLE BOUNDARY
+                                                                                                                                                                                                      BALLARTO ROAD
+                                                                                                                                                                                                                      TUCKERS ROAD
+                                                                                                                                                                                                                205       105           205                             215
+
+
+
+
+                                                                                                                                                                                                             RD-54-03   RD-54-03   RD-54-03                           RD-54-03
+                                                                                                                                                                                                                                                                                 FOR CONTINUATION SEE CARDNO DRAWING CG130898SK23
+
+
+
+
+     SCALE - 1:12500 @ A3 DATE - 07.04.15
+                                                                                     CG130898SK24 P2 - CLYDE DCP
+                                            CONCEPT INTERIM ROAD MID-BLOCK LENGTHS
+
+
+
+
+                                                                                                                                                                                                                      BELLS ROAD
+                                                                                                     ELDS BOULEVARD
+   54 PM
+ 35:
+3:
+
+
+
+
+                                                                                                                                                                                                                                  NG CG130898SK24
+            7/04/2015
+DATE PLOTTED:
+
+
+
+
+                                                                                                                             EXTENT OF PSP BOUNDARY
+
+
+
+
+                                                                                                                                                                                                               ON SEE CARDNO DRAW I
+                                                                                                                                   1-02
+                                                                                                                              RD-57.
+                                                                                                                      234
+                                                                                              CASEY FI
+
+
+                                                                                                                                   1-02
+
+
+
+
+                                                                                                                                                                                                           NUATI
+                                                                                                                                                         BALLARTO ROAD
+                                                                                                                              RD-57.
+                                                                                                                      66
+
+
+
+
+                                                                                                                                                   537                                  463
+
+
+
+
+                                                                                                                                                                                                   FOR CONTI
+                                                                                                                                              RD-57.1-01                              RD-57.1-01
+                                                     dgn
+                                     ngs\CG130898SK25.
+         \DRATRAFF\2013\CG130898\Drawi
+
+
+
+
+                                                           CLYDE DCP - LEGEND
+
+                                                            CONCEPT PROPOSED TITLE BOUNDARY
+
+                                                            CLYDE DCPO BOUNDARY
+
+                                                                                                                                          CG130898SK25 P3 - CLYDE DCP
+       O:
+
+
+
+
+                                                                                                                            CONCEPT INTERIM ROAD MID-BLOCK LENGTHS
+     LE:
+CAD FI
+
+
+
+
+                                                                                                                                               SCALE - 1:12500 @ A3 DATE - 07.04.15
+Clyde Development Contributions Plan - Amended December 2023
+
+
+                 CLYDE DEVELOPMENT CONTRIBUTIONS PLAN - October 2014 (Amended December 2023)   89
+

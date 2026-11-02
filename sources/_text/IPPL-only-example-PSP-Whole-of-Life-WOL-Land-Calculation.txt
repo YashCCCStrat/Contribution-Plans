@@ -1,0 +1,72 @@
+## Sheet: LCA & LEA calculation
+Class of development	Area	IPPL (ha)		OPPL (ha)	Total PPL (ha)	ICP land contribution percentage		Class of development	Area	Percentage																																																							
+	contribution land (ha)	community/recreation	transport						contribution land (ha)																																																								
+Residential Total	103	6	10.6	0	16.6	0.16116504854368932		Residential Total	103	0.8512396694214877																																																							
+Commercial & Industrial Total	18	0	1.4	0	1.4	0.07777777777777778		Commercial & Industrial Total	18	0.1487603305785124																																																							
+Total	121	6	12	0	18	0.1487603305785124		Total	121	1																																																							
+										YEAR 0					YEAR 1 - index year					YEAR 2 - index year					YEAR 3 - revaluation year					YEAR 4 - index year					YEAR 5 - index year					YEAR 6 - revaluation year					YEAR 7 - index year					YEAR 8 - index year					YEAR 9 - revaluation year					YEAR 10  - index year					
+Parcel	Class of development	Area of contribution land (ha)	IPPL (ha)		Total PPL (ha)	Parcel contribution percentage	ICP LCP (ha)	Hectares over (ha)	Hectares under (ha)	Parcel per ha value amount year 0	LCA at Year 0	LEA rate	LEA per parcel	LEA payment rate per HA	Parcel per ha value amount year 1	LCA at Year 1	LEA rate	LEA per parcel	LEA payment rate per HA	Parcel per ha value amount year 2	LCA at Year 2	LEA rate	LEA per parcel	LEA payment rate per HA	Parcel per ha value amount year 3	LCA at Year 3	LEA rate	LEA per parcel	LEA payment rate per HA	Parcel per ha value amount year 4	LCA at Year 4	LEA rate	LEA per parcel	LEA payment rate per HA	Parcel per ha value amount year 5	LCA at Year 5	LEA rate	LEA per parcel	LEA payment rate per HA	Parcel per ha value amount year 6	LCA at Year 6	LEA rate	LEA per parcel	LEA payment rate per HA	Parcel per ha value amount year 7	LCA at Year 7	LEA rate	LEA per parcel	LEA payment rate per HA	Parcel per ha value amount year 8	LCA at Year 8	LEA rate	LEA per parcel	LEA payment rate per HA	Parcel per ha value amount year 9	LCA at Year 9	LEA rate	LEA per parcel	LEA payment rate per HA	Parcel per ha value amount year 10	LCA at Year 10	LEA rate	LEA per parcel	LEA payment rate per HA	
+			community/recreation	transport																																																													
+1	Residential	35	1	3.55	4.55	0.13	5.640776699029126	0	1.090776699029126	0	0	1419710.5444521017	1548587.1812543068	50856.7218802728	0	0	1490696.0716747069	1626016.5403170222	53399.55797428644		0	1565230.8752584422	1707317.3673328734	56069.53587300077		0	1674797.0365265333	1826829.5830461748	59994.40338411083		0	1758536.88835286	1918171.0621984836	62994.12355331638		0	1846463.732770503	2014079.6153084077	66143.8297309822		0	1841576.0346543458	2008748.2280914148	65968.74312287077		0	1933654.8363870631	2109185.6394959856	69267.18027901431		0	2030337.5782064165	2214644.921470785	72730.53929296503		0	1867725.219575787	2037271.1497023266	66905.45647626689		0	1961111.4805545765	2139134.707187443	70250.72930008023	
+2	Employment	18	0	1.4	1.4	0.07777777777777778	1.4	0	0	0	0		0	0	0	0		0	0		0		0	0		0		0	0		0		0	0		0		0	0		0		0	0		0		0	0		0		0	0		0		0	0		0		0	0	
+3	Residential	24	1	2.55	3.55	0.14791666666666667	3.867961165048544	0	0.3179611650485441	0	0		451412.81874569313	22073.97646678206	0	0		473983.4596829778	23177.675290121166		0		497682.6326671267	24336.559054627225		0		532520.4169538256	26040.11818845113		0		559146.4378015168	27342.124097873686		0		587103.7596915928	28709.230302767373		0		585549.6615041739	28633.235281377696		0		614827.1445793825	30064.897045446578		0		645568.5018083517	31568.141897718913		0		593864.0868068651	29039.808645812474		0		623557.2911472084	30491.799078103104	
+4	Residential	44	4	4.5	8.5	0.19318181818181818	7.09126213592233	1.4087378640776702	0	1419710.5444521017	2000000		0	0	1490696.0716747069	2100000		0	0	1565230.875258442	2205000		0	0	1674797.0365265333	2359350.0000000005		0	0	1758536.88835286	2477317.5000000005		0	0	1792155.9759243117	2524677.981617647		0	0	1841576.0346543458	2594297.8895955887		0	0	1867725.219575787	2631135.236509192		0	0	1867725.219575787	2631135.236509192		0	0	1867725.219575787	2631135.236509192		0	0	1867725.219575787	2631135.236509192		0	0	
+Totals	 	121	6	12	18	 	Total area	1.4087378640776702	1.4087378640776702	Total LCA/LEA	2000000	 	2000000	 	 	2100000	 	2100000	 	 	2205000	 	2205000	 	 	2359350.0000000005	 	2359350.0000000005		 	2477317.5000000005	 	2477317.5000000005		 	2524677.981617647	 	2601183.3750000005			2594297.8895955887		2594297.8895955887			2631135.236509192		2724012.784075368			2631135.236509192		2860213.423279137			2631135.236509192		2631135.236509192			2631135.236509192		2762691.9983346513		
+Part 2:LEA summary																																																																	
+	LEA payment rate per HA																																																																
+Parcel	Year 0	Year 1	Year 2	Year 3	Year 4	Year 5	Year 6	Year 7	Year 8	Year 9	Year 10																																																						
+1	50856.7218802728	53399.55797428644	56069.53587300077	59994.40338411083	62994.12355331638	66143.8297309822	65968.74312287077	69267.18027901431	72730.53929296503	66905.45647626689	70250.72930008023																																																						
+2	0	0	0	0	0	0	0	0	0	0	0																																																						
+3	22073.97646678206	23177.675290121166	24336.559054627225	26040.11818845113	27342.124097873686	28709.230302767373	28633.235281377696	30064.897045446578	31568.141897718913	29039.808645812474	30491.799078103104																																																						
+4	0	0	0	0	0	0	0	0	0	0	0																																																						
+## Sheet: Individual items value
+	Individual Land Projects					Hypothetical VGV Index	1.05	1.05	1.07	1.05	1.05	1.07	1.05	1.05	1.07	1.05	1.05				
+							Index Year	Index Year	Revaluation Year	Index Year	Index Year	Revaluation Year	Index Year	Index Year	Revaluation Year	Index Year	Index Year				
+						Year 0	Year 1	Year 2	Year 3	Year 4	Year 5	Year 6	Year 7	Year 8	Year 9	Year 10	Year 11				
+Year Acquired	Property	Ref	Name	Classification	area (ha)	2025-07-01 00:00:00	2026-07-01 00:00:00	2027-07-01 00:00:00	2028-07-01 00:00:00	2029-07-01 00:00:00	2030-07-01 00:00:00	2031-07-01 00:00:00	2032-07-01 00:00:00	2033-07-01 00:00:00	2034-07-01 00:00:00	2035-07-01 00:00:00	2036-07-01 00:00:00				
+n/a	P1	CI.01	Community Centre	C + R	1	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A				
+n/a	P1	RD.01	Road	Transport	3.55	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A				
+n/a	P2	RD.02	Road	Transport	1.4	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A				
+n/a	P3	RD.03	Road	Transport	2.55	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A				
+n/a	P3	LP.01	Local Park	C + R	1	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A				
+Year 4	P4	SR.01	Sports Reserve	C + R	3	705882.3529411765	741176.4705882354	778235.2941176472	832711.7647058825	874347.3529411767	874347.3529411767	874347.3529411767	874347.3529411767	874347.3529411767	874347.3529411767	874347.3529411767	874347.3529411767				
+Year 4	P4	RD.04.01	Road	Transport	2.25	529411.7647058824	555882.3529411765	583676.4705882353	624533.8235294118	655760.5147058824	655760.5147058824	655760.5147058824	655760.5147058824	655760.5147058824	655760.5147058824	655760.5147058824	655760.5147058824				
+Year 7	P4	RD.04.02	Road	Transport	2.25	529411.7647058824	555882.3529411765	583676.4705882353	624533.8235294118	655760.5147058824	688548.5404411765	736746.9382720588	773584.2851856619	773584.2851856619	773584.2851856619	773584.2851856619	773584.2851856619				
+Year 6	P4	LP.02	Local Park	C + R	1	235294.11764705883	247058.82352941178	259411.76470588238	277570.58823529416	291449.11764705885	306021.5735294118	327443.0836764707	327443.0836764707	327443.0836764707	327443.0836764707	327443.0836764707	327443.0836764707				
+					Total LCA	2000000	2100000	2205000	2359350.0000000005	2477317.5000000005	2524677.981617647	2594297.8895955887	2631135.236509192	2631135.236509192	2631135.236509192	2631135.236509192	2631135.236509192				
+		Green Cell indicates year of land vested to CA from parcel owed LCA																			
+		Note that future value of parcel is locked (grey numbers) for future years in accordance with MD																			
+## Sheet: Forecast of development
+Forecasting 																													
+Section 1	Ha per year forecast based on anticipated staging																												
+PSP Property 	Total developable Area	Year 1 	Year 2	Year 3	Year 4	Year 5	Year 6	Year 7	Year 8	Year 9	Year 10	Check																	
+P1	35	4.5	4.5	9.5	4.5	4.5	4.5	1.5	1.5			0																	
+P2	18	3.6	3.6	3.6	3.6	3.6						0																	
+P3	24		4	4	4	9		3				0																	
+P4	44				16	3	3	7	7	2	6	0																	
+TOTAL	121	8.1	12.1	17.1	28.1	20.1	7.5	11.5	8.5	2	6	0																	
+Section 2 	LEA per ha forecast																												
+PSP Property 	Year 0	Year 1 	Year 2	Year 3	Year 4	Year 5	Year 6	Year 7	Year 8	Year 9	Year 10																		
+P1	50856.7218802728	53399.55797428644	56069.53587300077	59994.40338411083	62994.12355331638	66143.8297309822	65968.74312287077	69267.18027901431	72730.53929296503	66905.45647626689	70250.72930008023																		
+P2	0	0	0	0	0	0	0	0	0	0	0																		
+P3	22073.97646678206	23177.675290121166	24336.559054627225	26040.11818845113	27342.124097873686	28709.230302767373	28633.235281377696	30064.897045446578	31568.141897718913	29039.808645812474	30491.799078103104																		
+P4	0	0	0	0	0	0	0	0	0	0	0																		
+Section 3	Income forecast (LEA payments per parcel)																												
+PSP Property 	Year 0	Year 1 	Year 2	Year 3	Year 4	Year 5	Year 6	Year 7	Year 8	Year 9	Year 10																		
+P1		240298.010884289	252312.91142850346	569946.8321490529	283473.5559899237	297647.2337894199	296859.3440529185	103900.77041852147	109095.80893944754	0	0																		
+P2		0	0	0	0	0	0	0	0	0	0																		
+P3		0	97346.2362185089	104160.47275380453	109368.49639149474	258383.07272490635	0	90194.69113633974	0	0	0																		
+P4		0	0	0	0	0	0	0	0	0	0																		
+TOTAL	0	240298.010884289	349659.1476470124	674107.3049028574	392842.05238141847	556030.3065143263	296859.3440529185	194095.46155486122	109095.80893944754	0	0																		
+Section 4	Reimbursements to developers (LCA payments per parcel - collection agency could negotiate delay of payment with developer)																												
+Projects	Year 0	Year 1 	Year 2	Year 3	Year 4	Year 5	Year 6	Year 7	Year 8	Year 9	Year 10																		
+SR.01					874347.3529411767																								
+RD.04.01					655760.5147058824																								
+RD.04.02								773584.2851856619																					
+LP.02							327443.0836764707																						
+TOTAL	0	0	0	0	1530107.8676470593	0	327443.0836764707	773584.2851856619	0	0	0																		
+Section 5	Net Position																												
+	Year 0	Year 1 	Year 2	Year 3	Year 4	Year 5	Year 6	Year 7	Year 8	Year 9	Year 10																		
+Income  	0	240298.010884289	349659.1476470124	674107.3049028574	392842.05238141847	556030.3065143263	296859.3440529185	194095.46155486122	109095.80893944754	0	0																		
+Expenses	0	0	0	0	1530107.8676470593	0	327443.0836764707	773584.2851856619	0	0	0																		
+Summary	0	240298.010884289	589957.1585313014	1264064.4634341588	126798.64816851798	682828.9546828442	652245.215059292	72756.39142849133	181852.20036793887	181852.20036793887	181852.20036793887																		

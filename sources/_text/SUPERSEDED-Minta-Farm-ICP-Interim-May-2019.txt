@@ -1,0 +1,1180 @@
+1    Summary ..................................................................................................................................................... 1
+
+    1.1       Monetary Component ....................................................................................................................... 1
+
+    1.2       Land Component .............................................................................................................................. 1
+
+                          .............................................................................................................................................. 3
+
+    2.1       Document Structure .......................................................................................................................... 3
+
+    2.2       Planning and Environment Act 1987 ................................................................................................. 3
+
+    2.3       Strategic Planning & Justification ...................................................................................................... 4
+
+    2.4       Timeframe & Plan Review Period ..................................................................................................... 4
+
+    2.5       Area to Which this Infrastructure Contribution Plan Applies (ICP Plan Area).................................... 4
+
+3    Monetary Component Project Identification................................................................................................. 6
+
+    3.1       Cost Apportionment & Related Infrastructure Agreements ............................................................... 6
+
+    3.2       Transport Construction Projects ....................................................................................................... 8
+
+    3.3       Community & Recreation Construction Projects ............................................................................. 12
+
+    3.4       Project Staging ............................................................................................................................... 13
+
+4    Public Purpose Land Provision ................................................................................................................. 15
+
+    4.1       Inner and Outer Public Purpose Land ............................................................................................. 15
+
+    4.2       Land Component ............................................................................................................................ 16
+
+5    Contributions & Administration .................................................................................................................. 20
+
+    5.1       Collecting Agency ........................................................................................................................... 20
+
+    5.2       Development Agency ...................................................................................................................... 20
+
+    5.3       Net Developable Area ..................................................................................................................... 20
+
+    5.4       Contribution Land ........................................................................................................................... 20
+
+    5.5       Levy Rates and Classes of Development ....................................................................................... 20
+
+    5.6       Estimated Value of Public Purpose Land ........................................................................................ 21
+
+    5.7       Payment of Contributions................................................................................................................ 21
+
+     5.7.1        Timing of Payment of Monetary Component & Land Equalisation Amounts .............................. 21
+
+     5.7.2        Inner Public Purpose Land ......................................................................................................... 22
+
+    5.8       Payment Of Land Credit Amounts .................................................................................................. 22
+
+    5.9       Development Exempt From Contributions ...................................................................................... 22
+
+     5.9.1        Schools....................................................................................................................................... 22
+
+     5.9.2        Housing ...................................................................................................................................... 23
+
+    5.10      Works in Kind.................................................................................................................................. 23
+      5.10.1        Interim and Temporary Works .................................................................................................... 23
+
+    5.11        Works in Kind Reimbursement ....................................................................................................... 23
+
+    5.12        Funds Administration ...................................................................................................................... 23
+
+    5.13        Annual Indexation of Standard Levy Rates ..................................................................................... 24
+
+    5.14        Annual Indexation of Supplementary Levy Rates ........................................................................... 24
+
+    5.15        Adjustment of Land Credit Land Amounts ...................................................................................... 24
+
+    5.16        Adjustment of Land Equalisation Amounts ..................................................................................... 24
+
+6     Appendix 1 Definitions .............................................................................................................................. 25
+
+7     Appendix 2 Land ....................................................................................................................................... 26
+
+8     Appendix 3 Transport Designs .................................................................................................................. 30
+
+
+
+
+PLANS
+Plan 1: ICP Area and Classes of Development .................................................................................................. 5
+
+Plan 2: Standard and Supplementary Levy Transport Construction Projects ..................................................... 7
+
+Plan 3: Monetary Component Community & Recreation Projects .................................................................... 11
+
+Plan 4: Public Purpose Land Provision ............................................................................................................ 14
+
+Plan 5: Land Budget ......................................................................................................................................... 27
+
+
+
+
+TABLES
+Table 1 Monetary Component ICP Levy Summary ............................................................................................ 1
+Table 2 ICP Land Contribution Percentage ........................................................................................................ 1
+Table 3 Land Credit and Equalisation Amounts ................................................................................................. 2
+Table 4 Development Classes & Areas .............................................................................................................. 4
+Table 5 Standard Levy Transport Construction Projects .................................................................................... 8
+Table 6 Supplementary Levy Transport Construction Projects ........................................................................ 10
+Table 7 Standard Levy Community & Recreation Construction Projects.......................................................... 12
+Table 8 Inner Public Purpose Land .................................................................................................................. 15
+Table 9 Public Purposes Land Summary ......................................................................................................... 17
+Table 10 ICP Land Equalisation Rate .............................................................................................................. 18
+Table 11 Public Purpose Land Credit & Equalisation Amounts ........................................................................ 19
+Table 12 Classes of Development & Standard Levy Rates .............................................................................. 21
+Table 13 Classes of Development & Supplementary Levy Rates .................................................................... 21
+Table 14 Classes of Development & Monetary Component Total Levy Rates ................................................. 21
+Table 15 Indices ............................................................................................................................................... 24
+Table 16 Summary Land Use Budget .............................................................................................................. 28
+Table 17 Parcel Specific Land Use Budget ...................................................................................................... 29
+1     SUMMARY
+
+1.1   MONETARY COMPONENT
+      The following table summarises the monetary component of the infrastructure contribution imposed under this
+      Infrastructure Contributions Plan (ICP) for each class of development.
+
+      The monetary component consists of a:
+      •    standard levy that is calculated by multiplying the net developable area (NDA) by the standard levy rate;
+           and
+      •    supplementary levy that is calculated by multiplying the NDA by the supplementary level rate.
+
+      Details of the infrastructure construction projects that will be funded by the monetary component and their
+      apportionment are provided in Section 3 of this ICP.
+
+      Details of the standard and supplementary levy rates are provided in Section 5 of this ICP.
+
+      Table 1 Monetary Component ICP Levy Summary
+
+          Class of development                  Net developable            Levy rate                 Levy to be paid
+                                                area (hectares)
+
+          STANDARD LEVY
+          Residential                           144.70                     $200,689                  $29,038,749
+          Commercial and Industrial             65.44                      $114,062                  $7,464,651
+          Subtotal                              210.14                                               $36,503,400
+
+          SUPPLEMENTARY LEVY
+          Residential                           144.70                     $113,978                  $16,492,132
+          Commercial and Industrial             65.44                      $113,978                  $7,459,178
+          Subtotal                              210.14                                               $23,951,310
+
+          TOTAL MONETARY COMPONENT
+
+          Residential                           144.70                     $314,667                  $45,530,881
+          Commercial and Industrial             65.44                      $228,040                  $14,923,829
+          Total                                 210.14                                               $60,454,710
+
+      Note: Discrepancy in numbers due to rounding of decimal point. Table 17 takes precedence.
+
+
+1.2   LAND COMPONENT
+      The following table specifies the ICP land contribution percentage for each class of development.
+
+      The ICP land contribution percentage for a class of development is calculated by dividing the total area of public
+      purpose land specified in this ICP that is attributable to that class of development by the total area of the
+      contribution land in the ICP plan area of this ICP in that class of development.
+
+      Details of the public purposes that this land will be used and developed for, is specified in Section 4 of this ICP.
+
+
+      Table 2 ICP Land Contribution Percentage
+
+           Class of development                                              ICP land contribution percentage
+
+          Residential                                                                             14.67%
+
+          Commercial & industrial                                                                 7.73%
+The land component of the infrastructure contribution in relation to a parcel of land in the ICP plan area is:
+•     any inner public purpose land that forms part of the parcel of land; and
+•     any land equalisation amount in relation to the parcel of land.
+
+Table 3 specifies for each parcel of land in the ICP plan area:
+•     the area of inner public purpose land to be provided by the parcel
+•     land credit amount or the land equalisation amount in relation to the parcel; and
+•     outer land attributable to this ICP.
+
+
+Table 3 Land Credit and Equalisation Amounts
+
+                    Inner
+                                                                                          Land equalisation
+                    public          Land credit amount        Land equalisation
+    Parcel ID                                                                             amount ($ per
+                    purpose         (total $)                 amount (total $)
+                                                                                          NDHA)
+                    land (ha)
+         1-E           2.1498                  $4,335                       $0                     $0
+         1-R           0.0000                    $0                     $1,303,374              $426,368
+          2            0.0000                    $0                         $0                     $0
+          3            0.7000                $1,768,238                     $0                     $0
+         4-E           4.9241                $3,164,598                     $0                     $0
+         4-R           13.3044               $13,390,063                    $0                     $0
+          5            9.1531                    $0                     $17,023,860             $182,740
+          6            0.0000                    $0                         $0                     $0
+    SUB-TOTAL          30.2314               $18,327,233                $18,327,233                $0
+
+
+    Road Reserve       0.0000                    $0                         $0                     $0
+    Grices Road
+                       0.0000                    $0                         $0                     $0
+    Reserve
+    R2                 0.0000                    $0                         $0                     $0
+    R3                 0.0000                    $0                         $0                     $0
+    R4                 0.0000                    $0                         $0                     $0
+    R5                 0.0000                    $0                         $0                     $0
+    SUB-TOTAL          0.0000                    $0                         $0                     $0
+
+
+    TOTALS PSP
+                       30.2314               $18,327,233                $18,327,233                $0
+    Minta Farm
+      The Minta Farm Infrastructure Contributions Plan (the ‘ICP’) has been prepared by the Victorian Planning
+      Authority (VPA) with the assistance of Casey City Council, service authorities and other stakeholders.
+
+      This ICP has been incorporated in the Casey Planning Scheme for the purposes of imposing infrastructure
+      contributions on development proponents to contribute to the provision of works, services or facilities and the
+      provision of land for public purposes.
+
+      The infrastructure contribution imposed under this ICP in relation to the development of land in the ICP plan
+      area consists of a monetary component and a land component.
+
+      The ICP:
+      •   Establishes the statutory mechanism for development proponents to make a monetary contribution towards
+          the cost of infrastructure projects identified in Minta Farm Precinct Structure Plan (PSP);
+      •   Establishes the statutory mechanism for development proponents to provide land to be used and developed
+          for the public purposes identified in the Minta Farm PSP;
+      •   Lists the individual infrastructure projects identified in the Minta Farm PSP; and
+      •   Has been prepared in accordance with Part 3AB of the Planning and Environment Act 1987, the Ministerial
+          Direction on the Preparation and Content of Infrastructure Contributions Plans and the Infrastructure
+          Contributions Plan Guidelines.
+
+
+2.1   DOCUMENT STRUCTURE
+      This document comprises the sections described below.
+
+
+                                                • Summarises the key details of this ICP
+             Sections 1 & 2                     • Describes the strategic basis for this ICP
+
+                                                • Identifies the monetary component projects to
+                  Section 3                       be contributed to by this ICP
+
+                                                • Identifies the public purpose land provision for
+                  Section 4                       this ICP
+
+                                                • Discusses the administration and
+                  Section 5                       implementation of this ICP
+
+
+          Sections 6 & Above                    • Provides additional detailed information
+
+
+2.2   PLANNING AND ENVIRONMENT ACT 1987
+      This ICP has been prepared in accordance with Part 3AB of the Planning and Environment Act 1987 (the Act),
+      it is consistent with the Minister for Planning’s Ministerial Direction on the Preparation and Content of
+      Infrastructure Contributions Plans made under section 46GJ of the Act.
+
+      In accordance with section 46GG of the Act, this ICP has been incorporated in the Casey Planning Scheme for
+      the purposes of imposing infrastructure contributions to fund the provision of works, services or facilities and the
+      provision of land for public purposes. This ICP is implemented in the Casey Planning Scheme through Schedule
+      2 of Clause 45.11 to the Infrastructure Contributions Overlay and is an incorporated document under Clause
+      72.04.
+2.3   STRATEGIC PLANNING & JUSTIFICATION
+      This ICP has been prepared in conjunction with the Minta Farm PSP.
+
+      The Minta Farm PSP sets out the vision for how land should be developed, illustrates the future urban structure
+      and describes the outcomes to be achieved by the future development. The PSP also identifies the
+      infrastructure projects required as well as providing the rationale and justification for the infrastructure items.
+      The background reports for the PSP provide an overview of the planning process for the Minta Farm ICP area.
+
+      The PSP has confirmed:
+      •   All road, intersection and bridge projects required to service the new community;
+      •   The sporting reserves, local parks, schools and community facilities required to service the new community;
+      •   The public purpose land required for the above; and
+      •   The parcel specific land budget detailing the encumbrances, the Net Developable Area (NDA) and the
+          contribution land.
+
+
+2.4   TIMEFRAME & PLAN REVIEW PERIOD
+      This ICP adopts a long-term outlook for development. It takes into account planned future development in the
+      area. This ICP commences on the date of incorporation into the Casey Planning Scheme. This ICP will end
+      when development within the ICP area is complete, which is projected to be 20 years after gazettal, or when
+      this ICP is removed from the Casey Planning Scheme.
+
+      This ICP is expected to be reviewed and updated every five years (or more frequently if required). This review
+      may result in minor changes or have no changes at all, alternatively this may require an amendment to the
+      Casey Planning Scheme to replace this document with an alternative, revised document.
+
+
+2.5   AREA TO WHICH THIS INFRASTRUCTURE CONTRIBUTION PLAN
+      APPLIES (ICP PLAN AREA)
+      This ICP applies to 240.37 total hectares of land as shown in Plan 1, this is the ICP plan area.
+
+      The classes of development of land in relation to which an infrastructure contribution is to be imposed under
+      this plan are ‘residential’ and ‘commercial and industrial’.
+
+      The classes of development are identified in Plan 1, the Net Developable Area (NDA) and contribution land for
+      each class of development are summarised in Table 4.
+
+      Table 4 Development Classes & Areas
+
+       Class of development                      Net developable area (hectares)           Contribution land
+                                                                                           (hectares)
+       Residential                               144.70                                    167.85
+       Commercial & Industrial                   65.44                                     72.52
+       Total                                     210.14                                    240.37
+
+      Note: Discrepancy in numbers due to rounding of decimal point. Table 17 takes precedence.
+
+
+      The Monetary Component of the infrastructure contribution is payable on the net developable area.
+
+      The Land Component of the infrastructure contribution is calculated based on the contribution land.
+3     MONETARY COMPONENT PROJECT IDENTIFICATION
+      The strategic need for infrastructure included in this ICP has been determined, and been subject to consultation,
+      as part of the preparation of the Minta Farm PSP.
+
+      Items can only be included in an ICP if they are consistent with the Allowable Items listed in the Ministerial
+      Direction on the Preparation and Content of Infrastructure Contributions Plans. Only items listed in this ICP can
+      be contributed to by the monetary component (standard and supplementary levies) of the infrastructure
+      contribution imposed under this ICP. Infrastructure not listed must be funded via other funding mechanisms.
+
+      The monetary component will contribute towards two types of infrastructure projects:
+      •   transport construction
+      •   community and recreation construction.
+
+      (refer to Plans 2, 3 and 5 and Tables 5 to 7).
+
+      Tables 5 to 8 also include staging for when the infrastructure projects are expected to be delivered. The
+      infrastructure projects have been identified as short (S), medium (M) and long (L) term stages:
+
+      Short (S):        0-5 years approx.
+
+      Medium (M):       5-10 years approx.
+
+      Long (L):         10 years and beyond
+
+
+3.1   COST APPORTIONMENT & RELATED INFRASTRUCTURE
+      AGREEMENTS
+      Some projects within this ICP will require some apportionment external to the ICP area. Projects that have
+      external apportionment as well as the source of the balance of funding external to this ICP are identified in
+      Tables 5 to 8.
+            3.2          TRANSPORT CONSTRUCTION PROJECTS
+                         The transport construction projects included in this ICP are based on the transport network depicted in Plan 2,
+                         as identified by the Minta Farm PSP.
+
+                         The transport construction projects contributed to by the monetary component of this ICP are listed in the
+                         following tables.
+
+                         Table 5 describes the transport construction projects contributed to by the standard levy, the expected staging,
+                         the apportionment to this ICP, any external funding source(s) for items not fully apportioned to this ICP, the total
+                         estimated cost and the estimated cost per net developable hectare.
+
+                         Table 5 Standard Levy Transport Construction Projects
+
+                   Project title &                    Internal levy        Apportionment funding                    Cost apportioned   Cost per hectare
+ICP project id                              Staging                                                Estimated cost
+                   description                        apportionment        source                                   to ICP             (NDHA)
+
+Road Projects
+                   North-South
+                   Arterial Road
+                   Construction of 1
+RD 01-04                                    S         100%                 N/A                     $5,634,000       $5,634,000         $26,811
+                   through lanes in
+                   each direction
+                   (Interim treatment)
+                   North-South
+                   Arterial Road
+                   Construction of 1
+                   additional
+RD-01                                       S-M       100%                 N/A                     $917,000         $917,000           $4,364
+                   southbound through
+                   lanes to support IN-
+                   01 and IN-02
+                   (Interim treatment)
+                   North-South
+                   Arterial Road
+                   Construction of 1
+                   additional
+RD-02                                       S-M       100%                 N/A                     $931,000         $931,000           $4,430
+                   southbound through
+                   lanes to support IN-
+                   02 and IN-03
+                   (Interim treatment)
+                   North-South
+                   Arterial Road
+                   Construction of 1
+                   additional
+RD-04                                       S-M       100%                 N/A                     $1,494,000       $1,494,000         $7,110
+                   southbound through
+                   lanes to support IN-
+                   04 and IN-05
+                   (Interim treatment)
+Sub-Total                                                                                          $8,976,000       $8,976,000         $42,715
+Intersection Projects
+                   Intersection:
+                   O'Shea
+                   Road/North-South
+                   Arterial Road
+                   Construction of a
+IN-01                                       S         100%                 N/A                     $6,799,000       $6,799,000         $32,355
+                   primary arterial to
+                   primary arterial T-
+                   signalised
+                   intersection (interim
+                   treatment)
+                   Intersection: North-
+                   South Arterial
+                   Road/ East-West
+                   Connector (Central)
+                                                                           Remaining balance
+                   Construction of an
+                                                                           covered by Minta
+IN-03              arterial to connector    S-M       23.79%                                       $5,170,000       $1,229,883         $5,853
+                                                                           Farm ICP
+                   signalised 4-way
+                                                                           Supplementary levy
+                   intersection (interim
+                   treatment)
+                   (Incorporates RD-03
+                   as shown in PIP)
+                   Intersection: North
+                   South Arterial
+                   Road/ Grices Road
+IN-05              Construction of a        S         100%                 N/A                     $6,789,000       $6,789,000         $32,307
+                   modification to an
+                   existing intersection,
+                   including truncation
+                   of Soldiers Road and
+                     addition of new
+                     northern leg (interim
+                     treatment), to
+                     connect to the north
+                     south arterial road
+Sub-Total                                                                        $18,758,000      $14,817,883      $70,515
+Pedestrian Signals
+                     Pedestrian Signals
+                     Construction of
+                                                         External
+                     pedestrian operated
+PS-01                                        M-L   50%   apportionment 50%       $350,000         $175,000         $833
+                     signals along
+                                                         to Casey City Council
+                     O'Shea Road at
+                     Wordsworth Drive
+                                                                         Total   $28,084,000.00   $23,968,882.60   $114,062.00
+                          Table 6 describes the transport construction projects contributed to by the supplementary levy, the expected
+                          staging, the apportionment to this ICP, any external funding source(s) for items not fully apportioned to this ICP,
+                          the total estimated cost and the estimated cost per net developable hectare.
+
+                          Table 6 Supplementary Levy Transport Construction Projects
+
+                                                                                                                                               Cost per
+                   Project title &                                               Apportionment funding                      Cost apportioned
+ICP project ID                             Staging      Internal apportionment                             Estimated cost                      hectare
+                   description                                                   source                                     to ICP
+                                                                                                                                               (NDHA)
+
+Intersection Projects
+                   Intersection: North-
+                   South Arterial
+                   Road/ East-West
+                   Connector (North)
+IN-02              Construction of a       S-M          100%                     N/A                       $6,575,000       $6,575,000         $31,289
+                   primary arterial to
+                   connector signalised
+                   4-way intersection
+                   (interim treatment).
+                   Intersection: North-
+                   South Arterial
+                   Road/ East-West
+                   Connector (Central)                                           Remaining balance
+IN-03              Construction of an      0            76%                      covered by Minta Farm     $5,170,000       $3,940,117         $18,750
+                   arterial to connector                                         ICP standard levy
+                   signalised 4-way
+                   intersection (interim
+                   treatment)
+                   Intersection: North-
+                   South Arertial
+                   Road/ East-West
+                   Connector (South)
+IN-04              Construction of an      S-M          100%                     N/A                       $4,187,000       $4,187,000         $19,925
+                   arterial to connector
+                   signalised 4-way
+                   intersection (interim
+                   treatment)
+Culvert Projects
+                   Culvert
+                   Construction of
+CU-01              culvert crossing over   S            100%                     N/A                       $572,000         $572,000           $2,722
+                   the constructed
+                   waterway
+Bridge Projects
+                   Bridge
+                                                                                 External apportionment
+                   Construction of a
+                                                                                 50% to the (future)
+BR-01              shared pedestrian       M-L          50%                                                $1,323,525       $661,763           $3,149
+                                                                                 Officer South
+                   and cyclist bridge
+                                                                                 Employment Precinct ICP
+                   over Cardinia Creek
+Early Delivery of Works
+                   Early Delivery of
+                   Works (EDW)
+                   Financing first two
+                   lanes of North-South
+                   Arterial Road from
+EDW-01                                     S            100%                     N/A                       $8,015,430       $8,015,430         $38,143
+                   IN-01 to IN-05
+                   including:
+                   - IN-01 (EDW)
+                   - RD-01-04 (EDW)
+                   - IN-05 (EDW)
+TOTAL                                                                                                      $25,842,955      $23,951,310        $113,978
+             3.3       COMMUNITY & RECREATION CONSTRUCTION PROJECTS
+                       The community and recreation construction projects included in this ICP are consistent with the range of facilities
+                       identified in the Minta Farm PSP.
+
+                       The community and recreation construction projects identified in this ICP are listed in the following table. As
+                       there are no allowable supplementary levy items for community and recreation construction, all listed projects
+                       will be contributed to from the standard levy. The expected staging, the apportionment to this ICP, any external
+                       funding source(s) for items not fully apportioned to this ICP, the total estimated cost and the estimated cost per
+                       hectare are shown in the following table.
+
+                       Under Ministerial Direction on the Preparation and Content of Infrastructure Contributions Plans, the amount of
+                       the total standard levy rate for residential development that may be used for community and recreation
+                       construction must not exceed $86,627 per net developable hectare in the 2018/2019 financial year or the
+                       indexed amount in subsequent financial years.
+
+                       Table 7 Standard Levy Community & Recreation Construction Projects
+
+                                                                                                                      Cost              Cost per
+ICP                                                     Internal              Apportionment
+              Project title & description   Staging                                                 Estimated cost    apportioned to    hectare
+project id                                              apportionment         funding source
+                                                                                                                      precinct          (NDHA)
+Community Building Projects
+              Community Centre
+              Construction of a Level 1
+              multi-purpose community
+              centre (including 3 x
+CI-01         kindergartens, community      S-M         100%                  N/A                   $7,606,000        $7,606,000        $52,566
+              rooms and additional
+              facilities to cater for
+              childcare and maternal
+              child health)
+Open Space Projects
+              Sports Reserve
+              Construction of a local
+              sports reserve (comprising
+              2× cricket ovals with 3×
+SR-01         soccer fields overlaid, 2×    S-M         100%                  N/A                   $13,108,000       $13,108,000       $90,590
+              netball courts, 1×
+              cricket/soccer/netball
+              pavilion, car parking and
+              basic landscaping)
+                                                                                           Total:   $20,714,000       $20,714,000       $143,156
+                                                                            Total capped community and recreation levy per hectare:     $86,627
+3.4   PROJECT STAGING
+      The expected staging of each infrastructure construction item is set out in Tables 5 to 7 and is based on
+      information available at the time that the ICP was prepared. The Collecting and Development Agencies will
+      monitor and assess the required timing for infrastructure projects and have regard to strategic resource plans,
+      the development of the PSP and areas external to the ICP.
+
+      The Collecting and Development Agencies may consider alternative staging where:
+      •   Infrastructure is to be constructed / provided by development proponents as works in kind, as agreed by
+          the Collecting Agency;
+      •   Transport network priorities require the delivery of works or provision of public purpose land to facilitate
+          broader road network connections; and
+      •   Community needs determine a change to the delivery of works or provision of public purpose land for
+          community facilities or open space.
+
+      All items in this ICP will be provided as soon as is practicable and as soon as sufficient contributions are
+      available, consistent with this ICP and acknowledging the Development Agency’s capacity to provide the
+      balance of funds not collected by this ICP.
+4     PUBLIC PURPOSE LAND PROVISION
+      The public purpose land included in this ICP has been determined, and been subject to consultation, as part of
+      the preparation of the Minta Farm PSP.
+
+      Public purpose land specified in an ICP may only be used or developed for an allowable public purpose specified
+      in Annexure 1 to the Ministerial Direction on the Preparation and Content of Infrastructure Contributions Plans.
+      Public purpose land may be:
+      •   inner public purpose land (IPPL) - land within the ICP plan area that is specified in the ICP as land to be
+          set aside for public purposes; or
+      •   outer public purpose land (OPPL) - land outside of the ICP plan area that is specified in the ICP as land to
+          be acquired for public purposes.
+
+      Only items listed in this ICP can be provided for by the land component of this ICP. Public purpose land not
+      listed must be funded via other funding mechanisms.
+
+
+4.1   INNER AND OUTER PUBLIC PURPOSE LAND
+      Plan 5 shows the location of public purposes land (both inner and outer) as well as the type of allowable public
+      purposes for which it may be used and developed.
+
+      Table 8 specifies for each public purpose land (both inner and outer) the type of allowable public purposes for
+      which if may be used and developed, the area and the expected staging. The staging for public purposes land
+      is the same as the monetary component specified in section 3.
+
+      The IPPL forming part of each parcel of land is specified in Table 11.
+
+      Table 8 Inner public purpose land
+
+       IPPL ID                  Infrastructure Project Description        IPPL area (ha)      Staging
+       Transport (Inner Public Purpose land)
+                                North-South Arterial Road
+                                Provision of land for a 6-lane arterial
+       RD-01                                                              0.47                S
+                                41 m wide road reserve (ultimate
+                                treatment)
+                                North-South Arterial Road
+                                Provision of land for a 6-lane arterial
+       RD-02                                                              0.94                S
+                                41 m wide road reserve (ultimate
+                                treatment)
+                                North-South Arterial Road
+                                Provision of land for a 6-lane arterial
+       RD-04                                                              1.11                S
+                                41 m wide road reserve (ultimate
+                                treatment)
+                                Intersection: O'Shea Road/North-
+                                South Arterial Road
+       IN-01                    Provision of land within the Minta        0.56                S
+                                Farm ICP area for an intersection
+                                (ultimate treatment)
+                                Intersection: North-South Arterial
+                                Road/ East-West Connector
+       IN-02                    (North)                                   3.33                S-M
+                                Provision of land for an intersection
+                                (ultimate treatment)
+                                Intersection: North-South Arterial
+                                Road/ East-West Connector
+       IN-03                    (Central)                                 1.67                S-M
+                                Provision of land for an intersection
+                                (ultimate treatment)
+                                Intersection: North-South Arterial
+                                Road/ East-West Connector
+       IN-04                    (South)                                   2.12                S-M
+                                Provision of land for an intersection
+                                (ultimate treatment)
+                                Intersection: North South Arterial
+       IN-05                    Road/ Grices Road                         0.75                S
+                                Provision of land within the Minta
+                             Farm ICP area for an intersection
+                             (ultimate treatment)
+               Sub-Total                                             10.94
+ Community & Recreation (Inner Public Purpose Land)
+                             Community Centre
+ CI-01                                                               1.20               S-M
+                             Provision of land
+               Sub-Total                                             1.20
+ Open Space (Inner Public Purpose Land)
+                             Sports Reserve
+ SR-01                       Provision of land for a future sports   9.00               S-M
+                             reserve
+                             Local Park
+ LP-01                                                               0.70               M-L
+                             Purchase of land
+                             Local Park
+ LP-02                                                               0.70               M-L
+                             Purchase of land
+                             Local Park
+ LP-03                                                               0.70               M-L
+                             Purchase of land
+                             Local Park
+ LP-04                                                               1.71               M-L
+                             Purchase of land
+                             Local Park
+ LP-05                                                               0.90               M-L
+                             Purchase of land
+                             Local Park
+ LP-06                                                               1.00               S-M
+                             Purchase of land
+                             Local Park
+ LP-07                                                               2.52               S-M
+                             Purchase of land
+                             Local Park
+ LP-08                                                               0.80               S-M
+                             Purchase of land
+                             Urban Plaza
+ UP-01                                                               0.06               M-L
+                             Purchase of land
+                    Sub-Total                                        18.09
+                           Total                                     30.23
+
+
+Public Open Space Contributions
+
+The overall open space contribution for this ICP is identified in Land Budget at Table 16 and Table 17. This ICP
+provides for the provision of public purpose land for local sports reserves and local parks. The community and
+recreation levy of the monetary component contributes towards the construction of local sports reserves. The
+construction of local parks is considered developer works and separate from this ICP.
+
+
+4.2       LAND COMPONENT
+The following table summarises for each class of development specified in this ICP:
+•   The total area of contribution land
+•   The total area of transport inner public purpose land
+•   The total area of community and recreation inner public purpose land
+•   The total area of inner public purpose land
+•   The total area of outer public purpose land
+•   The ICP land contribution percentage.
+                   Table 9 Public Purposes Land Summary
+
+
+
+                                                           Community And
+                 Total         Class of       Transport                      Total Inner      Total Outer      Total
+                                                           Recreation &                                                     Total ICP
+Class of         Contributio   Developmen     Public                         Public           Public           Public
+                                                           Open Space                                                       Contribution
+Development      n Land        t Proportion   Purposes                       Purposes         Purposes         Purposes
+                                                           Public Purposes                                                  Percentage
+                 (Ha)          of Precinct    Land (Ha)                      Land (Ha)        Land (Ha)        Land (Ha)
+                                                           Land (Ha)
+Residential
+                   167.85          70%          7.6398         16.9878           24.6276          0.0000        24.6276        14.67%
+(Ha)
+Commercial
+and Industrial     72.52           30%          3.3006          2.3032           5.6038           0.0000         5.6038        7.73%
+(Ha)
+Total              240.37            -         10.9404         19.2910           30.2314          0.0000        30.2314           -
+
+
+
+
+                   The ICP land contribution percentage for a class of development is calculated by dividing the total area of public
+                   purpose land specified in this ICP that is attributable to that class of development by the total area of the
+                   contribution land in the ICP plan area in that class of development.
+
+                   Where the need for a type of public purposes land is attributable to more than one class of development (for
+                   example, transport public purposes land), each development class share of the public purposes land is equal
+                   to its proportion of the total contribution land.
+
+                   As public purposes land cannot be evenly distributed across all parcels, 6.3068ha (4.8367ha residential and
+                   1.4701ha commercial and industrial) of inner public purpose land identified in Table 9, will be equalised by
+                   parcels that are required to provide less than the ICP land contribution percentage identified in Table 9.
+
+                   Table 10 summarises for each class of development specified in this ICP:
+
+                         •     total amount of IPPL (in hectares) that is provided over the ICP land contribution percentage;
+                         •     the total value of the credits for the IPPL over the ICP land contribution percentage;
+                         •     the total estimated value for any OPPL, the total land equalisation to be paid (IPPL credits plus OPPL
+                               estimated value);
+                         •     the total amount of IPPL that is equal to or less than the ICP land contribution percentage (this is IPPL
+                               (Ha) to be directly provided by each parcel and this land is not entitled to a credit); and
+                         •     the land equalisation rate (total land equalisation value divided by the total IPPL under the ICP land
+                               contribution percentage).
+
+
+                   The land equalisation rate ($ per Ha) is used to determine the land equalisation amount specified in Table 11.
+                   The land equalisation amount is required to paid by parcels which have a land contribution percentage that is
+                   less than the ICP land contribution percentage.
+              Table 10 ICP Land Equalisation Rate
+
+                     Total IPPL
+                     (ha) equal to   Total IPPL (ha)
+                                                         Total IPPL land credit                      Total land
+Class of             or less than    over ICP land                                Total outer land                     Land equalisation
+                                                         amount (for ‘over’                          equalisation to
+development          ICP land        contribution                                 estimated value                      rate ($ per Ha)
+                                                         land)                                       be paid
+                     contribution    percentage
+                     percentage
+Residential (Ha)        18.32              4.84             $15,158,300.85             $0.00         $15,158,300.85
+
+Commercial and                                                                                                          $2,905,971.94
+                         5.60              1.47              $3,168,932.55             $0.00         $3,168,932.55
+Industrial (Ha)
+
+Total                                             6.31      $18,327,233.40             $0.00         $18,327,233.40            -
+                        23.92
+
+              Note: Discrepancy in numbers due to rounding of decimal point. Table 17 takes precedence.
+
+              Table 11 specifies for each parcel of land in the ICP plan area:
+               •   the area of IPPL forming part of the parcel
+               •   the type of public purpose for which that IPPL may be used and developed
+               •   the parcel contribution percentage
+               •   the number of hectares that the parcel contribution percentage is above (land credit) or below (land
+                   equalisation) the ICP land contribution percentage
+               •   a land credit amount or land equalisation amount
+               •   the land equalisation amount expressed as a rate per net developable hectares in the parcel.
+Table 11 Public Purpose Land Credit & Equalisation Amounts
+5     CONTRIBUTIONS & ADMINISTRATION
+
+5.1   COLLECTING AGENCY
+      Casey City Council is the collecting agency for the purposes of Part 3AB of the Planning and Environment Act
+      1987 (the Act) and this ICP. The monetary component and any land equalisation amount of an infrastructure
+      contribution imposed under this ICP must be paid to the collecting agency. As the collecting agency, Casey City
+      Council is responsible for the administration and enforcement of this ICP, including the payment of land credit
+      amounts, in accordance with Part 3AB of the Act.
+
+
+5.2   DEVELOPMENT AGENCY
+      Casey City Council is the development agency for the purposes of Part 3AB of the Act and this ICP. The
+      development agency is responsible provision of the infrastructure projects and acquisition of outer public
+      purpose land identified in this ICP. As the development agency, Casey City Council is also responsible for the
+      proper administration of this ICP in accordance with Part 3AB of the Act.
+
+
+5.3   NET DEVELOPABLE AREA
+      The monetary component of Metropolitan Greenfield Growth Area ICPs are payable on the Net Developable
+      Area (NDA) of land on any given development site (NDA is defined in Appendix 1 Definitions).
+
+      To align with the classes of development specified in this ICP, the NDA is divided into:
+      •   Net Developable Area Residential (NDA-R) – the NDA for the residential class of development
+      •   Net Developable Area Employment (NDA-E) – the NDA for the commercial and industrial class of
+          development.
+
+      The NDA for this ICP has been calculated in Table 16 and Table 17. Table 16 is the summary land use
+      budget which summarises the land requirements and net developable area for the ICP plan area as a whole.
+      Table 17 is the parcel specific land use budget which specifies the net developable area and land requirements
+      for each parcel of land in the ICP plan area.
+
+      For the purposes of this ICP, the number of net developable hectares will only change if the Collecting Agency
+      agrees to a variation to the parcel specific land budget and associated tables in the PSP and ICP.
+
+
+5.4   CONTRIBUTION LAND
+      The land component of the infrastructure contribution is calculated based on the contribution land.
+
+      The contribution land specified in this ICP is the land in the ICP plan area in respect of which an infrastructure
+      contribution is to be imposed under this plan if any of that land is developed. It excludes encumbered land, land
+      already used or developed for a public purpose and land that is exempt from paying an infrastructure contribution
+      under the Ministerial Direction on the Preparation and Content of Infrastructure Contributions Plans. It includes
+      the Net Developable Area and Inner Public Purpose Land.
+
+      The contribution land in the ICP plan area is specified in Table 16 and Table 17.
+
+
+5.5   LEVY RATES AND CLASSES OF DEVELOPMENT
+      Annexure 1 to the Ministerial Direction on the Preparation and Content of Infrastructure Contributions Plans
+      specifies standard levy rates for two classes development for Metropolitan Greenfield Growth Areas –
+      ‘residential development’ and ‘commercial and industrial development’
+
+      Table 12 specifies the standard levy rate for each class of development.
+      •   the classes of development
+      •   the standard levy rate that applies to each class of development
+        Table 12 Classes of Development & Standard Levy Rates
+
+         Class of development         Transport           Community & recreation construction     Total standard levy rate
+                                      construction
+         Residential                  $114,062            $86,627                                 $200,689
+         Commercial and               $114,062            $0                                      $114,062
+         Industrial
+
+        Table 13 specifies the supplementary levy rate for each class of development.
+
+        Table 13 Classes of Development & Supplementary Levy Rates
+
+         Class of development          Transport            Community & recreation construction        Total supplementary
+                                       construction                                                    levy rates
+         Residential                   $113,978             $0                                         $113,978
+         Commercial and Industrial     $113,978             $0                                         $113,978
+
+        The total levy rates (standard and supplementary) for the classes of development are specified in Table 14.
+
+        Table 14 Classes of Development & Monetary Component Total Levy Rates
+
+         Class of development            Transport               Community & recreation construction         Total levy rates
+                                         construction
+         Residential                     $228,040                $86,627                                     $314,667
+         Commercial and Industrial       $228,040                $0                                          $228,040
+
+
+
+5.6     ESTIMATED VALUE OF PUBLIC PURPOSE LAND
+        A land credit amount specified in this ICP is based on the estimated value of the inner public purpose land in
+        that parcel of land determined in accordance with Part 3AB of the Act and the Ministerial Direction on the
+        Preparation and Content of Infrastructure Contributions Plans and the Infrastructure Contributions Plan
+        Guidelines (Ministerial Direction).
+
+        The component of a land equalisation amount specified in this ICP that relates to any outer public purpose land
+        is based on the estimated value of the outer public purpose land determined in accordance with the method
+        specified in the Ministerial Direction.
+
+        The component of a land equalisation amount specified in this ICP that relates to any inner public purpose land
+        is based on the estimated value of land credit amounts for inner public purpose land.
+
+        The estimated value of inner public purpose land in a parcel of land is required to be calculated when the parcel
+        contribution percentage of that land is more than the ICP land contribution percentage for the class of
+        development.
+
+        The parcels of land with a land contribution percentage that is more than the ICP public land contribution
+        percentage are identified in Table 11.
+
+
+5.7     PAYMENT OF CONTRIBUTIONS
+
+5.7.1   TIMING OF PAYMENT OF MONETARY COMPONENT & LAND EQUALISATION
+        AMOUNTS
+
+        Subdivision of land
+
+        If the development of the land involves a plan under the Subdivision Act 1988, the monetary component
+        (standard levy and supplementary levy) and any land equalisation amount of an infrastructure contribution must
+        be paid to the Collecting Agency for the land after certification of the relevant plan of subdivision but cannot be
+        required more than 21 days prior to the issue of a Statement of Compliance with respect to that plan.
+
+        If the subdivision is to be developed in stages, only the monetary component and any land equalisation amount
+        for the stage to be developed is required paid to the Collecting Agency within 21 days prior to the issue of a
+        Statement of Compliance for that stage, provided that a Schedule of Infrastructure Contributions is submitted
+        with each stage of the plan of subdivision. The Schedule must show the amount of the infrastructure
+        contributions payable for each stage and the value of the contributions for prior stages to the satisfaction of the
+        Collecting Agency.
+
+        If the Collecting Agency agrees to works in lieu of payment of the monetary component, the land owner must
+        enter into an agreement under Section 173 of the Planning and Environment Act 1987 in respect of the proposed
+        works in lieu.
+
+        Development of land where no subdivision is proposed
+
+        Provided an infrastructure contribution has not yet been collected for development of the subject land, the
+        monetary component and any land equalisation amount of an infrastructure contribution must be paid to the
+        Collecting Agency before the issue of a building permit for each net developable hectare proposed to be
+        developed prior to the commencement of any development (development includes buildings, car park, access
+        ways, landscaping and ancillary components). If the Collecting Agency agrees to works in lieu of payment of
+        the monetary component, the land owner must enter into an agreement, or other suitable arrangement, under
+        Section 173 of the Planning and Environment Act 1987 in respect of the proposed works or provision of land in
+        lieu.
+
+        Where no building permit is required
+
+        Where no building permit is required, the monetary component and any land equalisation amount of an
+        infrastructure contribution must be paid to the Collecting Agency prior to the commencement of any development
+        in accordance with a permit a permit issued under the Act, unless otherwise agreed by the Collecting Agency
+        in a Section 173 agreement.
+
+        If the Collecting Agency agrees to works in lieu of payment of the monetary component, the land owner must
+        enter into an agreement under Section 173 of the Planning and Environment Act 1987 in respect of the proposed
+        works or provision of land in lieu.
+
+5.7.2   INNER PUBLIC PURPOSE LAND
+        If any land component of an infrastructure contribution includes inner public purpose land, that inner public
+        purpose land must be provided in accordance with section 46GV of the Act.
+
+
+5.8     PAYMENT OF LAND CREDIT AMOUNTS
+        A person is entitled to be paid the land credit amount specified in this ICP in relation to a parcel of land if:
+        •   on development of that parcel the person must, in accordance with section 46GV(4) of the Act, provide
+            inner public purpose land forming part of that parcel to the collecting agency or a development agency; and
+        •   the parcel contribution percentage of the parcel of land to be developed is more than the ICP land
+            contribution percentage for that class of development.
+
+        The land credit amount is to be paid by the Collecting Agency to the landowner at a time to be agreed, but not
+        before lodgement of a subdivision plan. This may be formalised in a section 173 agreement if the Collecting
+        Agency and landowner agree.
+
+
+5.9     DEVELOPMENT EXEMPT FROM CONTRIBUTIONS
+        Some classes of development are exempt from infrastructure contributions. Where land is subdivided or
+        developed for an exempt purpose, as listed below, and the land is subsequently used for a purpose other than
+        as one of those exempt uses, the owner of that land must pay to the Collecting Agency infrastructure
+        contributions in accordance with the provisions of this ICP. The levy must be paid within 28 days of the date of
+        the commencement of the construction of any buildings or works for that alternative use.
+
+5.9.1   SCHOOLS
+        The development of land for government and non-government schools are exempt from the requirement to pay
+        an infrastructure contribution levy in accordance with the Ministerial Direction on the Preparation and Content
+        of Infrastructure Contributions Plans.
+5.9.2    HOUSING
+         Any housing to be provided by or on behalf of the Department of Health & Human Services (DHHS) is exempt
+         from the requirement to pay an infrastructure contributions levy in accordance with the Ministerial Direction on
+         the Preparation and Content of Infrastructure Contributions Plans.
+
+
+5.10     WORKS IN KIND
+         Under section 46GX of the Act, the Collecting Agency may accept the provision of works, services or facilities
+         by an applicant in part or full satisfaction of the monetary component of an infrastructure contribution payable
+         by the applicant to the collecting agency (‘works in kind’).
+
+         Before accepting the provision of works in kind, the collecting agency must obtain the agreement of the
+         development agency or agencies specified in this ICP.
+
+         The collecting agency should only accept the provision of works in kind if:
+         •   The works in kind constitute part or all of the delivery of an infrastructure project(s) identified in this ICP, to
+             the satisfaction of the collecting agency and development agency.
+         •   The Collection Agency and Development Agency have agreed that the timing of the works in kind is
+             consistent with priorities in this ICP (alternatively a credit for works may be delayed to align with clearly
+             identified and published development priorities).
+         •   The works in kind are defined and agreed in a section 173 agreement.
+         •   The detailed design of the works in kind is to the satisfaction of the Development Agency and any others
+             identified in permit conditions.
+
+         If the Collecting and Development Agencies accept the provision of works in kind:
+         •   The value of the works in kind will be negotiated between the Collecting Agency and the applicant;
+         •   The monetary component the infrastructure contribution payable by the applicant will be offset by the
+             agreed value of the works in kind; and
+         •   If the agreed value of the works in kind exceeds the monetary component the infrastructure contribution,
+             the applicant will be reimbursed the difference between the two amounts at a time negotiated between
+             applicant and the Collecting and Development Agencies.
+
+         The land component and any land equalisation amounts or land credit amounts cannot be accepted as works
+         in kind.
+
+5.10.1   INTERIM AND TEMPORARY WORKS
+         Interim and temporary works are not considered as eligible for works in kind credits against this ICP, unless
+         agreed to by the Collecting and Development Agencies.
+
+
+5.11     WORKS IN KIND REIMBURSEMENT
+         If the Collecting Agency agrees to accept works under section 46GX of the Act and the value of those works is
+         greater than the monetary component of the infrastructure contribution payable by the applicant, the applicant
+         is entitled to be reimbursed the difference between the two amounts.
+
+         The details of a reimbursement must be negotiated with, and agreed to by the Collecting Agency and
+         Development Agency.
+
+
+5.12     FUNDS ADMINISTRATION
+         The contributions made under this ICP will held by the Collecting Agency until required for the provision of
+         infrastructure projects. Details of contributions received and expenditures will be held by the Collecting Agency
+         in accordance with the provisions of the Local Government Act 1989, the Planning and Environment Act 1987
+         and the Ministerial Reporting Requirements for Infrastructure Contributions Plans.
+The standard levy rates specified in this ICP will be indexed in accordance with the indexation method specified
+in Annexure 1 of the Ministerial Direction on the Preparation and Content of Infrastructure Contributions Plans
+on 1 July each year.
+
+The indices used in the indexation method are set out in Table 15.
+
+Table 15 Indices
+
+    Class of infrastructure                Index
+
+
+    Community and recreation               Australian Bureau of Statistics Producer Price Indexes Non-Residential
+    construction                           Building Construction Index, Victoria (Catalogue 6427.0, Table 17 Output of
+                                           the Construction Industries
+
+                                           Australian Bureau of Statistics Producer Price Indexes Road & Bridge
+    Transport construction
+                                           Construction Index, Victoria (Catalogue 6427.0, Table 17 Output of the
+                                           Construction Industries)
+
+
+
+
+The supplementary monetary component of this ICP will be indexed annually using the following formula:
+
+ASLR = PSLR x A / B
+
+Where:
+•      ASLR is the adjusted standard levy rate being indexed;
+•      PSLR is the standard levy rate for the previous financial year;
+•      A is the average of the index numbers specified for the relevant infrastructure category for the latest full
+       year available; and
+•      B is the average of the producer price index numbers for the previous year available.
+
+The indices used in the indexation method are the same as those in Table 11.
+
+
+
+
+The land credit amounts specified in this ICP will be adjusted in accordance with the method of adjustment
+specified in Annexure 1 of the Ministerial Direction on the Preparation and Content of Infrastructure
+Contributions Plans on 1 July each year.
+
+
+
+
+The land equalisation amounts specified in this ICP will be adjusted in accordance with the method of adjustment
+specified in Annexure 1 of the Ministerial Direction on the Preparation and Content of Infrastructure
+Contributions Plans on 1 July each year.
+6   APPENDIX 1 DEFINITIONS
+
+    Collecting Agency           The Minister, public authority or municipal council specified in an infrastructure
+                                contributions plan as the entity that an infrastructure levy is payable to in
+                                accordance with Part 3AB of the Planning and Environment Act 1987.
+
+    Contribution Land           Is the land in the ICP plan area of an infrastructure contribution plan in respect
+                                of which an infrastructure contribution is to be imposed under the plan if any
+                                of that land is developed.
+
+                                This excludes encumbered land, existing public purposes land and land that
+                                is exempt from paying a contribution. It includes Net Developable Area and
+                                Inner Public Purpose Land
+
+    Development Agency          The Minister, public authority or municipal council specified in an infrastructure
+                                contributions plan as the entity responsible for works, services or facilities and
+                                public purpose land specified in this ICP plan.
+
+    Gross Developable Area      Total precinct area excluding encumbered land, arterial roads and other roads
+                                with four or more lanes.
+
+    Inner Public Purpose Land   Land within the ICP plan area that is specified in this ICP as land to be set
+                                aside for public purposes.
+
+    Net Developable      Area   Land within a precinct available for development. This excludes encumbered
+    (NDA)                       land, arterial roads, railway corridors, schools and community facilities and
+                                public open space. It includes lots, local streets and connector streets. Net
+                                Developable Area may be expressed in terms of hectare units (for example
+                                NDHa).
+
+    Land Budget Table           A table setting out the ICP plan area, contribution land, net developable area
+                                and the classes of development.
+
+    Outer Public Purpose Land   Land outside of the ICP plan area that is specified in this ICP as land to be
+                                acquired for public purposes.
+
+    Works in Kind               Any works, services or facilities accepted by the collecting agency in a part or
+                                full satisfaction of the monetary component of an infrastructure contribution.
+7   APPENDIX 2 LAND
+                  Table 16 Summary Land Use Budget
+                                                                                              PSP 11
+Description                                                                   HECTARES    % OF TOTAL             % OF NDA
+
+
+TOTAL PRECINCT AREA (ha)                                                       284.49
+
+
+Transport
+Arterial Road - Existing Road Reserve                                            1.67       0.59%                  0.80%
+Arterial Road - Public Acquisition Overlay                                       4.75       1.67%                  2.26%
+
+Arterial Road - New / Widening / Intersection Flaring (Public purpose land)     10.94       3.85%                  5.21%
+
+Sub-total Transport                                                             17.36       6.10%                  8.26%
+
+
+Community & Education
+Government School                                                                3.50       1.23%                  1.67%
+Local Community Facility (Public purpose land)                                   1.20       0.42%                  0.57%
+Sub-total Education                                                              4.70       1.65%                  2.24%
+
+
+Open Space
+Uncredited Open Space
+Conservation Reserve                                                            17.29       6.08%                  8.23%
+Waterway and Drainage Reserve                                                   16.34       5.75%                  7.78%
+Crown Land                                                                       0.22       0.08%                  0.11%
+Redundant Road Reserve                                                           0.34       0.12%                  0.16%
+Sub-total Service Open Space                                                    34.20       12.02%                 16.27%
+Credited Open Space
+Local Sports Reserve (Public purpose land)                                       9.00       3.16%                  4.28%
+Local Network Park (Public purpose land)                                         9.03       3.17%                  4.30%
+Urban Plaza (Public purpose land)                                                0.06       0.02%                  0.03%
+Sub-total Credited Open Space                                                   18.09       6.36%                  8.61%
+Total All Open Space                                                            52.29       18.38%                 24.88%
+
+
+TOTAL NET DEVELOPABLE AREA - (NDA) Ha                                          210.14       73.86%
+
+
+NET DEVELOPABLE AREA - RESIDENTIAL (NDAR) Ha                                   144.70       50.86%
+
+
+NET DEVELOPABLE AREA - EMPLOYMENT (NDAE) Ha                                     65.44       23.00%
+
+
+TOTAL CONTRIBUTION LAND - Ha                                                   240.37       84.49%
+
+
+Residential Local Open Space (expressed as % of NDAR)                          Hectares                % of NDAR
+Local Sports Reserve (Public purpose land)                                       9.00                   6.22%
+Local Network Park (Public purpose land)                                         6.73                   4.65%
+Urban Plaza (Public purpose land)                                                0.06                   0.04%
+Sub-total                                                                       15.79                   10.91%
+
+
+Employment Local Open Space (expressed as % of NDAE)                           Hectares                % of NDAE
+Local Network Park (Public purpose land)                                         2.30                   3.52%
+Sub-total                                                                        2.30                   3.52%
+
+
+Total Open Space                                                                18.09                   8.61%
+Table 17 Parcel Specific Land Use Budget
+8   APPENDIX 3 TRANSPORT DESIGNS
+

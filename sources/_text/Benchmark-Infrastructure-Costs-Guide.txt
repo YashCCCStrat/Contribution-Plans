@@ -1,0 +1,722 @@
+Version Control
+
+The VPA’s Benchmark and Infrastructure Costs Guide will be managed as a living document. The VPA
+will update the document annually or as appropriate.
+
+Note that the actual benchmark cost estimates will only be indexed annually, and any major updates
+will occur only when clearly justified.
+
+Where appropriate, it may be necessary to clarify issues immediately between updates. Any such
+clarifications will be issued as addenda via the VPA website: www.vpa.vic.gov.au.
+
+To ensure the most up-to-date version is used, including being aware of any addenda that may be
+issued from time to time, it is strongly recommended that the latest version of this document be obtained
+via the above website before use.
+
+
+
+
+    Version              Issued                                   Comment
+
+     2019.1         15 October 2019     Initial release (VPA Board approved, 9 October 2019)
+
+
+
+
+Benchmark Infrastructure and Costs                                                                      i
+Foreword
+       When land is developed for urban purposes new or upgraded infrastructure is needed to
+       support the new development and its future communities. Infrastructure contributions levied
+       from developers help fund basic and essential infrastructure for new and growing communities,
+       such as first carriageways of and intersections with arterial roads, community centres,
+       kindergartens, maternal and child health facilities, local parks and sporting facilities.
+
+       In 2016 a new contributions regime, the Infrastructure Contributions Plan (ICP), was introduced
+       to streamline the preparation of funding plans for greenfields development. An ICP is a statutory
+       document incorporated in a planning scheme for the purposes of imposing infrastructure
+       contributions to fund the provision of infrastructure and secure land for public purposes.
+
+       Agreeing the scope and cost of infrastructure items included in an ICP, or previously a
+       Development Contributions Plan (DCP), often entailed lengthy disputes over what constituted
+       basic and essential infrastructure and significant variation or irreconcilable differences between
+       cost estimates prepared by different stakeholders. The purpose of the use of benchmark
+       infrastructure scopes and cost estimates is therefore to better inform the ICP production
+       process.
+
+       By calculating benchmark costs for a range of basic and essential infrastructure items, the
+       Benchmark Costings will systematically, consistently and transparently guide the preparation
+       of ICP designs and cost estimates. This approach is consistent with the premise of the new ICP
+       system as outlined in the Infrastructure Contributions Plan Guidelines.
+
+       The VPA commissioned the Benchmark Costings Project (Benchmark Costings Report,
+       Cardno, April 2019) to be used to inform and further simplify and standardise preparation of
+       ICPs. From its first draft, this technical work was refined and improved through consultation
+       with outer growth Councils, industry and consultants. Additional feedback was also received
+       during recent Planning Scheme Amendments regarding how the technical information within
+       the Benchmark Costs Report should be utilised, and this Guide is a result. The use of the
+       Benchmark Costs was endorsed by the VPA Board on 9 October 2019.
+
+       This Benchmark Infrastructure and Costs Guide describes how the VPA will use the benchmark
+       costs in preparing ICPs to assist all stakeholders to productively participate. It is intended to be
+       a live document and will be regularly reviewed, updated and improved.
+
+
+
+
+Benchmark Infrastructure and Costs                                                                       ii
+Benchmark Infrastructure and Costs   iii
+Table of Contents
+
+1. Introduction ........................................................................................................ 1
+2. Precinct Structure Plans and Infrastructure Contributions Plans ................. 1
+3. The Role of Scope and Cost Estimates in ICPs .............................................. 3
+4. Development of BIC ........................................................................................... 3
+5. Consultation ....................................................................................................... 6
+6. Ongoing Maintenance of BIC ............................................................................ 7
+7. Role of BIC ......................................................................................................... 9
+8. Feedback and Comments ............................................................................... 13
+9. Appendices ...................................................................................................... 14
+
+
+         Appendix 1:         Roads and Intersections
+         Appendix 2:         Bridges and Culverts
+         Appendix 3:         Community Infrastructure
+         Appendix 4:         Sports Pavilions
+         Appendix 5:         Sport and Recreation Facilities
+         Appendix 6:         Application to Non-Benchmark Infrastructure
+
+
+
+
+Benchmark Infrastructure and Costs                                                                                     iv
+Benchmark Infrastructure and Costs   v
+1. Introduction
+
+With Victoria expected to grow to 11 million people by 2056, the Victorian Planning Authority (VPA) has
+been tasked to prepare land use plans in Melbourne’s greenfield growth areas, as well as in specific
+urban renewal sites and regional areas across Victoria.
+
+These land use plans, known as Precinct Structure Plans (PSP) in Melbourne’s greenfield growth areas,
+are intended to ensure new development provides access to affordable housing, employment and public
+spaces, while creating great places to live. PSPs also defines the infrastructure needed to support this
+future development.
+
+A PSP is typically accompanied by an Infrastructure Contributions Plan or ICP (previously a
+Development Contributions Plan or DCP) that lists the necessary infrastructure identified by the PSP
+that is the responsibility of the Council and can attract a funding contribution from developers.
+
+Often, resolving the scope and cost of planned infrastructure has been a contentious, expensive and
+time-consuming process. Benchmark infrastructure scopes and cost estimates were prepared to
+simplify and reduce the costs of developing an ICP. The background technical work undertaken is
+presented in the Benchmark Infrastructure Report (Cardno, 11 April 2019).
+
+This Benchmark Infrastructure and Costs (BIC) guide is intended to resolve issues of varying opinion
+being presented by different stakeholders, Councils and consultants regarding the need for and scope
+of infrastructure and the approach to costing it. It is also intended assist moving beyond the approach
+to the cost rates used by consultants and expert witnesses based on proprietary cost information. The
+methodology adopted of collating work across multiple precincts and Councils, from cost estimates
+prepared by different consultants and by doing this in a consistent way in consultation with the key
+stakeholders is intended to more robustly and transparently inform the preparation of ICPs.
+
+In addition, this guide is intended to assist in the identification of appropriate infrastructure to include in
+the ICP and to provide an appropriate approach to estimating the cost of this infrastructure. It should
+be read in conjunctions with the Planning & Environment Act 1987 (the Act), Ministerial Direction on the
+Preparation and Content of Infrastructure Contributions Plans (the Direction) and the Infrastructure
+Contributions Plan Guidelines (the Guidelines).
+
+
+2. Precinct Structure Plans and Infrastructure Contributions Plans
+
+In Melbourne’s greenfield growth areas, PSPs are the key tool for planning land use and infrastructure
+provision. They set the framework for large scale, fully serviced urban development and investment that
+will occur over many years. PSPs are developed taking into account the particular characteristics and
+requirements of each location.
+
+Identifying the Infrastructure needed to support a new community, including transport, community and
+recreation facilities, forms an essential component of PSPs. This infrastructure is provided by various
+parties, including the developer, the State government departments and agencies as well as Councils.
+Importantly, some local infrastructure is critical to the early development of new communities. This
+critical local infrastructure that is the responsibility of the Council is known as “basic and essential” local
+infrastructure. The aim is to ensure that this is delivered in a timely manner during the growth of the
+community and it is therefore largely funded through developer contributions.
+
+
+
+
+Benchmark Infrastructure and Costs                                                                           1
+ICPs set out how developers will contribute to the funding of this basic and essential local infrastructure.
+The infrastructure contribution levy is made up of the standard levy, a supplementary levy, or a
+combination of both. The standard levy is a fixed per net developable hectare monetary levy and is
+used to fund basic and essential infrastructure. The amount of levy paid is dependent on the class of
+development and is set by the Ministerial Direction on the Preparation and Content of Infrastructure
+Contributions Plans (Ministerial Direction).
+
+The overall standard levy must not exceed the amount identified in the Ministerial Direction. In addition
+to this, the amount of the total standard levy rate for residential development that may be used for
+community and recreation construction must not normally exceed the capped amount set in the
+Ministerial Direction. Any of the standard capped levy that is not used for the community and recreation
+construction may be applied to transport infrastructure construction.
+
+In accordance with specific criteria set
+out in the Ministerial Direction, a
+supplementary levy, over and above
+the standard levy, may also be
+charged to provide extra funding for
+specific    transport     infrastructure
+projects that cannot be funded through
+a standard levy.
+
+While     the   Ministerial   Direction
+contemplates cost estimates for each
+allowable item in order to inform a
+whether or not a standard levy ICP will
+apply, it requires cost estimates for
+allowable items in a supplementary
+ICP. The cost estimates are used to
+determine        whether        special
+infrastructure can be accommodated
+within the standard levy or if a
+supplementary levy is justified. Figure
+1 shows how the various regulatory
+and guidance documents relate.
+
+Note that any infrastructure cost
+estimates prepared for an ICP will Figure 1: ICP Regulation & Guidance
+always be based on preliminary
+functional designs and estimates of cost for various component items at the time the ICP is prepared.
+The final designs and actual costs will not be known until the works are finally constructed, often many
+years after the estimates are prepared. In the intervening period other nearby infrastructure may have
+been provided, detailed designs will have been prepared (possibly using changed standards) and the
+final cost influenced by changes in material and labour costs and market conditions. It is not possible
+to address these potential changes at the time the ICP is prepared, although the inclusion of review,
+contingency and indexation provisions will allow reasonable adjustments to be made over time if
+required.
+
+
+
+
+Benchmark Infrastructure and Costs                                                                        2
+3. The Role of Scope and Cost Estimates in ICPs
+
+The approach to funding infrastructure through past Development Contributions Plans (DCP) has
+required quite detailed and individual scope descriptions and bespoke estimates to be developed for
+each infrastructure item in each PSP/DCP area. This:
+
+       added significant time, cost and uncertainty (avoiding this was a key reason to move to the ICP
+        model)
+       often involved lengthy disputes regarding the appropriate infrastructure scope and costs
+       often still resulted in similar functionality, scope and costs estimates across different DCPs.
+
+Key areas of dispute in developing scope and cost estimates are typically:
+
+       the differing views held by stakeholders on the appropriate quality of infrastructure considered
+        ”basic and essential”; and
+       differing, often irreconcilable, advice provided by expert consultants on appropriate cost rates
+        that should be used to prepare estimates, typically based on proprietary and non-transparent
+        cost data.
+
+Difficulty in resolving what is “basic and essential” infrastructure and agreeing the costs has often led
+to uncertainty for all parties and significant disputation through the PSP & DCP review process. A key
+objective of the Benchmark Cost Project was to avoid these disputes wherever possible.
+
+By calculating benchmark costs for a range of ‘basic and essential’ infrastructure items, the BIC aims
+to systematically, consistently and transparently guide ICP cost estimation. This is intended to reduce
+the administrative burden of preparing an ICP and increase consistency and transparency of the ICP
+process for all stakeholders involved.
+
+In recognition of the similar outcomes achieved through individual scope and estimate development
+across DCPs, BIC has been developed so that in most cases the effort, time and cost required to
+develop an ICP would be reduced and better reflect the intent of the ICP system to simplify the
+contributions process. Thus, BIC seeks to document consistent basic and essential infrastructure
+scopes and to use previous cost data provided by a range of consultants to provide a more transparent
+set of benchmark estimates and cost rates for common use.
+
+There will still be circumstances where a benchmark scope and/or cost is not appropriate, requiring a
+bespoke solution. The approach in these circumstances is discussed later.
+
+
+4. Development of BIC
+
+BIC builds on the Benchmark Costs Project. The experienced engineering consultants Cardno were
+engaged to undertake the technical work.
+
+The Benchmark Costs Project collaboratively developed:
+
+       template functional layout plans for a range of benchmark basic and essential infrastructure
+        items providing the interim and ultimate layout as appropriate (noting that the ICP is generally
+        intended to fund interim infrastructure)
+       an itemised cost estimate for each of the functional layout plans
+       verified rates for use in bespoke costing of non-benchmark infrastructure elements.
+
+
+
+Benchmark Infrastructure and Costs                                                                        3
+As noted earlier, the consultative approach taken to do this aimed to bring together different views to
+provide more robust and equitable guidance on infrastructure scoping and costs instead of developing
+bespoke solutions for each ICP based on organisational preferences and inconsistent and proprietary
+costing advice provided by various consultants.
+
+The infrastructure categories investigated were:
+
+        Roads and intersections
+        Bridges and Culverts
+        Community Facilities
+        Sport & Rec Facilities
+        Sports Pavilions
+
+Fundamentally, the project involved the following tasks:
+
+    1.   Review past DCP cost estimates to develop a robust view on construction rates
+    2.   Review past infrastructure scopes and develop up-to-date, basic and essential project scopes
+    3.   Combine the rates and scopes to develop benchmark cost estimates.
+    4.   Develop benchmark rates for costing non-benchmark infrastructure
+    5.   Exploring geographic variances and limitations to the benchmarks
+
+These are fully described in Benchmark Infrastructure Report and summarised below:
+
+Review past DCP cost estimates to develop robust unit rates
+
+A key element of Cardno’s work was to review cost estimates developed for 21 past DCPs. These had
+mostly been tested through the exhibition and review process as part of finalising each DCP.
+
+By analysing cost estimates from a wide range of sources, Cardno were able to bring together rates
+provided by a range of consultants, over a number of years (indexed to a common 1 July 2018 cost
+base) and across the various growth areas to deliver a robust view of the range of costs that might be
+expected.
+
+The approach of working with DCP cost estimates was adopted due to the difficulty in obtaining
+consistent and relevant as-built rates, principally because cost rates provided through tender processes
+are commercially confidential. Where actual costs were available, in many cases the breakdown of
+items did not allow direct comparison with the rates used in DCP estimates or the scope was unclear
+or fundamentally different (e.g. a multi-storey community centre). Some actual cost rates provided by
+stakeholders were compatible with the adopted approach, and these were included in the rate database.
+For a detailed review of the consultation feedback, please see Stakeholder Comments Review -
+Benchmark Infrastructure Costings Project (Cardno,
+2018).
+
+This process provided a database of unit rates for
+the various infrastructure components that could
+then be analysed to provide a probabilistic view of
+unit rates (e.g. most likely, spread) for use in
+developing     benchmark     infrastructure    cost
+estimates.
+
+
+
+
+Benchmark Infrastructure and Costs                                                                    4
+These rates assume normal contractor provision. Delivery items such as supervision fees, traffic control,
+design and environmental management are estimated separately.
+
+Land is not included. Other non-benchmark items are also not included, such as significant utility
+relocation, significant rock excavations and drilling, flora/fauna permits and contamination. Nor do the
+rates take account of savings that may be achievable should the infrastructure eventually be delivered
+through developer works in kind using contractors already on-site.
+
+Review past infrastructure scopes and develop up-to-date, basic and essential project scopes
+
+Through over sixty metropolitan greenfield PSPs prepared by the GAA / MPA / VPA, the evolution of
+infrastructure scopes that are considered “basic and essential” have been refined and often tested
+through Planning Panels.
+
+These past scopes were reviewed and refined and a suite of 43 benchmark infrastructure scope
+descriptions covering typical roads and intersections, bridges and culverts, community facilities, sport
+fields and pavilions have been developed. Where appropriate these addressed design standards and
+guidelines (e.g. Austroads or Australian Children’s Education & Care Quality Authority guidance) and
+were adjusted to address feedback from the consultation. Again, Stakeholder Comments Review -
+Benchmark Infrastructure Costings Project outlines the feedback received through consultation and the
+changes included in the final scopes.
+
+Issues related to the development of the benchmark scopes for each infrastructure category are
+discussed in more detail in the Appendices, which also provide the detailed scopes and estimates as
+follows:
+
+       Appendix 1:      Roads and Intersections
+       Appendix 2:      Bridges and Culverts
+       Appendix 3:      Community Infrastructure
+       Appendix 4:      Sports Pavilions
+       Appendix 5:      Sport and Recreation Facilities
+
+Combining the rates and scopes to develop benchmark cost estimates.
+
+The unit rates database and the benchmark scope quantities were then combined using a Monte-Carlo
+Analysis. This approach samples the possible rates multiple times to test the range of possible values
+to be used in developing a total project estimate. For each simulation, each item cost rate is randomly
+sampled based on the probability curve, multiplied by the quantity for that item and then totalled with
+the other component items to give one
+possible total cost estimate. This was
+repeated 200,000 times, resulting in a
+distribution of total costs, with most likely in
+the middle and less likely on the extremes
+(high or low).
+
+This provides a cost curve such as the one
+at right, from which a cost estimate and the
+probability of that estimate being higher or
+lower than the most likely cost can be
+estimated.
+
+
+
+Benchmark Infrastructure and Costs                                                                     5
+While the most likely cost could be adopted, this would result in the estimated cost being exceeded
+50% of the time (hence it is known as the P50 cost) and could readily lead to an under-funded ICP. To
+address this, a P90 estimate has been adopted as the benchmark local infrastructure cost estimate.
+Adopting the P90 value should see an estimate exceeded only 10% of the time, providing a robust basis
+for determining the ICP levy needed to reliably fund basic and essential infrastructure.
+
+Developing benchmark rates for costing non-benchmark infrastructure
+
+In some cases, there may be a need to develop an estimate for a slightly modified infrastructure scope
+(see Section 7). For instance, it may be appropriate to include an allowance for additional earthworks
+in rolling countryside. If the quantity of extra earthworks can be estimated, a simple adjustment to the
+estimated cost using the earthworks rate can be calculated. However, to do this an estimate of the unit
+rates appropriate for a P90 estimate is required. Cardno “reverse engineered” the cost estimates to
+develop estimates of suitable rates for each item to deliver a P90 cost estimate.
+
+Geographic variances
+
+The issue of potential cost differences related to geographic, topographical or other forms of variances
+from the source data has been raised. The review found that consultants had estimated elements
+across all growth areas using company specific rates with no apparent identification of site-specific
+challenges and features. Therefore, variances were only observed in the form of “company variances”
+and not based on geography.
+
+This is also consistent with the Standard ICP transport and community infrastructure levies being
+identical across all greenfield growth areas.
+
+Limitations to the benchmark costs
+
+BIC have been prepared for use in developing new infrastructure in Melbourne’s greenfields. The use
+in other settings is not supported.
+
+In addition, while the estimates prepared for the benchmark scope infrastructure are considered robust,
+there are situations where these will not be appropriate or will require adjustment. These include:
+
+       where the benchmark scopes will be inappropriate and bespoke design and cost estimates will
+        be required for special projects (e.g. long bridges, multi-storey buildings, significant earthworks)
+
+       where the benchmark estimates will require adjustment to cope with changed quantities (e.g.
+        an extra kindergarten room, more pavement) or specific costs for non-benchmark items within
+        otherwise benchmark scopes (e.g. major services relocation, treating contaminated land)
+
+The particular approaches that are appropriate in these situations are discussed later.
+
+
+5. Consultation
+
+Together with the analysis work undertaken by Cardno, the VPA engaged in stakeholder consultation
+to which the development industry, interface councils and the consulting industry were invited to test
+and refine the outcomes of the Cardno work.
+
+
+
+
+Benchmark Infrastructure and Costs                                                                        6
+Draft information was provided directly and via the VPA website to stakeholders and four workshops
+were held that:
+
+       Presented the methodology
+       Reviewed the findings for transport and community infrastructure (two separate workshops)
+       Considered additional feedback, evidence and suggestions made
+
+In particular, stakeholders were asked to review the benchmark scopes, the calculated rates and, if
+possible, to provide cost data from completed projects. The process and outcomes are reported in
+Stakeholder Comments Review - Benchmark Infrastructure Costings Project (Cardno, 2018).
+
+Other groups such as State agencies and Planning Panels Victoria were separately briefed on the
+approach and draft findings and comments considered in finalising Cardno report.
+
+The consultation led to a range of adjustments being included in the final project results, including:
+
+       Scope adjustments (e.g. disabled car parks moved, approach earthworks included)
+       Rates were reviewed for items (e.g. subgrade improvement)
+       Additional line items/allowances were included (e.g. landscape maintenance, signage, car park
+        lighting, building ESD).
+
+Some construction cost information was provided, however much of it was not directly comparable to
+the greenfields examples being considered. Where the rates were comparable in scope, these were
+included in the cost database. Where total project scopes were considered reasonably comparable, the
+actual costs were mainly less than the estimates derived in this project, however many of the examples
+(e.g. brownfields projects) were not strictly comparable.
+
+
+6. Ongoing Maintenance of BIC
+
+BIC has been prepared to reflect current infrastructure expectations and contemporary costs. However,
+this BIC Guide is considered a “living” document, requiring monitoring & review. Over time it is possible
+that there will be significant changes in infrastructure standards or the cost environment that will require
+BIC to be completely updated. In the absence of such a significant change as a catalyst, the
+appropriateness of the current BIC will be reviewed after 5 years.
+
+BIC will also need managing in the intervening years to account of minor adjustments in benchmark
+scopes and cost inflation/deflation to allow estimates used to develop an ICP to be up to date.
+
+Should accepted standards for particular infrastructure change (for instance through policy or regulatory
+changes), the associated benchmark infrastructure and associated cost will be updated to reflect the
+revised infrastructure standard, and an addendum issued.
+
+Infrastructure costs change continually reflecting the changing costs of materials, labour or construction
+methods, market conditions and competitive tension or regulation (e.g. OH&S requirements). These
+actual changes in real delivery costs are tracked by the Australian Bureau of Statistics, which releases
+quarterly Producer Price updates for Victoria. These are to be used adjust the benchmark costs to
+reflect changes in Producer Prices since July 2018, the common date to which the current BIC was
+indexed. The approach for determining the adjusted cost is outlined in Figure 2 below.
+
+
+
+
+Benchmark Infrastructure and Costs                                                                        7
+  Indexation of Standard Costs
+  For the purposes of adjusting the Standard Local Infrastructure Cost Estimate for a calendar year
+  other than 2018/19, the following formula should be used:
+  CYACE = RYSCE x A/B
+  Where:
+  CYACE is the Current Year Adjusted Cost Estimate
+  RYSCE is the Reference Year Standard Cost Estimate (being for 2018/19)
+  A    is the average of the index numbers specified for the relevant infrastructure category for the latest
+       full year available:
+       a)   each of the September, December and March quarters occurring immediately before the
+            beginning of the financial year in respect of which the rate is being indexed; and
+       b)   the last June quarter in the financial year one year earlier than the financial year in respect of
+            which the standard levy rate is being indexed.
+  B    is the average of the producer price index numbers for the relevant infrastructure category for the
+       2018/19 year (i.e. as at July 2018):
+       a)   each of the September, December and March quarters in the 2017/18 year; and
+       b)   the last June quarter in the 2016/17 year.
+  Example
+  In the case that the reference periods are the quarterly periods of a financial year, the variables "A" and "B" for the
+  indexation of the standard levy rate for the financial year beginning on 1 July 2019 are as follows:
+  A is the average of the relevant index numbers for the June quarter in the financial year beginning on 1 July 2018
+  and the September, December and March quarters in the financial year beginning on 1 July 2017;
+  B is the average of the relevant index numbers for the June quarter in the financial year beginning on 1 July 2017
+  and the September, December and March quarters in the financial year beginning on 1 July 2016.
+  From ABS 6427.0 - Producer Price Indexes, Australia, Jun 2019 (Series A2333706A) Road and Bridge
+  Construction in Victoria, the following indexes apply for adjusting the costs for roads and intersections to 2019/20.
+
+
+
+
+  Thus, for a $4.0m Reference Year Standard Cost Estimate for an intersection, the Current Year
+  Adjusted Cost Estimate for 2019/20 would be:
+  CYACE = $4,000,000 x 119.4/109.6 = $4,357,664
+
+
+  Figure 2: Indexation of Benchmark Costs
+
+
+
+
+This approach is intended to be consistent with the Ministerial Direction, which sets out the approach
+to use the ABS Producer Price Index relevant to the infrastructure category to adjust the Standard and
+Supplementary levies for each financial year.
+
+
+
+Benchmark Infrastructure and Costs                                                                                          8
+7. Role of BIC
+
+ICP Development
+
+The Infrastructure Contributions Plan Guidelines set out the operational approach to developing the
+monetary component of Infrastructure Contributions Plans and must be read in conjunction with the Act
+and Direction.
+
+Broadly, the key requirements are:
+
+Strategic Justification:   Identification and strategic justification for infrastructure to be included in the
+                           ICP is done through preparation of the relevant PSP. An ICP is a funding
+                           mechanism for infrastructure, it does not justify the infrastructure on its own.
+
+Allowable Items:           All infrastructure included in an ICP must be consistent with the relevant
+                           allowable items list in the Ministerial Direction. Any items not on the list must
+                           not be included in the ICP.
+
+Basic & Essential:         The PSP process should demonstrate that infrastructure included in an ICP
+                           is necessary to create a liveable, sustainable and affordable community
+                           (essential) and fit for purpose, but not result in any unnecessary costs or
+                           overly impact affordability (basic). This is usually done through the PSP.
+
+Apportionment:             Apportionment calculates what proportion of an infrastructure item should be
+                           funded by an ICP. In most cases it will be 100%, however in some cases the
+                           demand for new infrastructure is not wholly attributable to development in the
+                           ICP area and funding should be shared between the ICP and other sources
+                           such as an adjoining ICP.
+
+Supplementary:             For a supplementary levy to be included in an ICP requires the infrastructure
+                           to be listed as eligible in the Direction and that there is insufficient capacity
+                           within the standard levy to fund all or part of any supplementary allowable
+                           items.
+
+Costing:                   For the identified infrastructure, estimates of cost are required to test whether
+                           potential supplementary levy items (if any) can be contained within the
+                           standard levy or whether a supplementary levy is justified.
+
+Broadly, BIC is intended to assist in:
+
+       Ensuring the scope of standard infrastructure is basic & essential
+       Assessing overall whether a supplementary levy is justified
+       Assessing the cost of standard and supplementary items, and the Supplementary ICP Levy
+        should one be justified.
+
+Basic and essential Infrastructure
+
+It is expected that in most cases the infrastructure strategically justified though negotiations with
+relevant stakeholders and Council as part of the PSP process will broadly conform with the benchmark
+
+
+
+
+Benchmark Infrastructure and Costs                                                                          9
+infrastructure designs. However, agreeing to modifications to the scope to deal with particular local
+needs or conditions may be required, while special bespoke infrastructure may occasionally be justified.
+
+The adoption of a non-benchmark scope requires a clear justification based on some atypical
+circumstance. Examples might include:
+
+       a benchmark item with greater or reduced scope (e.g. a benchmark intersection with extra
+        pavement area due to an extra right turn lane)
+       a benchmark item with extra special works (e.g. benchmark intersection with additional
+        services protection works)
+       a non-benchmark design variation or a completely non-benchmark item (e.g. a non-
+        benchmark grade-separated intersection).
+
+Note that BIC includes contingencies (15 or 20% depending on the infrastructure type) in accordance
+with the Ministerial Direction. It is not appropriate to automatically seek agreement to a special scope
+just because of minor variations from the benchmark. The contingencies are available to cope with
+minor changes in scope that may only marginally affect the cost estimates and the BIC should be
+considered adequate in these circumstances. Significant deviations from the BIC, in terms of scope of
+works or cost, would require a higher level of justification by the proponent.
+
+Where a scope is agreed to be non-benchmark, the proposed change needs to be clearly documented
+as background material for the ICP, either through adjustments to the benchmark Scope Diagrams (e.g.
+adding a left turn slip lane, earthworks adjusted for crossfall) or through annotation (e.g. “relocate gas
+main”, “synthetic turf”).
+
+In some circumstances, new bespoke drawings for infrastructure may be required if the infrastructure
+is clearly non-benchmark. An obvious example is long-span bridges. This non-benchmark infrastructure
+is often likely to be a supplementary item. While bespoke designs may be considered for community
+and recreation infrastructure, the cap and the inability to seek a supplementary levy for community and
+recreation infrastructure may make this an unproductive effort.
+
+
+
+
+In all cases the adjusted/new Scope Diagrams must be developed and socialised through the
+appropriate stakeholders and Council to obtain agreement before new or adjusted cost estimates are
+prepared.
+
+Refining Costs
+
+It is anticipated that BIC, within its benchmark form or through making use of the unit rates to adjust the
+benchmark cost estimates, will allow most estimates to be prepared consistently, quickly and at low
+cost.
+
+
+
+
+Benchmark Infrastructure and Costs                                                                      10
+As noted above, in some cases an adjusted or non-benchmark scope may be agreed, such that the
+benchmark cost estimate is no longer appropriate and requires adjustment or replacement. The basis
+for estimating in most cases will either be the benchmark cost estimate itself, with appropriate
+adjustments where required, or a new or adjusted estimate based on the benchmark rates.
+Occasionally, a new detailed scope and bespoke cost estimate will be required.
+
+To assist in describing the options, the following definitions have been adopted:
+
+   Benchmark Item: The infrastructure item relies on the benchmark design and therefore the
+   benchmark cost can be directly utilised without adjustment. Benchmark is considered ‘off the shelf’
+   or ‘usual practice’.
+
+   Hybrid Item: The design is based on or similar to the benchmark infrastructure, but some
+   variations are required through either:
+
+       benchmark rates can be used with adjusted quantities to account for minor scope differences
+        (e.g. extra earthworks)
+       additional line items are added for non-benchmark components (e.g. a major services
+        relocation)
+       a more significant design change but using benchmark materials, and benchmark unit rates
+        can reasonably be applied to develop an estimate (e.g. a new intersection design)
+
+   Bespoke Item: The infrastructure item is significantly different from benchmark design and used
+   non-benchmark materials or construction processes. The P90 unit rates can be used where
+   available for costing line items, but bespoke items will typically may require bespoke design and
+   cost estimate to be prepared (e.g. grade separation of a road).
+
+More fulsome examples are provided in Appendix 6.
+
+In all cases, the estimate should be documented based on the VPA’s standard costing template used
+for the benchmark cost estimates with additional breakdown or line items where required.
+
+The level of extra costing effort should have regard to the purpose. For example, for a supplementary
+item a new or adjusted cost estimate should be prepared in some detail to allow stakeholders to
+understand the assumptions involved, and any changes from the benchmark scope and cost that may
+be required. Alternatively, for a straightforward test to see whether the standard levy will be sufficient
+to cover an additional supplementary item, it may be sufficient to test a reasonable percentage increase
+estimate in the first instance, and only if such a test is marginal to proceed to a more detailed
+assessment. Similarly, if a community centre with increased scope is strategically justified but
+developing a full bespoke / hybrid costing will make no difference to the capped community
+infrastructure levy, the effort to prepare a new design and estimate may not be of value.
+
+
+
+In all cases the assumptions and the source of a cost estimate should be documented to support
+decision making and the exhibition process if a supplementary item is required. Examples are provided
+in Table 1.
+
+
+
+
+Benchmark Infrastructure and Costs                                                                     11
+Table 1: Example summary source documentation
+
+Indexing Costs
+
+As demonstrated in Table , any costings base on BIC will need to be indexed to the appropriate year
+based on the indexing method described above.
+
+
+
+Benchmark Infrastructure and Costs                                                              12
+New bespoke costings will likely be prepared by cost consultants using then current rates and therefore
+will not need indexing.
+
+Works in Kind
+
+The scopes and cost estimates included in DCPs have often been used in the past as the basis for
+developing works in kind agreements between developers and council for the delivery of infrastructure,
+especially roads, intersections and sports reserves. The actual approach adopted in developing each
+works in kind agreement varies between councils.
+
+Given the process to resolve the ICP scopes and costs outlined above, there is no reason that BIC, or
+the agreed adjusted scopes and costs cannot be used to develop ICP works in kind agreements in
+exactly the same way as DCP scopes and costs have been used in the past.
+
+8. Feedback and Comments
+
+The VPA is open to receiving feedback or comments on the basis or application of BIC at any time.
+Comments can be made via email to infrastructure@vpa.vic.gov.au.
+
+
+
+
+Benchmark Infrastructure and Costs                                                                  13
+9. Appendices
+
+Appendix 1:   Roads and Intersections
+
+Appendix 2:   Bridges and Culverts
+
+Appendix 3:   Community Infrastructure
+
+Appendix 4:   Sports Pavilions
+
+Appendix 5:   Sport and Recreation Facilities
+
+Appendix 6:   Application to Non-Benchmark Infrastructure
+
+
+
+
+Benchmark Infrastructure and Costs                          14
+
